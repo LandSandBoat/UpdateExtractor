@@ -16,42 +16,51 @@ def get_max_str(lst):
 
 def sanitize_string(str):
     # Strange unicode non-angle brackets
-    str = str.replace("≺", "<")
-    str = str.replace("≻", ">")
+    str = str.replace("\u227a", "<") # Less than
+    str = str.replace("\u227b", ">") # More than
+    str = str.replace("\uff41", "") # Wide a
+    str = str.replace("\u03a9", "") # Omega
 
     # Substitutions 1
-    str = str.replace("<Numeric Parameter 0>", "<number>")
-    str = str.replace("<Numeric Parameter 1>", "<number>")
-    str = str.replace("<Numeric Parameter 2>", "<number>")
-    str = str.replace("<Numeric Parameter 3>", "<number>")
-    str = str.replace("<Possible Special Code: 01>", "<item>")
+    str = re.sub(r"<Numeric Parameter [0-9A-F]+>", "<number>", str)
+    #str = re.sub(r"<Player/Chocobo Parameter [0-9A-F]+>", "<player>", str)
+    str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>3", "<keyitem>")
+    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>6", "<item>")
+    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>8", "<item>")
+    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>#", "<item>")
+    str = str.replace("<Unknown Parameter (Type: 80) 1><item>", "<keyitem>")
 
-    # Removals
-    str = str.replace("<Prompt>", "")
-    str = str.replace("<BAD CHAR: 80>.", ". ")
-    str = str.replace("<BAD CHAR: 8280>", "")
-    str = str.replace("<BAD CHAR: 80>", "")
-    str = str.replace("<BAD CHAR: EF>", "")
+    str = str.replace("<Possible Special Code: 18><Possible Special Code: 01>", "<player>")
+    str = str.replace("<Possible Special Code: 18><Possible Special Code: 02>", "<player>")
+    str = str.replace("<Possible Special Code: 18><Possible Special Code: 03>", "<player>")
+    str = str.replace("<Possible Special Code: 18><Possible Special Code: 04>", "<player>")
+    str = str.replace("<Possible Special Code: 18><Possible Special Code: 05>", "<player>")
+    str = str.replace("<Selection Dialog>", "")
+
+    # Specific Removals
+    str = str.replace("<Multiple Choice (Player Gender)>", "")
     str = str.replace("<Possible Special Code: 00>", "")
-    str = str.replace("<Possible Special Code: 05>#", "")
-    str = str.replace("<Possible Special Code: 05>%", "")
+    str = str.replace("<Speaker Name>)", "")
+    str = str.replace("<Possible Special Code: 1F>{", "")
     str = str.replace("<Possible Special Code: 1F>y", "")
     str = str.replace("<Possible Special Code: 1F>", "")
-    str = str.replace("<Unknown Parameter (Type: 80) 1>", "")
-    str = str.replace("<Singular/Plural Choice (Parameter 0)>", "")
-    str = str.replace("<Singular/Plural Choice (Parameter 1)>", "")
-    str = str.replace("<Multiple Choice (Parameter 0)>", "")
-    str = str.replace("<Multiple Choice (Parameter 1)>", "")
-    str = str.replace("<Multiple Choice (Parameter 2)>", "")
-    str = str.replace("<Multiple Choice (Parameter 23)>", "")
-    str = str.replace("<Multiple Choice (Parameter 33)>", "")
-    str = str.replace("<Unknown Parameter (Type: 34) 1>", "")
-    str = str.replace("<Possible Special Code: 05>$", "")
-    str = str.replace("<Possible Special Code: 05>8", "")
+    str = str.replace("<Selection Dialog>", "")
+
+    str = re.sub(r"<BAD CHAR: [0-9A-F]+>", "", str)
+    str = re.sub(r"<Singular/Plural Choice \(Parameter [0-9A-F]+\)>", "", str)
+    str = re.sub(r"<Multiple Choice \(Parameter [0-9A-F]+\)>", "", str)
+    str = re.sub(r"<Unknown Parameter \(Type: [0-9A-F]+\) [0-9A-F]+>", "", str)
 
     # Substitutions 2
-    str = str.replace("<item><Possible Special Code: 05>3", "<keyitem>")
-    str = str.replace("<item><item><item>", "<item>")
+    #str = str.replace("<Possible Special Code: 05>8", "<item>")
+    #str = str.replace("<Possible Special Code: 05>$", "<item>")
+    #str = str.replace("<Possible Special Code: 05>#", "<item>")
+    #str = str.replace("<Possible Special Code: 05>%", "<item>")
+    #str = str.replace("<Possible Special Code: 05>6", "<item>")
+
+    # Generic Removals
+    str = str.replace("<Prompt>", "")
+    #str = re.sub(r"<Possible Special Code: [0-9A-F]+>", "", str)
 
     # ASCII-ify
     str = str.encode("ascii", "ignore").decode()
@@ -61,12 +70,10 @@ def sanitize_string(str):
     str = str.strip()
 
     # Fix-ups
-    # TODO: Replace with regex: 2 chars on each side of a period
-    str = str.replace("<number> points!You", "<number> points! You")
-    str = str.replace("<item>. ..Davoi", "<item>...Davoi")
-    str = str.replace("You retrieve <item>  from the porter moogle's care.", "You retrieve <item> from the porter moogle's care.")
-    str = str.replace("<item><Player Name>!Objective:", "<assault>! Objective:")
-    str = str.replace("X/Y/Z]-<number>", "X/Y/Z]-#")
+    # VOODOO: Replace "." with ". ", but only if its followed by 2 letters.
+    str = re.sub(r"\.(?=[A-Za-z]{1})", ". ", str)
+    str = re.sub(r"\!(?=[A-Za-z]{1})", "! ", str)
+    str = re.sub(r"\?(?=[A-Za-z]{1})", "? ", str)
 
     return str
 
@@ -154,7 +161,8 @@ def zone_texts():
                     lines = lines_that_contains(server_data, comment_text)
                     if len(lines) > 0:
                         # Match on the longest line in lines, to try for a better match
-                        longest_line = get_max_str(lines)
+                        #longest_line = get_max_str(lines)
+                        longest_line = lines[0]
                         enum_text = longest_line.split("=")[0].strip() # Collect the enum name
 
                         # Try and de-dupe enum keys
