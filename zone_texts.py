@@ -31,6 +31,7 @@ def sanitize_string(str):
     str = str.replace("<BAD CHAR: 80>.", ". ")
     str = str.replace("<BAD CHAR: 8280>", "")
     str = str.replace("<BAD CHAR: 80>", "")
+    str = str.replace("<BAD CHAR: EF>", "")
     str = str.replace("<Possible Special Code: 00>", "")
     str = str.replace("<Possible Special Code: 05>#", "")
     str = str.replace("<Possible Special Code: 05>%", "")
@@ -39,7 +40,10 @@ def sanitize_string(str):
     str = str.replace("<Unknown Parameter (Type: 80) 1>", "")
     str = str.replace("<Singular/Plural Choice (Parameter 0)>", "")
     str = str.replace("<Singular/Plural Choice (Parameter 1)>", "")
+    str = str.replace("<Multiple Choice (Parameter 0)>", "")
     str = str.replace("<Multiple Choice (Parameter 1)>", "")
+    str = str.replace("<Multiple Choice (Parameter 2)>", "")
+    str = str.replace("<Multiple Choice (Parameter 23)>", "")
     str = str.replace("<Multiple Choice (Parameter 33)>", "")
     str = str.replace("<Unknown Parameter (Type: 34) 1>", "")
     str = str.replace("<Possible Special Code: 05>$", "")
@@ -62,6 +66,7 @@ def sanitize_string(str):
     str = str.replace("<item>. ..Davoi", "<item>...Davoi")
     str = str.replace("You retrieve <item>  from the porter moogle's care.", "You retrieve <item> from the porter moogle's care.")
     str = str.replace("<item><Player Name>!Objective:", "<assault>! Objective:")
+    str = str.replace("X/Y/Z]-<number>", "X/Y/Z]-#")
 
     return str
 
