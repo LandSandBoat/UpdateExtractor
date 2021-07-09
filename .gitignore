@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Python
+__pycache__/
+
+# POLUtils Exes
+MassExtractor.exe
+PlayOnline.Core.dll
+PlayOnline.FFXI.dll
+
+# Generated
+out/
+res/
