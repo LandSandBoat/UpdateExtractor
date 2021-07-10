@@ -8,15 +8,6 @@ from utils import *
 ############################
 # Zone Text IDs
 ############################
-def lines_that_contains(string, substring):
-    return [line for line in string.split('\n') if substring in line]
-
-def get_max_str(lst):
-    return max(lst, key=len)
-
-def get_min_str(lst):
-    return min(lst, key=len)
-
 def sanitize_pol_string(str):
     # Strange unicode non-angle brackets
     #str = str.replace("\u227a", "LT") # Less than
@@ -44,47 +35,41 @@ def sanitize_pol_string(str):
     str = str.replace('\u03a9', 'O')
 
     #'/[^\x20-\x7E]/'                                    => '',
-    str = re.sub(r"[^\x20-\x7E]", "", str) # ASCII Space -> ASCII ~ (and all letters and nubmers in between)
+    str = re.sub(r"[^\x20-\x7E]", "", str) # Anything that isn't ASCII Space -> ASCII ~ (and all letters and nubmers in between)
 
     #"/~Numeric Parameter \d+~/U"                        => '#',
-    str = re.sub(r"~Numeric Parameter [0-9A-F]+~", "#", str)
+    str = re.sub(r"\~Numeric Parameter [0-9]+\~", "#", str)
 
     #"/~Possible Special Code: 05~[^~]+/U"               => '%',
-    str = re.sub(r"~Possible Special Code: 05~[^~]+", "%", str)
+    str = re.sub(r"\~Possible Special Code: 05\~[^\~]+", "%", str)
 
     #"/~Possible Special Code: 11~+/U"                   => '%',
-    str = re.sub(r"~Possible Special Code: 11~+", "%", str)
+    str = re.sub(r"\~Possible Special Code: 11\~+", "%", str)
 
     #"/~Possible Special Code: 01~\s~/U"                 => '~',
-    str = re.sub(r"~Possible Special Code: 01~\s~", "~", str)
+    str = re.sub(r"\~Possible Special Code: 01\~\s\~", "~", str)
 
     #"/~Possible Special Code: 01~~Player Name~/U"       => '%',
-    str = re.sub(r"~Possible Special Code: 01~~Player Name~", "%", str)
+    str = re.sub(r"\~Possible Special Code: 01\~\~Player Name\~", "%", str)
 
     #"/~Player/Chocobo Parameter \d+~/U"                => '%',
-    str = re.sub(r"~Player/Chocobo Parameter [0-9A-F]+~", "%", str)
+    str = re.sub(r"\~Player/Chocobo Parameter [0-9]+\~", "%", str)
 
     #"/~Player Name~/U"                                  => '%',
-    str = re.sub(r"~Player Name~", "%", str)
+    str = re.sub(r"\~Player Name\~", "%", str)
 
     #"/~Unknown Parameter (Type: A.) 0~/U"             => '#',
-    str = re.sub(r"~Unknown Parameter (Type A.) 0~", "#", str)
+    str = re.sub(r"\~Unknown Parameter \(Type: A.*?\) 0\~", "#", str)
 
     #"/~.*~/U"                                           => '',
-    str = re.sub(r"~.*~", "", str)
+    str = re.sub(r"\~.*?\~", "", str)
 
     # Tidy
     str = str.strip()
 
-    # Fix-ups
-    # VOODOO: Replace "." with ". ", but only if its followed by 1 letter.
-    #str = re.sub(r"\.(?=[A-Za-z]{1})", ". ", str)
-    #str = re.sub(r"\!(?=[A-Za-z]{1})", "! ", str)
-    #str = re.sub(r"\?(?=[A-Za-z]{1})", "? ", str)
-
     return str
 
-def sanitize_comment_id_string(str):
+def sanitize_comment_string(str):
     # From Wren's regex
     #"<assault>"   => '%',
     str = str.replace("<assault>", "%")
@@ -107,7 +92,36 @@ def sanitize_comment_id_string(str):
     #"<timestamp>" => '#/#/# #:#:#'
     str = str.replace("<timestamp>", "#/#/# #:#:#")
 
+    # Tidy
+    str = str.strip()
+
     return str
+
+def match_line(server_data, cleaned_comment_text):
+    # Get all lines that contain the target comment text, and store the index too
+    lines = []
+    for index, item in enumerate(server_data):
+        cleaned_target_text = sanitize_comment_string(item)
+        if cleaned_comment_text in cleaned_target_text:
+            lines.append((index, cleaned_comment_text))
+
+    # No results? Bail
+    if len(lines) == 0:
+        return None
+
+    for entry in lines:
+        index = entry[0]
+        server_line = server_data[index]
+
+        # Hack: We don't handle these debug lines very well
+        if "--------" in server_line:
+            continue
+
+        target_comment = sanitize_comment_string(server_line.split("-- ")[1])
+        if len(target_comment) == len(cleaned_comment_text):
+            return index
+
+    return None
 
 def sanitize_zone_name(name):
     name = name.replace(' ', '_')
@@ -124,6 +138,7 @@ def sanitize_zone_name(name):
     return name
 
 def zone_texts():
+    # Use area-names.xml to match zone names to zone numbers an create output folders
     areas = {}
     tree = ET.parse('res/area-names.xml')
     areas_xml = xmltodict.parse(ET.tostring(tree.getroot(), encoding='unicode'))
@@ -140,9 +155,11 @@ def zone_texts():
             pass
         areas[index] = name
 
+    # For each dialog table xml file
     dialog_table_list = glob.glob('res/dialog-table-*.xml')
     for item in dialog_table_list:
         with open(item, 'r', encoding='utf-8') as file:
+            # Sanitize name
             zone_num_str = item.replace('res\dialog-table-', '')
             zone_num_str = zone_num_str.replace('.xml', '')
 
@@ -167,47 +184,75 @@ def zone_texts():
             server_filename = SERVER_DIR + "/scripts/zones/" + zone_name + "/IDs.lua"
 
             print(f"Generating {output_filename} ({zone_num})")
-            with open(output_filename, 'w') as out_file, open(raw_output_filename, 'w') as raw_file, open(server_filename, 'r') as in_file:
-                server_data = in_file.read()
+            with open(output_filename, 'w') as out_file, open(raw_output_filename, 'w') as raw_file, open(server_filename, 'r+') as server_file:
+                # Populate data from server
+                raw_server_data = server_file.read()
+                server_data = raw_server_data.split("\n")
                 output_list = []
                 max_enum_length = 0
+                max_index_length = 0
                 duplicate_enums = {} # Track duplicate enums
                 for entry in zone_tree:
                     # Index: The number
                     index = str(entry[0].text.strip())
 
                     # Comment: After the number
-                    comment_text = sanitize_pol_string(entry[1].text)
-                    if len(comment_text) <= 3:
+                    comment_text = entry[1].text
+                    cleaned_comment_text = sanitize_pol_string(comment_text)
+                    if len(cleaned_comment_text) <= 3:
                         continue
 
-                    raw_file.write(f"{index} : {comment_text}\n")
+                    # Write raw output (good for debugging and lookup)
+                    raw_file.write(f"{index} : {cleaned_comment_text}\n")
 
                     # Enum: Called and indexed by Lua function
                     # If comment text exists in the server IDs file
-                    lines = lines_that_contains(server_data, comment_text)
-                    if len(lines) > 0:
-                        # Match on the shortest line in lines, to try for a tighter match
-                        longest_line = get_max_str(lines)
-                        enum_text = longest_line.split("=")[0].strip() # Collect the enum name
+                    server_line_index = match_line(server_data, cleaned_comment_text)
+                    if server_line_index != None:
+                        # Use the original server strings for output
+                        line = server_data[server_line_index]
+                        original_line_parts = line.split("=")
+                        enum_text = original_line_parts[0].strip()
+                        original_comment = original_line_parts[1].split("-- ")[1]
 
                         # Try and de-dupe enum keys
                         count = duplicate_enums.get(enum_text, None)
+
                         if count is not None:
                             duplicate_enums[enum_text] = count + 1
                         else:
                             duplicate_enums[enum_text] = 1
 
-                        if duplicate_enums[enum_text] > 1:
-                            enum_text = f"{enum_text}_{duplicate_enums[enum_text]}"
+                        count = duplicate_enums[enum_text]
+
+                        if count > 1:
+                            enum_text = f"{enum_text}_{count}"
+
+                        # Another layer of sanity checking for de-dupes
+                        if not enum_text in line:
+                            continue
 
                         # Add to output list
-                        output_list.append([enum_text, index, comment_text])
+                        output_list.append([enum_text, index, original_comment])
                         max_enum_length = max(max_enum_length, len(enum_text)) # For formatting later
+                        max_index_length = max(max_index_length, len(index) + 1) # For formatting later
+
+                # Build output string (indented like original files)
+                out_string =  "    text =\n    {\n"
+                for entry in output_list:
+                    enum_text = f"        {entry[0].ljust(max_enum_length)}"
+                    index_text_with_comma = f"{entry[1]},"
+                    indented_index_text = f"{index_text_with_comma.ljust(max_index_length)}"
+                    out_string = out_string + f"{enum_text} = {indented_index_text} -- {entry[2]}\n"
+                out_string = out_string + "    },\n"
 
                 # Write output file
-                out_file.write("text =\n{\n")
-                for entry in output_list:
-                    enum_text = f"    {entry[0].ljust(max_enum_length)}"
-                    out_file.write(f"{enum_text} = {entry[1]}, -- {entry[2]}\n")
-                out_file.write("}\n")
+                out_file.write(out_string)
+
+                # Write to original files (only the text{...} table)
+                new_server_data = re.sub(r"(    text =)(.|\n)*?(    \},\n)", out_string, raw_server_data)
+                if new_server_data != raw_server_data:
+                    server_file.seek(0)
+                    server_file.truncate()
+                    server_file.write(new_server_data)
+
