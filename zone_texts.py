@@ -64,6 +64,10 @@ def sanitize_pol_string(str):
     #"/~.*~/U"                                           => '',
     str = re.sub(r"\~.*?\~", "", str)
 
+    # Fix-ups
+    # Trust messages
+    str = str.replace("%Possible Special Code: 01Possible Special Code: 00~", "%!")
+
     # Tidy
     str = str.strip()
 
