@@ -14,66 +14,98 @@ def lines_that_contains(string, substring):
 def get_max_str(lst):
     return max(lst, key=len)
 
-def sanitize_string(str):
+def get_min_str(lst):
+    return min(lst, key=len)
+
+def sanitize_pol_string(str):
     # Strange unicode non-angle brackets
-    str = str.replace("\u227a", "<") # Less than
-    str = str.replace("\u227b", ">") # More than
-    str = str.replace("\uff41", "") # Wide a
-    str = str.replace("\u03a9", "") # Omega
+    #str = str.replace("\u227a", "LT") # Less than
+    #str = str.replace("\u227b", "GT") # Greater than
+    #str = str.replace("\uff41", "WA") # Wide a
+    #str = str.replace("\u03a9", "OM") # Omega
 
-    # Substitutions 1
-    str = re.sub(r"<Numeric Parameter [0-9A-F]+>", "<number>", str)
-    #str = re.sub(r"<Player/Chocobo Parameter [0-9A-F]+>", "<player>", str)
-    str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>3", "<keyitem>")
-    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>6", "<item>")
-    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>8", "<item>")
-    #str = str.replace("<Possible Special Code: 01><Possible Special Code: 05>#", "<item>")
-    str = str.replace("<Unknown Parameter (Type: 80) 1><item>", "<keyitem>")
+    # From Wren's regex
+    #"/\n/"                                              => ' ',
+    str = str.replace('\n', ' ')
 
-    str = str.replace("<Possible Special Code: 18><Possible Special Code: 01>", "<player>")
-    str = str.replace("<Possible Special Code: 18><Possible Special Code: 02>", "<player>")
-    str = str.replace("<Possible Special Code: 18><Possible Special Code: 03>", "<player>")
-    str = str.replace("<Possible Special Code: 18><Possible Special Code: 04>", "<player>")
-    str = str.replace("<Possible Special Code: 18><Possible Special Code: 05>", "<player>")
-    str = str.replace("<Selection Dialog>", "")
+    #"/".LT."Speaker Name".GT.")".WA."/U"               => '%',
+    str = str.replace('\u227aSpeaker Name\u227b)\uff41', '%')
 
-    # Specific Removals
-    str = str.replace("<Multiple Choice (Player Gender)>", "")
-    str = str.replace("<Possible Special Code: 00>", "")
-    str = str.replace("<Speaker Name>)", "")
-    str = str.replace("<Possible Special Code: 1F>{", "")
-    str = str.replace("<Possible Special Code: 1F>y", "")
-    str = str.replace("<Possible Special Code: 1F>", "")
-    str = str.replace("<Selection Dialog>", "")
+    #"/".LT."Possible Special Code: 1F".GT."[^".LT."]/U" => '',
+    str = re.sub(r"\u227aPossible Special Code: 1F\u227b[^\u227a]", "", str)
 
-    str = re.sub(r"<BAD CHAR: [0-9A-F]+>", "", str)
-    str = re.sub(r"<Singular/Plural Choice \(Parameter [0-9A-F]+\)>", "", str)
-    str = re.sub(r"<Multiple Choice \(Parameter [0-9A-F]+\)>", "", str)
-    str = re.sub(r"<Unknown Parameter \(Type: [0-9A-F]+\) [0-9A-F]+>", "", str)
+    #"/".LT."/U"                                         => '~',
+    str = str.replace('\u227a', '~')
 
-    # Substitutions 2
-    #str = str.replace("<Possible Special Code: 05>8", "<item>")
-    #str = str.replace("<Possible Special Code: 05>$", "<item>")
-    #str = str.replace("<Possible Special Code: 05>#", "<item>")
-    #str = str.replace("<Possible Special Code: 05>%", "<item>")
-    #str = str.replace("<Possible Special Code: 05>6", "<item>")
+    #"/".GT."/U"                                         => '~',
+    str = str.replace('\u227b', '~')
 
-    # Generic Removals
-    str = str.replace("<Prompt>", "")
-    #str = re.sub(r"<Possible Special Code: [0-9A-F]+>", "", str)
+    #"/".OM."/U"                                         => 'O',
+    str = str.replace('\u03a9', 'O')
 
-    # ASCII-ify
-    str = str.encode("ascii", "ignore").decode()
+    #'/[^\x20-\x7E]/'                                    => '',
+    str = re.sub(r"[^\x20-\x7E]", "", str) # ASCII Space -> ASCII ~ (and all letters and nubmers in between)
+
+    #"/~Numeric Parameter \d+~/U"                        => '#',
+    str = re.sub(r"~Numeric Parameter [0-9A-F]+~", "#", str)
+
+    #"/~Possible Special Code: 05~[^~]+/U"               => '%',
+    str = re.sub(r"~Possible Special Code: 05~[^~]+", "%", str)
+
+    #"/~Possible Special Code: 11~+/U"                   => '%',
+    str = re.sub(r"~Possible Special Code: 11~+", "%", str)
+
+    #"/~Possible Special Code: 01~\s~/U"                 => '~',
+    str = re.sub(r"~Possible Special Code: 01~\s~", "~", str)
+
+    #"/~Possible Special Code: 01~~Player Name~/U"       => '%',
+    str = re.sub(r"~Possible Special Code: 01~~Player Name~", "%", str)
+
+    #"/~Player/Chocobo Parameter \d+~/U"                => '%',
+    str = re.sub(r"~Player/Chocobo Parameter [0-9A-F]+~", "%", str)
+
+    #"/~Player Name~/U"                                  => '%',
+    str = re.sub(r"~Player Name~", "%", str)
+
+    #"/~Unknown Parameter (Type: A.) 0~/U"             => '#',
+    str = re.sub(r"~Unknown Parameter (Type A.) 0~", "#", str)
+
+    #"/~.*~/U"                                           => '',
+    str = re.sub(r"~.*~", "", str)
 
     # Tidy
-    str = str.replace('\n', '')
     str = str.strip()
 
     # Fix-ups
-    # VOODOO: Replace "." with ". ", but only if its followed by 2 letters.
-    str = re.sub(r"\.(?=[A-Za-z]{1})", ". ", str)
-    str = re.sub(r"\!(?=[A-Za-z]{1})", "! ", str)
-    str = re.sub(r"\?(?=[A-Za-z]{1})", "? ", str)
+    # VOODOO: Replace "." with ". ", but only if its followed by 1 letter.
+    #str = re.sub(r"\.(?=[A-Za-z]{1})", ". ", str)
+    #str = re.sub(r"\!(?=[A-Za-z]{1})", "! ", str)
+    #str = re.sub(r"\?(?=[A-Za-z]{1})", "? ", str)
+
+    return str
+
+def sanitize_comment_id_string(str):
+    # From Wren's regex
+    #"<assault>"   => '%',
+    str = str.replace("<assault>", "%")
+
+    #"<item>"      => '%',
+    str = str.replace("<item>", "%")
+
+    #"<keyitem>"   => '%',
+    str = str.replace("<keyitem>", "%")
+
+    #"<name>"      => '%',
+    str = str.replace("<name>", "%")
+
+    #"<number>"    => '#',
+    str = str.replace("<number>", "#")
+
+    #"<space>"     => ' ',
+    str = str.replace("<space>", " ")
+
+    #"<timestamp>" => '#/#/# #:#:#'
+    str = str.replace("<timestamp>", "#/#/# #:#:#")
 
     return str
 
@@ -145,24 +177,18 @@ def zone_texts():
                     index = str(entry[0].text.strip())
 
                     # Comment: After the number
-                    comment_text = sanitize_string(entry[1].text)
-                    raw_file.write(f"{index} : {comment_text}\n")
-
-                    # Block some junk
-                    if comment_text == '<number>':
-                        continue
-                    if comment_text == '<item>':
-                        continue
+                    comment_text = sanitize_pol_string(entry[1].text)
                     if len(comment_text) <= 3:
                         continue
+
+                    raw_file.write(f"{index} : {comment_text}\n")
 
                     # Enum: Called and indexed by Lua function
                     # If comment text exists in the server IDs file
                     lines = lines_that_contains(server_data, comment_text)
                     if len(lines) > 0:
-                        # Match on the longest line in lines, to try for a better match
-                        #longest_line = get_max_str(lines)
-                        longest_line = lines[0]
+                        # Match on the shortest line in lines, to try for a tighter match
+                        longest_line = get_max_str(lines)
                         enum_text = longest_line.split("=")[0].strip() # Collect the enum name
 
                         # Try and de-dupe enum keys
