@@ -101,10 +101,12 @@ def sanitize_comment_string(str):
 
     return str
 
-def match_line(server_data, cleaned_comment_text):
+def match_line(original_server_data, cleaned_comment_text):
     # Get all lines that contain the target comment text, and store the index too
     lines = []
-    for index, item in enumerate(server_data):
+    for index, item in enumerate(original_server_data):
+        if "    mob =" in item:
+            break
         cleaned_target_text = sanitize_comment_string(item)
         if cleaned_comment_text in cleaned_target_text:
             lines.append((index, cleaned_comment_text))
@@ -115,13 +117,18 @@ def match_line(server_data, cleaned_comment_text):
 
     for entry in lines:
         index = entry[0]
-        server_line = server_data[index]
+        server_line = original_server_data[index]
 
         # Hack: We don't handle these debug lines very well
         if "--------" in server_line:
             continue
 
-        target_comment = sanitize_comment_string(server_line.split("-- ")[1])
+        # Hack: If the line doesn't have a comment to split on; bail
+        split_line = server_line.split("-- ")
+        if len(split_line) < 2:
+            continue
+
+        target_comment = sanitize_comment_string(split_line[1])
         if len(target_comment) == len(cleaned_comment_text):
             return index
 
@@ -203,7 +210,7 @@ def zone_texts():
                     # Comment: After the number
                     comment_text = entry[1].text
                     cleaned_comment_text = sanitize_pol_string(comment_text)
-                    if len(cleaned_comment_text) <= 3:
+                    if len(cleaned_comment_text) <= 1:
                         continue
 
                     # Write raw output (good for debugging and lookup)
