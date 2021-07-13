@@ -167,6 +167,7 @@ def zone_texts():
         areas[index] = name
 
     # For each dialog table xml file
+    handled_zones = []
     dialog_table_list = glob.glob('res/dialog-table-*.xml')
     for item in dialog_table_list:
         with open(item, 'r', encoding='utf-8') as file:
@@ -182,7 +183,12 @@ def zone_texts():
             zone_num = int(zone_num_str)
             zone_name = areas[zone_num]
 
+            # Skip obviously invalid or missing zones
             if zone_name == "unknown" or zone_name == "none":
+                continue
+
+            # Skip if there is any wrap-around or strangeness from missing zones
+            if zone_name in handled_zones:
                 continue
 
             # Parse as XML
@@ -195,7 +201,7 @@ def zone_texts():
             server_filename = SERVER_DIR + "/scripts/zones/" + zone_name + "/IDs.lua"
 
             print(f"Generating {output_filename} ({zone_num})")
-            with open(output_filename, 'w') as out_file, open(raw_output_filename, 'w') as raw_file, open(server_filename, 'r+') as server_file:
+            with open(output_filename, 'w+') as out_file, open(raw_output_filename, 'w+') as raw_file, open(server_filename, 'r+') as server_file:
                 # Populate data from server
                 raw_server_data = server_file.read()
                 server_data = raw_server_data.split("\n")
@@ -267,3 +273,5 @@ def zone_texts():
                     server_file.truncate()
                     server_file.write(new_server_data)
 
+                # Mark as done
+                handled_zones.append(zone_name)
