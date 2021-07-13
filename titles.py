@@ -43,6 +43,7 @@ def titles():
         raw_server_data = server_file.read()
         # Write to original files (only the text{...} table)
         new_server_data = re.sub(r"(xi.title)(.|\n)*?(\}\n)", out_string, raw_server_data)
-        server_file.seek(0)
-        server_file.truncate()
-        server_file.write(new_server_data)
+        if new_server_data != raw_server_data:
+            server_file.seek(0)
+            server_file.truncate()
+            server_file.write(new_server_data)

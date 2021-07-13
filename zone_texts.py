@@ -184,11 +184,13 @@ def zone_texts():
             zone_name = areas[zone_num]
 
             # Skip obviously invalid or missing zones
-            if zone_name == "unknown" or zone_name == "none":
+            if zone_name.lower() == "unknown" or zone_name.lower() == "none":
+                print(f"Skipping zone name: unknown or none ({zone_num})")
                 continue
 
             # Skip if there is any wrap-around or strangeness from missing zones
             if zone_name in handled_zones:
+                print(f"Skipping wrapped-around zone: {zone_num}")
                 continue
 
             # Parse as XML
