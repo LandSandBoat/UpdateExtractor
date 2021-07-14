@@ -25,3 +25,6 @@ def client_ver():
         server_file.seek(0)
         server_file.truncate()
         server_file.write(new_server_data)
+
+# Enable to test just this file
+#client_ver()

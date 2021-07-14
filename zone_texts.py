@@ -134,20 +134,6 @@ def match_line(original_server_data, cleaned_comment_text):
 
     return None
 
-def sanitize_zone_name(name):
-    name = name.replace(' ', '_')
-    name = name.replace('\'', '')
-    name = name.replace('#', '')
-    name = name.replace('_-_', '-')
-    name = name.replace("[U]", "U")
-    name = name.replace("-LegionA", "-Legion_A")
-    name = name.replace("-LegionB", "-Legion_B")
-    name = name.replace("[P1]", "P1")
-    name = name.replace("[P2]", "P2")
-    name = name.replace("Escha-", "Escha_")
-    name = name.replace("Desuetia-Empyreal", "Desuetia_Empyreal")
-    return name
-
 def zone_texts():
     # Use area-names.xml to match zone names to zone numbers an create output folders
     areas = {}
@@ -277,3 +263,6 @@ def zone_texts():
 
                 # Mark as done
                 handled_zones.append(zone_name)
+
+# Enable to test just this file
+#zone_texts()

@@ -93,3 +93,6 @@ def status_effects():
                 status_str = f"    {cleaned_status.ljust(longest_status_str - 1)}"
 
             file.write(f"{status_str} = {key},\n")
+
+# Enable to test just this file
+#status_effects()

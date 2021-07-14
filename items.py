@@ -42,3 +42,6 @@ def items():
 
     with open("out/sql/item_weapon.sql", "w") as file:
         file.write("\n")
+
+# Enable to test just this file
+#items()
