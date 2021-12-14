@@ -189,7 +189,7 @@ def zone_texts():
             server_filename = SERVER_DIR + "/scripts/zones/" + zone_name + "/IDs.lua"
 
             print(f"Generating {output_filename} ({zone_num})")
-            with open(output_filename, 'w+') as out_file, open(raw_output_filename, 'w+') as raw_file, open(server_filename, 'r+') as server_file:
+            with open(output_filename, 'w+') as out_file, open(raw_output_filename, 'w+') as raw_file, open(server_filename, 'r+', encoding="utf-8") as server_file:
                 # Populate data from server
                 raw_server_data = server_file.read()
                 server_data = raw_server_data.split("\n")

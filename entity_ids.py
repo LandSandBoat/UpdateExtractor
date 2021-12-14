@@ -13,6 +13,12 @@ from utils import *
 # Go through and check that id and name still match what we have in SQL.
 # If not, do a search/replace to try and update them
 
+def index_of_first(lst, pred):
+    for i,v in enumerate(lst):
+        if pred(v):
+            return i
+    return None
+
 def entity_ids():
     # Collect zone information
     areas = {}
@@ -111,11 +117,11 @@ def entity_ids():
             if not "INSERT INTO" in line:
                 continue
 
-            # Extract out the id and the name
+            # Extract out the npcid and the polutils_name
             line_data = line.split("(")
             line_data = line_data[1].split(",")
             server_id = line_data[0].replace("\'", "")
-            server_name = line_data[1].replace("\'", "")
+            server_name = line_data[2].replace("\'", "")
             server_zone_data[zone_id].append((server_id, server_name))
 
         # Start main shifting logic using zone_id, server_zone_data, and extracted_npc_data
@@ -131,8 +137,6 @@ def entity_ids():
         # Client index 0 is always: (0, none), so get rid of that
         extracted_client_data.pop(0)
 
-        # NOTE: The starting index in a zone can shift too, don't rely on it!
-
         # Server Entries
         first_server_entry = server_data[0]
         last_server_entry  = server_data[-1]
@@ -141,15 +145,50 @@ def entity_ids():
         first_client_entry = extracted_client_data[0]
         last_client_entry  = extracted_client_data[-1]
 
-        print(zone_id, zone_name, "starting id:", first_client_entry[0])
+        print(zone_id, zone_name)
 
-        #mismatch = False
-        #for idx, client_entry in enumerate(extracted_client_data):
-        #    server_entry = server_data[idx]
-        #    if server_data[idx][1] != extracted_client_data[idx][1]:
-        #        mismatch = True
-        #        break
-        #        #print("Mismatch: Server:", server_data[idx], ", Client:", extracted_client_data[idx])
+        # Track how many times we've seen duplicated of the same name, so
+        # we know how many we need to skip when searching forwards
+        name_skip_counts = {}
+
+        client_idx = 0
+        for server_idx, server_entry in enumerate(server_data):
+            client_entry = extracted_client_data[client_idx]
+
+            server_entry_id = server_entry[0]
+            server_entry_name = server_entry[1]
+
+            if server_entry_name == "     ":
+                server_entry_name = ""
+
+            client_entry_id = client_entry[0]
+            client_entry_name = client_entry[1]
+
+            skip_count = name_skip_counts.get(server_entry_name, None)
+            if skip_count is not None:
+                name_skip_counts[server_entry_name] = skip_count + 1
+                skip_count = name_skip_counts[server_entry_name]
+            else:
+                name_skip_counts[server_entry_name] = 0
+                skip_count = 0
+
+            while server_entry_name != client_entry_name:
+                # Seek from the _beginning_ of the client data, skipping
+                # n amount of names we've already seen (this accounts
+                # for backwards shifts!)
+                skip_current = 0
+                for client_idx, client_entry in enumerate(extracted_client_data):
+                    client_entry_id = client_entry[0]
+                    client_entry_name = client_entry[1]
+
+                    skip_target = name_skip_counts[server_entry_name]
+                    skip_diff = skip_target - skip_current
+
+                    if server_entry_name == client_entry_name and skip_diff == 0:
+                        pass
+
+
+
 
         # Handle new entries
         #-- NC: INSERT INTO `npc_list` VALUES (17461595,'NOT_CAPTURED','     ',0,0.000,0.000,0.000,0,50,50,0,0,0,0,0,0x0000320000000000000000000000000000000000,0,NULL,0);
