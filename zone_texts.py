@@ -78,6 +78,9 @@ def sanitize_comment_string(str):
     #"<assault>"   => '%',
     str = str.replace("<assault>", "%")
 
+    #"<spell>"   => '%',
+    str = str.replace("<spell>", "%")
+
     #"<item>"      => '%',
     str = str.replace("<item>", "%")
 
@@ -185,7 +188,7 @@ def zone_texts():
 
             # Prepare filenames
             output_filename = 'out/scripts/zones/' + zone_name + "/Text.lua"
-            raw_output_filename = output_filename + ".raw"
+            raw_output_filename = output_filename + ".raw.txt"
             server_filename = SERVER_DIR + "/scripts/zones/" + zone_name + "/IDs.lua"
 
             print(f"Generating {output_filename} ({zone_num})")

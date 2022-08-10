@@ -19,12 +19,9 @@ def client_ver():
     with open("out/conf/default/version.conf", "w+") as file:
         file.write(new_client_str)
 
-    with open(SERVER_DIR + "/conf/default/version.conf", 'r+') as server_file:
-        raw_server_data = server_file.read()
-        new_server_data = re.sub(r"CLIENT_VER: .*\n", new_client_str + '\n', raw_server_data)
-        server_file.seek(0)
-        server_file.truncate()
-        server_file.write(new_server_data)
-
-# Enable to test just this file
-#client_ver()
+    # with open(SERVER_DIR + "/conf/default/version.conf", 'r+') as server_file:
+    #     raw_server_data = server_file.read()
+    #     new_server_data = re.sub(r"CLIENT_VER: .*\n", new_client_str + '\n', raw_server_data)
+    #     server_file.seek(0)
+    #     server_file.truncate()
+    #     server_file.write(new_server_data)
