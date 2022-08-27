@@ -90,6 +90,9 @@ def sanitize_comment_string(str):
     #"<name>"      => '%',
     str = str.replace("<name>", "%")
 
+    #"<player>"   => '%',
+    str = str.replace("<player>", "%")
+
     #"<number>"    => '#',
     str = str.replace("<number>", "#")
 
