@@ -145,7 +145,15 @@ def zone_texts():
     for area in areas_xml['thing-list']['thing']:
         try:
             index = int(area['field'][0]['#text'])
-            name = area['field'][1]['#text']
+
+            if index == 227:
+                name = "Ship bound for Selbina Pirates"
+            elif index == 228:
+                name = "Ship bound for Mhaura Pirates"
+            elif index == 210:
+                name = "GM home"
+            else:
+                name = area['field'][1]['#text']
             name = sanitize_zone_name(name)
 
             # Make folders
