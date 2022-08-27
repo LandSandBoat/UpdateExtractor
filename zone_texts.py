@@ -68,6 +68,11 @@ def sanitize_pol_string(str):
     # Trust messages
     str = str.replace("%Possible Special Code: 01Possible Special Code: 00~", "%!")
 
+    # Western Adoulin
+    # You are tasked with procuring # ).
+    # You are tasked with procuring <number> <item>.
+    str = str.replace("# ).", "# %.")
+
     # Tidy
     str = str.strip()
 
@@ -130,7 +135,7 @@ def match_line(original_server_data, cleaned_comment_text):
             continue
 
         # Hack: If the line doesn't have a comment to split on; bail
-        split_line = server_line.split("-- ")
+        split_line = server_line.split("-- ", 1)
         if len(split_line) < 2:
             continue
 
@@ -232,7 +237,7 @@ def zone_texts():
                         line = server_data[server_line_index]
                         original_line_parts = line.split("=")
                         enum_text = original_line_parts[0].strip()
-                        original_comment = original_line_parts[1].split("-- ")[1]
+                        original_comment = original_line_parts[1].split("-- ", 1)[1]
 
                         # Try and de-dupe enum keys
                         count = duplicate_enums.get(enum_text, None)
