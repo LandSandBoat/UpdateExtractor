@@ -2,20 +2,27 @@ import xmltodict
 import xml.etree.ElementTree as ET
 from utils import *
 
+
 def parse_fields(items, item):
     if item["field"][6]["#text"] == ".":
         return
 
     items[int(item["field"][0]["#text"])] = {}
     try:
-        for field in item['field']:
+        for field in item["field"]:
             items[int(item["field"][0]["#text"])][field["@name"]] = field["#text"]
     except:
         pass
 
+
 def write_warning(file):
-    file.write("-- WARNING: These entries are flawwed and are not suitable for direct copy/paste into\n")
-    file.write("--        : their respetive server files. You should inspect them closely before use!\n\n")
+    file.write(
+        "-- WARNING: These entries are flawwed and are not suitable for direct copy/paste into\n"
+    )
+    file.write(
+        "--        : their respetive server files. You should inspect them closely before use!\n\n"
+    )
+
 
 ############################
 # Items / Weapons / Armour etc.
@@ -25,58 +32,68 @@ def items():
 
     #     0 ->  4095 : items-general.xml
     print("Parsing: items-general.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-general.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-general.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     #  4096 ->  8191 : items-usable.xml
     print("Parsing: items-usable.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-usable.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-usable.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     #  8192 ->  8703 : items-puppet.xml
     print("Parsing: items-puppet.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-puppet.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-puppet.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     #  8704 -> 10239 : items-general2.xml
     print("Parsing: items-general2.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-general2.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-general2.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     # 10240 -> 16383 : items-armor.xml
     print("Parsing: items-armor.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-armor.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-armor.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     # 16384 -> 23039 : items-weapons.xml
     print("Parsing: items-weapons.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-weapons.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-weapons.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     # 23040 -> 28671 : items-armor2.xml
     print("Parsing: items-armor2.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-armor2.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(ET.parse("res/items-armor2.xml").getroot(), encoding="unicode")
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     # 28672 -> 29695 : items-voucher-slip.xml
     print("Parsing: items-voucher-slip.xml")
-    item_basic_xml = xmltodict.parse(ET.tostring(
-        ET.parse("res/items-voucher-slip.xml").getroot(), encoding="unicode"))
-    for item in item_basic_xml['thing-list']['thing']:
+    item_basic_xml = xmltodict.parse(
+        ET.tostring(
+            ET.parse("res/items-voucher-slip.xml").getroot(), encoding="unicode"
+        )
+    )
+    for item in item_basic_xml["thing-list"]["thing"]:
         parse_fields(items, item)
 
     # 65535          : items-currency.xml
@@ -85,7 +102,7 @@ def items():
     ##########
 
     print("Writing: out/sql/item_basic.sql")
-    with open("out/sql/item_basic.sql", "w", encoding='utf-8') as file:
+    with open("out/sql/item_basic.sql", "w", encoding="utf-8") as file:
         write_warning(file)
         # INSERT INTO `item_basic` VALUES (16641,0,'brass_axe','brass_axe',1,2084,5,0,312);
         #
@@ -111,7 +128,7 @@ def items():
         file.write("\n")
 
     print("Writing: out/sql/item_equipment.sql")
-    with open("out/sql/item_equipment.sql", "w", encoding='utf-8') as file:
+    with open("out/sql/item_equipment.sql", "w", encoding="utf-8") as file:
         write_warning(file)
         # INSERT INTO `item_equipment` VALUES (16641,'brass_axe',8,0,2098561,77,0,0,3,0,0);
         #
@@ -146,8 +163,8 @@ def items():
             try:
                 level = int(item["level"])
                 iLevel = int(item["iLevel"])
-                jobs   = int(item["jobs"], 16)
-                mId    = 0
+                jobs = int(item["jobs"], 16)
+                mId = 0
                 shieldSize = 0
                 slots = int(item["slots"])
                 rslot = 0
@@ -159,7 +176,7 @@ def items():
                 print(f"Could not write: {san_name} (id: {id}, type: {type})")
 
     print("Writing: out/sql/item_furnishing.sql")
-    with open("out/sql/item_furnishing.sql", "w", encoding='utf-8') as file:
+    with open("out/sql/item_furnishing.sql", "w", encoding="utf-8") as file:
         write_warning(file)
         # INSERT INTO `item_furnishing` VALUES (1, 'pile_of_chocobo_bedding', 1, 520, 8, 2);
         #
@@ -176,7 +193,7 @@ def items():
         file.write("\n")
 
     print("Writing: out/sql/item_usable.sql")
-    with open("out/sql/item_usable.sql", "w", encoding='utf-8') as file:
+    with open("out/sql/item_usable.sql", "w", encoding="utf-8") as file:
         write_warning(file)
         # INSERT INTO `item_usable` VALUES (4096,'fire_crystal',1,0,0,0,0,0,0,0);
         #
@@ -195,7 +212,7 @@ def items():
         file.write("\n")
 
     print("Writing: out/sql/item_weapon.sql")
-    with open("out/sql/item_weapon.sql", "w", encoding='utf-8') as file:
+    with open("out/sql/item_weapon.sql", "w", encoding="utf-8") as file:
         write_warning(file)
         # INSERT INTO `item_weapon` VALUES (16641,'brass_axe',5,0,0,0,0,2,1,276,12,0);
         #
@@ -230,13 +247,16 @@ def items():
                 delay = int(item["delay"])
                 dmg = int(item["damage"])
                 unlock_points = 0
-                description = ascii(item["description"]).replace("\\n", " ").replace("'", "")
+                description = (
+                    ascii(item["description"]).replace("\\n", " ").replace("'", "")
+                )
 
                 sql_str = f"INSERT INTO `item_weapon` VALUES ({id},'{san_name}',{skill},{sub_skill},{ilvl_skill},{ilvl_parry},{ilvl_macc},{dmgType},{hit},{delay},{dmg},{unlock_points}); -- {description}"
                 file.write(f"{sql_str}\n")
             except:
                 sql_str = f"INSERT INTO `item_weapon` VALUES ({id},'{san_name}',0,0,0,0,0,0,1,240,0,0); -- TODO: failed to read data"
                 file.write(f"{sql_str}\n")
+
 
 # Enable to test just this file
 # items()
