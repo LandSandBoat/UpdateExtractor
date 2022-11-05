@@ -20,7 +20,7 @@ def write_warning(file):
         "-- WARNING: These entries are flawwed and are not suitable for direct copy/paste into\n"
     )
     file.write(
-        "--        : their respetive server files. You should inspect them closely before use!\n\n"
+        "--        : their respective server files. You should inspect them closely before use!\n\n"
     )
 
 
