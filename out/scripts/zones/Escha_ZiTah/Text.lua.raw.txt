@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,596 +7044,599 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7055 : Word has been received of a Troll threat in Wajaom Woodlands.
-7056 : Word has been received of an undead threat in Bhaflau Thickets.
-7057 : Tallying conquest results...
-7058 : Conquest results tallied.
-7059 : This region is currently under San d'Orian control.
-7060 : This region is currently under Bastokan control.
-7061 : This region is currently under Windurstian control.
-7062 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7063 : This region is currently neutral.
-7064 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7065 : All three nations are tied for first place.
-7066 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7067 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7068 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7069 : All three nations are tied for first place.
-7070 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7072 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7073 : All three nations are tied for first place.
-7074 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7076 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7077 : All three nations are tied for first place.
-7078 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7079 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7080 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7081 : Global balance of power: All three nations are tied for first place.
-7082 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7084 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7085 : All three nations are tied for first place.
-7086 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7087 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7088 : Conquest update: This region is currently neutral.
-7089 : Conquest update: This region is currently under San d'Orian control.
-7090 : Conquest update: This region is currently under Bastokan control.
-7091 : Conquest update: This region is currently under Windurstian control.
-7092 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7093 : All three nations are at a deadlock.
-7094 : The beastmen are on the rise.
-7095 : Regional influence: San d'Oria - Dominant
-7096 : Regional influence: San d'Oria - Major
-7097 : Regional influence: San d'Oria - Minor
-7098 : Regional influence: San d'Oria - Minimal
-7099 : Bastok - Dominant
-7100 : Bastok - Major
-7101 : Bastok - Minor
-7102 : Bastok - Minimal
-7103 : Windurst - Dominant
-7104 : Windurst - Major
-7105 : Windurst - Minor
-7106 : Windurst - Minimal
-7107 : Bastok and Windurst have formed an alliance.
-7108 : San d'Oria and Windurst have formed an alliance.
-7109 : San d'Oria and Bastok have formed an alliance.
-7110 : Bastok and Windurst are currently allies.
-7111 : San d'Oria and Windurst are currently allies.
-7112 : San d'Oria and Bastok are currently allies.
-7113 : # #
-7114 : # % #
-7115 : ITEM_ID:# :#
-7116 : :# :#
-7117 : [//]:[////] :#:#
-7118 : The beastmen are gaining power.
-7119 : San d'Oria's regional control is now 10% closer to the first place country's!
-7120 : Bastok's regional control is now 10% closer to the first place country's!
-7121 : Windurst's regional control are now 10% closer to the first place country's!
-7122 : San d'Oria's region points have increased!
-7123 : Bastok's region points have increased!
-7124 : Windurst's region points have increased!
-7125 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7126 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7127 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7128 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7129 : A Bastokan Expeditionary Force has been dispatched to this area.
-7130 : A Windurstian Expeditionary Force has been dispatched to this area.
-7131 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7132 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7133 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7134 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7135 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7136 : There was a curse on the beastmen's banner!
-7137 : The curse of the beastmen's banner has been lifted!
-7138 : There is a beastmen's banner.
-7214 : # #
-7215 : # #
-7216 : You can't fish here.
-7217 : You can't fish without a rod in your hands.
-7218 : You can't fish without bait on the hook.
-7219 : You can't fish at the moment.
-7220 : You didn't catch anything.
-7221 : % caught a monster!
-7222 : Your line breaks.
-7223 : Your rod breaks.
-7224 : Something caught the hook!
-7225 : You lost your catch.
-7226 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7227 : You feel there's something here.
-7228 : You feel there's something nearby.
-7229 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7230 : % caught  %!
-7231 : You dig and you dig, but find nothing.
-7232 : #/%
-7233 : Your rod breaks. Whatever caught the hook was pretty big.
-7234 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7235 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7236 : You lost your catch due to your lack of skill.
-7237 : Number fished : # Original Dice No. ## Result # (0=caught)
-7238 : You didn't catch anything.
-7239 : The paper on your % ripped.
-7240 : A tiny goldfish approaches!
-7241 : A plump, black goldfish approaches!
-7242 : A fat, juicy goldfish approaches!
-7243 : There are no goldfish to be found...
-7244 : % caught %, but cannot carry any more items. % regretfully releases it.
-7245 : The goldfish slipped off your scoop...
-7246 : ch# skill up check.
-7247 : a:#.
-7248 : Time # / Status # / #
-7249 : d:#. e:#. f:#. g:#.
-7250 : h: #. i: #. sr: #.
-7251 : j:#. k:#.
-7252 : You give up and reel in your line.
-7253 : You give up.
-7254 : % obtains # gil.
-7255 : % caught %!
-7256 : You don't know how much longer you can keep this one on the line...
-7257 : You have a good feeling about this one!
-7258 : You have a bad feeling about this one.
-7259 : You have a terrible feeling about this one...
-7260 : You don't know if you have enough skill to reel this one in.
-7261 : You're fairly sure you don't have enough skill to reel this one in.
-7262 : You're positive you don't have enough skill to reel this one in!
-7263 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7264 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7265 : l: #. m: #. n: #. CH: #.
-7266 : Something caught the hook!!!
-7267 : You feel something pulling at your line.
-7268 : Something clamps onto your line ferociously!
-7269 : Your keen angler's senses tell you that this is the pull of %!
-7270 : This strength... You get the sense that you are on the verge of an epic catch!
-7271 : The timer has started. # seconds remaining.
-7272 : #sec.#/#sec.
-7273 : 0:# 1:# 2:# 3:#
-7274 : 4:# 5:# 6:# 7:#
-7275 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7276 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7277 : #/#(#
-7278 : Version invalid error!
-7279 : Hurry before the goldfish sees you!
-7280 : % fishes up a large box!
-7282 : Fish No# / Bait No# / Hit# >>> #
-7283 : Point# >>> #
-7284 : %(#) skill#
-7285 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7286 : Im Rnd : # Pz Rnd : #
-7287 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7288 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7289 : skill : # size : # kind : # sch : #
-7290 : time : # mes : # flag : # bonus : #
-7291 : item : # hp : # pow : # swing : #
-7292 : suc : # cons : # weight : # +- : #
-7293 : speed : # +- : # exc : # client : #
-7294 : general : #
-7295 : ro:# rs:# ps:# dt:#
-7296 : ra:# ti:#
-7297 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7298 : You get the distinct sense that your moogle friend frequents this spot...
-7299 : You have a feeling that your moogle friend has been through this way...
-7300 : You suspect that the scenery around here would be to a moogle's liking...
-7301 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7302 : You have a hunch that this area would be favored by moogles...
-7303 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7304 : % catches # %!
-7305 : % obtained %!
-7306 : It appears your chocobo found this item with ease.
-7307 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7308 : FPT # DPT # DoT#
-7309 : FPT # TDPT # h#
-7310 : You cannot fish at this time.
-7311 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7312 : You discover a cache of beastman resources and receive # Imperial Standing!
-7313 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7314 : You receive # bayld!
-7315 : Your chocobo refuses to partake of the %.
-7316 : You may be able to procure something from here if you have %.
-7317 : Chance of breaking: #/10000
-7318 : Your % breaks!
-7319 : You successfully procure %!
-7320 : You procure %, but your % breaks in the process.
-7321 : You are unable to procure anything.
-7322 : You cannot carry any more items. Your inventory is full.
-7323 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
-7324 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
-7325 : You have returned to the field of battle.
-7326 : You have # [minute/minutes] (Earth time) to complete the battle.
-7327 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
-7328 : You have only # [second/seconds] (Earth time) remaining.
-7329 : Your time for this Confrontation is up...
-7330 : The monster fades before your eyes, a look of disappointment on its face.
-7331 : (Test message.)
-7332 : Enter the garrison? Yes. No.
-7333 : The % is ripped violently to pieces!
-7334 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
-7335 : Hark! Our foe lurks thither. How wouldst thou proceed?
-7336 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
-7337 : Our foe advances...may thine aim be true!
-7338 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
-7339 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
-7340 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
-7341 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
-7342 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
-7343 : Beaucedine Glacier: [////] Xarcabard: [////]
-7344 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
-7345 : Greetings, traveler! How dost thou fare in thine adventures?
-7346 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
-7347 : Dost thou find this enchantment to thy liking?
-7348 : Accept the item? Accept. Refuse. (# times remaining)
-7349 : Splendid! May it serve thee well.
-7350 : % obtained %!
-7351 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
-7352 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
-7353 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
-7354 : Though it may fall short of thy expectations, pray accept it.
-7355 : Otherwise, we shall have no choice but to dispose of it.
-7356 : Many thanks for thine assistance!
-7357 : Pray accept this % as but a humble token of our gratitude.
-7363 : There is nothing out of the ordinary here.
-7364 : You can hear a strange voice... Items, items, la la la la la
-7365 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7366 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7367 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7368 : Now, listen close...
-7369 : Oh... Well, if that's the case, I'm outta here.
-7370 : The Goblin slipped away when you were not looking...
-7371 : You can hear a strange, raspy voice...
-7372 : I travel......hear lots... Hear...stories... Can tell...if...
-7373 : .........listen......
-7374 : Oh...... ...outta here.........
-7375 : Do you want to hear a story? No, thank you. Let's hear one.
-7376 : What story would you like to be told? On second thought, maybe later. A Land After Time(pt.1). A Land After Time(pt.2).
-7380 : Lady Lion!
-7381 : %!
-7382 : And who is this?
-7383 : So you're the one who's joined us from the future.
-7384 : I'm not one to put stock in fairy tales, yet here we are in this alternate dimension...so I'm willing to believe your tale.
-7385 : I suppose there are worse outcomes when being sucked up by a vortex.
-7386 : And look who saved me.
-7387 : Don't let your guard down for a second. This may look like the Sanctuary of Zi'Tah, but it is not the one we know.
-7388 : Where are we?
-7389 : The Sanctuary of Zi'Tah...but not the one we know.
-7390 : Are you the one known as Zeid?
-7391 : That is right. And you must be Iroha--Aldo has told me much about you.
-7392 : I knew I had to investigate as soon as I heard something was amiss.
-7393 : The only color here is the color of death.
-7394 : This empty husk is void of anything that we could call nature.
-7395 : The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia.
-7396 : Zi'Tah...yes, I have run across that name several times before.
-7397 : Yes, it was when the master first visited Reisenjima.
-7398 : [He/She] said there was a sanctuary there, much like one in my homeland.
-7399 : Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens.
-7400 : I had envisioned it to be more bursting with splendor...
-7401 : Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely.
-7402 : ...Or is this the future?
-7403 : I do not believe so.
-7404 : If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like.
-7405 : Did you hear that?
-7406 : A...bell? But where...?
-7407 : Urk...
-7408 : Who goes there?
-7409 : Zeid[/, Lion]! Please, stay with us!
-7410 : Something foul is afoot. The world blurred and I took leave of myself.
-7411 : You were under its thrall.
-7412 : It gives me chills just thinking about it.
-7413 : If the clamoring has ceased, then we may yet find respite.
-7414 : Master, this may be the world we refer to as Escha.
-7415 : I still have much to learn, but your words that day will always stay with me:
-7416 : When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived.
-7417 : It marked the beginning of the end.
-7418 : And that world, you said, was known as Escha.
-7419 : Yet the annals say that the Emptiness first started to appear many years hence.
-7420 : So why now? Why here?
-7421 : What if...history were being rewritten?
-7422 : It could be that my returning to your time has placed a stick in the wheel of fate.
-7423 : Has the darkness come with me?
-7424 : Though this may sound counterintuitive, I fear we must change the future if we are to save the past.
-7425 : You are right. That is rather difficult to wrap my head around.
-7426 : Iroha, is there no way to purge this Escha from our land?
-7427 : Would that I had the answers you seek.
-7428 : Then only one path lies open to us: figure out what we can for ourselves.
-7429 : As if this land were not dangerous enough, now we have that unholy bell to contend with.
-7430 : A perilous reality at best.
-7431 : Maybe we should return to the mothercrystal first.
-7432 : Have you any insight, Lion?
-7433 : Nothing but my gut. I can feel her...calling out to me.
-7434 : Lion? Wait!
-7435 : I know not what role she has to play, but her intimate bond with the future is beyond denial.
-7436 : Master, perhaps it would be best if we follow her.
-7437 : Master, perhaps Lion could provide us with the guidance that we so desperately require.
-7438 : Lion?
-7439 : My understanding is that none resonate with the mothercrystal more strongly than she.
-7440 : Your role in protecting our future is vital, Master, but Lion is of equal importance.
-7441 : She is with the crystal now, is she not?
-7442 : Then we must go. Hurry!
-7443 : Iroha? Wait!
-7444 : Light begins to shimmer and twist as you pass your hand over it.
-7445 : The blinding light obscures your vision of the world beyond.
-7446 : Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
-7447 : Travel to where? Nowhere for now. [Eschan Portal/Ethereal Ingress] #1. [Eschan Portal/Ethereal Ingress] #2. [Eschan Portal/Ethereal Ingress] #3. [Eschan Portal/Ethereal Ingress] #4. [Eschan Portal/Ethereal Ingress] #5. [Eschan Portal/Ethereal Ingress] #6. [Eschan Portal/Ethereal Ingress] #7. [Eschan Portal/Ethereal Ingress] #8. [Eschan Portal/Ethereal Ingress] #9. [Eschan Portal/Ethereal Ingress] #10. [Eschan Portal/Ethereal Ingress] #11. [Eschan Portal/Ethereal Ingress] #12. [Eschan Portal/Ethereal Ingress] #13. [Eschan Portal/Ethereal Ingress] #14. [Eschan Portal/Ethereal Ingress] #15.
-7448 : Traverse the light? (# silt) Let's do it. (# silt) Do not go into the light!
-7449 : You do not have enough escha silt.
-7450 : What do you do? Nothing for now. Use escha silt. Teleport using %. Teleport using %.
-7451 : Traverse the light? Let's do this. No, wait!
-7452 : You have used %.
-7453 : Soon as I set foot in this place I knew I was in fer a treat, but boy, word spreads fast to these adventurer types...
-7454 : Urk... Me? I'm, uh...Affi. And what does an ugly mug like you call yerself?
-7455 : %? Bwahaha, a better adventurer's name I've never heard!
-7456 : Surely you know what the Tenshodo is, %? Well, they sent me off to what was supposed to be this Goddessfersaken land...but there's far more coin to make out here than I've imagined.
-7457 : So loosen up your purse strings, because I've got sundries aplenty!
-7458 : Aye, I say coin to make, but that's a bit more metaphori-whatsit than physical. What I'm lookin' fer isn't gil, but a special substance known as escha silt.
-7459 : Dun' worry if you don't have any on you right now. Just go bash some skulls in over yonder, and you'll surely be able to...procure some from the corpses of the fallen.
-7460 : Oho! If it isn't my favorite adventurer. What can I do fer you today?
-7461 : Everything's got a price, my fine friend, most of all information. Grease my palms with # pinches of escha silt and we'll do business.
-7462 : A pleasure. A bloomin' pleasure.
-7463 : A bit big for our britches, aren't we? Then let me give you a little tip fer free--don't get killed.
-7464 : Hey now! I've gotta make sure I have enough % fer everyone. Only one per customer.
-7465 : % will run you # silt.
-7466 : What kinda dunce do you take me fer? That's not nearly enough silt!
-7467 : Always good doin' business with you, %.
-7468 : Now don' get me wrong--I'm more'n happy to take that vorseal off you. Just don't come cryin' because its powers have faded away!
-7469 : And if you want it back, well...it'll cost you. Business is business.
-7470 : Wanna know which seals you've got on you? Hmm...let's see...
-7471 : Sounds 'bout right to me.
-7472 : If it's % yer wantin', I'll need # escha silt.
-7473 : There you go! A finer % you'll never see!
-7474 : This place? We've taken to callin' it Escha, but I'll be damned if I can remember who came up with the name.
-7475 : The color's really off-puttin', wouldn't you say? Even the ground sends shivers up my spine. I'd be haulin' keister back to Jeuno with my tail between my legs if there wasn't a good 'mount of profit to be made.
-7476 : Goes without sayin' that the danger's not limited to the terrible pall of the land. The further in you go, the more ferocious the beasts get.
-7477 : Not that I expect that to stop you. If there's one thin' I can count on an adventurer doin', it's wadin' into the unknown and comin' back with more'n one fresh scar.
-7478 : You'll also find some really weird shiny portals hangin' about. I've been takin' to calling 'em eschan portals.
-7479 : A little bit o' hand wavin' and a sprinklin' or two o' silt, and before you know it you'll find yerself somewhere else. Whether you find it convenient or not depends a bit on yer worldview.
-7480 : Maybe yer a bit queasy 'bout the whole thin', but I promise there's a fair chance you'll come out whole.
-7481 : 'Sif I know how the blasted things work. I'm from the Tenshodo, not the Jeuno Institute of Magical Studies!
-7482 : And don't think you can just hop 'round wherever. You can only go bouncin' between places you've been to already. Anythin' else'd be a bit too dangerous.
-7483 : Escha silt is a fine powder found all 'round here, and scholars and academics all throughout Vana'diel are just itchin' to get their claws on some.
-7484 : So it goes a lil' somethin' like this: You find the silt, and sell it to me for stuff. Then I go back to Jeuno and give it to droolin' researchers for a tidy sum. Win-win-win.
-7485 : Not that I know a whit 'bout why the stuff is so special. As long as they pay me for it, I don't care if they build little silt castles outta it.
-7486 : Escha beads, huh? Can't say I'm familiar with the particulars.
-7487 : What I do know is that the luckier among yer lot sometimes find them amongst monsters that've fallen in battle.
-7488 : But I do know a couple people who'd be interested in the stuff--one o' my comrades in Norg, fer instance.
-7489 : He's pretty versed in the ways o' the west, so pay 'im a visit if you find yerself headin' o'er there.
-7490 : Ah, I knew you were a [man/woman] of discerning tastes! % are special pieces o' glass with a bunch o' surprisingly magical properties.
-7491 : They're pretty darn popular, and so my stocks are always a breath away from bein' totally wiped out.
-7492 : So in an effort to keep things a lil' more fair, subsequent purchases of % will cost you increasingly large amounts of escha silt.
-7493 : Whether you give 'em to loved ones as presents or use 'em for more esoteric purposes is up to you.
-7494 : And if you find the price is gettin' too steep, try comin' back a bit later. I may have happened upon some more in the meantime, lettin' me pass the savings on to you.
-7495 : But I got a bit off track. They aren't just fer decoratin' yer house. Together with grisly trinkets they can call forth some o' the most powerful baddies roamin' the land.
-7496 : Collect 'em all and head fer a particular place here in Escha and wham! Fresh meat fer the killin'.
-7497 : As I told you when we were talkin' 'bout %, grisly trinkets are needed to summon some o' the more ornery creatures prowling Escha.
-7498 : Would that it were as simple as findin' one and callin' it a day, but there are so many that my head spins from keepin' track o' 'em all.
-7499 : Implyin', o' course, that each monster requires a diff'rent item.
-7500 : I wrote up a couple notes on each one, so have a gander at 'em if you wanna know more.
-7501 : Seekin' knowledge on vorseals, hmm?
-7502 : Bwaha, these little charms are somethin' else. We imported them from the east, and they're more'n just pretty pieces o' paper.
-7503 : Put 'em in your backpack, string 'em round your neck--heck, insert 'em in yer boots for all I care--but just possessin' 'em will bestow you with a variety of special benefits.
-7504 : You won't find a better deal anywhere!
-7505 : There are only two lil' problems--they only work here in Escha, and wear out after sixty minutes (Earth time).
-7506 : But e'ry cloud has its silver linin', and in this case, it's that the seals themselves remain.
-7507 : Dun' ask me why, but leavin' Escha and comin' back recharges the seals' energies. Chalk it up to some unnatural force if you want, but that's how things are.
-7508 : If you don't want a particular seal anymore, just return it to me and I'll take it off yer hands.
-7509 : If you change yer mind and decide you want the seal back...it's gonna cost you. If you want charity, I suggest you head elsewhere.
-7510 : I might have more vorseals for sale if you check back later, so be sure to come'n pay me a visit periodically.
-7511 : Some o' the items I brought from the Tenshodo are a bit simpler in nature, but I'm still willin' to part with 'em.
-7512 : Gotta cover all my bases, y'know?
-7513 : My stock tends to fluctuate o'er time, so it might be in yer best interests to stop in every so often.
-7514 : And who knows--maybe I'll get accustomed to that ugly mug o' yers! Bwahaha!
-7515 : Get a gander o' these reapers!
-7516 : They can be used to procure all manner of stuff from the grimslights scattered around Escha.
-7517 : Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
-7518 : Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
-7519 : What do you do? Nothing for now. Obtain key items. View grisly trinket notes. Obtain a vorseal. Return a vorseal. Check vorseal blessings. Obtain temporary items. Hear various explanations.
-7520 : Pay silt? (current silt: #) Yes. (pay # silt) Maybe not.
-7521 : Choose which item? (silt: #) Never mind. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. Previous page. Next page.
-7522 : Pay silt? (current silt: #) Yes. (pay # silt) Maybe not.
-7523 : View which item? None. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7524 : Which do you choose? None. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7525 : # %.
-7526 : % requires the following items.
-7527 : View which item? None. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #.
-7528 : # %, or # ).
-7529 : Which do you choose? (# silt) No vorseals for now. [HP+, MP+/Regen+]: #/#. [Acc.+, Eva.+/Refresh+]: #/#. [DEF+/Acc.++]: #/#. [Atk.+, Rng. Atk.+/]: #/#. [Mag. Acc.+, Mag. Eva.+/]: #/#. [Mag. Def.+/]: #/#. [Mag. Atk.+/]: #/#. [DEX+, AGI+/]: #/#. [STR+, VIT+/]: #/#. [INT+, MND+, CHR+/]: #/#. [Occ. ignore damage/]: #/#. [Killer+/]: #/#. [Dmg. Taken-/]: #/#. [Spoils+/]: #/#. [Rare Enemy+/]: #/#. [Luck+/]: #/#. Previous page. Next page.
-7530 : How many would you like? (# silt) None for now. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. Previous page. Next page.
-7531 : Purchase this vorseal? (# silt) Ring me up. On second thought...
-7532 : The vorseal begins to pulse a vibrant blue!
-7533 : Return which vorseal? None of these. [HP+, MP+/Regen+]: #. [Acc.+, Eva.+/Refresh+]: #. [Def.+/Acc.++]: #. [Atk.+, Rng. Atk.+/]: #. [Mag. Acc.+, Mag. Eva.+/]: #. [Mag. Def.+/]: #. [Mag. Atk.+/]: #. [DEX+, AGI+/]: #. [STR+, VIT+/]: #. [INT+, MND+, CHR+/]: #. [Occ. ignore damage/]: #. [Killer+/]: #. [Dmg. taken -/]: #. [Spoils+/]: #. [Rare Enemy+/]: #. [Luck+/]: #. Previous page. Next page.
-7534 : Return the vorseal? Here you go. No. I still need it.
-7535 : You feel the vorseal's energy fade away.
-7536 : HP+, MP+: # seal[/s]. Acc.+, Eva.+: # seal[/s]. Def.+: # seal[/s]. Atk.+, Rng. Atk.+: # seal[/s].
-7537 : Mag. Atk, Mag. Eva.: # seal[/s]. Mag. Def.+: # seal[/s]. Mag. Atk.+: # seal[/s]. DEX+, AGI+: # seal[/s].
-7538 : STR+, VIT+: # seal[/s]. INT+, MND+, CHR+: # seal[/s]. Occ. ignore damage: # seal[/s]. Killer+: # seal[/s].
-7539 : Dmg. taken-: # seal[/s]. Rare enemy+: # seal[/s]. Luck+: # seal[/s].
-7540 : Regen+: # seal[/s]. Refresh+: # seal[/s]. Acc.++: # seal[/s].
-7541 : Which would you like? (# silt) Nothing. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. Previous page. Next page.
-7542 : Ask about what? Nothing. What is this place? What are [eschan portals/ethereal ingresses]? What is escha silt? What are escha beads? What are tribulenses? What are grisly trinkets? What are vorseals? What temporary items do you have?
-7543 : What would you like to do? Nothing in particular. [Receive elvorseal/Return elvorseal]. Teleport to the target monster. Check area blessings. Receive key items. View grisly trinket notes. Receive vorseals. Return vorseals. Check vorseal effects. Receive temporary items. Hear various explanations.
-7544 : [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
-7545 : Teleport to the target? I'm ready. Not quite yet.
-7546 : Ask about what? Nothing. What is this place? What are [eschan portals/ethereal ingresses]? What is escha silt? What are escha beads? What are tribulenses? What are grisly trinkets? What are vorseals? What temporary items do you have? What's with the book? What is this unusual monster?
-7547 : Ask about what? Nothing. About the monster. About elvorseals. About the dropped items. What happens if we defeat it?
-7548 : Which active blessing will you check? None of them. Go back. Temperance. Fortitude. Piety. Justice. Hope. Wisdom. Compassion. Dignity. Loyalty. Mercy. Courage.
-7549 : Temperance: Reduces the silt cost of eschan portals.
-7550 : Fortitude: Increases the status effects of vorseals.
-7551 : Piety: Increases the effect duration of vorseals.
-7552 : Justice: Increases Treasure Hunter ability by 1.
-7553 : Hope: Increases the chances of an emblazoned reliquary appearing.
-7554 : Wisdom: Increases the effect duration of food.
-7555 : Compassion: Increases the Refresh and Regen effects of vorseals.
-7556 : Dignity: Increases escha silt yields.
-7557 : Loyalty: Increases escha beads yields.
-7558 : Mercy: % and % have a chance of not being consumed.
-7559 : Courage: Increases the Rare enemy+ effects of vorseals.
-7560 : Ah, %, just the [guy/girl] I wanna see. And [he/she] couldn't have come at a better time!
-7561 : I just got orders from Norg to help put down a rather unusual monster that's [supposed to show up/shown up] here in Escha.
-7562 : If yer headed down there to join the fight, I've got somethin' here yer gonna like!
-7563 : First things first, yer gonna need one o' these.
-7564 : Ya can have that one fer free!
-7565 : Now there's a lot more to say about that elvorseal. Just ask if ya wanna hear more.
-7566 : What, you ain't gonna fight? Well I ain't gonna blame ya fer valuin' yer life, hah! I'll hold on to this fer now.
-7567 : With that elvorseal on ya, not only will ya be able to touch Azi Dahaka across the dimensional rift, but ya can teleport directly to 'im.
-7568 : Don' even ask me about dimensional rifts or how this thing works. Someone back at the Tenshodo tried to explain it to me, I was even payin' attention that time and I didn' get a lick of what he was sayin', so I doubt you'd do any better.
-7569 : If yer feelin' ready to take him on, I'll teleport ya there now. What'dya say?
-7570 : Hmph. Well come back and let me know when you['ve grown a pair/'re done playin' with yer dolls].
-7571 : Aye, that's what I wanna hear! One ticket to dragon land, best o' luck!
-7572 : Whoops! Almost forgot ta mention this.
-7573 : People say the faster ya cut down the monsters in that neck of the woods, the faster they'll reappear. Keep that in mind before gettin' carried away with the small fry.
-7574 : Just like on the outside, these days strange things've been goin' on in Escha.
-7575 : There's a strange monster I ain't never seen before been seen skulkin' about. Hard to say how long it'll be safe to be doin' business here at this rate.
-7576 : They call it Azi Dahaka. The weird thing is the big lizard always seems to show up in the same area and then disappears in a fixed pattern.
-7577 : Not only that, people are sayin' that the more ya defeat the monsters in the area, the faster he'll reappear.
-7578 : But here's where it really gets weird. Azi Dahaka doesn't exist in our dimension, at least, not quite. Even if the monster's standin' right in front of ya, yer weapons an' magic'll go right through it. O' course, that goes both ways. As long as the dimensional rift is there between us and the monster, it can't affect us.
-7579 : And before ya ask, let me tell ya that I am one-hundred-an'-one percent in favor o' just ignorin' the thing and gettin' back to business, but the man back in Norg's been breathin' down my neck to do somethin' about it. All about it ain't bein' good fer business, or Vana'diel, one o' those things.
-7580 : And that's where this thing comes in. It's called an elvorseal.
-7581 : This ain't no ordinary trinket. It's enchanted wi' blessings from one o' them shrines in the Far East.
-7582 : For a certain amount of time, it'll close the dimensional rift 'tween you an' the monster. Don' ask me how.
-7583 : Basically, as long as you've got that thing, yer weapons an' magic'll work on Azi Dahaka.
-7584 : 'Course, sometimes an extra special baddie'll come out to wreak havoc. Now that's a sight--especiall when they disappear just as fast as they came.
-7585 : There's just somethin' 'bout the Far East, y'know?
-7586 : It ain't yer garden-variety vorseal, this thing. It's enchanted wi' a blessin' from a shrine in the Far East.
-7587 : Now I ain't no expert on magic artifacts, so I don' know the details, but this'll close the rift 'tween you an' Azi Dahaka temporarily.
-7588 : In short, if ya have the thing, ya can fight the monster.
-7589 : Jus' be aware that I can't be handin' out these things to any rookies that come by. Ya need to be at a high enough level before you can handle Azi Dahaka.
-7590 : Each elvorseal's magic will only work once, though. If Azi Dahaka is beaten, it'll go up in smoke.
-7591 : The same thing'll happen if ya leave Escha. Don' worry too much, I got a bunch right here, so come and see me if ya need a new one.
-7592 : A group o' adventurers that was fightin' Azi Dahaka said they saw 'im drop stuff when they got in close durin' the fight.
-7593 : 'Course, if ya don't need waht you get from 'em, you can always give it to this guy in Norg. Said to be collectin' all things Escha.
-7594 : Well, the adventurers that came before ya have been reportin' that good things happen all around Escha after beatin' Azi Dahaka.
-7595 : Hey, you know about them mog tablet powers? Whatd'ya call them? It's kind o' like that, but fer Escha. These blessings affecting the area only seemed to show up after we started beatin' him.
-7596 : The area blessings can increase the amount of silt and beads ya can find here in Escha. They can also make portals eat up less o' your precious silt.
-7597 : That ain't the end of it, though.
-7598 : Beatin' Azi Dahaka once seems to increase the amount of stuff he drops when you fight 'im a second time. There are most definitely some perks to clobberin' that lizard for those of us in the Escha business. You get two birds wi' one stone, or, more like three. Hell, four birds if ya ask me.
-7599 : But it ain't all roses an' sunshine. Remember, every time ya clobber Azi Dahaka, he comes back a lil' bit stronger. Ya gotta know when to call it quits.
-7600 : That's pretty much the long an' short of it. So whad'ya say? We could use someone like you over there.
-7601 : Oh right, the area blessings. No problemo, might wanna jot these down so ya remember.
-7602 : These are the blessings currently in effect throughout the area...
-7603 : You may not be able to collect any rewards if you do not return.
-7604 : A new blessing is now in effect for the area.
-7605 : Which temporary item will you obtain? None of them. % % % % % % % % Destroy treasure chest.
-7606 : Which item will you obtain? None of them. % % % % % % % % Destroy treasure chest.
-7607 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
-7608 : Previous: # (# tr[y/ies] left) Do nothing. Twist number dial up. Twist number dial down.
-7609 : Your selection has been rendered void. Another party member has already made a selection.
-7610 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
-7611 : % used % to unlock the chest!
-7612 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
-7613 : The treasure chest has disappeared.
-7614 : What will you do? Do nothing. Attempt to unlock it. Destroy the chest.
-7615 : You obtain # pinch[/es] of escha silt.
-7616 : You obtain # escha bead[/s].
-7617 : %, are you aware of special charms known as nazars? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
-7618 : We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
-7619 : I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
-7620 : Ah, well done[ lad/]! What do you say--how's about that trinket?
-7621 : Would you like the new trinket? Of course! Not right now.
-7622 : And there you go. Treat it well.
-7623 : This % contains with it a tiny bit of puissance from the Far East.
-7624 : Don't go around manhandling it willy-nilly, or its energies might seep out.
-7625 : DEBUG: Raid evaluation: Condition #/subtotal #/total #.
-7626 : DEBUG: Overall assessment #.
-7627 : You obtain # pinch[/es] of escha silt.
-7628 : You obtain # pinch[/es] of escha silt.
-7629 : You obtain # escha bead[/s].
-7630 : You obtain # escha bead[/s].
-7631 : Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: #.
-7632 : Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: #.
-7633 : Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: #.
-7634 : Overall evaluation: #.
-7635 : You have received the maximum evaluation for this Domain Invasion category.
-7636 : You are now participating in a Domain Invasion.
-7637 : You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
-7638 : Your evaluation has been reset because you have strayed too far from the monster's spawn point.
-7639 : I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
-7640 : Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
-7641 : % has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
-7642 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
-7643 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: #x
-7644 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: #x
-7645 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: #x Boss Battle Prevention Bonus: #x
-7646 : % obtained # Domain Points!
-7647 : You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
-7648 : Any Domain points in excess of the maximum of # will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
-7649 : You will receive a bonus of # Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
-7650 : The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to # minute[/s].
-7651 : The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next # minute[/s].
-7652 : The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to # second[/s].
-7653 : Domain Points Acquired: #. Domain Points Held: #.
-7654 : Mireu is ready to fight once more.
-7655 : Mireu refused to give in.
-7656 : Mireu is now vulnerable!
-7657 : This thing here? It'll keep all those rarer, larger beasties away from ya.
-7658 : The effect'll only last while yer here in Escha, so keep that in mind!
-7659 : Now this here works jus' like a %; it lets ya draw out the particularly nasty breeds o' monsters that lurk 'round here.
-7660 : But here's the thing. This baby don't disappear after just one use. Instead, its effects'll last up to one hour, or until you leave Escha.
-7661 : Always a pleasure doin' business with ya! Don't forget ta grab a grisly trinket, too!
-7662 : That, eh? Adventurers kept askin' me about which grisly trinket monsters they brought down an' other records, so I put 'em all down in this handy book here.
-7663 : I've gotten ta callin' it Affi's Register of Deeds. Sounds nice an' official, don' ya think?
-7664 : Go an' take a gander! Ya can bet yer belt buckle that Affi knows how ta keep his customers happy!
-7665 : What will you verify? Nothing for now. Notorious monsters defeated. Victory tallies.
-7666 : Monsters Defeated in Escha - Zi'Tah. Go back. Wepwawet. [/] Lustful Lydia. [/] Aglaophotis. [/] Tangata Manu. [/] Vidala. [/] Gestalt. [/] Angrboda. [/] Cunnast. [/] Revetaur. [/] Ferrodon. [/] Gulltop. [/] Vyala. [/] Ionos. [/] Sensual Sandy. [/] Nosoi. [/] Brittlis. [/] Kamohoalii. [/] Umdhlebi. [/] Fleetstalker. [/] Shockmaw. [/] Urmahlullu. [/] Next Page.
-7667 : Monsters Defeated in Escha - Zi'Tah. Go back. Blazewing. [/] Bucca/Puca/Alpluachra. [/] Pazuzu. [/] Wrathare. [/] Previous page.
-7668 : Escha and Reisenjima Victory Tallies: Go back. Monsters defeated: #. Notorious monsters defeated: #. Defeated Azi Dahaka # time[/s]. Defeated Mireu # time[/s].
-7669 : The level of difficulty for this content is unknown.
-7670 : Proffer which item? None of these. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7671 : Commence battle? Yes. No.
-7672 : You are not the party leader.
-7673 : One or more members of your party are not in the appropriate staging zone.
-7674 : Your party does not meet the minimum member requirement of #.
-7675 : Unable to commence battle.
-7676 : One or more of your party members currently has an active fellow.
-7677 : One or more of your party members currently has an active alter ego.
-7678 : One or more members of your party is currently participating in other content.
-7679 : One or more of your party members is currently viewing a cutscene.
-7680 : All party members have been knocked out. Leaving the battle in # minute[/s].
-7681 : Your party leader is attempting to commence a battle.
-7682 : You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
-7683 : You have strayed too far away from the combat area and have been removed from battle.
-7684 : You have returned to the combat area.
-7685 : The time limit for this battle is # minute[/s].
-7686 : ime remaining: # [minute/minutes] (Earth time).
-7687 : ime remaining: # [second/seconds] (Earth time).
-7688 : Your time for this battle is up...
-7689 : The monster fades before your eyes, a look of disappointment on its face.
-7690 : You received the temporary item %!
-7691 : You will be able to engage in combat here if you possess % and a grisly trinket.
-7692 : The % [disappears/and the grisly trinket disappear]!
-7693 : The power of your vorseal wanes...
-7694 : A monster appears!
-7695 : You receive # pinch[/es] of escha silt.
-7696 : You receive # pinch[/es] of escha silt for a total of #.
-7697 : You receive # escha beads.
-7698 : You receive # escha beads for a total of #.
-7699 : The vorseal begins to glow softly.
-7700 : You do not sense the presence of that foe.
-7701 : One or more party members do not possess %.
-7702 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %.
-7703 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %.
-7704 : Obtain this item? Yes. No.
-7705 : Obtain this temporary item? Yes. No.
-7706 : % obtains %!
-7707 : You were unable to obtain the item.
-7708 : % obtains the temporary item: %!
-7709 : You already possess that temporary item.
-7710 : The chest is locked.
-7711 : What will you do? Leave it be. Attempt to unlock it.
-7712 : What will you do? (# chances remaining.) Give up. Enter a combination. Examine the lock.
-7713 : It appears that you can enter a two-digit combination between 10 and 99.
-7714 : You were unable to enter a combination.
-7715 : You have a hunch that the lock's combination is [greater/less] than #.
-7716 : % failed to open the lock.
-7717 : It appears that the correct combination was #.
-7718 : % succeeded in opening the lock!
-7719 : You have a hunch that the second digit is [even/odd].
-7720 : You have a hunch that the first digit is [even/odd].
-7721 : You have a hunch that the combination is greater than # and less than #.
-7722 : You have a hunch that the combination is less than #.
-7723 : You have a hunch that the combination is greater than #.
-7724 : You have a hunch that one of the two digits is #.
-7725 : You have a hunch that the second digit is #, #, or #.
-7726 : You have a hunch that the first digit is #, #, or #.
-7727 : You were unable to glean anything from your examination of the lock.
-7728 : Obtain this item?
-7729 : The monster was concealing a treasure chest!
-7737 : # # # # # # # #
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7058 : Word has been received of a Troll threat in Wajaom Woodlands.
+7059 : Word has been received of an undead threat in Bhaflau Thickets.
+7060 : Tallying conquest results...
+7061 : Conquest results tallied.
+7062 : This region is currently under San d'Orian control.
+7063 : This region is currently under Bastokan control.
+7064 : This region is currently under Windurstian control.
+7065 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7066 : This region is currently neutral.
+7067 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7068 : All three nations are tied for first place.
+7069 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7070 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7072 : All three nations are tied for first place.
+7073 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7074 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7076 : All three nations are tied for first place.
+7077 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7078 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7079 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7080 : All three nations are tied for first place.
+7081 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7082 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7084 : Global balance of power: All three nations are tied for first place.
+7085 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7086 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7087 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7088 : All three nations are tied for first place.
+7089 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7090 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7091 : Conquest update: This region is currently neutral.
+7092 : Conquest update: This region is currently under San d'Orian control.
+7093 : Conquest update: This region is currently under Bastokan control.
+7094 : Conquest update: This region is currently under Windurstian control.
+7095 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7096 : All three nations are at a deadlock.
+7097 : The beastmen are on the rise.
+7098 : Regional influence: San d'Oria - Dominant
+7099 : Regional influence: San d'Oria - Major
+7100 : Regional influence: San d'Oria - Minor
+7101 : Regional influence: San d'Oria - Minimal
+7102 : Bastok - Dominant
+7103 : Bastok - Major
+7104 : Bastok - Minor
+7105 : Bastok - Minimal
+7106 : Windurst - Dominant
+7107 : Windurst - Major
+7108 : Windurst - Minor
+7109 : Windurst - Minimal
+7110 : Bastok and Windurst have formed an alliance.
+7111 : San d'Oria and Windurst have formed an alliance.
+7112 : San d'Oria and Bastok have formed an alliance.
+7113 : Bastok and Windurst are currently allies.
+7114 : San d'Oria and Windurst are currently allies.
+7115 : San d'Oria and Bastok are currently allies.
+7116 : # #
+7117 : # % #
+7118 : ITEM_ID:# :#
+7119 : :# :#
+7120 : [//]:[////] :#:#
+7121 : The beastmen are gaining power.
+7122 : San d'Oria's regional control is now 10% closer to the first place country's!
+7123 : Bastok's regional control is now 10% closer to the first place country's!
+7124 : Windurst's regional control are now 10% closer to the first place country's!
+7125 : San d'Oria's region points have increased!
+7126 : Bastok's region points have increased!
+7127 : Windurst's region points have increased!
+7128 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7129 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7130 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7131 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7132 : A Bastokan Expeditionary Force has been dispatched to this area.
+7133 : A Windurstian Expeditionary Force has been dispatched to this area.
+7134 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7135 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7136 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7137 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7138 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7139 : There was a curse on the beastmen's banner!
+7140 : The curse of the beastmen's banner has been lifted!
+7141 : There is a beastmen's banner.
+7217 : # #
+7218 : # #
+7219 : You can't fish here.
+7220 : You can't fish without a rod in your hands.
+7221 : You can't fish without bait on the hook.
+7222 : You can't fish at the moment.
+7223 : You didn't catch anything.
+7224 : % caught a monster!
+7225 : Your line breaks.
+7226 : Your rod breaks.
+7227 : Something caught the hook!
+7228 : You lost your catch.
+7229 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7230 : You feel there's something here.
+7231 : You feel there's something nearby.
+7232 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7233 : % caught  %!
+7234 : You dig and you dig, but find nothing.
+7235 : #/%
+7236 : Your rod breaks. Whatever caught the hook was pretty big.
+7237 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7238 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7239 : You lost your catch due to your lack of skill.
+7240 : Number fished : # Original Dice No. ## Result # (0=caught)
+7241 : You didn't catch anything.
+7242 : The paper on your % ripped.
+7243 : A tiny goldfish approaches!
+7244 : A plump, black goldfish approaches!
+7245 : A fat, juicy goldfish approaches!
+7246 : There are no goldfish to be found...
+7247 : % caught %, but cannot carry any more items. % regretfully releases it.
+7248 : The goldfish slipped off your scoop...
+7249 : ch# skill up check.
+7250 : a:#.
+7251 : Time # / Status # / #
+7252 : d:#. e:#. f:#. g:#.
+7253 : h: #. i: #. sr: #.
+7254 : j:#. k:#.
+7255 : You give up and reel in your line.
+7256 : You give up.
+7257 : % obtains # gil.
+7258 : % caught %!
+7259 : You don't know how much longer you can keep this one on the line...
+7260 : You have a good feeling about this one!
+7261 : You have a bad feeling about this one.
+7262 : You have a terrible feeling about this one...
+7263 : You don't know if you have enough skill to reel this one in.
+7264 : You're fairly sure you don't have enough skill to reel this one in.
+7265 : You're positive you don't have enough skill to reel this one in!
+7266 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7267 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7268 : l: #. m: #. n: #. CH: #.
+7269 : Something caught the hook!!!
+7270 : You feel something pulling at your line.
+7271 : Something clamps onto your line ferociously!
+7272 : Your keen angler's senses tell you that this is the pull of %!
+7273 : This strength... You get the sense that you are on the verge of an epic catch!
+7274 : The timer has started. # seconds remaining.
+7275 : #sec.#/#sec.
+7276 : 0:# 1:# 2:# 3:#
+7277 : 4:# 5:# 6:# 7:#
+7278 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7279 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7280 : #/#(#
+7281 : Version invalid error!
+7282 : Hurry before the goldfish sees you!
+7283 : % fishes up a large box!
+7285 : Fish No# / Bait No# / Hit# >>> #
+7286 : Point# >>> #
+7287 : %(#) skill#
+7288 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7289 : Im Rnd : # Pz Rnd : #
+7290 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7291 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7292 : skill : # size : # kind : # sch : #
+7293 : time : # mes : # flag : # bonus : #
+7294 : item : # hp : # pow : # swing : #
+7295 : suc : # cons : # weight : # +- : #
+7296 : speed : # +- : # exc : # client : #
+7297 : general : #
+7298 : ro:# rs:# ps:# dt:#
+7299 : ra:# ti:#
+7300 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7301 : You get the distinct sense that your moogle friend frequents this spot...
+7302 : You have a feeling that your moogle friend has been through this way...
+7303 : You suspect that the scenery around here would be to a moogle's liking...
+7304 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7305 : You have a hunch that this area would be favored by moogles...
+7306 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7307 : % catches # %!
+7308 : % obtained %!
+7309 : It appears your chocobo found this item with ease.
+7310 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7311 : FPT # DPT # DoT#
+7312 : FPT # TDPT # h#
+7313 : You cannot fish at this time.
+7314 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7315 : You discover a cache of beastman resources and receive # Imperial Standing!
+7316 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7317 : You receive # bayld!
+7318 : Your chocobo refuses to partake of the %.
+7319 : You may be able to procure something from here if you have %.
+7320 : Chance of breaking: #/10000
+7321 : Your % breaks!
+7322 : You successfully procure %!
+7323 : You procure %, but your % breaks in the process.
+7324 : You are unable to procure anything.
+7325 : You cannot carry any more items. Your inventory is full.
+7326 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+7327 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
+7328 : You have returned to the field of battle.
+7329 : You have # [minute/minutes] (Earth time) to complete the battle.
+7330 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
+7331 : You have only # [second/seconds] (Earth time) remaining.
+7332 : Your time for this Confrontation is up...
+7333 : The monster fades before your eyes, a look of disappointment on its face.
+7334 : (Test message.)
+7335 : Enter the garrison? Yes. No.
+7336 : The % is ripped violently to pieces!
+7337 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+7338 : Hark! Our foe lurks thither. How wouldst thou proceed?
+7339 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
+7340 : Our foe advances...may thine aim be true!
+7341 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+7342 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+7343 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
+7344 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
+7345 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
+7346 : Beaucedine Glacier: [////] Xarcabard: [////]
+7347 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+7348 : Greetings, traveler! How dost thou fare in thine adventures?
+7349 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+7350 : Dost thou find this enchantment to thy liking?
+7351 : Accept the item? Accept. Refuse. (# times remaining)
+7352 : Splendid! May it serve thee well.
+7353 : % obtained %!
+7354 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+7355 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+7356 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
+7357 : Though it may fall short of thy expectations, pray accept it.
+7358 : Otherwise, we shall have no choice but to dispose of it.
+7359 : Many thanks for thine assistance!
+7360 : Pray accept this % as but a humble token of our gratitude.
+7366 : There is nothing out of the ordinary here.
+7367 : You can hear a strange voice... Items, items, la la la la la
+7368 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7369 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7370 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7371 : Now, listen close...
+7372 : Oh... Well, if that's the case, I'm outta here.
+7373 : The Goblin slipped away when you were not looking...
+7374 : You can hear a strange, raspy voice...
+7375 : I travel......hear lots... Hear...stories... Can tell...if...
+7376 : .........listen......
+7377 : Oh...... ...outta here.........
+7378 : Do you want to hear a story? No, thank you. Let's hear one.
+7379 : What story would you like to be told? On second thought, maybe later. A Land After Time(pt.1). A Land After Time(pt.2).
+7383 : Lady Lion!
+7384 : %!
+7385 : And who is this?
+7386 : So you're the one who's joined us from the future.
+7387 : I'm not one to put stock in fairy tales, yet here we are in this alternate dimension...so I'm willing to believe your tale.
+7388 : I suppose there are worse outcomes when being sucked up by a vortex.
+7389 : And look who saved me.
+7390 : Don't let your guard down for a second. This may look like the Sanctuary of Zi'Tah, but it is not the one we know.
+7391 : Where are we?
+7392 : The Sanctuary of Zi'Tah...but not the one we know.
+7393 : Are you the one known as Zeid?
+7394 : That is right. And you must be Iroha--Aldo has told me much about you.
+7395 : I knew I had to investigate as soon as I heard something was amiss.
+7396 : The only color here is the color of death.
+7397 : This empty husk is void of anything that we could call nature.
+7398 : The first thing I noticed about this place is its striking resemblance to the Sanctuary of Zi'Tah, located in northeastern Mindartia.
+7399 : Zi'Tah...yes, I have run across that name several times before.
+7400 : Yes, it was when the master first visited Reisenjima.
+7401 : [He/She] said there was a sanctuary there, much like one in my homeland.
+7402 : Those chosen by the mothercrystal may enter a holy shrine deep within the Sanctuary to receive the protection of the Dawnmaidens.
+7403 : I had envisioned it to be more bursting with splendor...
+7404 : Its layout and features resemble Zi'Tah, of that there can be no doubt. Yet the magic and warmth are gone, like we are in a different world entirely.
+7405 : ...Or is this the future?
+7406 : I do not believe so.
+7407 : If the coming Emptiness is to swallow the world, then I would be more inclined to believe that we are catching a glimpse of what that swallowed world would be like.
+7408 : Did you hear that?
+7409 : A...bell? But where...?
+7410 : Urk...
+7411 : Who goes there?
+7412 : Zeid[/, Lion]! Please, stay with us!
+7413 : Something foul is afoot. The world blurred and I took leave of myself.
+7414 : You were under its thrall.
+7415 : It gives me chills just thinking about it.
+7416 : If the clamoring has ceased, then we may yet find respite.
+7417 : Master, this may be the world we refer to as Escha.
+7418 : I still have much to learn, but your words that day will always stay with me:
+7419 : When the darkness first came, the Middle Lands were the first to be assaulted. Swaths of land were consumed, leaving a colorless landscape where life once thrived.
+7420 : It marked the beginning of the end.
+7421 : And that world, you said, was known as Escha.
+7422 : Yet the annals say that the Emptiness first started to appear many years hence.
+7423 : So why now? Why here?
+7424 : What if...history were being rewritten?
+7425 : It could be that my returning to your time has placed a stick in the wheel of fate.
+7426 : Has the darkness come with me?
+7427 : Though this may sound counterintuitive, I fear we must change the future if we are to save the past.
+7428 : You are right. That is rather difficult to wrap my head around.
+7429 : Iroha, is there no way to purge this Escha from our land?
+7430 : Would that I had the answers you seek.
+7431 : Then only one path lies open to us: figure out what we can for ourselves.
+7432 : As if this land were not dangerous enough, now we have that unholy bell to contend with.
+7433 : A perilous reality at best.
+7434 : Maybe we should return to the mothercrystal first.
+7435 : Have you any insight, Lion?
+7436 : Nothing but my gut. I can feel her...calling out to me.
+7437 : Lion? Wait!
+7438 : I know not what role she has to play, but her intimate bond with the future is beyond denial.
+7439 : Master, perhaps it would be best if we follow her.
+7440 : Master, perhaps Lion could provide us with the guidance that we so desperately require.
+7441 : Lion?
+7442 : My understanding is that none resonate with the mothercrystal more strongly than she.
+7443 : Your role in protecting our future is vital, Master, but Lion is of equal importance.
+7444 : She is with the crystal now, is she not?
+7445 : Then we must go. Hurry!
+7446 : Iroha? Wait!
+7447 : Light begins to shimmer and twist as you pass your hand over it.
+7448 : The blinding light obscures your vision of the world beyond.
+7449 : Your pinches of escha silt trigger a faint reaction in the light, granting a small glimpse of what lies beyond.
+7450 : Travel to where? Nowhere for now. [Eschan Portal/Ethereal Ingress] #1. [Eschan Portal/Ethereal Ingress] #2. [Eschan Portal/Ethereal Ingress] #3. [Eschan Portal/Ethereal Ingress] #4. [Eschan Portal/Ethereal Ingress] #5. [Eschan Portal/Ethereal Ingress] #6. [Eschan Portal/Ethereal Ingress] #7. [Eschan Portal/Ethereal Ingress] #8. [Eschan Portal/Ethereal Ingress] #9. [Eschan Portal/Ethereal Ingress] #10. [Eschan Portal/Ethereal Ingress] #11. [Eschan Portal/Ethereal Ingress] #12. [Eschan Portal/Ethereal Ingress] #13. [Eschan Portal/Ethereal Ingress] #14. [Eschan Portal/Ethereal Ingress] #15.
+7451 : Traverse the light? (# silt) Let's do it. (# silt) Do not go into the light!
+7452 : You do not have enough escha silt.
+7453 : What do you do? Nothing for now. Use escha silt. Teleport using %. Teleport using %.
+7454 : Traverse the light? Let's do this. No, wait!
+7455 : You have used %.
+7456 : Soon as I set foot in this place I knew I was in fer a treat, but boy, word spreads fast to these adventurer types...
+7457 : Urk... Me? I'm, uh...Affi. And what does an ugly mug like you call yerself?
+7458 : %? Bwahaha, a better adventurer's name I've never heard!
+7459 : Surely you know what the Tenshodo is, %? Well, they sent me off to what was supposed to be this Goddessfersaken land...but there's far more coin to make out here than I've imagined.
+7460 : So loosen up your purse strings, because I've got sundries aplenty!
+7461 : Aye, I say coin to make, but that's a bit more metaphori-whatsit than physical. What I'm lookin' fer isn't gil, but a special substance known as escha silt.
+7462 : Dun' worry if you don't have any on you right now. Just go bash some skulls in over yonder, and you'll surely be able to...procure some from the corpses of the fallen.
+7463 : Oho! If it isn't my favorite adventurer. What can I do fer you today?
+7464 : Everything's got a price, my fine friend, most of all information. Grease my palms with # pinches of escha silt and we'll do business.
+7465 : A pleasure. A bloomin' pleasure.
+7466 : A bit big for our britches, aren't we? Then let me give you a little tip fer free--don't get killed.
+7467 : Hey now! I've gotta make sure I have enough % fer everyone. Only one per customer.
+7468 : % will run you # silt.
+7469 : What kinda dunce do you take me fer? That's not nearly enough silt!
+7470 : Always good doin' business with you, %.
+7471 : Now don' get me wrong--I'm more'n happy to take that vorseal off you. Just don't come cryin' because its powers have faded away!
+7472 : And if you want it back, well...it'll cost you. Business is business.
+7473 : Wanna know which seals you've got on you? Hmm...let's see...
+7474 : Sounds 'bout right to me.
+7475 : If it's % yer wantin', I'll need # escha silt.
+7476 : There you go! A finer % you'll never see!
+7477 : This place? We've taken to callin' it Escha, but I'll be damned if I can remember who came up with the name.
+7478 : The color's really off-puttin', wouldn't you say? Even the ground sends shivers up my spine. I'd be haulin' keister back to Jeuno with my tail between my legs if there wasn't a good 'mount of profit to be made.
+7479 : Goes without sayin' that the danger's not limited to the terrible pall of the land. The further in you go, the more ferocious the beasts get.
+7480 : Not that I expect that to stop you. If there's one thin' I can count on an adventurer doin', it's wadin' into the unknown and comin' back with more'n one fresh scar.
+7481 : You'll also find some really weird shiny portals hangin' about. I've been takin' to calling 'em eschan portals.
+7482 : A little bit o' hand wavin' and a sprinklin' or two o' silt, and before you know it you'll find yerself somewhere else. Whether you find it convenient or not depends a bit on yer worldview.
+7483 : Maybe yer a bit queasy 'bout the whole thin', but I promise there's a fair chance you'll come out whole.
+7484 : 'Sif I know how the blasted things work. I'm from the Tenshodo, not the Jeuno Institute of Magical Studies!
+7485 : And don't think you can just hop 'round wherever. You can only go bouncin' between places you've been to already. Anythin' else'd be a bit too dangerous.
+7486 : Escha silt is a fine powder found all 'round here, and scholars and academics all throughout Vana'diel are just itchin' to get their claws on some.
+7487 : So it goes a lil' somethin' like this: You find the silt, and sell it to me for stuff. Then I go back to Jeuno and give it to droolin' researchers for a tidy sum. Win-win-win.
+7488 : Not that I know a whit 'bout why the stuff is so special. As long as they pay me for it, I don't care if they build little silt castles outta it.
+7489 : Escha beads, huh? Can't say I'm familiar with the particulars.
+7490 : What I do know is that the luckier among yer lot sometimes find them amongst monsters that've fallen in battle.
+7491 : But I do know a couple people who'd be interested in the stuff--one o' my comrades in Norg, fer instance.
+7492 : He's pretty versed in the ways o' the west, so pay 'im a visit if you find yerself headin' o'er there.
+7493 : Ah, I knew you were a [man/woman] of discerning tastes! % are special pieces o' glass with a bunch o' surprisingly magical properties.
+7494 : They're pretty darn popular, and so my stocks are always a breath away from bein' totally wiped out.
+7495 : So in an effort to keep things a lil' more fair, subsequent purchases of % will cost you increasingly large amounts of escha silt.
+7496 : Whether you give 'em to loved ones as presents or use 'em for more esoteric purposes is up to you.
+7497 : And if you find the price is gettin' too steep, try comin' back a bit later. I may have happened upon some more in the meantime, lettin' me pass the savings on to you.
+7498 : But I got a bit off track. They aren't just fer decoratin' yer house. Together with grisly trinkets they can call forth some o' the most powerful baddies roamin' the land.
+7499 : Collect 'em all and head fer a particular place here in Escha and wham! Fresh meat fer the killin'.
+7500 : As I told you when we were talkin' 'bout %, grisly trinkets are needed to summon some o' the more ornery creatures prowling Escha.
+7501 : Would that it were as simple as findin' one and callin' it a day, but there are so many that my head spins from keepin' track o' 'em all.
+7502 : Implyin', o' course, that each monster requires a diff'rent item.
+7503 : I wrote up a couple notes on each one, so have a gander at 'em if you wanna know more.
+7504 : Seekin' knowledge on vorseals, hmm?
+7505 : Bwaha, these little charms are somethin' else. We imported them from the east, and they're more'n just pretty pieces o' paper.
+7506 : Put 'em in your backpack, string 'em round your neck--heck, insert 'em in yer boots for all I care--but just possessin' 'em will bestow you with a variety of special benefits.
+7507 : You won't find a better deal anywhere!
+7508 : There are only two lil' problems--they only work here in Escha, and wear out after sixty minutes (Earth time).
+7509 : But e'ry cloud has its silver linin', and in this case, it's that the seals themselves remain.
+7510 : Dun' ask me why, but leavin' Escha and comin' back recharges the seals' energies. Chalk it up to some unnatural force if you want, but that's how things are.
+7511 : If you don't want a particular seal anymore, just return it to me and I'll take it off yer hands.
+7512 : If you change yer mind and decide you want the seal back...it's gonna cost you. If you want charity, I suggest you head elsewhere.
+7513 : I might have more vorseals for sale if you check back later, so be sure to come'n pay me a visit periodically.
+7514 : Some o' the items I brought from the Tenshodo are a bit simpler in nature, but I'm still willin' to part with 'em.
+7515 : Gotta cover all my bases, y'know?
+7516 : My stock tends to fluctuate o'er time, so it might be in yer best interests to stop in every so often.
+7517 : And who knows--maybe I'll get accustomed to that ugly mug o' yers! Bwahaha!
+7518 : Get a gander o' these reapers!
+7519 : They can be used to procure all manner of stuff from the grimslights scattered around Escha.
+7520 : Hoho, bet yer happy now that you ain't got escha silt and beads pourin' out o' yer pockets anymore!
+7521 : Nothin's more important than storage! Wi' one of these beauties ya can carry more silt an' beads.
+7522 : What do you do? Nothing for now. Obtain key items. View grisly trinket notes. Obtain a vorseal. Return a vorseal. Check vorseal blessings. Obtain temporary items. Hear various explanations.
+7523 : Pay silt? (current silt: #) Yes. (pay # silt) Maybe not.
+7524 : Choose which item? (silt: #) Never mind. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. Previous page. Next page.
+7525 : Pay silt? (current silt: #) Yes. (pay # silt) Maybe not.
+7526 : View which item? None. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7527 : Which do you choose? None. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7528 : # %.
+7529 : % requires the following items.
+7530 : View which item? None. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #.
+7531 : # %, or # %.
+7532 : Which do you choose? (# silt) No vorseals for now. [HP+, MP+/Regen+]: #/#. [Acc.+, Eva.+/Refresh+]: #/#. [DEF+/Acc.++]: #/#. [Atk.+, Rng. Atk.+/]: #/#. [Mag. Acc.+, Mag. Eva.+/]: #/#. [Mag. Def.+/]: #/#. [Mag. Atk.+/]: #/#. [DEX+, AGI+/]: #/#. [STR+, VIT+/]: #/#. [INT+, MND+, CHR+/]: #/#. [Occ. ignore damage/]: #/#. [Killer+/]: #/#. [Dmg. Taken-/]: #/#. [Spoils+/]: #/#. [Rare Enemy+/]: #/#. [Luck+/]: #/#. Previous page. Next page.
+7533 : How many would you like? (# silt) None for now. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. # seal[/s]: # silt. Previous page. Next page.
+7534 : Purchase this vorseal? (# silt) Ring me up. On second thought...
+7535 : The vorseal begins to pulse a vibrant blue!
+7536 : Return which vorseal? None of these. [HP+, MP+/Regen+]: #. [Acc.+, Eva.+/Refresh+]: #. [Def.+/Acc.++]: #. [Atk.+, Rng. Atk.+/]: #. [Mag. Acc.+, Mag. Eva.+/]: #. [Mag. Def.+/]: #. [Mag. Atk.+/]: #. [DEX+, AGI+/]: #. [STR+, VIT+/]: #. [INT+, MND+, CHR+/]: #. [Occ. ignore damage/]: #. [Killer+/]: #. [Dmg. taken -/]: #. [Spoils+/]: #. [Rare Enemy+/]: #. [Luck+/]: #. Previous page. Next page.
+7537 : Return the vorseal? Here you go. No. I still need it.
+7538 : You feel the vorseal's energy fade away.
+7539 : HP+, MP+: # seal[/s]. Acc.+, Eva.+: # seal[/s]. Def.+: # seal[/s]. Atk.+, Rng. Atk.+: # seal[/s].
+7540 : Mag. Atk, Mag. Eva.: # seal[/s]. Mag. Def.+: # seal[/s]. Mag. Atk.+: # seal[/s]. DEX+, AGI+: # seal[/s].
+7541 : STR+, VIT+: # seal[/s]. INT+, MND+, CHR+: # seal[/s]. Occ. ignore damage: # seal[/s]. Killer+: # seal[/s].
+7542 : Dmg. taken-: # seal[/s]. Rare enemy+: # seal[/s]. Luck+: # seal[/s].
+7543 : Regen+: # seal[/s]. Refresh+: # seal[/s]. Acc.++: # seal[/s].
+7544 : Which would you like? (# silt) Nothing. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. %: # silt. Previous page. Next page.
+7545 : Ask about what? Nothing. What is this place? What are [eschan portals/ethereal ingresses]? What is escha silt? What are escha beads? What are tribulenses? What are grisly trinkets? What are vorseals? What temporary items do you have?
+7546 : What would you like to do? Nothing in particular. [Receive elvorseal/Return elvorseal]. Teleport to the target monster. Check area blessings. Receive key items. View grisly trinket notes. Receive vorseals. Return vorseals. Check vorseal effects. Receive temporary items. Hear various explanations.
+7547 : [You feel the warmth of the elvorseal's divine protection./The warmth of the elvorseal fades away.]
+7548 : Teleport to the target? I'm ready. Not quite yet.
+7549 : Ask about what? Nothing. What is this place? What are [eschan portals/ethereal ingresses]? What is escha silt? What are escha beads? What are tribulenses? What are grisly trinkets? What are vorseals? What temporary items do you have? What's with the book? What is this unusual monster?
+7550 : Ask about what? Nothing. About the monster. About elvorseals. About the dropped items. What happens if we defeat it?
+7551 : Which active blessing will you check? None of them. Go back. Temperance. Fortitude. Piety. Justice. Hope. Wisdom. Compassion. Dignity. Loyalty. Mercy. Courage.
+7552 : Temperance: Reduces the silt cost of eschan portals.
+7553 : Fortitude: Increases the status effects of vorseals.
+7554 : Piety: Increases the effect duration of vorseals.
+7555 : Justice: Increases Treasure Hunter ability by 1.
+7556 : Hope: Increases the chances of an emblazoned reliquary appearing.
+7557 : Wisdom: Increases the effect duration of food.
+7558 : Compassion: Increases the Refresh and Regen effects of vorseals.
+7559 : Dignity: Increases escha silt yields.
+7560 : Loyalty: Increases escha beads yields.
+7561 : Mercy: % and % have a chance of not being consumed.
+7562 : Courage: Increases the Rare enemy+ effects of vorseals.
+7563 : Ah, %, just the [guy/girl] I wanna see. And [he/she] couldn't have come at a better time!
+7564 : I just got orders from Norg to help put down a rather unusual monster that's [supposed to show up/shown up] here in Escha.
+7565 : If yer headed down there to join the fight, I've got somethin' here yer gonna like!
+7566 : First things first, yer gonna need one o' these.
+7567 : Ya can have that one fer free!
+7568 : Now there's a lot more to say about that elvorseal. Just ask if ya wanna hear more.
+7569 : What, you ain't gonna fight? Well I ain't gonna blame ya fer valuin' yer life, hah! I'll hold on to this fer now.
+7570 : With that elvorseal on ya, not only will ya be able to touch Azi Dahaka across the dimensional rift, but ya can teleport directly to 'im.
+7571 : Don' even ask me about dimensional rifts or how this thing works. Someone back at the Tenshodo tried to explain it to me, I was even payin' attention that time and I didn' get a lick of what he was sayin', so I doubt you'd do any better.
+7572 : If yer feelin' ready to take him on, I'll teleport ya there now. What'dya say?
+7573 : Hmph. Well come back and let me know when you['ve grown a pair/'re done playin' with yer dolls].
+7574 : Aye, that's what I wanna hear! One ticket to dragon land, best o' luck!
+7575 : Whoops! Almost forgot ta mention this.
+7576 : People say the faster ya cut down the monsters in that neck of the woods, the faster they'll reappear. Keep that in mind before gettin' carried away with the small fry.
+7577 : Just like on the outside, these days strange things've been goin' on in Escha.
+7578 : There's a strange monster I ain't never seen before been seen skulkin' about. Hard to say how long it'll be safe to be doin' business here at this rate.
+7579 : They call it Azi Dahaka. The weird thing is the big lizard always seems to show up in the same area and then disappears in a fixed pattern.
+7580 : Not only that, people are sayin' that the more ya defeat the monsters in the area, the faster he'll reappear.
+7581 : But here's where it really gets weird. Azi Dahaka doesn't exist in our dimension, at least, not quite. Even if the monster's standin' right in front of ya, yer weapons an' magic'll go right through it. O' course, that goes both ways. As long as the dimensional rift is there between us and the monster, it can't affect us.
+7582 : And before ya ask, let me tell ya that I am one-hundred-an'-one percent in favor o' just ignorin' the thing and gettin' back to business, but the man back in Norg's been breathin' down my neck to do somethin' about it. All about it ain't bein' good fer business, or Vana'diel, one o' those things.
+7583 : And that's where this thing comes in. It's called an elvorseal.
+7584 : This ain't no ordinary trinket. It's enchanted wi' blessings from one o' them shrines in the Far East.
+7585 : For a certain amount of time, it'll close the dimensional rift 'tween you an' the monster. Don' ask me how.
+7586 : Basically, as long as you've got that thing, yer weapons an' magic'll work on Azi Dahaka.
+7587 : 'Course, sometimes an extra special baddie'll come out to wreak havoc. Now that's a sight--especiall when they disappear just as fast as they came.
+7588 : There's just somethin' 'bout the Far East, y'know?
+7589 : It ain't yer garden-variety vorseal, this thing. It's enchanted wi' a blessin' from a shrine in the Far East.
+7590 : Now I ain't no expert on magic artifacts, so I don' know the details, but this'll close the rift 'tween you an' Azi Dahaka temporarily.
+7591 : In short, if ya have the thing, ya can fight the monster.
+7592 : Jus' be aware that I can't be handin' out these things to any rookies that come by. Ya need to be at a high enough level before you can handle Azi Dahaka.
+7593 : Each elvorseal's magic will only work once, though. If Azi Dahaka is beaten, it'll go up in smoke.
+7594 : The same thing'll happen if ya leave Escha. Don' worry too much, I got a bunch right here, so come and see me if ya need a new one.
+7595 : A group o' adventurers that was fightin' Azi Dahaka said they saw 'im drop stuff when they got in close durin' the fight.
+7596 : 'Course, if ya don't need waht you get from 'em, you can always give it to this guy in Norg. Said to be collectin' all things Escha.
+7597 : Well, the adventurers that came before ya have been reportin' that good things happen all around Escha after beatin' Azi Dahaka.
+7598 : Hey, you know about them mog tablet powers? Whatd'ya call them? It's kind o' like that, but fer Escha. These blessings affecting the area only seemed to show up after we started beatin' him.
+7599 : The area blessings can increase the amount of silt and beads ya can find here in Escha. They can also make portals eat up less o' your precious silt.
+7600 : That ain't the end of it, though.
+7601 : Beatin' Azi Dahaka once seems to increase the amount of stuff he drops when you fight 'im a second time. There are most definitely some perks to clobberin' that lizard for those of us in the Escha business. You get two birds wi' one stone, or, more like three. Hell, four birds if ya ask me.
+7602 : But it ain't all roses an' sunshine. Remember, every time ya clobber Azi Dahaka, he comes back a lil' bit stronger. Ya gotta know when to call it quits.
+7603 : That's pretty much the long an' short of it. So whad'ya say? We could use someone like you over there.
+7604 : Oh right, the area blessings. No problemo, might wanna jot these down so ya remember.
+7605 : These are the blessings currently in effect throughout the area...
+7606 : You may not be able to collect any rewards if you do not return.
+7607 : A new blessing is now in effect for the area.
+7608 : Which temporary item will you obtain? None of them. % % % % % % % % Destroy treasure chest.
+7609 : Which item will you obtain? None of them. % % % % % % % % Destroy treasure chest.
+7610 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
+7611 : Previous: # (# tr[y/ies] left) Do nothing. Twist number dial up. Twist number dial down.
+7612 : Your selection has been rendered void. Another party member has already made a selection.
+7613 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
+7614 : % used % to unlock the chest!
+7615 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
+7616 : The treasure chest has disappeared.
+7617 : What will you do? Do nothing. Attempt to unlock it. Destroy the chest.
+7618 : You obtain # pinch[/es] of escha silt.
+7619 : You obtain # escha bead[/s].
+7620 : %, are you aware of special charms known as nazars? There are a total of ten of them, and they can be found on various fearsome foes prowling around Escha.
+7621 : We hadn't learned about them until recently, when I got word from one of the higher-ups about their existence. Bring me one of each and I'll be able to furnish you with an extra-special grisly trinket.
+7622 : I figured maybe you'd have them all by now, but...turns out I was wrong. Come back once you've found all ten.
+7623 : Ah, well done[ lad/]! What do you say--how's about that trinket?
+7624 : Would you like the new trinket? Of course! Not right now.
+7625 : And there you go. Treat it well.
+7626 : This % contains with it a tiny bit of puissance from the Far East.
+7627 : Don't go around manhandling it willy-nilly, or its energies might seep out.
+7628 : DEBUG: Raid evaluation: Condition #/subtotal #/total #.
+7629 : DEBUG: Overall assessment #.
+7630 : You obtain # pinch[/es] of escha silt.
+7631 : You obtain # pinch[/es] of escha silt.
+7632 : You obtain # escha bead[/s].
+7633 : You obtain # escha bead[/s].
+7634 : Domain Invasion evaluation: [Successful attacks/Physical damage/Ranged damage/Magic damage/Attacks taken/Damage taken/Foes vanquished/Times knocked out]: #.
+7635 : Domain Invasion evaluation: [Healing allies/Resurrections/Enhancing allies/Enhancing self/Enfeebling/Enhancing songs/Enfeebling songs/Critical hits]: #.
+7636 : Domain Invasion evaluation: [Skillchains/Resists/Special defense/First blood/Healing self/Healing the gravely wounded/Evasion]: #.
+7637 : Overall evaluation: #.
+7638 : You have received the maximum evaluation for this Domain Invasion category.
+7639 : You are now participating in a Domain Invasion.
+7640 : You have strayed too far from the monster's spawn point, and your evaluation will be reset if you do not return to the field of battle.
+7641 : Your evaluation has been reset because you have strayed too far from the monster's spawn point.
+7642 : I gotta say, you never know what you'll find in the midst of battle. Give it yer all, and you may just find a special little somethin' waitin' fer you.
+7643 : Who knows what you'll run across on the field of battle? Keep fighting the good fight and you'll surely be rewarded.
+7644 : % has put a stop to the skirmish. Those who successfully prevent the battle will receive an ability and reward bonus. Once the ability bonus disappears, so will the reward bonus. The boss battle will begin shortly.
+7645 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x
+7646 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Skirmish Prevention Bonus: #x
+7647 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.4/1.6/1.8/2.0]x Boss Battle Prevention Bonus: #x
+7648 : You will receive # Domain Point[/s] as a reward. The following Domain Points bonus will be applied. Party Size Bonus: [1.0/1.0/1.2/1.5/1.6/1.8/2.0]x Skirmish Prevention Bonus: #x Boss Battle Prevention Bonus: #x
+7649 : % obtained # Domain Points!
+7650 : You have reached the maximum amount of Domain Points obtainable today. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+7651 : Any Domain points in excess of the maximum of # will be lost. The limit resets every day at 12:00 a.m. (JST) / 7:00 a.m. (PST) / 8:00 a.m. (PDT) / 3:00 p.m. (GMT).
+7652 : You will receive a bonus of # Domain Points for defeating Mireu. This bonus is not subject to the maximum daily limit.
+7653 : The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to # minute[/s].
+7654 : The number of players participating in this Domain Invasion has reached a critical mass. The next Domain Invasion will commence in the next # minute[/s].
+7655 : The number of players participating in this Domain Invasion has reached a critical mass. The time remaining until the Domain Invasion commences has been shorted to # second[/s].
+7656 : Domain Points Acquired: #. Domain Points Held: #.
+7657 : Mireu is ready to fight once more.
+7658 : Mireu refused to give in.
+7659 : Mireu is now vulnerable!
+7660 : This thing here? It'll keep all those rarer, larger beasties away from ya.
+7661 : The effect'll only last while yer here in Escha, so keep that in mind!
+7662 : Now this here works jus' like a %; it lets ya draw out the particularly nasty breeds o' monsters that lurk 'round here.
+7663 : But here's the thing. This baby don't disappear after just one use. Instead, its effects'll last up to one hour, or until you leave Escha.
+7664 : Always a pleasure doin' business with ya! Don't forget ta grab a grisly trinket, too!
+7665 : That, eh? Adventurers kept askin' me about which grisly trinket monsters they brought down an' other records, so I put 'em all down in this handy book here.
+7666 : I've gotten ta callin' it Affi's Register of Deeds. Sounds nice an' official, don' ya think?
+7667 : Go an' take a gander! Ya can bet yer belt buckle that Affi knows how ta keep his customers happy!
+7668 : What will you verify? Nothing for now. Notorious monsters defeated. Victory tallies.
+7669 : Monsters Defeated in Escha - Zi'Tah. Go back. Wepwawet. [/] Lustful Lydia. [/] Aglaophotis. [/] Tangata Manu. [/] Vidala. [/] Gestalt. [/] Angrboda. [/] Cunnast. [/] Revetaur. [/] Ferrodon. [/] Gulltop. [/] Vyala. [/] Ionos. [/] Sensual Sandy. [/] Nosoi. [/] Brittlis. [/] Kamohoalii. [/] Umdhlebi. [/] Fleetstalker. [/] Shockmaw. [/] Urmahlullu. [/] Next Page.
+7670 : Monsters Defeated in Escha - Zi'Tah. Go back. Blazewing. [/] Bucca/Puca/Alpluachra. [/] Pazuzu. [/] Wrathare. [/] Previous page.
+7671 : Escha and Reisenjima Victory Tallies: Go back. Monsters defeated: #. Notorious monsters defeated: #. Defeated Azi Dahaka # time[/s]. Defeated Mireu # time[/s].
+7672 : The level of difficulty for this content is unknown.
+7673 : Proffer which item? None of these. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7674 : Commence battle? Yes. No.
+7675 : You are not the party leader.
+7676 : One or more members of your party are not in the appropriate staging zone.
+7677 : Your party does not meet the minimum member requirement of #.
+7678 : Unable to commence battle.
+7679 : One or more of your party members currently has an active fellow.
+7680 : One or more of your party members currently has an active alter ego.
+7681 : One or more members of your party is currently participating in other content.
+7682 : One or more of your party members is currently viewing a cutscene.
+7683 : All party members have been knocked out. Leaving the battle in # minute[/s].
+7684 : Your party leader is attempting to commence a battle.
+7685 : You have strayed too far away from the combat area. Failing to return in time will forfeit your right to participate in the battle.
+7686 : You have strayed too far away from the combat area and have been removed from battle.
+7687 : You have returned to the combat area.
+7688 : The time limit for this battle is # minute[/s].
+7689 : ime remaining: # [minute/minutes] (Earth time).
+7690 : ime remaining: # [second/seconds] (Earth time).
+7691 : Your time for this battle is up...
+7692 : The monster fades before your eyes, a look of disappointment on its face.
+7693 : You received the temporary item %!
+7694 : You will be able to engage in combat here if you possess % and a grisly trinket.
+7695 : The % [disappears/and the grisly trinket disappear]!
+7696 : The power of your vorseal wanes...
+7697 : A monster appears!
+7698 : You receive # pinch[/es] of escha silt.
+7699 : You receive # pinch[/es] of escha silt for a total of #.
+7700 : You receive # escha beads.
+7701 : You receive # escha beads for a total of #.
+7702 : The vorseal begins to glow softly.
+7703 : You do not sense the presence of that foe.
+7704 : One or more party members do not possess %.
+7705 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %.
+7706 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %.
+7707 : Obtain this item? Yes. No.
+7708 : Obtain this temporary item? Yes. No.
+7709 : % obtains %!
+7710 : You were unable to obtain the item.
+7711 : % obtains the temporary item: %!
+7712 : You already possess that temporary item.
+7713 : The chest is locked.
+7714 : What will you do? Leave it be. Attempt to unlock it.
+7715 : What will you do? (# chances remaining.) Give up. Enter a combination. Examine the lock.
+7716 : It appears that you can enter a two-digit combination between 10 and 99.
+7717 : You were unable to enter a combination.
+7718 : You have a hunch that the lock's combination is [greater/less] than #.
+7719 : % failed to open the lock.
+7720 : It appears that the correct combination was #.
+7721 : % succeeded in opening the lock!
+7722 : You have a hunch that the second digit is [even/odd].
+7723 : You have a hunch that the first digit is [even/odd].
+7724 : You have a hunch that the combination is greater than # and less than #.
+7725 : You have a hunch that the combination is less than #.
+7726 : You have a hunch that the combination is greater than #.
+7727 : You have a hunch that one of the two digits is #.
+7728 : You have a hunch that the second digit is #, #, or #.
+7729 : You have a hunch that the first digit is #, #, or #.
+7730 : You were unable to glean anything from your examination of the lock.
+7731 : Obtain this item?
+7732 : The monster was concealing a treasure chest!
+7740 : # # # # # # # #
