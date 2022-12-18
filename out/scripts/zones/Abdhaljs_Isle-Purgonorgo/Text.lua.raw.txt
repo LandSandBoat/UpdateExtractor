@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,460 +7044,463 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7055 : Word has been received of a Troll threat in Wajaom Woodlands.
-7056 : Word has been received of an undead threat in Bhaflau Thickets.
-7057 : You can't fish here.
-7058 : You can't fish without a rod in your hands.
-7059 : You can't fish without bait on the hook.
-7060 : You can't fish at the moment.
-7061 : You didn't catch anything.
-7062 : % caught a monster!
-7063 : Your line breaks.
-7064 : Your rod breaks.
-7065 : Something caught the hook!
-7066 : You lost your catch.
-7067 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7068 : You feel there's something here.
-7069 : You feel there's something nearby.
-7070 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7071 : % caught  %!
-7072 : You dig and you dig, but find nothing.
-7073 : #/%
-7074 : Your rod breaks. Whatever caught the hook was pretty big.
-7075 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7076 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7077 : You lost your catch due to your lack of skill.
-7078 : Number fished : # Original Dice No. ## Result # (0=caught)
-7079 : You didn't catch anything.
-7080 : The paper on your % ripped.
-7081 : A tiny goldfish approaches!
-7082 : A plump, black goldfish approaches!
-7083 : A fat, juicy goldfish approaches!
-7084 : There are no goldfish to be found...
-7085 : % caught %, but cannot carry any more items. % regretfully releases it.
-7086 : The goldfish slipped off your scoop...
-7087 : ch# skill up check.
-7088 : a:#.
-7089 : Time # / Status # / #
-7090 : d:#. e:#. f:#. g:#.
-7091 : h: #. i: #. sr: #.
-7092 : j:#. k:#.
-7093 : You give up and reel in your line.
-7094 : You give up.
-7095 : % obtains # gil.
-7096 : % caught %!
-7097 : You don't know how much longer you can keep this one on the line...
-7098 : You have a good feeling about this one!
-7099 : You have a bad feeling about this one.
-7100 : You have a terrible feeling about this one...
-7101 : You don't know if you have enough skill to reel this one in.
-7102 : You're fairly sure you don't have enough skill to reel this one in.
-7103 : You're positive you don't have enough skill to reel this one in!
-7104 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7105 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7106 : l: #. m: #. n: #. CH: #.
-7107 : Something caught the hook!!!
-7108 : You feel something pulling at your line.
-7109 : Something clamps onto your line ferociously!
-7110 : Your keen angler's senses tell you that this is the pull of %!
-7111 : This strength... You get the sense that you are on the verge of an epic catch!
-7112 : The timer has started. # seconds remaining.
-7113 : #sec.#/#sec.
-7114 : 0:# 1:# 2:# 3:#
-7115 : 4:# 5:# 6:# 7:#
-7116 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7117 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7118 : #/#(#
-7119 : Version invalid error!
-7120 : Hurry before the goldfish sees you!
-7121 : % fishes up a large box!
-7123 : Fish No# / Bait No# / Hit# >>> #
-7124 : Point# >>> #
-7125 : %(#) skill#
-7126 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7127 : Im Rnd : # Pz Rnd : #
-7128 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7129 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7130 : skill : # size : # kind : # sch : #
-7131 : time : # mes : # flag : # bonus : #
-7132 : item : # hp : # pow : # swing : #
-7133 : suc : # cons : # weight : # +- : #
-7134 : speed : # +- : # exc : # client : #
-7135 : general : #
-7136 : ro:# rs:# ps:# dt:#
-7137 : ra:# ti:#
-7138 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7139 : You get the distinct sense that your moogle friend frequents this spot...
-7140 : You have a feeling that your moogle friend has been through this way...
-7141 : You suspect that the scenery around here would be to a moogle's liking...
-7142 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7143 : You have a hunch that this area would be favored by moogles...
-7144 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7145 : % catches # %!
-7146 : % obtained %!
-7147 : It appears your chocobo found this item with ease.
-7148 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7149 : FPT # DPT # DoT#
-7150 : FPT # TDPT # h#
-7151 : You cannot fish at this time.
-7152 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7153 : You discover a cache of beastman resources and receive # Imperial Standing!
-7154 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7155 : You receive # bayld!
-7156 : Your chocobo refuses to partake of the %.
-7157 : Tallying conquest results...
-7158 : Conquest results tallied.
-7159 : This region is currently under San d'Orian control.
-7160 : This region is currently under Bastokan control.
-7161 : This region is currently under Windurstian control.
-7162 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7163 : This region is currently neutral.
-7164 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7165 : All three nations are tied for first place.
-7166 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7167 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7169 : All three nations are tied for first place.
-7170 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7172 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7173 : All three nations are tied for first place.
-7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7175 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7176 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7177 : All three nations are tied for first place.
-7178 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7180 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7181 : Global balance of power: All three nations are tied for first place.
-7182 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7183 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7184 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7185 : All three nations are tied for first place.
-7186 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7188 : Conquest update: This region is currently neutral.
-7189 : Conquest update: This region is currently under San d'Orian control.
-7190 : Conquest update: This region is currently under Bastokan control.
-7191 : Conquest update: This region is currently under Windurstian control.
-7192 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7193 : All three nations are at a deadlock.
-7194 : The beastmen are on the rise.
-7195 : Regional influence: San d'Oria - Dominant
-7196 : Regional influence: San d'Oria - Major
-7197 : Regional influence: San d'Oria - Minor
-7198 : Regional influence: San d'Oria - Minimal
-7199 : Bastok - Dominant
-7200 : Bastok - Major
-7201 : Bastok - Minor
-7202 : Bastok - Minimal
-7203 : Windurst - Dominant
-7204 : Windurst - Major
-7205 : Windurst - Minor
-7206 : Windurst - Minimal
-7207 : Bastok and Windurst have formed an alliance.
-7208 : San d'Oria and Windurst have formed an alliance.
-7209 : San d'Oria and Bastok have formed an alliance.
-7210 : Bastok and Windurst are currently allies.
-7211 : San d'Oria and Windurst are currently allies.
-7212 : San d'Oria and Bastok are currently allies.
-7213 : # #
-7214 : # % #
-7215 : ITEM_ID:# :#
-7216 : :# :#
-7217 : [//]:[////] :#:#
-7218 : The beastmen are gaining power.
-7219 : San d'Oria's regional control is now 10% closer to the first place country's!
-7220 : Bastok's regional control is now 10% closer to the first place country's!
-7221 : Windurst's regional control are now 10% closer to the first place country's!
-7222 : San d'Oria's region points have increased!
-7223 : Bastok's region points have increased!
-7224 : Windurst's region points have increased!
-7225 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7226 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7227 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7228 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7229 : A Bastokan Expeditionary Force has been dispatched to this area.
-7230 : A Windurstian Expeditionary Force has been dispatched to this area.
-7231 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7232 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7233 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7234 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7235 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7236 : There was a curse on the beastmen's banner!
-7237 : The curse of the beastmen's banner has been lifted!
-7238 : There is a beastmen's banner.
-7314 : # #
-7315 : # #
-7316 : DEBUG: Flag error.
-7317 : DEBUG:% is on the North island.
-7318 : DEBUG:% is on the South island.
-7319 : DEBUG:North Island Moving to standard coordinates.
-7320 : DEBUG:South Island Moving to standard coordinates.
-7321 : Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? Yes. No.
-7322 : ***Brenner*** Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: )] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
-7323 : The current Brenner match: Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: )] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
-7324 : The [/temporary ]entry applications for this match stand as follows: Wyverns: # [entry/entries] Griffons: # [entry/entries] You [have yet to submit/have submitted] [an /a temporary ]entry application for [the Wyverns./the Griffons./either side.]
-7325 : The minimum level requirement for this match is [0/10/20/30/40/50/60/75]. Your entry application is denied.
-7326 : Set # of [1 set/2 sets/3 sets] is currently in progress. The match is scheduled to end on .
-7327 : Set # of [1 set/2 sets/3 sets] is currently in progress. Current Score: Wyverns # vs # Griffons The match is scheduled to end on .
-7328 : Briefing will begin on #.
-7329 : The current match will end on . The entry period will begin on , with the briefing to follow on .
-7330 : The current match is scheduled to end on .
-7331 : The next entry period is scheduled to begin on #, with the briefing to follow on .
-7332 : All official matches for this season have ended.
-7333 : We are currently awaiting the arrival of the MC. Please present your % or %.
-7334 : The MC for today's event has failed to show. I am now accepting applications for a substitute. Please present your % or %.
-7335 : Today's MC, %, has yet to arrive. Let us wait a little longer.
-7336 : The MC presiding over today's event is %.
-7337 : You are the MC for today's match. Please set the match rules and begin proceedings.
-7338 : You are now the MC for this match. The area is reserved until , and the maximum level for this match is [/10/20/30/40/50/60/unrestricted]. Please set the match rules and begin proceedings.
-7339 : Gallery members cannot submit an entry application.
-7340 : You have been authorized as a gallery member only.
-7341 : What would you like to do? Nothing. Submit an entry. Cancel an entry. View settings.
-7342 : Entry by item is restricted to private matches. In order to preserve referee impartiality, no items of any kind are accepted.
-7343 : Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.
-7344 : The entry period has begun.
-7345 : The match has been cancelled.
-7346 : Submitted entries have been auto-balanced.
-7347 : You pay the entry fee of # gil.
-7348 : You are refunded # gil.
-7349 : Cancel your entry? Yes. No.
-7350 : You do not have enough gil.
-7351 : Official match scheduled to end on #.
-7352 : Area reservation to end on #.
-7353 : Area reservation will end shortly.
-7354 : Official match will end shortly.
-7355 : What would you like to do? Nothing. Start the match. Close entries & return to settings. Cancel own entry. Auto-balance temp. entries. Shuffle temp. entries. View setting menu.
-7356 : With the current settings, the area reservation will end before the match is over.
-7357 : Do you wish to start the match? Yes. No.
-7358 : Close entries & return to settings? Yes. No.
-7359 : Match settings are underway.
-7360 : Auto-balance temporary entries? Yes. No.
-7361 : Temporary entries have been auto-balanced.
-7362 : Shuffle temporary entries? Yes. No.
-7363 : Temporary entries have been shuffled.
-7364 : This official match requires # gil to enter.
-7365 : Submit [a temporary entry/a temporary entry/an entry for your preferred side/an entry for your LS team/]? Yes. Wyverns. Griffons. % team. Not right now.
-7366 : Please confirm the time on your %.
-7367 : The [Wyverns/Griffons] cannot accept any more entries.
-7368 : Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve on the same forces.
-7369 : I am not accepting entries at this time.
-7370 : You are unable to submit an entry. Please confirm the match settings.
-7371 : You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
-7372 : You cannot submit an entry with % at this time.
-7373 : Your entry is denied. Please confirm the time on your %.
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7058 : Word has been received of a Troll threat in Wajaom Woodlands.
+7059 : Word has been received of an undead threat in Bhaflau Thickets.
+7060 : You can't fish here.
+7061 : You can't fish without a rod in your hands.
+7062 : You can't fish without bait on the hook.
+7063 : You can't fish at the moment.
+7064 : You didn't catch anything.
+7065 : % caught a monster!
+7066 : Your line breaks.
+7067 : Your rod breaks.
+7068 : Something caught the hook!
+7069 : You lost your catch.
+7070 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7071 : You feel there's something here.
+7072 : You feel there's something nearby.
+7073 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7074 : % caught  %!
+7075 : You dig and you dig, but find nothing.
+7076 : #/%
+7077 : Your rod breaks. Whatever caught the hook was pretty big.
+7078 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7079 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7080 : You lost your catch due to your lack of skill.
+7081 : Number fished : # Original Dice No. ## Result # (0=caught)
+7082 : You didn't catch anything.
+7083 : The paper on your % ripped.
+7084 : A tiny goldfish approaches!
+7085 : A plump, black goldfish approaches!
+7086 : A fat, juicy goldfish approaches!
+7087 : There are no goldfish to be found...
+7088 : % caught %, but cannot carry any more items. % regretfully releases it.
+7089 : The goldfish slipped off your scoop...
+7090 : ch# skill up check.
+7091 : a:#.
+7092 : Time # / Status # / #
+7093 : d:#. e:#. f:#. g:#.
+7094 : h: #. i: #. sr: #.
+7095 : j:#. k:#.
+7096 : You give up and reel in your line.
+7097 : You give up.
+7098 : % obtains # gil.
+7099 : % caught %!
+7100 : You don't know how much longer you can keep this one on the line...
+7101 : You have a good feeling about this one!
+7102 : You have a bad feeling about this one.
+7103 : You have a terrible feeling about this one...
+7104 : You don't know if you have enough skill to reel this one in.
+7105 : You're fairly sure you don't have enough skill to reel this one in.
+7106 : You're positive you don't have enough skill to reel this one in!
+7107 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7108 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7109 : l: #. m: #. n: #. CH: #.
+7110 : Something caught the hook!!!
+7111 : You feel something pulling at your line.
+7112 : Something clamps onto your line ferociously!
+7113 : Your keen angler's senses tell you that this is the pull of %!
+7114 : This strength... You get the sense that you are on the verge of an epic catch!
+7115 : The timer has started. # seconds remaining.
+7116 : #sec.#/#sec.
+7117 : 0:# 1:# 2:# 3:#
+7118 : 4:# 5:# 6:# 7:#
+7119 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7120 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7121 : #/#(#
+7122 : Version invalid error!
+7123 : Hurry before the goldfish sees you!
+7124 : % fishes up a large box!
+7126 : Fish No# / Bait No# / Hit# >>> #
+7127 : Point# >>> #
+7128 : %(#) skill#
+7129 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7130 : Im Rnd : # Pz Rnd : #
+7131 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7132 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7133 : skill : # size : # kind : # sch : #
+7134 : time : # mes : # flag : # bonus : #
+7135 : item : # hp : # pow : # swing : #
+7136 : suc : # cons : # weight : # +- : #
+7137 : speed : # +- : # exc : # client : #
+7138 : general : #
+7139 : ro:# rs:# ps:# dt:#
+7140 : ra:# ti:#
+7141 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7142 : You get the distinct sense that your moogle friend frequents this spot...
+7143 : You have a feeling that your moogle friend has been through this way...
+7144 : You suspect that the scenery around here would be to a moogle's liking...
+7145 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7146 : You have a hunch that this area would be favored by moogles...
+7147 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7148 : % catches # %!
+7149 : % obtained %!
+7150 : It appears your chocobo found this item with ease.
+7151 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7152 : FPT # DPT # DoT#
+7153 : FPT # TDPT # h#
+7154 : You cannot fish at this time.
+7155 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7156 : You discover a cache of beastman resources and receive # Imperial Standing!
+7157 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7158 : You receive # bayld!
+7159 : Your chocobo refuses to partake of the %.
+7160 : Tallying conquest results...
+7161 : Conquest results tallied.
+7162 : This region is currently under San d'Orian control.
+7163 : This region is currently under Bastokan control.
+7164 : This region is currently under Windurstian control.
+7165 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7166 : This region is currently neutral.
+7167 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7168 : All three nations are tied for first place.
+7169 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7170 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7172 : All three nations are tied for first place.
+7173 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7174 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7175 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7176 : All three nations are tied for first place.
+7177 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7178 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7179 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7180 : All three nations are tied for first place.
+7181 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7182 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7183 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7184 : Global balance of power: All three nations are tied for first place.
+7185 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7186 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7187 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7188 : All three nations are tied for first place.
+7189 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7190 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7191 : Conquest update: This region is currently neutral.
+7192 : Conquest update: This region is currently under San d'Orian control.
+7193 : Conquest update: This region is currently under Bastokan control.
+7194 : Conquest update: This region is currently under Windurstian control.
+7195 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7196 : All three nations are at a deadlock.
+7197 : The beastmen are on the rise.
+7198 : Regional influence: San d'Oria - Dominant
+7199 : Regional influence: San d'Oria - Major
+7200 : Regional influence: San d'Oria - Minor
+7201 : Regional influence: San d'Oria - Minimal
+7202 : Bastok - Dominant
+7203 : Bastok - Major
+7204 : Bastok - Minor
+7205 : Bastok - Minimal
+7206 : Windurst - Dominant
+7207 : Windurst - Major
+7208 : Windurst - Minor
+7209 : Windurst - Minimal
+7210 : Bastok and Windurst have formed an alliance.
+7211 : San d'Oria and Windurst have formed an alliance.
+7212 : San d'Oria and Bastok have formed an alliance.
+7213 : Bastok and Windurst are currently allies.
+7214 : San d'Oria and Windurst are currently allies.
+7215 : San d'Oria and Bastok are currently allies.
+7216 : # #
+7217 : # % #
+7218 : ITEM_ID:# :#
+7219 : :# :#
+7220 : [//]:[////] :#:#
+7221 : The beastmen are gaining power.
+7222 : San d'Oria's regional control is now 10% closer to the first place country's!
+7223 : Bastok's regional control is now 10% closer to the first place country's!
+7224 : Windurst's regional control are now 10% closer to the first place country's!
+7225 : San d'Oria's region points have increased!
+7226 : Bastok's region points have increased!
+7227 : Windurst's region points have increased!
+7228 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7229 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7230 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7231 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7232 : A Bastokan Expeditionary Force has been dispatched to this area.
+7233 : A Windurstian Expeditionary Force has been dispatched to this area.
+7234 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7235 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7236 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7237 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7238 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7239 : There was a curse on the beastmen's banner!
+7240 : The curse of the beastmen's banner has been lifted!
+7241 : There is a beastmen's banner.
+7317 : # #
+7318 : # #
+7319 : DEBUG: Flag error.
+7320 : DEBUG:% is on the North island.
+7321 : DEBUG:% is on the South island.
+7322 : DEBUG:North Island Moving to standard coordinates.
+7323 : DEBUG:South Island Moving to standard coordinates.
+7324 : Teleport to [Upper Jeuno/Aht Urhgan Whitegate/Northern San d'Oria/3/Port Bastok/5/Windurst Waters]? Yes. No.
+7325 : ***Brenner*** Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: )] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
+7326 : The current Brenner match: Match Type: [Official/Private/LS-Liga] [/(Level: 10)/(Level: 20)/(Level: 30)/(Level: 40)/(Level: 50)/(Level: 60)/(Level: )] Status: [/Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/In-between Matches]
+7327 : The [/temporary ]entry applications for this match stand as follows: Wyverns: # [entry/entries] Griffons: # [entry/entries] You [have yet to submit/have submitted] [an /a temporary ]entry application for [the Wyverns./the Griffons./either side.]
+7328 : The minimum level requirement for this match is [0/10/20/30/40/50/60/75]. Your entry application is denied.
+7329 : Set # of [1 set/2 sets/3 sets] is currently in progress. The match is scheduled to end on .
+7330 : Set # of [1 set/2 sets/3 sets] is currently in progress. Current Score: Wyverns # vs # Griffons The match is scheduled to end on .
+7331 : Briefing will begin on #.
+7332 : The current match will end on . The entry period will begin on , with the briefing to follow on .
+7333 : The current match is scheduled to end on .
+7334 : The next entry period is scheduled to begin on #, with the briefing to follow on .
+7335 : All official matches for this season have ended.
+7336 : We are currently awaiting the arrival of the MC. Please present your % or %.
+7337 : The MC for today's event has failed to show. I am now accepting applications for a substitute. Please present your % or %.
+7338 : Today's MC, %, has yet to arrive. Let us wait a little longer.
+7339 : The MC presiding over today's event is %.
+7340 : You are the MC for today's match. Please set the match rules and begin proceedings.
+7341 : You are now the MC for this match. The area is reserved until , and the maximum level for this match is [/10/20/30/40/50/60/unrestricted]. Please set the match rules and begin proceedings.
+7342 : Gallery members cannot submit an entry application.
+7343 : You have been authorized as a gallery member only.
+7344 : What would you like to do? Nothing. Submit an entry. Cancel an entry. View settings.
+7345 : Entry by item is restricted to private matches. In order to preserve referee impartiality, no items of any kind are accepted.
+7346 : Please note that if you cancel an entry during an official match, you will be unable to resubmit your entry application.
+7347 : The entry period has begun.
+7348 : The match has been cancelled.
+7349 : Submitted entries have been auto-balanced.
+7350 : You pay the entry fee of # gil.
+7351 : You are refunded # gil.
+7352 : Cancel your entry? Yes. No.
+7353 : You do not have enough gil.
+7354 : Official match scheduled to end on #.
+7355 : Area reservation to end on #.
+7356 : Area reservation will end shortly.
+7357 : Official match will end shortly.
+7358 : What would you like to do? Nothing. Start the match. Close entries & return to settings. Cancel own entry. Auto-balance temp. entries. Shuffle temp. entries. View setting menu.
+7359 : With the current settings, the area reservation will end before the match is over.
+7360 : Do you wish to start the match? Yes. No.
+7361 : Close entries & return to settings? Yes. No.
+7362 : Match settings are underway.
+7363 : Auto-balance temporary entries? Yes. No.
+7364 : Temporary entries have been auto-balanced.
+7365 : Shuffle temporary entries? Yes. No.
+7366 : Temporary entries have been shuffled.
+7367 : This official match requires # gil to enter.
+7368 : Submit [a temporary entry/a temporary entry/an entry for your preferred side/an entry for your LS team/]? Yes. Wyverns. Griffons. % team. Not right now.
+7369 : Please confirm the time on your %.
+7370 : The [Wyverns/Griffons] cannot accept any more entries.
+7371 : Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve on the same forces.
+7372 : I am not accepting entries at this time.
+7373 : You are unable to submit an entry. Please confirm the match settings.
 7374 : You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
-7375 : You have cancelled your [entry for the Wyverns/entry for the Griffons/temporary entry].
-7376 : You have already submitted an entry application.
-7377 : The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again.
-7378 : The [/Wyverns/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application.
-7379 : Entries are not currently being accepted. Please confirm the match status.
-7380 : You do not have enough gil to submit an entry application.
-7381 : An entry for the [Wyverns/Griffons] has been cancelled.
-7382 : Please present % or % to be eligible for the entry process.
-7383 : As linkshell leader, you are eligible to enter your team into the LS Liga match. Please present your % or % if you wish to participate under the current settings.
-7384 : Enter the LS Liga match? Enter %. Not right now.
-7385 : The Wyverns will be represented by %. The Griffons will be represented by %.
-7386 : The Wyverns will be represented by %. The Griffons have no current representatives.
-7387 : The Wyverns have no current representatives. The Griffons will be represented by %.
-7388 : Neither the Wyverns nor the Griffons are currently represented.
-7389 : The linkshell to represent the Wyverns has been decided.
-7390 : The linkshell to represent the Griffons has been decided.
-7391 : As the difference in the number of wins for both sides is greater than 5, this will be considered a training match and results will not be recorded.
-7392 : If the same teams play each other more than once during a single reservation period, successive matches will be considered training matches and results will not be recorded.
-7393 : The linkshell representing the Wyverns is ready to start the match.
-7394 : The linkshell representing the Griffons is ready to start the match.
-7395 : Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your %/%.
-7396 : The linkshell leader must be entered into the match.
-7397 : If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your % or %.
-7398 : If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.
-7399 : The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.
-7400 : Agree to start the match? Yes. No.
-7401 : Both linkshell leaders have yet to signal their agreement to start the match.
-7402 : LS Liga match entry information has been reset.
-7403 : At least one member must be entered on both sides for the match to begin.
-7404 : Temporarily unable to equip linkshell items.
-7405 : Able to equip linkshell items.
-7406 : LS Liga matches cannot be halted by the MC.
-7407 : What do you wish to do? Nothing. Stop match. Cancel match & return to entry. Cancel own entry. View settings menu.
-7408 : Do you wish to halt the match? Yes. No.
-7409 : The match has been halted by the MC.
-7410 : Halt the match and return to entries? Yes. No.
-7411 : The match has been halted by the MC and returned to accepting entries status.
-7412 : Briefing has been started by the MC. The match will begin shortly.
-7413 : Invisible has been cast on all participants. It will be removed when the match begins.
-7414 : Sneak has been cast on all participants. It will be removed when the match begins.
-7415 : Briefing has begun! Level: [/10/20/30/40/50/60/Unrestricted] Match Type: [Official/Private/LS Liga/Official Training/LS Liga Training] Wyverns: # [member/members] Griffons: # [member/members]
-7416 : Sets: # Match Length: # [minute/minutes]
-7417 : Set # of # [set/sets]. Match Length: # [minute/minutes]
-7418 : Complete Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Flamme Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Normal Item Usage: [No/OK] Layout: [Pattern A/Pattern B/Pattern C/Pattern D]
-7419 : Match commencing in # [minute/minutes].
-7420 : Match commencing in # [second/seconds].
-7421 : Match ending in # [minute/minutes].
-7422 : Match ending in # [second/seconds].
-7423 : The match has begun! Capture the opposing team's Flamme!
-7424 : Number of matches participated in: #
-7425 : DEBUG: [1/2/3/5/6.1/6.2/4/7/24]! You get # [point/points]!
-7426 : # [temporary item/temporary items] have been distributed!
-7427 : You are unable to quarry items at this time.
-7428 : You obtain 1 Petra. You now possess # [Petra/Petras].
-7429 : You find nothing.
-7430 : You find and use %.
-7431 : You find the temporary item: %!
-7432 : You find %, but you cannot carry any more temporary items.
-7433 : You find %, but you cannot carry more than one of that temporary item.
-7434 : What do you do? Keep the item. Exchange the item. Use the item. Throw the item away.
-7435 : Exchange with which item? %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Return.
-7436 : You obtain the temporary item: %! [/(You cannot carry any more.)]
-7437 : You find %, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
-7438 : You throw away the %.
-7439 : You throw away % and replace it with the %.
-7440 : DEBUG: #/# ITEM##
-7441 : You find a Petra! Keep it. Throw it away.
-7442 : You throw away the Petra.
-7443 : I cannot aid members from the opposing side.
-7444 : You must wait # [second/seconds] between Petra contributions.
-7445 : Back into the breach, %!
-7446 : I will restore a certain amount of HP and MP in exchange for a contribution of Petras.
-7447 : You hand in # [Petra/Petras]. You recover # HP and # MP!
-7448 : DEBUG: ITEM: % #+# INFO #
-7449 : DEBUG: Your team's status: [/losing][/winning]
-7450 : DEBUG: You've died # [time/times].
-7451 : The Flamme is not lit.
-7452 : You cannot capture the Flamme.
-7453 : [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been destroyed! The Flamme can now be captured.
-7454 : [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been restored!
-7455 : has captured the Flamme from [ / / / / /a Wyvern/a Griffon] Flammen-Brenner! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
-7456 : The Flamme you are holding will be returned in # [minute/minutes], # [second/seconds].
-7457 : The Flamme you are holding will be returned in # [second/seconds].
-7458 : The Flamme captured by has returned to [ / / / / /the Wyverns/the Griffons]! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
-7459 : of [ / / / / /the Wyverns/the Griffons] lights the Flamme! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
-7460 : [ / / / / /The Wyverns/The Griffons] receive # [point/points] for protecting their Flamme.
-7461 : You can only carry one Flamme at a time.
-7462 : You have left the battle zone.
-7463 : You have entered the battle zone.
-7464 : [ / / / / /The Wyverns/The Griffons] receive 1 point for defending their Flammen-Brenner!
-7465 : Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in # [minute/minutes], # [second/seconds].
-7466 : Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in # [second/seconds].
-7467 : [ / / / / /The Wyverns/The Griffons] will claim victory in # [minute/minutes], # [second/seconds].
-7468 : [ / / / / /The Wyverns/The Griffons] will claim victory in # [second/seconds].
-7469 : [ / / / / /The Wyverns/The Griffons] have recaptured their Flamme! [ / / / / /The Wyverns/The Griffons] no longer have Complete status.
-7470 : [ / / / / /The Wyverns/The Griffons] have maintained their Complete status for the required time period, resulting in a called game!
-7471 : Match Over! Final Score: # vs # [It's a draw!/The Wyverns win!/The Griffons win!]
-7472 : The [ /1st/ /2nd/ /3rd] set is over! [It's a draw/The Wyverns win this set/The Griffons win this set] with a score of # vs #!
-7473 : [It's a draw/The Wyverns win/The Griffons win] with a total score of # vs #!
-7474 : Unfortunately, today's match has been cancelled. We thank you for your interest and apologize for the inconvenience.
-7475 : The entry application fee [/and the charge for changing settings ]will be reimbursed.
-7476 : Previous [/Training ]match (# [set/sets]) results: Wyverns # vs # Griffons [Draw/Wyverns win/Griffons win][/ (with bonus)]
-7477 : Personal number of [wins: /draws: ]#
-7478 : Your most recent LS Liga match was recorded as a [defeat/draw/victory/complete victory].
-7479 : Liga points: # (# [victory/victories] - # [draw/draws] over a total of # [match/matches])
-7480 : As your team was defeated within # [minute/minutes], you did not earn the full experience point reward.
-7481 : You did not earn experience points.
-7482 : Points earned: #
-7483 : What would you like to do? Nothing. Prepare for the next match. Cancel own entry. View settings menu.
-7484 : Match statistics are currently being recorded. Please wait until # before adjusting match settings.
-7485 : Prepare for the next match? Yes. No.
-7486 : Match entry information has been reset.
-7487 : Match settings are underway.
-7488 : Unable to process selected settings.
-7489 : Participants who have completed the entry process can change the match settings by paying a fee of # gil. Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.
-7490 : You have already changed the settings for this match.
-7491 : You cannot change match settings at this time.
-7492 : This setting has already been fixed for this match.
-7493 : Really change this setting? Yes. No.
-7494 : You can choose to fix this setting.
-7495 : Support jobs have been allowed.
-7496 : Support jobs have been disallowed.
-7497 : The layout for the match has been set to Pattern A.
-7498 : The layout for the match has been set to Pattern B.
-7499 : The layout for the match has been set to Pattern C.
-7500 : The match style has been set to 1 set of 20 minutes.
-7501 : The match style has been set to 2 sets of 10 minutes.
-7502 : The match style has been set to 1 set of 30 minutes.
-7503 : The match style has been set to 2 sets of 15 minutes.
-7504 : The match style has been set to 3 sets of 10 minutes.
-7505 : Flammen-Brenner repair by Petra has been disallowed.
-7506 : Flammen-Brenner repair by Petra has been allowed.
-7507 : The KO penalty has been set to Level 1.
-7508 : The KO penalty has been set to Level 2.
-7509 : Current settings. Quit. Entry type [/(fixed)]: [auto/shuffle/free/linkshell] Re-entry [/(fixed)]: [none/OK] Mid-match entry [/(fixed)]: [none/OK]  Allowable margin [/(fixed)]: [up to 1 member/none] Main job [/(fixed)]: [duplicates OK/no duplicates] Support job [/(fixed)]: [OK/none] Min. level [/(fixed)]: [none/10/20/30/40/50/60/75] (Max. Level: [/10/20/30/40/50/60/none]) Layout [/(fixed)]: [pattern A/pattern B/pattern C/pattern D] Next page.
-7510 : Current settings.            Previous page. Briefing [/(fixed)]: [30 sec./1 min./3 min./5 min.] Match length [/(fixed)]: [5/10/15/20/30] min.[/ (1 set)] No. of sets [/(fixed)]: # [set/sets] Match style [/(fixed)][1 set, 20 min./2 sets, 10 min. each/1 set, 30 min./2 sets, 15 min. each/3 sets, 10 min. each] Other time settings.    Item use [/(fixed)]: [OK/none] Temporary item settings.    Sleep effects removed [/(fixed)]: [none/OK] Repair by Petra [/(fixed)]: [none/OK] KO penalty [/(fixed)]: [Level 1/Level 2] Clear entry data. Reset to default settings. Finish & commence entry period. Quit.
-7511 : Select settings for team member distribution.
-7512 : Auto-Balance After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing.
-7513 : Auto-Balance After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
-7514 : Random Shuffle After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams.
-7515 : Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
-7516 : Linkshell This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries.
-7517 : If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings.
-7518 : Please select the entry type: Return. Information. Auto-balance. Random shuffle. Free. Linkshell (LS Liga).
-7519 : The MC has declared an LS Liga match.
-7520 : The MC has declared a private match.
-7521 : If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries.
-7522 : Allow re-entry? Return. Information. No. Yes.
-7523 : Re-entry is not currently allowed.
-7524 : If mid-match entry is allowed, players may join the team with fewer members while the match is in progress.
-7525 : Allow mid-match entry? Return. Information. No. Yes.
-7526 : This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match.
-7527 : In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries.
-7528 : Allow a margin? Return. Information. Up to 1 member. No.
-7529 : The match cannot begin until both sides have an equal number of entries.
-7530 : This option decides whether or not multiples of the same main job are allowed on a single team. In the case where no duplicates has been chosen, all members of the same job except for one will have their entries cancelled.
-7531 : Allow multiple main jobs? Return. Information. Duplicates OK. No duplicates.
-7532 : Multiple entries of the same main job have been detected in the Wyverns. Entries beyond the first will be invalidated.
-7533 : Multiple entries of the same main job have been detected in the Griffons. Entries beyond the first will be invalidated.
-7534 : This option selects whether or not support jobs will be allowed.
-7535 : Allow support jobs? Return. Information. Yes. No.
-7536 : This option selects the minimum level for participation in the match. This value cannot be set higher than the maximum level setting.
-7537 : Minimum level? Return. Information. None. 10. 20. 30. 40. 50. 60. 75.
-7538 : [Pattern A/Pattern B/Pattern C/Pattern D] will use the layout as shown.
-7539 : The locations of each Flammen-Brenner and camp will be displayed. W represents the Wyverns, while G represents the Griffons.
-7540 : See the layout patterns? Not right now. See pattern A. See pattern B. See pattern C. See pattern D.
-7541 : Choose match layout. Return. Information. Pattern A. Pattern B. Pattern C. Pattern D.
-7542 : Briefing refers to a period of time before the match where strategies can be hammered out. In matches with multiple sets, the briefing period between matches will be set to 60 seconds regardless of the time selected for this setting.
-7543 : Briefing length. Return. Information. 30 seconds. 1 minute. 3 minutes. 5 minutes.
-7544 : This option selects the length of one match. Please be aware that in the case of multiple sets, the length of each match will be decided by this setting.
-7545 : Match length. Return. Information. 5 minutes. 10 minutes. 15 minutes. 20 minutes. 30 minutes.
-7546 : This option selects the number of sets to be played.
-7547 : Number of sets. Return. Information. 1 set. 2 sets. 3 sets.
-7548 : This option selects the match length and number of sets in official matches. The combinations available will vary depending on the amount of time remaining until the next scheduled match.
-7549 : Match style. Return. Information. 1 set of 20 minutes. 2 sets of 10 minutes. 1 set of 30 minutes. 2 sets of 15 minutes. 3 sets of 10 minutes.
-7550 : Other time settings. Return. Complete status [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.] Flamme duration [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.] Flammen-Brenner [/(fixed)]: [10 sec./20 sec./30 sec./45 sec./1 min.]
-7551 : This option selects the amount of time one side must maintain Complete status (i.e. each Flammen-Brenner has been lit with a Flamme) until the match becomes a called game.
-7552 : Also, points will be awarded for protecting the Flamme for the period of time set with this option.
-7553 : Complete status duration. Return. Information. 1 minute. 2 minutes. 3 minutes. 4 minutes. 5 minutes.
-7554 : This option selects the amount of time a player can hold on to a Flamme before it returns to a Flammen-Brenner on the opposing side.
-7555 : Flamme duration. Return. Information. 1 minute. 2 minutes. 3 minutes. 4 minutes. 5 minutes.
-7556 : This option selects the amount of time that will pass before a destroyed Flammen-Brenner will recover after a failed attempt to capture the Flamme.
-7557 : Flammen-Brenner recovery. Return. Information. 10 seconds. 20 seconds. 30 seconds. 45 seconds. 1 minute.
-7558 : This option selects whether or not normal items can be used during a match.
-7559 : Allow normal item use? Return. Information. Yes. No.
-7560 : Temporary item settings. Return. Temp. item capacity [/(fixed)]: [10/15/20] Temp. item distribution [/(fixed)]: [none/OK] Quarry holes [/(fixed)]: [all full/some empty]
-7561 : This option selects the maximum number of temporary items that a player can carry at one time.
-7562 : Set temporary item capacity. Return. Information. 10. 15. 20.
-7563 : This option selects whether or not 5 temporary items will be distributed to each player at the start of the match.
-7564 : Distribute temporary items? Return. Information. No. Yes.
-7565 : This option selects whether or not some attempts to quarry will fail to produce an item.
-7566 : Fill all quarry holes? Return. Information. No. Yes.
-7567 : This option selects whether or not Flammen-Brenner that are under attack will remove sleep status effects from nearby players of the same side.
-7568 : Remove sleep effects? Return. Information. No. Yes.
-7569 : This option selects whether or not Flammen-Brenner will consume Petras from nearby team members to restore HP after being damaged past a certain point.
-7570 : Repair by Petra? Return. Information. No. Yes.
-7571 : This option sets the penalty for being KO'd.
-7572 : In the case of a Level 1 penalty, reviving from a KO will take longer depending on the length of time between KOs.
-7573 : The Level 2 penalty has the same penalties as Level 1, as well as an additional penalty of less HP and MP being recovered upon revival.
-7574 : Set KO penalty. Return. Information. Level 1. Level 2.
-7575 : In accordance with the KO penalty, players will recover less HP and MP when reviving from KO status.
-7576 : Clear all entry data? Yes. No.
-7577 : All entry data has been cleared.
-7578 : Return all options to the default settings? Yes. No.
-7579 : The MC has returned all rule options to their default settings.
-7580 : Fix settings and begin the entry period? Yes. Not yet.
-7581 : The entry period cannot begin until both leaders have agreed to the rule settings.
-7582 : This game has become a private match.
-7583 : The MC has begun the entry period.
-7584 : A blast of warm air is expelled from the Flammen-Brenner. The heat is enough to wake a person from sleep.
-7585 : The Flammen-Brenner consumes # [Petra/Petras] from % and recovers # HP!
-7586 : An error has occurred in the proceedings.
+7375 : You cannot submit an entry with % at this time.
+7376 : Your entry is denied. Please confirm the time on your %.
+7377 : You have submitted [a temporary entry/an entry] for the [Wyverns/Griffons].
+7378 : You have cancelled your [entry for the Wyverns/entry for the Griffons/temporary entry].
+7379 : You have already submitted an entry application.
+7380 : The maximum number of participants for this match has been reached. Please wait for an entry to be cancelled and try again.
+7381 : The [/Wyverns/Griffons] currently outnumber the opposing side. Please wait until the opposing side has more members before submitting an entry application.
+7382 : Entries are not currently being accepted. Please confirm the match status.
+7383 : You do not have enough gil to submit an entry application.
+7384 : An entry for the [Wyverns/Griffons] has been cancelled.
+7385 : Please present % or % to be eligible for the entry process.
+7386 : As linkshell leader, you are eligible to enter your team into the LS Liga match. Please present your % or % if you wish to participate under the current settings.
+7387 : Enter the LS Liga match? Enter %. Not right now.
+7388 : The Wyverns will be represented by %. The Griffons will be represented by %.
+7389 : The Wyverns will be represented by %. The Griffons have no current representatives.
+7390 : The Wyverns have no current representatives. The Griffons will be represented by %.
+7391 : Neither the Wyverns nor the Griffons are currently represented.
+7392 : The linkshell to represent the Wyverns has been decided.
+7393 : The linkshell to represent the Griffons has been decided.
+7394 : As the difference in the number of wins for both sides is greater than 5, this will be considered a training match and results will not be recorded.
+7395 : If the same teams play each other more than once during a single reservation period, successive matches will be considered training matches and results will not be recorded.
+7396 : The linkshell representing the Wyverns is ready to start the match.
+7397 : The linkshell representing the Griffons is ready to start the match.
+7398 : Your linkshell has been entered into an LS Liga match. If you wish to participate, please present your %/%.
+7399 : The linkshell leader must be entered into the match.
+7400 : If all participating linkshell members have concluded entry procedures, please confirm the match settings and present your % or %.
+7401 : If all participating linkshell members have concluded entry procedures, please confirm the match settings and signal your agreement to start the match.
+7402 : The match will commence once both linkshell leaders have shown their agreement. Furthermore, any changes made to the settings by the MC will void this agreement.
+7403 : Agree to start the match? Yes. No.
+7404 : Both linkshell leaders have yet to signal their agreement to start the match.
+7405 : LS Liga match entry information has been reset.
+7406 : At least one member must be entered on both sides for the match to begin.
+7407 : Temporarily unable to equip linkshell items.
+7408 : Able to equip linkshell items.
+7409 : LS Liga matches cannot be halted by the MC.
+7410 : What do you wish to do? Nothing. Stop match. Cancel match & return to entry. Cancel own entry. View settings menu.
+7411 : Do you wish to halt the match? Yes. No.
+7412 : The match has been halted by the MC.
+7413 : Halt the match and return to entries? Yes. No.
+7414 : The match has been halted by the MC and returned to accepting entries status.
+7415 : Briefing has been started by the MC. The match will begin shortly.
+7416 : Invisible has been cast on all participants. It will be removed when the match begins.
+7417 : Sneak has been cast on all participants. It will be removed when the match begins.
+7418 : Briefing has begun! Level: [/10/20/30/40/50/60/Unrestricted] Match Type: [Official/Private/LS Liga/Official Training/LS Liga Training] Wyverns: # [member/members] Griffons: # [member/members]
+7419 : Sets: # Match Length: # [minute/minutes]
+7420 : Set # of # [set/sets]. Match Length: # [minute/minutes]
+7421 : Complete Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Flamme Duration: [1 minute/2 minutes/3 minutes/4 minutes/5 minutes] Normal Item Usage: [No/OK] Layout: [Pattern A/Pattern B/Pattern C/Pattern D]
+7422 : Match commencing in # [minute/minutes].
+7423 : Match commencing in # [second/seconds].
+7424 : Match ending in # [minute/minutes].
+7425 : Match ending in # [second/seconds].
+7426 : The match has begun! Capture the opposing team's Flamme!
+7427 : Number of matches participated in: #
+7428 : DEBUG: [1/2/3/5/6.1/6.2/4/7/24]! You get # [point/points]!
+7429 : # [temporary item/temporary items] have been distributed!
+7430 : You are unable to quarry items at this time.
+7431 : You obtain 1 Petra. You now possess # [Petra/Petras].
+7432 : You find nothing.
+7433 : You find and use %.
+7434 : You find the temporary item: %!
+7435 : You find %, but you cannot carry any more temporary items.
+7436 : You find %, but you cannot carry more than one of that temporary item.
+7437 : What do you do? Keep the item. Exchange the item. Use the item. Throw the item away.
+7438 : Exchange with which item? %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Return.
+7439 : You obtain the temporary item: %! [/(You cannot carry any more.)]
+7440 : You find %, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
+7441 : You throw away the %.
+7442 : You throw away % and replace it with the %.
+7443 : DEBUG: #/# ITEM##
+7444 : You find a Petra! Keep it. Throw it away.
+7445 : You throw away the Petra.
+7446 : I cannot aid members from the opposing side.
+7447 : You must wait # [second/seconds] between Petra contributions.
+7448 : Back into the breach, %!
+7449 : I will restore a certain amount of HP and MP in exchange for a contribution of Petras.
+7450 : You hand in # [Petra/Petras]. You recover # HP and # MP!
+7451 : DEBUG: ITEM: % #+# INFO #
+7452 : DEBUG: Your team's status: [/losing][/winning]
+7453 : DEBUG: You've died # [time/times].
+7454 : The Flamme is not lit.
+7455 : You cannot capture the Flamme.
+7456 : [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been destroyed! The Flamme can now be captured.
+7457 : [ / / / / /A Wyvern/A Griffon] Flammen-Brenner has been restored!
+7458 : has captured the Flamme from [ / / / / /a Wyvern/a Griffon] Flammen-Brenner! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
+7459 : The Flamme you are holding will be returned in # [minute/minutes], # [second/seconds].
+7460 : The Flamme you are holding will be returned in # [second/seconds].
+7461 : The Flamme captured by has returned to [ / / / / /the Wyverns/the Griffons]! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
+7462 : of [ / / / / /the Wyverns/the Griffons] lights the Flamme! [ / / / / /The Wyverns/The Griffons] receive # [point/points].
+7463 : [ / / / / /The Wyverns/The Griffons] receive # [point/points] for protecting their Flamme.
+7464 : You can only carry one Flamme at a time.
+7465 : You have left the battle zone.
+7466 : You have entered the battle zone.
+7467 : [ / / / / /The Wyverns/The Griffons] receive 1 point for defending their Flammen-Brenner!
+7468 : Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in # [minute/minutes], # [second/seconds].
+7469 : Flamme have been lit in all [ / / / / /Wyvern/Griffon] Flammen-Brenner, giving them Complete status! [ / / / / /The Wyverns/The Griffons] will claim victory in # [second/seconds].
+7470 : [ / / / / /The Wyverns/The Griffons] will claim victory in # [minute/minutes], # [second/seconds].
+7471 : [ / / / / /The Wyverns/The Griffons] will claim victory in # [second/seconds].
+7472 : [ / / / / /The Wyverns/The Griffons] have recaptured their Flamme! [ / / / / /The Wyverns/The Griffons] no longer have Complete status.
+7473 : [ / / / / /The Wyverns/The Griffons] have maintained their Complete status for the required time period, resulting in a called game!
+7474 : Match Over! Final Score: # vs # [It's a draw!/The Wyverns win!/The Griffons win!]
+7475 : The [ /1st/ /2nd/ /3rd] set is over! [It's a draw/The Wyverns win this set/The Griffons win this set] with a score of # vs #!
+7476 : [It's a draw/The Wyverns win/The Griffons win] with a total score of # vs #!
+7477 : Unfortunately, today's match has been cancelled. We thank you for your interest and apologize for the inconvenience.
+7478 : The entry application fee [/and the charge for changing settings ]will be reimbursed.
+7479 : Previous [/Training ]match (# [set/sets]) results: Wyverns # vs # Griffons [Draw/Wyverns win/Griffons win][/ (with bonus)]
+7480 : Personal number of [wins: /draws: ]#
+7481 : Your most recent LS Liga match was recorded as a [defeat/draw/victory/complete victory].
+7482 : Liga points: # (# [victory/victories] - # [draw/draws] over a total of # [match/matches])
+7483 : As your team was defeated within # [minute/minutes], you did not earn the full experience point reward.
+7484 : You did not earn experience points.
+7485 : Points earned: #
+7486 : What would you like to do? Nothing. Prepare for the next match. Cancel own entry. View settings menu.
+7487 : Match statistics are currently being recorded. Please wait until # before adjusting match settings.
+7488 : Prepare for the next match? Yes. No.
+7489 : Match entry information has been reset.
+7490 : Match settings are underway.
+7491 : Unable to process selected settings.
+7492 : Participants who have completed the entry process can change the match settings by paying a fee of # gil. Setting changes are limited to one change per person per match. Settings that have been changed once are fixed for that match.
+7493 : You have already changed the settings for this match.
+7494 : You cannot change match settings at this time.
+7495 : This setting has already been fixed for this match.
+7496 : Really change this setting? Yes. No.
+7497 : You can choose to fix this setting.
+7498 : Support jobs have been allowed.
+7499 : Support jobs have been disallowed.
+7500 : The layout for the match has been set to Pattern A.
+7501 : The layout for the match has been set to Pattern B.
+7502 : The layout for the match has been set to Pattern C.
+7503 : The match style has been set to 1 set of 20 minutes.
+7504 : The match style has been set to 2 sets of 10 minutes.
+7505 : The match style has been set to 1 set of 30 minutes.
+7506 : The match style has been set to 2 sets of 15 minutes.
+7507 : The match style has been set to 3 sets of 10 minutes.
+7508 : Flammen-Brenner repair by Petra has been disallowed.
+7509 : Flammen-Brenner repair by Petra has been allowed.
+7510 : The KO penalty has been set to Level 1.
+7511 : The KO penalty has been set to Level 2.
+7512 : Current settings. Quit. Entry type [/(fixed)]: [auto/shuffle/free/linkshell] Re-entry [/(fixed)]: [none/OK] Mid-match entry [/(fixed)]: [none/OK]  Allowable margin [/(fixed)]: [up to 1 member/none] Main job [/(fixed)]: [duplicates OK/no duplicates] Support job [/(fixed)]: [OK/none] Min. level [/(fixed)]: [none/10/20/30/40/50/60/75] (Max. Level: [/10/20/30/40/50/60/none]) Layout [/(fixed)]: [pattern A/pattern B/pattern C/pattern D] Next page.
+7513 : Current settings.            Previous page. Briefing [/(fixed)]: [30 sec./1 min./3 min./5 min.] Match length [/(fixed)]: [5/10/15/20/30] min.[/ (1 set)] No. of sets [/(fixed)]: # [set/sets] Match style [/(fixed)][1 set, 20 min./2 sets, 10 min. each/1 set, 30 min./2 sets, 15 min. each/3 sets, 10 min. each] Other time settings.    Item use [/(fixed)]: [OK/none] Temporary item settings.    Sleep effects removed [/(fixed)]: [none/OK] Repair by Petra [/(fixed)]: [none/OK] KO penalty [/(fixed)]: [Level 1/Level 2] Clear entry data. Reset to default settings. Finish & commence entry period. Quit.
+7514 : Select settings for team member distribution.
+7515 : Auto-Balance After players have completed a temporary entry for one of the two sides, the players will be redistributed (by main job) evenly among the teams at the beginning of the briefing.
+7516 : Auto-Balance After players have completed a temporary entry for one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
+7517 : Random Shuffle After players have completed a temporary entry for one of the two sides, the MC can choose to randomly shuffle all players between the teams.
+7518 : Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
+7519 : Linkshell This option can be chosen to conduct LS Liga matches and pits linkshell groups against one another. Once the linkshell leader has submitted an entry application, other linkshell members can then submit their own entries.
+7520 : If both linkshell group leaders do not agree to the rules set by the MC, the match will not begin. Also, leaders must signal their agreement again if any changes are made to the decided settings.
+7521 : Please select the entry type: Return. Information. Auto-balance. Random shuffle. Free. Linkshell (LS Liga).
+7522 : The MC has declared an LS Liga match.
+7523 : The MC has declared a private match.
+7524 : If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match. Selecting this option may result in unbalanced sides when players cancel their entries.
+7525 : Allow re-entry? Return. Information. No. Yes.
+7526 : Re-entry is not currently allowed.
+7527 : If mid-match entry is allowed, players may join the team with fewer members while the match is in progress.
+7528 : Allow mid-match entry? Return. Information. No. Yes.
+7529 : This option selects the size of the allowable margin between team numbers. A margin of zero is suggested in the interests of conducting an equal match.
+7530 : In the case where no margin is allowed, the match will not begin until both sides have an equal number of entries.
+7531 : Allow a margin? Return. Information. Up to 1 member. No.
+7532 : The match cannot begin until both sides have an equal number of entries.
+7533 : This option decides whether or not multiples of the same main job are allowed on a single team. In the case where no duplicates has been chosen, all members of the same job except for one will have their entries cancelled.
+7534 : Allow multiple main jobs? Return. Information. Duplicates OK. No duplicates.
+7535 : Multiple entries of the same main job have been detected in the Wyverns. Entries beyond the first will be invalidated.
+7536 : Multiple entries of the same main job have been detected in the Griffons. Entries beyond the first will be invalidated.
+7537 : This option selects whether or not support jobs will be allowed.
+7538 : Allow support jobs? Return. Information. Yes. No.
+7539 : This option selects the minimum level for participation in the match. This value cannot be set higher than the maximum level setting.
+7540 : Minimum level? Return. Information. None. 10. 20. 30. 40. 50. 60. 75.
+7541 : [Pattern A/Pattern B/Pattern C/Pattern D] will use the layout as shown.
+7542 : The locations of each Flammen-Brenner and camp will be displayed. W represents the Wyverns, while G represents the Griffons.
+7543 : See the layout patterns? Not right now. See pattern A. See pattern B. See pattern C. See pattern D.
+7544 : Choose match layout. Return. Information. Pattern A. Pattern B. Pattern C. Pattern D.
+7545 : Briefing refers to a period of time before the match where strategies can be hammered out. In matches with multiple sets, the briefing period between matches will be set to 60 seconds regardless of the time selected for this setting.
+7546 : Briefing length. Return. Information. 30 seconds. 1 minute. 3 minutes. 5 minutes.
+7547 : This option selects the length of one match. Please be aware that in the case of multiple sets, the length of each match will be decided by this setting.
+7548 : Match length. Return. Information. 5 minutes. 10 minutes. 15 minutes. 20 minutes. 30 minutes.
+7549 : This option selects the number of sets to be played.
+7550 : Number of sets. Return. Information. 1 set. 2 sets. 3 sets.
+7551 : This option selects the match length and number of sets in official matches. The combinations available will vary depending on the amount of time remaining until the next scheduled match.
+7552 : Match style. Return. Information. 1 set of 20 minutes. 2 sets of 10 minutes. 1 set of 30 minutes. 2 sets of 15 minutes. 3 sets of 10 minutes.
+7553 : Other time settings. Return. Complete status [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.] Flamme duration [/(fixed)]: [1 min./2 min./3 min./4 min./5 min.] Flammen-Brenner [/(fixed)]: [10 sec./20 sec./30 sec./45 sec./1 min.]
+7554 : This option selects the amount of time one side must maintain Complete status (i.e. each Flammen-Brenner has been lit with a Flamme) until the match becomes a called game.
+7555 : Also, points will be awarded for protecting the Flamme for the period of time set with this option.
+7556 : Complete status duration. Return. Information. 1 minute. 2 minutes. 3 minutes. 4 minutes. 5 minutes.
+7557 : This option selects the amount of time a player can hold on to a Flamme before it returns to a Flammen-Brenner on the opposing side.
+7558 : Flamme duration. Return. Information. 1 minute. 2 minutes. 3 minutes. 4 minutes. 5 minutes.
+7559 : This option selects the amount of time that will pass before a destroyed Flammen-Brenner will recover after a failed attempt to capture the Flamme.
+7560 : Flammen-Brenner recovery. Return. Information. 10 seconds. 20 seconds. 30 seconds. 45 seconds. 1 minute.
+7561 : This option selects whether or not normal items can be used during a match.
+7562 : Allow normal item use? Return. Information. Yes. No.
+7563 : Temporary item settings. Return. Temp. item capacity [/(fixed)]: [10/15/20] Temp. item distribution [/(fixed)]: [none/OK] Quarry holes [/(fixed)]: [all full/some empty]
+7564 : This option selects the maximum number of temporary items that a player can carry at one time.
+7565 : Set temporary item capacity. Return. Information. 10. 15. 20.
+7566 : This option selects whether or not 5 temporary items will be distributed to each player at the start of the match.
+7567 : Distribute temporary items? Return. Information. No. Yes.
+7568 : This option selects whether or not some attempts to quarry will fail to produce an item.
+7569 : Fill all quarry holes? Return. Information. No. Yes.
+7570 : This option selects whether or not Flammen-Brenner that are under attack will remove sleep status effects from nearby players of the same side.
+7571 : Remove sleep effects? Return. Information. No. Yes.
+7572 : This option selects whether or not Flammen-Brenner will consume Petras from nearby team members to restore HP after being damaged past a certain point.
+7573 : Repair by Petra? Return. Information. No. Yes.
+7574 : This option sets the penalty for being KO'd.
+7575 : In the case of a Level 1 penalty, reviving from a KO will take longer depending on the length of time between KOs.
+7576 : The Level 2 penalty has the same penalties as Level 1, as well as an additional penalty of less HP and MP being recovered upon revival.
+7577 : Set KO penalty. Return. Information. Level 1. Level 2.
+7578 : In accordance with the KO penalty, players will recover less HP and MP when reviving from KO status.
+7579 : Clear all entry data? Yes. No.
+7580 : All entry data has been cleared.
+7581 : Return all options to the default settings? Yes. No.
+7582 : The MC has returned all rule options to their default settings.
+7583 : Fix settings and begin the entry period? Yes. Not yet.
+7584 : The entry period cannot begin until both leaders have agreed to the rule settings.
+7585 : This game has become a private match.
+7586 : The MC has begun the entry period.
+7587 : A blast of warm air is expelled from the Flammen-Brenner. The heat is enough to wake a person from sleep.
+7588 : The Flammen-Brenner consumes # [Petra/Petras] from % and recovers # HP!
+7589 : An error has occurred in the proceedings.

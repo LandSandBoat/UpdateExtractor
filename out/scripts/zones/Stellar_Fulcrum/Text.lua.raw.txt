@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,102 +7044,102 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7055 : Word has been received of a Troll threat in Wajaom Woodlands.
-7056 : Word has been received of an undead threat in Bhaflau Thickets.
-7057 : Tallying conquest results...
-7058 : Conquest results tallied.
-7059 : This region is currently under San d'Orian control.
-7060 : This region is currently under Bastokan control.
-7061 : This region is currently under Windurstian control.
-7062 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7063 : This region is currently neutral.
-7064 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7065 : All three nations are tied for first place.
-7066 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7067 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7068 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7069 : All three nations are tied for first place.
-7070 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7072 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7073 : All three nations are tied for first place.
-7074 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7076 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7077 : All three nations are tied for first place.
-7078 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7079 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7080 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7081 : Global balance of power: All three nations are tied for first place.
-7082 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7084 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7085 : All three nations are tied for first place.
-7086 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7087 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7088 : Conquest update: This region is currently neutral.
-7089 : Conquest update: This region is currently under San d'Orian control.
-7090 : Conquest update: This region is currently under Bastokan control.
-7091 : Conquest update: This region is currently under Windurstian control.
-7092 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7093 : All three nations are at a deadlock.
-7094 : The beastmen are on the rise.
-7095 : Regional influence: San d'Oria - Dominant
-7096 : Regional influence: San d'Oria - Major
-7097 : Regional influence: San d'Oria - Minor
-7098 : Regional influence: San d'Oria - Minimal
-7099 : Bastok - Dominant
-7100 : Bastok - Major
-7101 : Bastok - Minor
-7102 : Bastok - Minimal
-7103 : Windurst - Dominant
-7104 : Windurst - Major
-7105 : Windurst - Minor
-7106 : Windurst - Minimal
-7107 : Bastok and Windurst have formed an alliance.
-7108 : San d'Oria and Windurst have formed an alliance.
-7109 : San d'Oria and Bastok have formed an alliance.
-7110 : Bastok and Windurst are currently allies.
-7111 : San d'Oria and Windurst are currently allies.
-7112 : San d'Oria and Bastok are currently allies.
-7113 : # #
-7114 : # % #
-7115 : ITEM_ID:# :#
-7116 : :# :#
-7117 : [//]:[////] :#:#
-7118 : The beastmen are gaining power.
-7119 : San d'Oria's regional control is now 10% closer to the first place country's!
-7120 : Bastok's regional control is now 10% closer to the first place country's!
-7121 : Windurst's regional control are now 10% closer to the first place country's!
-7122 : San d'Oria's region points have increased!
-7123 : Bastok's region points have increased!
-7124 : Windurst's region points have increased!
-7125 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7126 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7127 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7128 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7129 : A Bastokan Expeditionary Force has been dispatched to this area.
-7130 : A Windurstian Expeditionary Force has been dispatched to this area.
-7131 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7132 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7133 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7134 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7135 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7136 : There was a curse on the beastmen's banner!
-7137 : The curse of the beastmen's banner has been lifted!
-7138 : There is a beastmen's banner.
-7214 : # #
-7215 : # #
-7216 : Enter the battlefield? Enter. Decline.
-7217 : Leave the battlefield? Run away. Stay.
-7218 : You cannot enter the battlefield at present. Please wait a little longer.
-7219 : You cannot enter the battlefield at present. Please wait a little longer.
-7220 : You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
-7221 : Your time in the battlefield is up! Now exiting...
-7222 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7223 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7224 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7058 : Word has been received of a Troll threat in Wajaom Woodlands.
+7059 : Word has been received of an undead threat in Bhaflau Thickets.
+7060 : Tallying conquest results...
+7061 : Conquest results tallied.
+7062 : This region is currently under San d'Orian control.
+7063 : This region is currently under Bastokan control.
+7064 : This region is currently under Windurstian control.
+7065 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7066 : This region is currently neutral.
+7067 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7068 : All three nations are tied for first place.
+7069 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7070 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7072 : All three nations are tied for first place.
+7073 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7074 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7076 : All three nations are tied for first place.
+7077 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7078 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7079 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7080 : All three nations are tied for first place.
+7081 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7082 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7084 : Global balance of power: All three nations are tied for first place.
+7085 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7086 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7087 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7088 : All three nations are tied for first place.
+7089 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7090 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7091 : Conquest update: This region is currently neutral.
+7092 : Conquest update: This region is currently under San d'Orian control.
+7093 : Conquest update: This region is currently under Bastokan control.
+7094 : Conquest update: This region is currently under Windurstian control.
+7095 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7096 : All three nations are at a deadlock.
+7097 : The beastmen are on the rise.
+7098 : Regional influence: San d'Oria - Dominant
+7099 : Regional influence: San d'Oria - Major
+7100 : Regional influence: San d'Oria - Minor
+7101 : Regional influence: San d'Oria - Minimal
+7102 : Bastok - Dominant
+7103 : Bastok - Major
+7104 : Bastok - Minor
+7105 : Bastok - Minimal
+7106 : Windurst - Dominant
+7107 : Windurst - Major
+7108 : Windurst - Minor
+7109 : Windurst - Minimal
+7110 : Bastok and Windurst have formed an alliance.
+7111 : San d'Oria and Windurst have formed an alliance.
+7112 : San d'Oria and Bastok have formed an alliance.
+7113 : Bastok and Windurst are currently allies.
+7114 : San d'Oria and Windurst are currently allies.
+7115 : San d'Oria and Bastok are currently allies.
+7116 : # #
+7117 : # % #
+7118 : ITEM_ID:# :#
+7119 : :# :#
+7120 : [//]:[////] :#:#
+7121 : The beastmen are gaining power.
+7122 : San d'Oria's regional control is now 10% closer to the first place country's!
+7123 : Bastok's regional control is now 10% closer to the first place country's!
+7124 : Windurst's regional control are now 10% closer to the first place country's!
+7125 : San d'Oria's region points have increased!
+7126 : Bastok's region points have increased!
+7127 : Windurst's region points have increased!
+7128 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7129 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7130 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7131 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7132 : A Bastokan Expeditionary Force has been dispatched to this area.
+7133 : A Windurstian Expeditionary Force has been dispatched to this area.
+7134 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7135 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7136 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7137 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7138 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7139 : There was a curse on the beastmen's banner!
+7140 : The curse of the beastmen's banner has been lifted!
+7141 : There is a beastmen's banner.
+7217 : # #
+7218 : # #
+7219 : Enter the battlefield? Enter. Decline.
+7220 : Leave the battlefield? Run away. Stay.
+7221 : You cannot enter the battlefield at present. Please wait a little longer.
+7222 : You cannot enter the battlefield at present. Please wait a little longer.
+7223 : You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+7224 : Your time in the battlefield is up! Now exiting...
 7225 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7226 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7227 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7147,655 +7147,658 @@
 7229 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7230 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7231 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7232 : You have been enchanted so that you may enter!
-7233 : Your entry enchantment has expired!
-7234 : You are not cleared to enter the battlefield. Now exiting...
-7235 : A cursed seal has been placed upon this platform.
-7236 : The battlefield where your party members are engaged in combat is locked. Access is denied.
-7237 : There is no response. You cannot escape!
-7238 : The door is sealed shut with an evil curse.
-7239 : A mysterious force is sealing the platform.
-7240 : The old wooden door is locked tight.
-7241 : The door is sealed with a mysterious energy.
-7242 : It is a giant crystal.
-7243 : A strong magical force is whirling up from the platform.
-7244 : A fierce column of wind blocks your path. You cannot proceed any further...
-7245 : An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
-7246 : An unfathomable light is rising from this strangely marked platform...
-7247 : A heavy wooden gate. It is tightly locked...
-7248 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7249 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7250 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7232 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7233 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7234 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7235 : You have been enchanted so that you may enter!
+7236 : Your entry enchantment has expired!
+7237 : You are not cleared to enter the battlefield. Now exiting...
+7238 : A cursed seal has been placed upon this platform.
+7239 : The battlefield where your party members are engaged in combat is locked. Access is denied.
+7240 : There is no response. You cannot escape!
+7241 : The door is sealed shut with an evil curse.
+7242 : A mysterious force is sealing the platform.
+7243 : The old wooden door is locked tight.
+7244 : The door is sealed with a mysterious energy.
+7245 : It is a giant crystal.
+7246 : A strong magical force is whirling up from the platform.
+7247 : A fierce column of wind blocks your path. You cannot proceed any further...
+7248 : An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+7249 : An unfathomable light is rising from this strangely marked platform...
+7250 : A heavy wooden gate. It is tightly locked...
 7251 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7252 : A glowing mist of ever-changing proportions floats before you...
-7253 : A solid iron gate. It is tightly locked...
-7254 : You see a gigantic crystal, glowing with amber light...
-7255 : You see a gigantic crystal, glowing with amber light...
-7256 : Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
-7257 : Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
-7258 : If you listen closely, you can faintly hear female voices singing in rounds...
-7259 : It appears as if something had been thrust into the rockface here...
-7260 : A decorative door. It appears to be locked...
-7261 : The door is locked.
-7262 : The gate is locked.
-7263 : The door is locked.
+7252 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7253 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7254 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7255 : A glowing mist of ever-changing proportions floats before you...
+7256 : A solid iron gate. It is tightly locked...
+7257 : You see a gigantic crystal, glowing with amber light...
+7258 : You see a gigantic crystal, glowing with amber light...
+7259 : Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+7260 : Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+7261 : If you listen closely, you can faintly hear female voices singing in rounds...
+7262 : It appears as if something had been thrust into the rockface here...
+7263 : A decorative door. It appears to be locked...
 7264 : The door is locked.
-7265 : There seems to be a space beneath the floor, but you are unable to access it.
-7266 : You do not meet the requirements to enter the battlefield. Access is denied.
-7267 : [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
-7268 : [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
-7269 : [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
-7270 : [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
-7271 : [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
-7272 : [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
-7273 : [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
-7274 : [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
-7275 : You were unable to protect the special character. Now leaving the battlefield.
-7276 : You were unable to protect Prince Trion. Now leaving the battlefield.
-7277 : You were unable to protect Captain Volker. Now leaving the battlefield.
-7278 : You were unable to protect Ajido-Marujido. Now leaving the battlefield.
-7279 : Your % is torn...
-7280 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-7281 : Your % is torn...
-7282 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-7283 : You see innumerable stars shimmering in the distance...
-7292 : _A
-7293 : _B
-7294 : _C
-7295 : _D
-7296 : _E
-7297 : (_A
-7298 : (_B
-7299 : (_C
-7302 : _A
-7303 : _B
-7304 : _C
-7305 : remove1
-7306 : remove2
-7307 : remove3
-7308 : _A
-7309 : _B
-7310 : _C
-7312 : %% %%
-7313 : ID ###### #
-7314 : _A
-7315 : _B
-7316 : _C
-7317 : ID  ID
-7319 : ID
-7320 : _A
-7321 : _B
-7322 : _C
-7325 : _A
-7326 : _B
-7327 : _C
-7328 : pending _A
-7329 : pending _B
-7330 : pending _C
-7331 : _A
-7332 : _B
-7333 : _C
-7334 : _A _A talk
-7335 : _B _B talk
-7336 : _C _C talk
-7337 : _AID_A
-7338 : _BID_B
-7339 : _CID_C
-7340 : _A
-7341 : _A
-7342 : _A
-7343 : _B
-7344 : _B
-7345 : _B
-7346 : _C
-7347 : _C
-7348 : _C
-7350 : _Apending
-7351 : _Apending  pending
-7352 : _Bpending
-7353 : _Bpending  pending
-7354 : _Cpending
-7355 : _Cpending  pending
-7356 : _Apending
-7357 : _Bpending
-7358 : _Cpending
-7360 : defpcpending
-7361 : _A
-7362 : _B
-7363 : _C
-7364 : _A PC_A
-7365 : _B PC_B
-7366 : _C PC_C
-7367 : _A
-7368 : _B
-7369 : _C
+7265 : The gate is locked.
+7266 : The door is locked.
+7267 : The door is locked.
+7268 : There seems to be a space beneath the floor, but you are unable to access it.
+7269 : You do not meet the requirements to enter the battlefield. Access is denied.
+7270 : [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+7271 : [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+7272 : [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+7273 : [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+7274 : [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+7275 : [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+7276 : [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+7277 : [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+7278 : You were unable to protect the special character. Now leaving the battlefield.
+7279 : You were unable to protect Prince Trion. Now leaving the battlefield.
+7280 : You were unable to protect Captain Volker. Now leaving the battlefield.
+7281 : You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+7282 : Your % is torn...
+7283 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+7284 : Your % is torn...
+7285 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+7286 : You see innumerable stars shimmering in the distance...
+7295 : _A
+7296 : _B
+7297 : _C
+7298 : _D
+7299 : _E
+7300 : (_A
+7301 : (_B
+7302 : (_C
+7305 : _A
+7306 : _B
+7307 : _C
+7308 : remove1
+7309 : remove2
+7310 : remove3
+7311 : _A
+7312 : _B
+7313 : _C
+7315 : %% %%
+7316 : ID ###### #
+7317 : _A
+7318 : _B
+7319 : _C
+7320 : ID  ID
+7322 : ID
+7323 : _A
+7324 : _B
+7325 : _C
+7328 : _A
+7329 : _B
+7330 : _C
+7331 : pending _A
+7332 : pending _B
+7333 : pending _C
+7334 : _A
+7335 : _B
+7336 : _C
+7337 : _A _A talk
+7338 : _B _B talk
+7339 : _C _C talk
+7340 : _AID_A
+7341 : _BID_B
+7342 : _CID_C
+7343 : _A
+7344 : _A
+7345 : _A
+7346 : _B
+7347 : _B
+7348 : _B
+7349 : _C
+7350 : _C
+7351 : _C
+7353 : _Apending
+7354 : _Apending  pending
+7355 : _Bpending
+7356 : _Bpending  pending
+7357 : _Cpending
+7358 : _Cpending  pending
+7359 : _Apending
+7360 : _Bpending
+7361 : _Cpending
+7363 : defpcpending
+7364 : _A
+7365 : _B
+7366 : _C
+7367 : _A PC_A
+7368 : _B PC_B
+7369 : _C PC_C
 7370 : _A
 7371 : _B
 7372 : _C
 7373 : _A
 7374 : _B
 7375 : _C
-7376 : (_A)
-7377 : (_B)
-7378 : (_C)
-7380 : ENDPARA
-7381 : _A
-7382 : _B
-7383 : _C
-7384 : BAID
-7385 : CABID
-7386 : (AID)
-7387 : (BID)
-7388 : (CID)
+7376 : _A
+7377 : _B
+7378 : _C
+7379 : (_A)
+7380 : (_B)
+7381 : (_C)
+7383 : ENDPARA
+7384 : _A
+7385 : _B
+7386 : _C
+7387 : BAID
+7388 : CABID
 7389 : (AID)
 7390 : (BID)
 7391 : (CID)
-7392 : (A)
-7393 : (B)
-7394 : (C)
-7398 : _A
-7399 : _B
-7400 : _C
+7392 : (AID)
+7393 : (BID)
+7394 : (CID)
+7395 : (A)
+7396 : (B)
+7397 : (C)
 7401 : _A
 7402 : _B
 7403 : _C
 7404 : _A
 7405 : _B
 7406 : _C
-7410 : %% %%
-7416 : _A
-7417 : _B
-7418 : _C
-7420 : _A
-7421 : _B
-7422 : _C
+7407 : _A
+7408 : _B
+7409 : _C
+7413 : %% %%
+7419 : _A
+7420 : _B
+7421 : _C
 7423 : _A
 7424 : _B
 7425 : _C
-7426 : pending
-7427 : _A
-7428 : _B
-7429 : _C
-7431 : _A
-7432 : _B
-7433 : _C
-7434 : _APC
-7435 : _BPC
-7436 : _CPC
-7440 : pending_A
-7441 : pending_B
-7442 : pending_C
-7445 : %% %%
-7446 : ID ###### #
-7447 : ID  ID
-7449 : ID
-7450 : _A
-7451 : _B
-7452 : _C
-7455 : _A
-7456 : _B
-7457 : _C
-7458 : pending _A
-7459 : pending _B
-7460 : pending _C
-7461 : pending _D
-7462 : pending _E
-7463 : _B
-7464 : _C
-7465 : _A _A talk
-7466 : _B _B talk
-7467 : _C _C talk
-7468 : _AID_A
-7469 : _BID_B
-7470 : _CID_C
-7471 : _A
-7472 : _A
-7473 : _A
-7474 : _B
-7475 : _B
-7476 : _B
-7477 : _C
-7478 : _C
-7479 : _C
-7481 : _Apending
-7482 : _Apending  pending
-7483 : _Bpending
-7484 : _Bpending  pending
-7485 : _Cpending
-7486 : _Cpending  pending
-7487 : _Apending
-7488 : _Bpending
-7489 : _Cpending
-7491 : defpcpending
-7492 : _A
-7493 : _B
-7494 : _C
-7495 : _A PC_A
-7496 : _B PC_B
-7497 : _C PC_C
-7498 : _A
-7499 : _B
-7500 : _C
+7426 : _A
+7427 : _B
+7428 : _C
+7429 : pending
+7430 : _A
+7431 : _B
+7432 : _C
+7434 : _A
+7435 : _B
+7436 : _C
+7437 : _APC
+7438 : _BPC
+7439 : _CPC
+7443 : pending_A
+7444 : pending_B
+7445 : pending_C
+7448 : %% %%
+7449 : ID ###### #
+7450 : ID  ID
+7452 : ID
+7453 : _A
+7454 : _B
+7455 : _C
+7458 : _A
+7459 : _B
+7460 : _C
+7461 : pending _A
+7462 : pending _B
+7463 : pending _C
+7464 : pending _D
+7465 : pending _E
+7466 : _B
+7467 : _C
+7468 : _A _A talk
+7469 : _B _B talk
+7470 : _C _C talk
+7471 : _AID_A
+7472 : _BID_B
+7473 : _CID_C
+7474 : _A
+7475 : _A
+7476 : _A
+7477 : _B
+7478 : _B
+7479 : _B
+7480 : _C
+7481 : _C
+7482 : _C
+7484 : _Apending
+7485 : _Apending  pending
+7486 : _Bpending
+7487 : _Bpending  pending
+7488 : _Cpending
+7489 : _Cpending  pending
+7490 : _Apending
+7491 : _Bpending
+7492 : _Cpending
+7494 : defpcpending
+7495 : _A
+7496 : _B
+7497 : _C
+7498 : _A PC_A
+7499 : _B PC_B
+7500 : _C PC_C
 7501 : _A
 7502 : _B
 7503 : _C
 7504 : _A
 7505 : _B
 7506 : _C
-7507 : (_A)
-7508 : (_B)
-7509 : (_C)
-7511 : ENDPARA
-7512 : _A
-7513 : _B
-7514 : _C
-7515 : BAID
-7516 : CABID
-7517 : (AID)
-7518 : (BID)
-7519 : (CID)
+7507 : _A
+7508 : _B
+7509 : _C
+7510 : (_A)
+7511 : (_B)
+7512 : (_C)
+7514 : ENDPARA
+7515 : _A
+7516 : _B
+7517 : _C
+7518 : BAID
+7519 : CABID
 7520 : (AID)
 7521 : (BID)
 7522 : (CID)
-7523 : (A)
-7524 : (B)
-7525 : (C)
-7527 : Currently, # members of your party (including yourself) have clearance to enter the battlefield.
-7528 : Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
-7529 : Only % can enter the battlefield.
-7530 : The time limit for this battle is # minutes.
-7531 : There is a crack in the %. It no longer contains a monster.
-7532 : A crack has formed on the %, and the beast inside has been unleashed!
-7533 : Boss mode : #!!
-7534 : Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
-7536 : DEBUG1
-7538 : DEBUG
-7539 : DEBUG
-7540 : # # BOSS_STATUS#
-7541 : # ID#
-7542 : # # BOSS_STATUS# #pending
-7543 : PARTY0# PARTY1#PARTY2#
-7544 : PARTY3# PARTY4#PARTY5#
-7547 : CLI_NUM0 = #
-7548 : CLI_NUM1 = #
-7549 : CLI_NUM2 = #
-7550 : CLI_NUM3 = #
-7551 : CLI_NUM4 = #
-7552 : CLI_NUM5 = #
-7553 : CLI_NUM6 = #
-7554 : CLI_NUM7 = #
-7555 : Skip the event? Yes. No.
-7556 : Battlefield clear time: # second[/s]!
-7557 : Battlefield clear time: # minute[/s], # second[/s]!
-7558 : The current battlefield clear time record is # second[/s].
-7559 : The current battlefield clear time record is # minute[/s] # second[/s].
-7560 : Called the NPC! PC ID = #! RESULT = #!
-7561 : Got rid of the NPC! PC ID = #!
-7562 : The NPC has fallen, and he can't get up! Leaving room A!
-7563 : The NPC has fallen, and he can't get up! Leaving room B!
-7564 : The NPC has fallen, and he can't get up! Leaving room C!
-7565 : The NPC has fallen, and he can't get up! Leaving room D!
-7566 : All party members have fallen in battle. Now leaving the battlefield.
-7567 : Everybody's fallen in room A, and they can't get up! Leaving room A!
-7568 : Everybody's fallen in room B, and they can't get up! Leaving room B!
-7569 : Everybody's fallen in room C, and they can't get up! Leaving room C!
-7570 : Everybody's fallen in room D, and they can't get up! Leaving room D!
-7571 : Everybody's fallen in room E, and they can't get up! Leaving room E!
-7572 : If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
-7573 : If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-7574 : What the hell is that number!? It's not possible!!!
-7575 : Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-7576 : You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
-7577 : You do not meet the requirements to enter the battlefield with your party members. Access is denied.
-7578 : The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
-7579 : That record is held by # adventurers, including %!
-7580 : That record is held by %!
-7581 : Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
-7582 : Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
-7583 : A malignant force escapes from your %.
-7584 : You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
-7585 : Your % is calling out to something...
-7586 : The % has a large crack running straight down the side.
-7587 : Step into the circle? Yes. No.
-7588 : There is no response. You cannot escape!
-7589 : You have broken the clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell]!
-7590 : The current battlefield clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell] is # second[/s].
-7591 : The current battlefield clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell] is # minute[/s] # second[/s].
-7592 : Entering the battlefield for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell]!
-7593 : Which battlefield will you enter? None. Return to Delkfutt's Tower. The Indomitable Triumvirate (vs. 3!) The Dauntless Duo (vs. 2!) The Solitary Demolisher (vs. 1!) Heroine's Combat. Mercenary Camp. Ode of Life Bestowing. Return to Delkfutt's Tower. True Love. A Fond Farewell.
-7594 : The door will not budge.
-7595 : You can no longer use the %.
-7596 : Ha, were you three still alive? Now you can watch as life is breathed into the Chrysalis Core once again!
-7597 : The Chrysalis Core?
-7598 : What you see below you is the heart of Delkfutt's Tower. Regenerating it will open the path to Tu'Lia.
-7599 : Isn't Tu'Lia the floating island also known as the Gate of the Gods? I thought it was destroyed when the ancient capital of the Zilart was submerged.
-7600 : Just as we Zilart slept for thousands of years, Tu'Lia also remains in slumber. Miles above the surface of Vana'diel, it bides its time until the day of awakening.
-7601 : And when it awakes, eternal paradise will be within our grasp.
-7602 : Slept? You mean to tell me that you've been sleeping here in Delkfutt's Tower for ten thousand years?
-7603 : You are fairly intuitive for a mere Hume. Thirty years ago, when Raogrimm came in contact with the crystal in the cursed Northlands, some of its energy flowed to this tower.
-7604 : It was that burst of power that awoke us, giving us the opportunity to continue our quest for Paradise.
-7605 : Long ago, your people paid the price for what you did. What's to be gained by chasing after lost dreams?
-7606 : Every soul in Vana'diel wants to believe that there's a gate to eternal paradise somewhere on this planet.
-7607 : ...
-7608 : A pure, untainted world, perfect in every facet. A crystalline paradise fit for the gods.
-7609 : That is the vision...and you vermin are not part of it.
-7610 : I've had enough! You've spent the last thirty years deceiving all of us in Jeuno.
-7611 : You could care less about the people of this world! You are just using the power of the gods in an attempt to take over Vana'diel!
-7612 : Hm-hm-hm...
-7613 : Hah-hah-hah! I can no longer fool you. Behold! I am the will of the crystal!
-7614 : And now I shall wield its true power and make this planet mine! Rise forth, Crystal Warriors!
-7615 : Who the hell are these characters?
-7616 : I will let them take care of you.
-7617 : Ah, we have an uninvited guest...
-7618 : So you have come here to die, have you? Well, I'll give you the honor of being taken down by my blade.
-7619 : This is your end. Perish, fools, in the name of the crystal!
-7620 : Wh-why? I am the will...of the crystal... How could I be defeated by mere mortals?
-7621 : Warriors! Why do you just sit there and watch?
-7622 : My poor brother, haven't you realized? The crystal doesn't need you anymore.
-7623 : Eald'narche!? What do you mean? Wh-why are you...
-7624 : You were foolish to believe that the crystal ever chose you.
-7625 : The crystal doesn't need...me? It can't be possible... You can't leave me here like this!
-7626 : Yes... You still need me to revive Tu'Lia!
-7627 : Regenerating the Chrysalis Core? You need not worry, my brother. I have found another way to do that.
-7628 : Now let the show begin...
-7629 : Ungh!
-7630 : Ahh!
-7631 : Verena? Verena! Are you all right!?
-7632 : Of course she's all right, you imbecile. Why would I harm my key to the Chrysalis Core?
-7633 : A lucky find, this girl was. Who would have thought this simple Hume would have such extraordinary resonating ability?
-7634 : No... So, you were planning to use her all along...
-7635 : Farewell, my little brother. Return to the crystal from which you were born.
-7636 : Why... What did I do to deserve...this...
-7637 : Little brother... But then... You're the elder prince of the Zilart?
-7638 : You shouldn't be deceived by appearances. My growth was stopped the moment I came in contact with the crystal, ten thousand years ago.
-7639 : And ten thousand years I have waited to put my plan into motion.
-7640 : Plan? You mean, to open the Gate of the Gods?
-7641 : What else? To open the gate, the regeneration of the Chrysalis Core was necessary. However, the unexpected arrival of that Raogrimm character interfered with the crystals' power. His existence created too much noise.
-7642 : Luckily for me, you people succeeded in defeating the Shadow Lord, causing the noise to disappear. My plan took a turn when I realized that Raogrimm was a Talekeeper.
-7643 : I could utilize the long lost memories of the ancients he carried to regenerate the Chrysalis Core.
-7644 : Memories of the ancients? What does this have to do with Raogrimm?
-7645 : I would not think that you would know of such matters. I assume that not even Raogrimm himself knew. What he carried was not in his mind, but in his blood.
-7646 : If I were to obtain a part of him, I could use it instead of having to rely on my useless brother.
-7647 : But even if you did have it, you wouldn't be able to use it on your own!
-7648 : Yes, you are right. That is where your sister Verena comes in.
-7649 : The soul of your younger sister resonates with the souls of the beastmen. Only she can communicate with them.
-7650 : I plan to use her ability to unlock the memories of the ancients and project them into Delkfutt's Tower, thus regenerating the Chrysalis Core and opening the path to Tu'Lia.
-7651 : Once Tu'Lia has been awakened, I can continue my preparations there.
-7652 : Just as I did ten thousand years ago.
-7653 : Now, Verena. Let us begin.
-7654 : Stop! What are you doing to her!?
-7655 : It... It cannot be!
-7656 : Behold, the Gate of the Gods--Tu'Lia!
-7657 : Gate of the Gods...
-7658 : Verena!
-7659 : I have no more use for her. If you want her that much, you can have her back.
-7660 : No!
-7661 : Verena! Open your eyes! Verena!
-7662 : Don't you, too, want to pass through the Gate of the Gods? Don't you, too, want to know what awaits in eternal paradise? Come to Tu'Lia, and see with your own eyes.
-7663 : Only after you enter Paradise will you mortals know true happiness.
-7664 : The questions to which you have no answers--you will find those answers in Tu'Lia.
-7665 : And once you have come to realize that your existence is meaningless, I will change the world into a crystal, set to shine for eternity...
-7666 : You wouldn't dare!
-7667 : I wouldn't? Why don't you come to Tu'Lia and find out?
-7668 : However, only those who have been blessed by the light and whose power has been accepted by the crystal can pass through the gate.
-7669 : Travel to Ro'Maeve and prove yourselves. I will be waiting for you on the other side.
-7670 : Wait!
-7671 : Why, you!
-7672 : Stop!
-7673 : Heh-heh-heh... Ah-hah-hah-hah!
-7674 : Someone has to stop him, or it will mean the end of Vana'diel as we know it.
-7675 : I'm going back to Norg. I'll see if my father can give us any help.
-7676 : The % begins to resonate with the door.
-7677 : Kammy boss pops!
-7678 : 3 buddies get smacked, crystal warriors vanish.
-7679 : Chrysalis Core powers up.
-7680 : Welcome back Tu'Lia.
-7681 : Verena's fallen, and she can't get up.
-7682 : Scene jump No. Kammy goes bye-bye Before Tu'Lia appears After it does
-7683 : PAUSE
-7684 : There is nothing out of the ordinary here.
-7685 : You can hear a strange voice... Items, items, la la la la la
-7686 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7687 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7688 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7689 : Now, listen close...
-7690 : Oh... Well, if that's the case, I'm outta here.
-7691 : The Goblin slipped away when you were not looking...
-7692 : You can hear a strange, raspy voice...
-7693 : I travel......hear lots... Hear...stories... Can tell...if...
-7694 : .........listen......
-7695 : Oh...... ...outta here.........
-7696 : Do you want to hear a story? No, thank you. Let's hear one.
-7697 : What story would you like to be told? On second thought, maybe later. Return to Delkfutt's Tower(pt.1). Return to Delkfutt's Tower(pt.2). Return to Delkfutt's Tower(pt.3). Mercenary Camp(pt.1). Mercenary Camp(pt.2). Ode of Life Bestowing(pt.1). Ode of Life Bestowing(pt.2). Ode of Life Bestowing(pt.3). Ode of Life Bestowing(pt.4).
-7701 : I am Trion, firstborn of the king and prince of San d'Oria. I swear to face this challenge squarely, expending every drop of skill and power I possess.
-7702 : Sweet will be the aroma of the 812 Rolanberry I sip tonight!
-7703 : That was most excellent! I would greatly enjoy another match with you one day.
-7704 : I will not allow you to strike me!
-7705 : The fervor of battle beckons my powers forth!
-7706 : Let our powers combine!
-7707 : The fire of my forefathers blazes through my blood!
-7708 : I will send the treacherous darkness back to hell!
-7709 : I will return the glory to my kingdom's people with the spirit of San d'Oria flowing through my blade!
-7710 : O great kings of the noble line d'Oraguille, lend me your strength!
-7711 : O great kings of the noble line d'Oraguille, shield me from harm!
-7712 : I am Volker, captain of the Mythril Musketeers. Do not hold back. Answer the call of my strength and blade!
-7713 : Do not lose heart. Battles are decided on a matter of chance. Chance happened to favor me this time, that's all.
-7714 : So this is the power of the adventurers... We have entered a new age, Zeid...
-7715 : I will not hold back!
-7716 : The time is ripe. Now simply to await an opportunity...
-7717 : It is time! Charge forth, Prince Trion!
-7718 : Taste the power that decimated fields of beastmen in the Great War!
-7719 : It is time you feel the miserable pangs of resignation to life as a traitor!
-7720 : None can withstand the blade that fell the Shadow Lord!
-7721 : War escorts my blade even to the far corners of the Earth. There is no room for contemplation on the battlefield!
-7722 : I'm glad you came. But what terrible luck you have, being matched against the greatest magician this world has ever seen. Well, I guess I'll just have to show you what I mean, won'taru I?
-7723 : Jeepers-creepers, don't cry! What doesn't kill you can only make you stronger, rightaru?
-7724 : Ulp... [He/She]'s stronger than [he/she] looks...
-7725 : I will not be defeated! Powers of dark mana, answer my call!
-7726 : I usually work alone, but I won't allow this battle to degenerate into a slash fest!
-7727 : I'm warning you! Touch me and you'll pay!
-7728 : What a rowdy little brute! It's time for your eternal nap!
-7729 : Rest a while, won't you? You can use the time to see how a battle is won!
-7730 : Learn well, adventurer! Experience the dread of night and the humiliation of defeat!
-7731 : You can't touch my power and intellect! I will carve my supremacy into your bones!
-7732 : I join this tourney for the glory of the Temple Knights!
-7733 : Even when hunting hare, the griffon spares no strength...  And so my blade shall show no quarter!
-7734 : This match was nothing more than a morning drill...
-7735 : I am undone! You will not find me such easy prey the next time we meet!
-7736 : No blade shall mar this armor!
-7737 : Let our combined strength bloom as the blood-petaled rose!
-7738 : Any who enter the reach of my sword shall share the fate of the sundered earth!
-7739 : Can you withstand the onslaught of this steel tempest?
-7740 : Do you take me for some fragile noble's daughter!?
-7741 : The katana should only be drawn if you intend to use it. Allow me to demonstrate why...
-7742 : I have missed the start of the battle, but I will still endeavor to uphold the honor of the Musketeers.
-7743 : Perhaps you would be better off sparring with Naji...
-7744 : I have dishonored the Musketeers...
-7745 : Harness the flow of battle...
-7746 : Let us witness the prowess of the Temple Knight's general.
-7747 : A raging blizzard upon my foes!
-7748 : Even moonlight may become a weapon!
-7749 : Flowers are most beautiful when their delicate petals fall...
-7750 : Hello my dear students, the class has begun. I'm your teacher, Doctor Shantotto, and this is Pain 101.
-7751 : So sorry to keep you waiting for your education. Allow me to begin the mauling and incineration!
-7752 : I think we've covered all the subjects on my list. Your education is complete. Class dismissed! Ohohohohoho!
-7753 : I suppose you deserve a passing grade... This will be my last class today, I'm afraid...
-7754 : Did you enjoy the antics of my puppet twin? You can order one yourself for a mere five million. Ohohohoho!
-7755 : Time to take a break from this basic stuff. Your next lesson in magic will be rather more rough!
-7756 : Paying attention to the teacher is always best. I hope you're watching closely--this spell will be on the test!
-7757 : Damn, I'm hungry enough to eat a megalobugard! How about if I win this fight, you buy me dinner?
-7758 : The mighty Prishe is here! Where's the grub?
-7759 : Wahahaha! All-you-can-eat buffet, here I come!
-7760 : Aw, hell...
-7761 : Gimme the cockatrice steak!!!
-7762 : Gimme the titanictus sushi!!!
-7763 : Where are my Windurstian tacos!?
-7764 : You choose me as you opponent? Very well, I shall be honored to cross swords with you.
-7765 : This battle has dragged on long enough!
-7766 : Counselor Gadalar! Your flanks are wide open!
-7767 : Ah, Counselor Zazarg. Your assistance is most welcome!
-7768 : Feel the blade of the Skyserpent!
-7769 : You have shown me your best...now it is time I returned that courtesy!
-7770 : You are fierce indeed. But the Guardian of Al Zahbi will not fall!
-7771 : <Cough>... How glad I am that such mighty heroes stand in defense of the Empress...
-7772 : Counselor Rughadjeen has fallen.
-7773 : What mockery is this? I expected to battle the finest mercenaries Al Zahbi had to offer!
-7774 : Looking for a quick end to the pain? I'll be happy to oblige!
-7775 : Are you still babying those mercenaries?
-7776 : You're not playing with your dollies, now, Najelith. Stand aside.
-7777 : Who asked you!? I can handle these maggots on my own!
-7778 : Burn! Burn, you slimy maggots!
-7779 : Ahahahahaha! This has been more fun than I expected!
-7780 : Mercenary scum! I'll reduce you all to smoking ash!
-7781 : No...my fires cannot be doused by the likes of you...
-7782 : Counselor Gadalar has fallen.
-7783 : Is it nap time already? Mercenary camp? This is more like kindergarten...
-7784 : You choose to challenge me? Very well, but I shall show you no quarter.
-7785 : Counselor Najelith, reporting for duty!
-7786 : I have your back, Counselor Mihli!
-7787 : Stand aside? I'm fine right where I am, thank you!
-7788 : Swift and sure!
-7789 : For the glory of the Empress!
-7790 : The winds of the Galeserpent will sweep all before them!
-7791 : I am fairly bested... There is no dishonor...in this defeat...
-7792 : Counselor Najelith has fallen.
-7793 : You fought well, mercenaries. There is no shame in your defeat.
-7794 : Oho, picked the biggest of the bunch, did you? Gahahaha, that's the spirit!
-7795 : Looks like my fists are needed to put an end to this!
-7796 : Need a hand, Rughadjeen?
-7797 : I must really be slowin' down to need your help, little Mihli!
-7798 : Gahahahahaha!
-7799 : Gahahahaha! Looks like I'll have to take it up a notch!
-7800 : Now to give you some real combat experience!
-7801 : Oho...well done... You've stood up to the fists of Zazarg...
-7802 : Counselor Zazarg has fallen.
-7803 : Gahahahahaha! If this was a real battlefield, you'd all be corpses by now! Bah, I'll give you points for tryin'!
-7804 : Hehehe... Good choice!
-7805 : Hey! Let me in on the fun!
-7806 : You owe me, old man! Let's call this...three plates of sutlac?
-7807 : Najelith! Happy to have you aboard!
-7808 : Hmph, good enough for the likes of you!
-7809 : Bah! Guess I'll pull out another one of my trrricks!
-7810 : Alright...you asked for it!
-7811 : Hm? Why do I feel so faint...?
-7812 : Counselor Mihli has fallen.
-7813 : Huh? Is that it? I was just getting warmed up!
-7814 : Press a button to continue.
-7815 : Greetings, and welcome to the Serpent Camp for Mercenaries. I'll be your head instructor, Counselor Rughadjeen.
-7816 : Hm? What's with the shocked silence? You know what you're here for, don't you?
-7817 : Well, of course they don't! No one ever takes the time to explain anything, they just issue orders! I'm Counselor Najelith, and I'll be assisting with your combat training.
-7818 : Bah, you're too soft on 'em. You won't have that luxury on the battlefield!
-7819 : They won't be around for long anyway. Not against the five of us!
-7820 : You may know us as the Serpent Generals, but today we are...
-7821 : The Serpent Camp Counselors!
-7822 : Huh!? All the counselors are down...?
-7823 : Gahahahaha! I guess they taught us a thing or two!
-7824 : They must've cheated! I say we go another round!
-7825 : Mihli! We must accept our defeat with humility and praise these mercenaries on their victory.
-7826 : Yes, you deserve high praise for your performance here today! Congratulations, you have graduated from the Serpent Camp for Mercenaries!
-7828 : Emeline!
-7829 : ...
-7830 : Emeline! Please...
-7831 : The war ended years ago... There's nothing for you to fear anymore.
-7832 : Open your eyes, Emeline! Free yourself from the nightmares of the past!
-7833 : Emeline!
-7834 : Aldo...
-7835 : Aldo...!? It really...it really is you, Aldo!
-7836 : Urghhhhhh!
-7837 : I'm afraid there's only room for one Aldo here.
-7838 : This is where we say farewell...dear uncle.
-7839 : Wh-who... What are you!?
-7840 : Aldo! No!
-7841 : Innocent blood spills forth onto the plains of Vana'diel.
-7842 : The world shudders as she is thrust into chaos and despair.
-7843 : Neither power nor destiny...
-7844 : ...can bring an end to what has already begun.
-7845 : Aldo... This is--
-7846 : The prophesied time is now at hand. Behold your fate, foolish mortals...
-7847 : So you are the ones who would seek to reverse irreversible fate. To undo that which cannot be undone...
-7848 : You are the ones who would forsake the very love that begot you...and for what?
-7849 : For your pathetic material attachment to a world that was never yours to claim.
-7850 : What sad, piteous creatures you are. You...like this child...cling feebly to your transitory dreams, never realizing that you are but pawns in a game played by powers far beyond your comprehension.
-7851 : But it matters little.
-7852 : Just as a few grains of sand cannot stand against the roaring tide, nor blades of grass against the gusting winds... A smattering of voices cannot drown out the echo of a thousand ages.
-7853 : The prophecy will be fulfilled; the light of this world, extinguished. Your role in this story has come to an end.
-7854 : But as one bright star shines through the clouds at night...      And as one song rings clear above the roar of beasts...
-7855 : We hold to one hope in these darkest of times.
-7856 : That star is you, and the song is yours.
-7857 : And someday, that hope will become our dreams...
-7858 : Our prayers...
-7859 : Shine forth, star of hope!
-7860 : Let your song ring out across all of Vana'diel!
-7861 : By the strength of our hopes and our prayers...
-7862 : What was split asunder...
-7863 : ...Will once more become whole.
-7864 : Complete and inseparable for all eternity.
-7865 : Come, my children...
-7866 : Embrace your return to the void that birthed you.
-7867 : Fools! You truly believe you can escape your destiny!?
-7868 : This is the will of the crystal! That which gives life, may take it away.
-7869 : Now look upon the destruction of your beloved Vana'diel!
-7870 : The will...of the crystal!?
-7871 : Giver of life? Hah!
-7872 : Don't make me laugh! You're nothing but a twisted shadow!
-7873 : A perverse echo born of my sister's nightmare... A nightmare whose time has long since passed.
-7874 : Silence!
-7875 : You know naught of which you speak. The destiny which you would deny was prophesied long before your world came to be.
-7876 : The door to Paradise shall open...
-7877 : And Vana'diel shall return to the darkness from which it was born.
-7878 : The tides of fate will not be turned by the likes of you.
-7879 : Damn!
-7880 : This...this light...it is...
-7881 : Impossible! The ancient echo resounds through time and space... The Seed Crystal radiates the primordial light of creation!
-7882 : They cannot be extinguished by the likes of--
-7883 : But how...? This...is the power of the antiphon?
-7884 : This is the lifeforce...of Altana's children...?
-7885 : As the legend began, so too does it end...      with a stone.
-7886 : In ages past, the Dawn Goddess,      stricken with grief, sought to restore life      to her fallen beloved by bestowing unto him      the light of the true crystal.
-7887 : The crystal shattered, and in the bodies of      countless mortals the Twilight God was reborn.
-7888 : The crystal's holy light extinguished evermore,      Paradise was no longer, and a new world of      mortals was birthed in its stead.
-7889 : That world was called Vana'diel.
-7890 : Aldo...?
-7891 : Could it truly be you, Aldo? My brother...
-7892 : Aldo, can you hear me? Please... Open your eyes...
-7893 : Emeline...
-7894 : Aldo... But this is only a dream, isn't it?
-7895 : A fleeting illusion that will vanish without a trace before I wake to the light of a new day.
-7896 : I will carry on with my other life, with no memory of who I once was... With no memory of you, nor what you mean to me...
-7897 : Why must this be, Aldo? I don't want to leave you again...
-7898 : Nor do I, Emeline. And yet, even if we never meet again as brother and sister...
-7899 : Just the knowledge that you still live, under the same sun and stars in this world of Vana'diel...
-7900 : Somehow, that's enough.
-7901 : Farewell...Aldo...
-7902 : And so it was that this chapter of      the legend drew to a close...
-7903 : Consigned once more to the darkness,      the ancient ode would fade slowly from      from the realm of mortals, until it was      naught but a forgotten dream.
-7904 : But even now, in a far corner of the world...      Another, yet untold chapter of the legend...
-7905 : Another verse of the ancient song is being woven...
-7906 : By a child of the past--      one who has not abandoned her dream...
-7907 : (debug flag) Cleared Promathia? Yep. Nope.
-7908 : (debug flag) Star Sibyl present? Yep. Nope.
-7909 : But as one bright star shines through the clouds at night...
-7910 : And as one song rings clear above the roar of beasts...
-7911 : A vast ocean of glittering crystals illuminates      the midnight sky, a cosmic wind carrying their      light through time and space.
-7912 : Shine forth, star of hope!      Let your song ring out across all of Vana'diel!
-7913 : And then one day, in a time to come...
-7914 : What was split asunder will once more become whole,  complete and inseparable for all eternity.
-7915 : That world was called Vana'diel.
-7916 : Never to be forgotten... Vana'diel.
-7917 : Before you, a small gemstone shimmers with light...
-7918 : With a blinding flash of light, the stones in your hand fuse together to form a brilliant crystal!
-7919 : Debug: Boss room access is now unlocked.
-7920 : There is nothing out of the ordinary here.
-7921 : Hey ho, adventurer! Might you be the one who summoned me? Only folks who've ventured to Vana'diel via an unnamed mystical gateway have the ability to do so, kupo.
-7922 : Casting and removing moogle magic on adventurers like yourself is my specialty, kupo. What's the magic for, you ask? You could say it's a ticket for entry into battlefields from which abundant honor can be won!
-7923 : Let's see... It appears you['ve yet to receive the enchantment/ already have the enchantment], kupo.
-7924 : Would you like to [receive the enchantment/have the enchantment removed]?
-7925 : [Receive the enchantment/Have the enchantment removed]? Yes, please. No, thanks.
-7926 : Your wish is my command!
-7927 : Please remember that the enchantment will wear off the next time you step through the unnamed mystical gateway. But never fear! I'm always here at your hopelessly humble service, kupo!
-7928 : True love? Hah! And what would you know about that?
-7929 : Heh. I can't believe that you would get the better of me.
-7930 : So, %, you think our bond is strong? Let's test that out.
-7931 : Ugh... Time takes its toll after all.
-7932 : I thought I had you for sure.
-7933 : This is where I call it quits.
+7523 : (AID)
+7524 : (BID)
+7525 : (CID)
+7526 : (A)
+7527 : (B)
+7528 : (C)
+7530 : Currently, # members of your party (including yourself) have clearance to enter the battlefield.
+7531 : Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
+7532 : Only % can enter the battlefield.
+7533 : The time limit for this battle is # minutes.
+7534 : There is a crack in the %. It no longer contains a monster.
+7535 : A crack has formed on the %, and the beast inside has been unleashed!
+7536 : Boss mode : #!!
+7537 : Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+7539 : DEBUG1
+7541 : DEBUG
+7542 : DEBUG
+7543 : # # BOSS_STATUS#
+7544 : # ID#
+7545 : # # BOSS_STATUS# #pending
+7546 : PARTY0# PARTY1#PARTY2#
+7547 : PARTY3# PARTY4#PARTY5#
+7550 : CLI_NUM0 = #
+7551 : CLI_NUM1 = #
+7552 : CLI_NUM2 = #
+7553 : CLI_NUM3 = #
+7554 : CLI_NUM4 = #
+7555 : CLI_NUM5 = #
+7556 : CLI_NUM6 = #
+7557 : CLI_NUM7 = #
+7558 : Skip the event? Yes. No.
+7559 : Battlefield clear time: # second[/s]!
+7560 : Battlefield clear time: # minute[/s], # second[/s]!
+7561 : The current battlefield clear time record is # second[/s].
+7562 : The current battlefield clear time record is # minute[/s] # second[/s].
+7563 : Called the NPC! PC ID = #! RESULT = #!
+7564 : Got rid of the NPC! PC ID = #!
+7565 : The NPC has fallen, and he can't get up! Leaving room A!
+7566 : The NPC has fallen, and he can't get up! Leaving room B!
+7567 : The NPC has fallen, and he can't get up! Leaving room C!
+7568 : The NPC has fallen, and he can't get up! Leaving room D!
+7569 : All party members have fallen in battle. Now leaving the battlefield.
+7570 : Everybody's fallen in room A, and they can't get up! Leaving room A!
+7571 : Everybody's fallen in room B, and they can't get up! Leaving room B!
+7572 : Everybody's fallen in room C, and they can't get up! Leaving room C!
+7573 : Everybody's fallen in room D, and they can't get up! Leaving room D!
+7574 : Everybody's fallen in room E, and they can't get up! Leaving room E!
+7575 : If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
+7576 : If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
+7577 : What the hell is that number!? It's not possible!!!
+7578 : Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+7579 : You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+7580 : You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+7581 : The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+7582 : That record is held by # adventurers, including %!
+7583 : That record is held by %!
+7584 : Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
+7585 : Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+7586 : A malignant force escapes from your %.
+7587 : You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+7588 : Your % is calling out to something...
+7589 : The % has a large crack running straight down the side.
+7590 : Step into the circle? Yes. No.
+7591 : There is no response. You cannot escape!
+7592 : You have broken the clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell]!
+7593 : The current battlefield clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell] is # second[/s].
+7594 : The current battlefield clear time record for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell] is # minute[/s] # second[/s].
+7595 : Entering the battlefield for [Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/Return to Delkfutt's Tower/True Love/A Fond Farewell]!
+7596 : Which battlefield will you enter? None. Return to Delkfutt's Tower. The Indomitable Triumvirate (vs. 3!) The Dauntless Duo (vs. 2!) The Solitary Demolisher (vs. 1!) Heroine's Combat. Mercenary Camp. Ode of Life Bestowing. Return to Delkfutt's Tower. True Love. A Fond Farewell.
+7597 : The door will not budge.
+7598 : You can no longer use the %.
+7599 : Ha, were you three still alive? Now you can watch as life is breathed into the Chrysalis Core once again!
+7600 : The Chrysalis Core?
+7601 : What you see below you is the heart of Delkfutt's Tower. Regenerating it will open the path to Tu'Lia.
+7602 : Isn't Tu'Lia the floating island also known as the Gate of the Gods? I thought it was destroyed when the ancient capital of the Zilart was submerged.
+7603 : Just as we Zilart slept for thousands of years, Tu'Lia also remains in slumber. Miles above the surface of Vana'diel, it bides its time until the day of awakening.
+7604 : And when it awakes, eternal paradise will be within our grasp.
+7605 : Slept? You mean to tell me that you've been sleeping here in Delkfutt's Tower for ten thousand years?
+7606 : You are fairly intuitive for a mere Hume. Thirty years ago, when Raogrimm came in contact with the crystal in the cursed Northlands, some of its energy flowed to this tower.
+7607 : It was that burst of power that awoke us, giving us the opportunity to continue our quest for Paradise.
+7608 : Long ago, your people paid the price for what you did. What's to be gained by chasing after lost dreams?
+7609 : Every soul in Vana'diel wants to believe that there's a gate to eternal paradise somewhere on this planet.
+7610 : ...
+7611 : A pure, untainted world, perfect in every facet. A crystalline paradise fit for the gods.
+7612 : That is the vision...and you vermin are not part of it.
+7613 : I've had enough! You've spent the last thirty years deceiving all of us in Jeuno.
+7614 : You could care less about the people of this world! You are just using the power of the gods in an attempt to take over Vana'diel!
+7615 : Hm-hm-hm...
+7616 : Hah-hah-hah! I can no longer fool you. Behold! I am the will of the crystal!
+7617 : And now I shall wield its true power and make this planet mine! Rise forth, Crystal Warriors!
+7618 : Who the hell are these characters?
+7619 : I will let them take care of you.
+7620 : Ah, we have an uninvited guest...
+7621 : So you have come here to die, have you? Well, I'll give you the honor of being taken down by my blade.
+7622 : This is your end. Perish, fools, in the name of the crystal!
+7623 : Wh-why? I am the will...of the crystal... How could I be defeated by mere mortals?
+7624 : Warriors! Why do you just sit there and watch?
+7625 : My poor brother, haven't you realized? The crystal doesn't need you anymore.
+7626 : Eald'narche!? What do you mean? Wh-why are you...
+7627 : You were foolish to believe that the crystal ever chose you.
+7628 : The crystal doesn't need...me? It can't be possible... You can't leave me here like this!
+7629 : Yes... You still need me to revive Tu'Lia!
+7630 : Regenerating the Chrysalis Core? You need not worry, my brother. I have found another way to do that.
+7631 : Now let the show begin...
+7632 : Ungh!
+7633 : Ahh!
+7634 : Verena? Verena! Are you all right!?
+7635 : Of course she's all right, you imbecile. Why would I harm my key to the Chrysalis Core?
+7636 : A lucky find, this girl was. Who would have thought this simple Hume would have such extraordinary resonating ability?
+7637 : No... So, you were planning to use her all along...
+7638 : Farewell, my little brother. Return to the crystal from which you were born.
+7639 : Why... What did I do to deserve...this...
+7640 : Little brother... But then... You're the elder prince of the Zilart?
+7641 : You shouldn't be deceived by appearances. My growth was stopped the moment I came in contact with the crystal, ten thousand years ago.
+7642 : And ten thousand years I have waited to put my plan into motion.
+7643 : Plan? You mean, to open the Gate of the Gods?
+7644 : What else? To open the gate, the regeneration of the Chrysalis Core was necessary. However, the unexpected arrival of that Raogrimm character interfered with the crystals' power. His existence created too much noise.
+7645 : Luckily for me, you people succeeded in defeating the Shadow Lord, causing the noise to disappear. My plan took a turn when I realized that Raogrimm was a Talekeeper.
+7646 : I could utilize the long lost memories of the ancients he carried to regenerate the Chrysalis Core.
+7647 : Memories of the ancients? What does this have to do with Raogrimm?
+7648 : I would not think that you would know of such matters. I assume that not even Raogrimm himself knew. What he carried was not in his mind, but in his blood.
+7649 : If I were to obtain a part of him, I could use it instead of having to rely on my useless brother.
+7650 : But even if you did have it, you wouldn't be able to use it on your own!
+7651 : Yes, you are right. That is where your sister Verena comes in.
+7652 : The soul of your younger sister resonates with the souls of the beastmen. Only she can communicate with them.
+7653 : I plan to use her ability to unlock the memories of the ancients and project them into Delkfutt's Tower, thus regenerating the Chrysalis Core and opening the path to Tu'Lia.
+7654 : Once Tu'Lia has been awakened, I can continue my preparations there.
+7655 : Just as I did ten thousand years ago.
+7656 : Now, Verena. Let us begin.
+7657 : Stop! What are you doing to her!?
+7658 : It... It cannot be!
+7659 : Behold, the Gate of the Gods--Tu'Lia!
+7660 : Gate of the Gods...
+7661 : Verena!
+7662 : I have no more use for her. If you want her that much, you can have her back.
+7663 : No!
+7664 : Verena! Open your eyes! Verena!
+7665 : Don't you, too, want to pass through the Gate of the Gods? Don't you, too, want to know what awaits in eternal paradise? Come to Tu'Lia, and see with your own eyes.
+7666 : Only after you enter Paradise will you mortals know true happiness.
+7667 : The questions to which you have no answers--you will find those answers in Tu'Lia.
+7668 : And once you have come to realize that your existence is meaningless, I will change the world into a crystal, set to shine for eternity...
+7669 : You wouldn't dare!
+7670 : I wouldn't? Why don't you come to Tu'Lia and find out?
+7671 : However, only those who have been blessed by the light and whose power has been accepted by the crystal can pass through the gate.
+7672 : Travel to Ro'Maeve and prove yourselves. I will be waiting for you on the other side.
+7673 : Wait!
+7674 : Why, you!
+7675 : Stop!
+7676 : Heh-heh-heh... Ah-hah-hah-hah!
+7677 : Someone has to stop him, or it will mean the end of Vana'diel as we know it.
+7678 : I'm going back to Norg. I'll see if my father can give us any help.
+7679 : The % begins to resonate with the door.
+7680 : Kammy boss pops!
+7681 : 3 buddies get smacked, crystal warriors vanish.
+7682 : Chrysalis Core powers up.
+7683 : Welcome back Tu'Lia.
+7684 : Verena's fallen, and she can't get up.
+7685 : Scene jump No. Kammy goes bye-bye Before Tu'Lia appears After it does
+7686 : PAUSE
+7687 : There is nothing out of the ordinary here.
+7688 : You can hear a strange voice... Items, items, la la la la la
+7689 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7690 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7691 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7692 : Now, listen close...
+7693 : Oh... Well, if that's the case, I'm outta here.
+7694 : The Goblin slipped away when you were not looking...
+7695 : You can hear a strange, raspy voice...
+7696 : I travel......hear lots... Hear...stories... Can tell...if...
+7697 : .........listen......
+7698 : Oh...... ...outta here.........
+7699 : Do you want to hear a story? No, thank you. Let's hear one.
+7700 : What story would you like to be told? On second thought, maybe later. Return to Delkfutt's Tower(pt.1). Return to Delkfutt's Tower(pt.2). Return to Delkfutt's Tower(pt.3). Mercenary Camp(pt.1). Mercenary Camp(pt.2). Ode of Life Bestowing(pt.1). Ode of Life Bestowing(pt.2). Ode of Life Bestowing(pt.3). Ode of Life Bestowing(pt.4).
+7704 : I am Trion, firstborn of the king and prince of San d'Oria. I swear to face this challenge squarely, expending every drop of skill and power I possess.
+7705 : Sweet will be the aroma of the 812 Rolanberry I sip tonight!
+7706 : That was most excellent! I would greatly enjoy another match with you one day.
+7707 : I will not allow you to strike me!
+7708 : The fervor of battle beckons my powers forth!
+7709 : Let our powers combine!
+7710 : The fire of my forefathers blazes through my blood!
+7711 : I will send the treacherous darkness back to hell!
+7712 : I will return the glory to my kingdom's people with the spirit of San d'Oria flowing through my blade!
+7713 : O great kings of the noble line d'Oraguille, lend me your strength!
+7714 : O great kings of the noble line d'Oraguille, shield me from harm!
+7715 : I am Volker, captain of the Mythril Musketeers. Do not hold back. Answer the call of my strength and blade!
+7716 : Do not lose heart. Battles are decided on a matter of chance. Chance happened to favor me this time, that's all.
+7717 : So this is the power of the adventurers... We have entered a new age, Zeid...
+7718 : I will not hold back!
+7719 : The time is ripe. Now simply to await an opportunity...
+7720 : It is time! Charge forth, Prince Trion!
+7721 : Taste the power that decimated fields of beastmen in the Great War!
+7722 : It is time you feel the miserable pangs of resignation to life as a traitor!
+7723 : None can withstand the blade that fell the Shadow Lord!
+7724 : War escorts my blade even to the far corners of the Earth. There is no room for contemplation on the battlefield!
+7725 : I'm glad you came. But what terrible luck you have, being matched against the greatest magician this world has ever seen. Well, I guess I'll just have to show you what I mean, won'taru I?
+7726 : Jeepers-creepers, don't cry! What doesn't kill you can only make you stronger, rightaru?
+7727 : Ulp... [He/She]'s stronger than [he/she] looks...
+7728 : I will not be defeated! Powers of dark mana, answer my call!
+7729 : I usually work alone, but I won't allow this battle to degenerate into a slash fest!
+7730 : I'm warning you! Touch me and you'll pay!
+7731 : What a rowdy little brute! It's time for your eternal nap!
+7732 : Rest a while, won't you? You can use the time to see how a battle is won!
+7733 : Learn well, adventurer! Experience the dread of night and the humiliation of defeat!
+7734 : You can't touch my power and intellect! I will carve my supremacy into your bones!
+7735 : I join this tourney for the glory of the Temple Knights!
+7736 : Even when hunting hare, the griffon spares no strength...  And so my blade shall show no quarter!
+7737 : This match was nothing more than a morning drill...
+7738 : I am undone! You will not find me such easy prey the next time we meet!
+7739 : No blade shall mar this armor!
+7740 : Let our combined strength bloom as the blood-petaled rose!
+7741 : Any who enter the reach of my sword shall share the fate of the sundered earth!
+7742 : Can you withstand the onslaught of this steel tempest?
+7743 : Do you take me for some fragile noble's daughter!?
+7744 : The katana should only be drawn if you intend to use it. Allow me to demonstrate why...
+7745 : I have missed the start of the battle, but I will still endeavor to uphold the honor of the Musketeers.
+7746 : Perhaps you would be better off sparring with Naji...
+7747 : I have dishonored the Musketeers...
+7748 : Harness the flow of battle...
+7749 : Let us witness the prowess of the Temple Knight's general.
+7750 : A raging blizzard upon my foes!
+7751 : Even moonlight may become a weapon!
+7752 : Flowers are most beautiful when their delicate petals fall...
+7753 : Hello my dear students, the class has begun. I'm your teacher, Doctor Shantotto, and this is Pain 101.
+7754 : So sorry to keep you waiting for your education. Allow me to begin the mauling and incineration!
+7755 : I think we've covered all the subjects on my list. Your education is complete. Class dismissed! Ohohohohoho!
+7756 : I suppose you deserve a passing grade... This will be my last class today, I'm afraid...
+7757 : Did you enjoy the antics of my puppet twin? You can order one yourself for a mere five million. Ohohohoho!
+7758 : Time to take a break from this basic stuff. Your next lesson in magic will be rather more rough!
+7759 : Paying attention to the teacher is always best. I hope you're watching closely--this spell will be on the test!
+7760 : Damn, I'm hungry enough to eat a megalobugard! How about if I win this fight, you buy me dinner?
+7761 : The mighty Prishe is here! Where's the grub?
+7762 : Wahahaha! All-you-can-eat buffet, here I come!
+7763 : Aw, hell...
+7764 : Gimme the cockatrice steak!!!
+7765 : Gimme the titanictus sushi!!!
+7766 : Where are my Windurstian tacos!?
+7767 : You choose me as you opponent? Very well, I shall be honored to cross swords with you.
+7768 : This battle has dragged on long enough!
+7769 : Counselor Gadalar! Your flanks are wide open!
+7770 : Ah, Counselor Zazarg. Your assistance is most welcome!
+7771 : Feel the blade of the Skyserpent!
+7772 : You have shown me your best...now it is time I returned that courtesy!
+7773 : You are fierce indeed. But the Guardian of Al Zahbi will not fall!
+7774 : <Cough>... How glad I am that such mighty heroes stand in defense of the Empress...
+7775 : Counselor Rughadjeen has fallen.
+7776 : What mockery is this? I expected to battle the finest mercenaries Al Zahbi had to offer!
+7777 : Looking for a quick end to the pain? I'll be happy to oblige!
+7778 : Are you still babying those mercenaries?
+7779 : You're not playing with your dollies, now, Najelith. Stand aside.
+7780 : Who asked you!? I can handle these maggots on my own!
+7781 : Burn! Burn, you slimy maggots!
+7782 : Ahahahahaha! This has been more fun than I expected!
+7783 : Mercenary scum! I'll reduce you all to smoking ash!
+7784 : No...my fires cannot be doused by the likes of you...
+7785 : Counselor Gadalar has fallen.
+7786 : Is it nap time already? Mercenary camp? This is more like kindergarten...
+7787 : You choose to challenge me? Very well, but I shall show you no quarter.
+7788 : Counselor Najelith, reporting for duty!
+7789 : I have your back, Counselor Mihli!
+7790 : Stand aside? I'm fine right where I am, thank you!
+7791 : Swift and sure!
+7792 : For the glory of the Empress!
+7793 : The winds of the Galeserpent will sweep all before them!
+7794 : I am fairly bested... There is no dishonor...in this defeat...
+7795 : Counselor Najelith has fallen.
+7796 : You fought well, mercenaries. There is no shame in your defeat.
+7797 : Oho, picked the biggest of the bunch, did you? Gahahaha, that's the spirit!
+7798 : Looks like my fists are needed to put an end to this!
+7799 : Need a hand, Rughadjeen?
+7800 : I must really be slowin' down to need your help, little Mihli!
+7801 : Gahahahahaha!
+7802 : Gahahahaha! Looks like I'll have to take it up a notch!
+7803 : Now to give you some real combat experience!
+7804 : Oho...well done... You've stood up to the fists of Zazarg...
+7805 : Counselor Zazarg has fallen.
+7806 : Gahahahahaha! If this was a real battlefield, you'd all be corpses by now! Bah, I'll give you points for tryin'!
+7807 : Hehehe... Good choice!
+7808 : Hey! Let me in on the fun!
+7809 : You owe me, old man! Let's call this...three plates of sutlac?
+7810 : Najelith! Happy to have you aboard!
+7811 : Hmph, good enough for the likes of you!
+7812 : Bah! Guess I'll pull out another one of my trrricks!
+7813 : Alright...you asked for it!
+7814 : Hm? Why do I feel so faint...?
+7815 : Counselor Mihli has fallen.
+7816 : Huh? Is that it? I was just getting warmed up!
+7817 : Press a button to continue.
+7818 : Greetings, and welcome to the Serpent Camp for Mercenaries. I'll be your head instructor, Counselor Rughadjeen.
+7819 : Hm? What's with the shocked silence? You know what you're here for, don't you?
+7820 : Well, of course they don't! No one ever takes the time to explain anything, they just issue orders! I'm Counselor Najelith, and I'll be assisting with your combat training.
+7821 : Bah, you're too soft on 'em. You won't have that luxury on the battlefield!
+7822 : They won't be around for long anyway. Not against the five of us!
+7823 : You may know us as the Serpent Generals, but today we are...
+7824 : The Serpent Camp Counselors!
+7825 : Huh!? All the counselors are down...?
+7826 : Gahahahaha! I guess they taught us a thing or two!
+7827 : They must've cheated! I say we go another round!
+7828 : Mihli! We must accept our defeat with humility and praise these mercenaries on their victory.
+7829 : Yes, you deserve high praise for your performance here today! Congratulations, you have graduated from the Serpent Camp for Mercenaries!
+7831 : Emeline!
+7832 : ...
+7833 : Emeline! Please...
+7834 : The war ended years ago... There's nothing for you to fear anymore.
+7835 : Open your eyes, Emeline! Free yourself from the nightmares of the past!
+7836 : Emeline!
+7837 : Aldo...
+7838 : Aldo...!? It really...it really is you, Aldo!
+7839 : Urghhhhhh!
+7840 : I'm afraid there's only room for one Aldo here.
+7841 : This is where we say farewell...dear uncle.
+7842 : Wh-who... What are you!?
+7843 : Aldo! No!
+7844 : Innocent blood spills forth onto the plains of Vana'diel.
+7845 : The world shudders as she is thrust into chaos and despair.
+7846 : Neither power nor destiny...
+7847 : ...can bring an end to what has already begun.
+7848 : Aldo... This is--
+7849 : The prophesied time is now at hand. Behold your fate, foolish mortals...
+7850 : So you are the ones who would seek to reverse irreversible fate. To undo that which cannot be undone...
+7851 : You are the ones who would forsake the very love that begot you...and for what?
+7852 : For your pathetic material attachment to a world that was never yours to claim.
+7853 : What sad, piteous creatures you are. You...like this child...cling feebly to your transitory dreams, never realizing that you are but pawns in a game played by powers far beyond your comprehension.
+7854 : But it matters little.
+7855 : Just as a few grains of sand cannot stand against the roaring tide, nor blades of grass against the gusting winds... A smattering of voices cannot drown out the echo of a thousand ages.
+7856 : The prophecy will be fulfilled; the light of this world, extinguished. Your role in this story has come to an end.
+7857 : But as one bright star shines through the clouds at night...      And as one song rings clear above the roar of beasts...
+7858 : We hold to one hope in these darkest of times.
+7859 : That star is you, and the song is yours.
+7860 : And someday, that hope will become our dreams...
+7861 : Our prayers...
+7862 : Shine forth, star of hope!
+7863 : Let your song ring out across all of Vana'diel!
+7864 : By the strength of our hopes and our prayers...
+7865 : What was split asunder...
+7866 : ...Will once more become whole.
+7867 : Complete and inseparable for all eternity.
+7868 : Come, my children...
+7869 : Embrace your return to the void that birthed you.
+7870 : Fools! You truly believe you can escape your destiny!?
+7871 : This is the will of the crystal! That which gives life, may take it away.
+7872 : Now look upon the destruction of your beloved Vana'diel!
+7873 : The will...of the crystal!?
+7874 : Giver of life? Hah!
+7875 : Don't make me laugh! You're nothing but a twisted shadow!
+7876 : A perverse echo born of my sister's nightmare... A nightmare whose time has long since passed.
+7877 : Silence!
+7878 : You know naught of which you speak. The destiny which you would deny was prophesied long before your world came to be.
+7879 : The door to Paradise shall open...
+7880 : And Vana'diel shall return to the darkness from which it was born.
+7881 : The tides of fate will not be turned by the likes of you.
+7882 : Damn!
+7883 : This...this light...it is...
+7884 : Impossible! The ancient echo resounds through time and space... The Seed Crystal radiates the primordial light of creation!
+7885 : They cannot be extinguished by the likes of--
+7886 : But how...? This...is the power of the antiphon?
+7887 : This is the lifeforce...of Altana's children...?
+7888 : As the legend began, so too does it end...      with a stone.
+7889 : In ages past, the Dawn Goddess,      stricken with grief, sought to restore life      to her fallen beloved by bestowing unto him      the light of the true crystal.
+7890 : The crystal shattered, and in the bodies of      countless mortals the Twilight God was reborn.
+7891 : The crystal's holy light extinguished evermore,      Paradise was no longer, and a new world of      mortals was birthed in its stead.
+7892 : That world was called Vana'diel.
+7893 : Aldo...?
+7894 : Could it truly be you, Aldo? My brother...
+7895 : Aldo, can you hear me? Please... Open your eyes...
+7896 : Emeline...
+7897 : Aldo... But this is only a dream, isn't it?
+7898 : A fleeting illusion that will vanish without a trace before I wake to the light of a new day.
+7899 : I will carry on with my other life, with no memory of who I once was... With no memory of you, nor what you mean to me...
+7900 : Why must this be, Aldo? I don't want to leave you again...
+7901 : Nor do I, Emeline. And yet, even if we never meet again as brother and sister...
+7902 : Just the knowledge that you still live, under the same sun and stars in this world of Vana'diel...
+7903 : Somehow, that's enough.
+7904 : Farewell...Aldo...
+7905 : And so it was that this chapter of      the legend drew to a close...
+7906 : Consigned once more to the darkness,      the ancient ode would fade slowly from      from the realm of mortals, until it was      naught but a forgotten dream.
+7907 : But even now, in a far corner of the world...      Another, yet untold chapter of the legend...
+7908 : Another verse of the ancient song is being woven...
+7909 : By a child of the past--      one who has not abandoned her dream...
+7910 : (debug flag) Cleared Promathia? Yep. Nope.
+7911 : (debug flag) Star Sibyl present? Yep. Nope.
+7912 : But as one bright star shines through the clouds at night...
+7913 : And as one song rings clear above the roar of beasts...
+7914 : A vast ocean of glittering crystals illuminates      the midnight sky, a cosmic wind carrying their      light through time and space.
+7915 : Shine forth, star of hope!      Let your song ring out across all of Vana'diel!
+7916 : And then one day, in a time to come...
+7917 : What was split asunder will once more become whole,  complete and inseparable for all eternity.
+7918 : That world was called Vana'diel.
+7919 : Never to be forgotten... Vana'diel.
+7920 : Before you, a small gemstone shimmers with light...
+7921 : With a blinding flash of light, the stones in your hand fuse together to form a brilliant crystal!
+7922 : Debug: Boss room access is now unlocked.
+7923 : There is nothing out of the ordinary here.
+7924 : Hey ho, adventurer! Might you be the one who summoned me? Only folks who've ventured to Vana'diel via an unnamed mystical gateway have the ability to do so, kupo.
+7925 : Casting and removing moogle magic on adventurers like yourself is my specialty, kupo. What's the magic for, you ask? You could say it's a ticket for entry into battlefields from which abundant honor can be won!
+7926 : Let's see... It appears you['ve yet to receive the enchantment/ already have the enchantment], kupo.
+7927 : Would you like to [receive the enchantment/have the enchantment removed]?
+7928 : [Receive the enchantment/Have the enchantment removed]? Yes, please. No, thanks.
+7929 : Your wish is my command!
+7930 : Please remember that the enchantment will wear off the next time you step through the unnamed mystical gateway. But never fear! I'm always here at your hopelessly humble service, kupo!
+7931 : True love? Hah! And what would you know about that?
+7932 : Heh. I can't believe that you would get the better of me.
+7933 : So, %, you think our bond is strong? Let's test that out.
+7934 : Ugh... Time takes its toll after all.
+7935 : I thought I had you for sure.
+7936 : This is where I call it quits.
