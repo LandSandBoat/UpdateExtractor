@@ -7170,7 +7170,7 @@
 7252 : .........listen......
 7253 : Oh...... ...outta here.........
 7254 : Do you want to hear a story? No, thank you. Let's hear one.
-7255 : What story would you like to be told? On second thought, maybe later. Recollections. Duke Alloces' Decision(pt.1). Duke Alloces' Decision(pt.2).
+7255 : What story would you like to be told? On second thought, maybe later. Recollections. Duke Alloces's Decision(pt.1). Duke Alloces's Decision(pt.2).
 7259 : Greetings, friend, and welcome to the Mog Merchants Extraordinaire! Here, you can exchange your hard-earned kupons for all sorts of stupendous souvenirs!
 7260 : ...Or so we thought, kupo. Sadly, it seems that my cohorts are slacking off on the job. They're nowhere to be found!
 7261 : Unless they come back, I fear that your % is nothing but a worthless scrap of parchment. I know! Perhaps you could help me track them down, kupo?
@@ -7287,14 +7287,134 @@
 7374 : DEBUG : make_ticketid_with_parameter 1 ext:# slot:# zone:# missionNo:#
 7375 : DEBUG : make_ticketid_with_parameter 2 time:# ticket:#
 7376 : You fill an intense pressure coming from the rift.
-7377 : Enter which? (Auto-transport: [Off/On].) Never mind. uke Alloces's Decision. . . . . . . . . . . . . . . Toggle Auto-transport.
-7378 : Only party members present with you in this area will be transported to [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-7379 : Entering [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-7380 : You have chosen not to [apply to/enter] [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-7381 : Entering [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-7382 : You have applied to enter [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-7383 : Applying to enter [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-7384 : You are currently applying to enter [/Duke Alloces' Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7377 : Enter which? (Auto-transport: [Off/On].) Never mind. Duke Alloces's Decision. . . . . . . . . . . . . . . Toggle Auto-transport.
+7378 : Only party members present with you in this area will be transported to [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7379 : Entering [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7380 : You have chosen not to [apply to/enter] [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7381 : Entering [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7382 : You have applied to enter [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+7383 : Applying to enter [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+7384 : You are currently applying to enter [/Duke Alloces's Decision][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
 7385 : Please wait in % while the battlefield is being prepared. Your registration number for entering this nightmare is #.
 7386 : Your registration number for entering this nightmare is #.
-7387 : You feel immense pressure coming from . Your registration number is #, and ID # is currently ready.
+7387 : You feel immense pressure coming from the vicinity. IDs up through # have been registered, and ID # is currently ready.
+7389 : It's completely different in here than it is out there! What's going on!?
+7390 : It must be due to opening the gate to the underworld.
+7391 : This area has been interspersed with Valhalla, and it's throwing everything off.
+7392 : Th-this place is really cold. It seeps into your v-very soul...
+7393 : Well, Valhalla is where people go when they die!
+7394 : So maybe since Valhalla has partially merged with this world, it means we're also half dead?
+7395 : Most impressive, Destiny Destroyers. That's not a bad guess, actually...
+7396 : In fact, I'd venture to say you're half right.
+7397 : This is a world where both the living and the dead coexist.
+7398 : You! You're the Maelstrom Mage, Garazu-Horeizu!
+7399 : It is a pleasure to meet you. I am pleased to hear that my name is known throughout the world of beastmen as well.
+7400 : I have heard your names from our loyal legion of the dead.
+7401 : I figured that explosion would allow us to meet in Valhalla...
+7402 : But as you can see, you lot are not nearly strong enough to be summoned to such a hallowed place.
+7403 : As such, we are fortunate that we were able to meet here.
+7404 : Silence! You'll pay for what you've done!
+7405 : I'm more interested in this one here.
+7406 : Although expected, it was still a little surprising to see humanoids joining forces with beastmen.
+7407 : It is clear that things have changed since the time I walked the land.
+7408 : Several decades ago, there was a great war between humans and beastmen. Does that no longer concern you?
+7409 : You may be a Galka, but it appears that you are not the Talekeeper...
+7410 : Let me guess... You are what is known as an adventurer.
+7411 : You dare to visit uncharted lands that others are afraid to set foot in.
+7412 : So you were willing to go to any means necessary to obtain that weapon in your hand, yes?
+7413 : Did you want to obtain the weapon? Yes, that's right. No, not really.
+7414 : I see... I believe you, for I tend not to deny that which is posited before me.
+7415 : If I did, then I would never be able to reach a higher plane of knowledge.
+7416 : I believe you and I are the same. That is why you were able to make it this far.
+7417 : However, I think you are forgetting something important.
+7418 : That which dwells within the weapon you wield shall devour your very soul.
+7419 : Do you realize what that means? Have you ever thought about what a soul actually is?
+7420 : Normally, you only regard injuries inflicted upon that which can be seen by the naked eye.
+7421 : Gloom Phantom... As a Goblin, surely you can answer this.
+7422 : Huh!?
+7423 : Um... The old man told me that it leads to a shortening of one's life span!
+7424 : During the battle five thousand years ago, those with such weapons weren't just killed by Chaos and its minions.
+7425 : I heard that many of them died after a small piece of their souls was eaten with every swing of their weapon.
+7426 : Then, the next-strongest individual would take up the sword from that corpse, and so on and so forth.
+7427 : The battle in Valhalla would continue to be fought until only one was left standing.
+7428 : Life span... Once again, you are only half right.
+7429 : The soul is a collection of the potential that you possess.
+7430 : As an adventurer, perhaps it is easier to understand it as free will.
+7431 : The usual variety of choices that lie before you are slowly eaten away.
+7432 : You gradually lose the freedom to choose, and in the end, only death awaits.
+7433 : Therefore, I believe that there is no more idiotic choice one can make than to wield such a weapon.
+7434 : I have no idea what you're talking about.
+7435 : I-I think he's saying we should get rid of the w-weapon...
+7436 : What!? I refuse to let that happen!
+7437 : You can refuse all you like, but it matters not. You are a beastman, while [she/he] is a humanoid.
+7438 : Furthermore, the only reason I can see that you are working together is because your interests align, for the moment at least.
+7439 : In fact, the relationship between you is entirely due to the weapon.
+7440 : If it were to be lost, then you would become enemies. Or at the very least, you would return to your usual state of indifference.
+7441 : Despite all that babbling, you're also only half right!
+7442 : The only reason that % and I are connected is because of the weapon!
+7443 : However, that connection is much more powerful than you give it credit for!
+7444 : That weapon has been passed between the corpses of heroes from various races ever since that fateful battle five thousand years ago...
+7445 : Orcs, Quadav, Yagudo, Sahagin, apkallu, pteraketos, Meebles, citrullus, Goblins...
+7446 : And when I was the last one to take up that sword...
+7447 : I also became something of a corpse when it was smashed to pieces.
+7448 : And just like before, someone has arrived to take up the weapon in my stead...
+7449 : And that person is none other than %!
+7450 : There is five thousand years of history connecting us all. That is why I refuse to let it be cast aside!
+7451 : Throw away the weapon? Yes. No.
+7452 : Huh!? If you think it's that easy, go ahead and try! Someone will be there to pick it up!
+7453 : I realize it is hard for you to understand. But even that choice will be taken from you.
+7454 : Hah! You're the one who doesn't understand!
+7455 : We simply need to beat you before our soul can be devoured!
+7456 : Yes, he who strikes first, strikes last. How very appropriate of a beastman.
+7457 : I shall learn from your words and simply deny you any chance at victory from the beginning...
+7458 : Deny you the choice of life itself, even...
+7459 : Look over there!
+7460 : Rrrrrr! Is that Chaos!?
+7461 : It looks like things are starting to heat up!
+7462 : Ch-Chaos or the Maelstrom Mage... Which should we attack first!?
+7463 : There is no need for Chaos to join this fight.
+7464 : Rejoice! Both your body and soul shall serve as nourishment for Chaos's divine ambition.
+7465 : What just happened!?
+7466 : I thought only that weapon could finish off Chaos!?
+7467 : Did we win!?
+7468 : Hah! That Chaos isn't so tough after all!
+7469 : Huh!?
+7470 : Well done. Now, shall we try again?
+7471 : Wha!? Is that Chaos again!?
+7472 : L-look closer... That's not the r-real thing!
+7473 : This is special magic that I've encountered before. It is illusion magic that was used by a pair of sibling mages.
+7474 : Although it depends on the illusion, it consumes large amounts of magical energy, and normally cannot be cast multiple times.
+7475 : However, I am currently linked to Chaos itself.
+7476 : Chaos possesses the power to connect with the astral plane...
+7477 : As a result, I am able to tap into the pure magical energies found there.
+7478 : Naturally, the high purity of this energy means that only skilled mages like myself can harness it.
+7479 : H-he's able to continually use his m-magic without interruption...
+7480 : So in other words, we're basically doomed, yes?
+7481 : Curses... Skokkr never told me anything about this!
+7482 : Since Odin has closed the gates to the underworld, I imagine the denizens of Vana'diel are likely ignorant of a great many things.
+7483 : Now then... Shall we resume the battle?
+7484 : It will be a worthwhile experiment to see just how many rounds you can survive.
+7485 : Hey, time out!
+7486 : You have no chance at victory here... You must flee!
+7487 : Hey! Is that the Shadow Lord!?
+7488 : !!!
+7489 : W-wait, isn't that...!?
+7490 : ...I may be able to slow them down.
+7491 : It's you...
+7492 : I am not who you think... There is no going back for me now.
+7493 : My prior death and subsequent resurrection... I do not lament my lot in life.
+7494 : I shall leave the rest to you... Now go!
+7495 : This way! Hurry!
+7496 : Thanks, Shadow Lord!
+7497 : I can see where this is going... However, I cannot avoid it.
+7498 : Phew... Phew...
+7499 : Do you think we're safe here?
+7500 : I never expected that we'd be saved by the Shadow Lord. Talk about a shocking development!
+7501 : Still, I thought the Shadow Lord was slain by a human.
+7502 : Maybe he came from Valhalla?
+7503 : A-at any rate, I received this.
+7504 : I-it definitely belongs to a h-human...
+7505 : Forget about that for now. We've got to tell the demon about this new development!
+7506 : We're heading to the road that leads to the Beaucedine Glacier in order to meet with Duke Alloces!
+7507 : Come join us there as soon as you can!
+7508 : You must meet with Duke Alloces near the Beaucedine Glacier in Xarcabard.
