@@ -1,6 +1,7 @@
     text =
     {
         ITEM_CANNOT_BE_OBTAINED       = 6384,  -- You cannot obtain the <item>. Come back after sorting your inventory.
+        CANNOT_OBTAIN_THE_ITEM        = 6386,  -- You cannot obtain the item. Come back after sorting your inventory.
         FULL_INVENTORY_AFTER_TRADE    = 6388,  -- You cannot obtain the <item>. Try trading again after sorting your inventory.
         ITEM_OBTAINED                 = 6390,  -- Obtained: <item>.
         GIL_OBTAINED                  = 6391,  -- Obtained <number> gil.
