@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,710 +7044,713 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7055 : Word has been received of a Troll threat in Wajaom Woodlands.
-7056 : Word has been received of an undead threat in Bhaflau Thickets.
-7057 : Begone from here. You frail mortals should have thought twice before assscending this peak.
-7058 : I have no patience for those who desssecrate the forest. Depart at once.
-7059 : If you do not, then I have no choice but to ssswing the radiant hammer of vengeance down upon your meager frames!
-7060 : Wait! ...Your Eminence. Before you judge us, I would like you to take a look at this.
-7061 : That blade...
-7062 : %, can you show him the proof of your bonds to this forest, too?
-7063 : Show your %? Sounds like a plan. No can do.
-7064 : You bring forth the % before the Winged Scourge.
-7065 : %! Do you want to get us burned to a crisp!?
-7066 : ...Or are you saying that because you <gasp> left it back in Adoulin?
-7067 : Did you leave it behind? Yes, silly me. No, I've got it right here.
-7068 : How could you!?
-7069 : Wait a minute...
-7070 : Ugh! This better be the last time you try to pull my leg like that, %! I don't think my heart can take much more.
-7071 : The Winged Scourge casts a burning stare in your direction.
-7072 : Hmmm... Ortharsssyne and %...
-7073 : You mean to tell me that you are not like the rest of those pillagers, but ssstaunch believers in August and his desire to preserve the forest?
-7074 : You refer to the founder king by his first name? So...you knew him personally?
-7075 : But he lived centuries upon centuries ago! You couldn't possibly--
-7076 : Of courssse I knew him, for I am Sajj'aka.
-7077 : Not only did I know the first Adoulin king, I ssswore my allegiance to him.
-7078 : Was it centuries ago? Millennia? Time flows for many thingsss, but upon Sajj'aka it touchesss not.
-7079 : Seasss change. Landsss change. Even should the starsss fade from existence, the covenant made with Augussst shall not break.
-7080 : In my eyes, the lives of your kind are as delicate and transient as bubbles in a ssstream, your moments of glory mere sssparks from flint.
-7081 : Inconsssequential, insssignificant, insssubstantial--such is how I came to conceive of your peoples.
-7082 : Augussst has been the only exception.
-7083 : His aura shone brighter than my refulgent scales, and his resolve was ssstrong enough to wrest me from the realm of shadows.
-7084 : That is not the lone justification for why my memory of him will persissst until the end of time, but it is an important one.
-7085 : And what of you, ssspindly-legged foal?
-7086 : Does the ressspect for the king you claim to harbor within that miniscule bosom of yours amount to even a drop in the sea compared to what I showed him while he was alive?
-7087 : Well, I...
-7088 : <Snort> Hopefully you can at least answer this sssimple question.
-7089 : As a preface...you are aware of the ssseven guardians that protect the Ulbukan hinterland, are you not?
-7090 : Yes, I am. They're the Naakuals, right?
-7091 : Is that the ephemeral sssobriquet they have been given by your kind? Very well.
-7092 : I shall not waste my breath explaining the ressst.
-7093 : However, there was one more guardian who fought alongside August...a worthy tiger whose fur shone a lussstrous gold.
-7094 : That must be Terrcualn.
-7095 : I recall reading about him during one of my trips to the library. What was the title of the book, though...?
-7096 : Aha, His Majesty and the Golden Beast! That's it!
-7097 : Ah, booksss. An inconvenient form of immortality, but perhapsss the best your ephemeral kind can hope for. If you are truly learned, you should have no qualms about a simple tessst.
-7098 : Pray tell me, where did August meet Terrcualn in combat?
-7099 : Umm... Where they fought, you say? Well...that would be...
-7100 : %, what do we do? I don't remember that detail at all.
-7101 : ...Aha, it's a trick question! The story makes no mention of where they fought!
-7102 : Confidence conceals ignorance only when the other party is ignorant as well, you misssguided fool.
-7103 : In the end, you care as little for August as I care for dissemblers.
-7104 : The one who saved me from that place where even the faintest hint of light is ssswallowed whole...nestlingsss such as you could never hope to fathom his greatnesss. I was foolish to believe otherwise.
-7105 : I will not ssstand for this a moment longer.
-7106 : I know not why you tressspassed upon this land, and I no longer care.
-7107 : There is nothing left to dissscuss, for you have proven beyond a doubt that you are incapable of understanding August's will.
-7108 : Remove yourselves from my presence. Our conversation has left me weary of both ssspeaking with mortals and with life itself.
-7109 : I'm so embarrassed, %... I don't want to admit it, but maybe he's right after all.
-7110 : It was silly of me to come here knowing so little.
-7111 : If I'm to make amends, there's only one thing left to do.
-7112 : %, let's burrow deep into Adoulin's vault of knowledge, leaving no page unturned in our wake!
-7113 : Petulant children. Did I not ask you to be gone from my sssight?
-7114 : We swear that we have no intention of harming the jungle! Please, hear our plea!
-7115 : Then it is my sssworn duty as a protector of this land to confirm if your intent matches your words.
-7116 : It matters little which of you engages in this tessst I am to put forth. But anger me further, and your life is forfeit.
-7117 : Make light of this trial, and I shall grind your skulls between my teeth and sssuck the marrow from your bones.
-7118 : We shall not.
-7119 : Well, how unexpected! The [boy/girl] is putting on airs!
-7120 : Yet pride always comes before a fall. Let us hope that the fire in your eyesss does not become quenched by the avalanche of failure.
-7121 : And an avalanche it shall be, ssshould you make even one misstep. Let the first trial begin.
-7122 : The king of legends was sssaved by a tiger whose mane looked to be woven from golden threads. Where was the site of their struggle?
-7123 : Answer now, lest your flesssh be rent from your frame.
-7124 : Where did the fight occur? Marjami Ravine. Yorcia Weald. Morimar Basalt Fields.
-7125 : Dare the two of you mock me!?
-7126 : It has been many years since I have conversssed with your kind. Perhaps you merely...misspoke. I shall grant you a reprieve.
-7127 : The truth is never a low-hanging fruit, free for all to pluck. It comes only to those willing to snatch it from the heavens.
-7128 : Though I did not bear witness to this truth, Terrcualn and August incessantly regaled me with every lassst detail, and I could recite the story by heart.
-7129 : Beyond doubt, the two ssstruggled valiantly, with August staring straight into the abyss and dragging forth victory from its gaping maw.
-7130 : Terrcualn thus chose to ssserve the fabled one, learning to love him much as I did.
-7131 : Now, for the second test.
-7132 : Terrcualn's cub was entrusted to one of August's most trusted generals. I assume you came across this fact in your studies.
-7133 : Who was this man?
-7134 : What was the man's name? Morigan. Morimar. Morison.
-7135 : Do you make a mockery of August's sssacrifice? Are you such a buffoon that you cannot answer so much as the name of the man who fought by his side?
-7136 : If only he knew that... No. I must have misheard.
-7137 : Come, tell me your anssswer once more.
-7138 : Yes, that is correct. A truly powerful individual indeed, though his ssstar did not shine as brightly as his lord's.
-7139 : August's eleven generals were the only men and women to ever move my heart. That remainsss true to this day.
-7140 : Let us move to the final quessstion.
-7141 : When all seemed lost and the king made his last ssstand, where was it that he fought tooth and claw?
-7142 : Where did the last battle occur? Abyssea. Promyvion. The Serpentine Labyrinth.
-7143 : Never have I heard tales of such a location, but its name alone sends shivers up my ssspine.
-7144 : I deign to give you one more chance.
-7145 : That is correct. Young one, you have prepared well for this encounter.
-7146 : I recognize you as heritors to August's will, and will grant you one brief audience.
-7147 : Phew...
-7148 : %, I'm always glad to have you by my side. I don't know what I would've done...
-7149 : There are limitsss to that which man has recorded in his annals, but as I said before--truth is a fruit found only by the intellectually ravenous.
-7150 : Then you know details hidden from our eyes and ears?
-7151 : Beyond doubt.
-7152 : Sajj'aka, you mentioned that it was August--the founder king--who released you.
-7153 : Your memory is sssharp as a fresh blade, young one. And what about you, [son/daughter] of man?
-7154 : Do you recall this tale?
-7155 : Does the story sound familiar? Yes, it does. Not one iota.
-7156 : Hmm... I had taken you both for fools, but now I sssee that you are worthy.
-7157 : Ha...hahaha!
-7158 : Quite the show you've put on for me! But your honesssty and candor are refreshing.
-7159 : Be thankful that your friend is both meticulousss and sound of mind.
-7160 : Yes, that tale is yet another in this series of truthsss. I am not of Ulbukan origin.
-7161 : The time is not right for me to explain the ssstory in its entirety, but suffice to say...
-7162 : I was long chained down in a terrible domain, and it was the king who releasssed me from my prison.
-7163 : Never again will I return there. Nor will they...
-7164 : What will you ask? But isn't it your homeland? Who are they?
-7165 : Homeland. Quite the pretty phrase, washing away reality with a thin veneer of nossstalgia. No, my homeland is not a place to which I desire to return.
-7166 : And I will take no further questionsss on the matter.
-7167 : You mentioned earlier the beings you know as the Naakuals.
-7168 : So...you have vanquished them.
-7169 : Perhaps it is as he said...I should not look down on the [sssons/daughtersss] of man.
-7170 : As who said?
-7171 : Sajj'aka...
-7172 : As pioneers whose charge is to open up the jungle, clashes with the Naakuals are inevitable. We knew it from the very beginning.
-7173 : Hmm...pioneering... Unsssurprising, given that they are the guardians of Ulbuka.
-7174 : We are quite alike, the Naakualsss and I. We are all residents of a land we cannot call our own, rescued from fate by the one you call the founder king.
-7175 : They obeyed his will much like I did, and when he ordered them to guard sssix locations around Ulbuka, they were bound to obey. That is how they came to protect this land.
-7176 : The ancient pact declared that they were to remain dissstant from the affairs of mortals and shelter the jungle from harm.
-7177 : Their calling is to shelter the jungle...?
-7178 : Yet countlesss years have passed since the king made his request manifest. Perhaps too many years.
-7179 : Some who witnessed those times firsthand have had their memories fade as the centuries passed, and have long forgotten the very reason for their sssworn task.
-7180 : And not jussst the why...but also the what.
-7181 : You may call them the protectors of the land, young one, but you are sssorely mistaken.
-7182 : It is not the jungle they pledged to protect.
-7183 : I don't understand.
-7184 : They were scattered throughout the six reaches of Ulbuka, to be sssure, but not for the reason you think.
-7185 : They were sent to guard the six entrances to what you refer to as the Serpentine Labyrinth.
-7186 : Then the Serpentine Labyrinth...is more than just a myth?
-7187 : When August made his last ssstand, he bid Morimar and I to return to the surface without him.
-7188 : Our purpose--given by the king himself--was not to guard his side. It was to deliver his orders unto...
-7189 : ...the Naakuals. They were to seal the entrances to the labyrinth and ensure that nary so much as a man's breath penetrate into its recesses.
-7190 : Sajj'aka! Let me interject.
-7191 : You said that the Naakuals are to guard the six entrances to the Serpentine Labyrinth.
-7192 : Correct.
-7193 : Our annals state that there are seven Naakuals, but you mention only six entrances.
-7194 : Then where is the seventh one? What is he protecting?
-7195 : He was...different from the rest.
-7196 : In ancient times, he was referred to as The Deathborne Xol, and his purpose was to ssserve the hallowed leader of the Cimmerian Adherents.
-7197 : You mean...August's sworn enemies?
-7198 : Indeed. He was one of the Xol Triumvirate.
-7199 : But during his fierce classshes with August, he came to see the light.
-7200 : I know not where he is or what his tasssk is. Perhaps...
-7201 : No, ssspeculation is not my forte. He is impossible for me to read.
-7202 : Sajj'aka, I have more to ask you.
-7203 : August's sword--Ortharsyne--led me here to this very spot.
-7204 : Before I began private tutelage, my father often read to us a poem, and one verse sticks out to me to this day: When disaster is nigh and evil has descended, brandish the sword to the heavens, and all shall be mended.
-7205 : The light that pierced the sky signaled the top of this peak. I know the founder king left something--or someone--very important with you.
-7206 : But Ortharsyne was not our only beacon.
-7207 : The twinned World Tree, whose power wanes even as we speak, gave % to %...as it gave something to you.
-7208 : The winds of change are sweeping Ulbuka, threatening to blow away all she embraces.
-7209 : And this change bodes ill for all of us. Horrific beasts of unforeseen origin are appearing in greater numbers by the day. Landshivers threaten to knock over even the stoutest building in Adoulin. Trees wither and die, and the water runs foul.
-7210 : Tell me, Sajj'aka--why? Why is this happening? Isn't there anything we can do to stop it?
-7211 : Please. If you know anything, share it with us!
-7212 : ...
-7213 : The seals on the Serpentine Labyrinth wear thin. The spirits of the past are beginning to reawaken.
-7214 : The spirits of the past...do you mean those who commanded the Cimmerian Adherents?
-7215 : None other. Despite his monumental strength, even August was not able to vanquisssh them. Merely sealing them within the labyrinth's confines took all of his strength. And yet he succeeded in stopping him...
-7216 : The Lord of the Serpentine Labyrinth...Hades.
-7217 : So this entity...has a name.
-7218 : Darkness threatens to choke this land once more. He returnsss.
-7219 : The sssmell of the wind...the undulations of the land... It is now as it was then.
-7220 : Like a harsh wind chipping away at a boulder, his return is sluggish...but inevitable.
-7221 : And what then? When he returns to Ulbuka?
-7222 : You too, child, must sssense it. Forces antithetical to all life strengthen with each passing day.
-7223 : As they wax, the power of the World Tree wanes.
-7224 : Having lost its twin, it coalesced all its energies into its roots and took hold deep within Ulbukan soil.
-7225 : It then ssspread throughout the land, quelling all the evil that sought to consume it.
-7226 : Countless years have passed since then, and, as the World Tree aged, it began to lose its potency.
-7227 : The landshivers are but a physical manifessstation of this phenomenon. Each shudder is the World Tree trembling in agony.
-7228 : And what...what if its power is completely lost?
-7229 : Then all that August worked to contain will ssspill out onto the surface.
-7230 : Hades' wait is almost over, his black heart is growing stronger as we speak.
-7231 : Calamity will befall us once again.
-7232 : The air a stifling miasma, the water a fetid pool, the land a shattered palisade, and the jungle a lifeless husk.
-7233 : Black flames will scourge the forest, rending all life from stem to ssstern, spelling a brutal end for us all.
-7234 : This is the inevitable conclusion of all we have faced so far!? How...how can we stop it?
-7235 : We cannot.
-7236 : It can't be... Sajj'aka, you stared into the Serpentine Labyrinth and lived. You must know something--!
-7237 : Young child and her young friend... I am but a relic of the passst.
-7238 : Would that August were alive, things may be different. If not his body, then at least his ssspirit...
-7239 : But it is still chained within the Serpentine Labyrinth's most inner recessses.
-7240 : During August's crusade, he was ruthlessly devoted to his cause, and the World Tree was at the height of its power.
-7241 : And I had just been freed, my blood boiling for revenge.
-7242 : These three forces combined to seal that dark malady deep within.
-7243 : Yet dessspite the most favorable of circumstances, we failed to eliminate the threat completely.
-7244 : This time, we have no light of hope to guide us.
-7245 : Though I remain in this realm, I still bear the wounds I suffered during that ssstruggle.
-7246 : As I alluded to before, even if I were healthy, the founder king's ssspirit is trapped, and the World Tree has begun to crumble.
-7247 : Yet despite all this, mankind insists on working its utmost to destroy the wilds!
-7248 : And here I sit, bearing the same injury...and even you and your lot I would forgive. But my heart still pulses with rage at the mere thought of the evil sealed away!
-7249 : What will you do? Pet and comfort him. Unleash a feral scream.
-7250 : How can you possibly underssstand my pain!?
-7251 : How many times must we knock them down before they cease to rise up once more!?
-7252 : %! Wh-whatever has gotten into you!?
-7253 : Ssstop that this instant!
-7254 : <Sigh> Forgive my sudden outburssst.
-7255 : Whatever the case, our three lights of hope have been extinguished.
-7256 : But, surely there must be something? Maybe if there was some way to save the World Tree...
-7257 : The world is made up of one sssimple truth: if something can grow old, it can die.
-7258 : But perhaps...perhaps there is a way to reverse the process.
-7259 : What will you inquire? What are you proposing? What can we do?
-7260 : Firssst, a brief lesson. The World Tree's origins lie not in Ulbuka.
-7261 : To hear August tell it, he had retrieved a young branch of the World Tree from a far-off land, and planted it here, in this continent.
-7262 : It sprang forth from the sssoil and began to bud before one turn of the moon, its limbs stretching so high they must have touched Altana herself.
-7263 : If we were to do the same thing... ...And this time, the rootsss are already here to work with.
-7264 : So if we were to find a similar branch...
-7265 : Then the World Tree would burssst into existence much as it did then...only faster.
-7266 : But the question remains--where did he possibly find such an object?
-7267 : A Lightsland. The World Tree grew in a sssanctified place filled with light and surrounded by serene waters.
-7268 : In a place that was once called Rhazowa.
-7269 : There was once a Lightsssland on that frozen continent... ...Nevertheless, its presence is but a memory etched onto a tattered canvas.
-7270 : Rhazowa...we only know it as a land wrapped in the flames of war.
-7271 : But I can feel it...a spark of brilliance located within a ssstifling place.
-7272 : When the World Tree sssensed changes occurring here, it gifted a piece of itself, creating a new Lightsland here.
-7273 : I can feel it. Soft vibrations in the land, calling me there.
-7274 : If it's as simple as going there, then--
-7275 : No. Even though you have seen the reality, there is nothing you can do.
-7276 : I, and I alone, have the power to accesss the Lightsland.
-7277 : But the trauma I have sssuffered is too great, and my constitution is too frail.
-7278 : Those blasphemous entities ssstripped me of my scales, cursed them, and scattered them throughout the land.
-7279 : This is why my wounds will never heal. I cannot fly as long as my ssscales are held captive. Not now, not ever.
-7280 : Even the slightest flap of my wings sends jolts of pain down my ssspine.
-7281 : Circling the mountaintop is all I can bear before I am forced to make landfall. Arriving at the Lightsssland? Beyond question.
-7282 : I have searched many of your lifetimesss for even one, but to no avail.
-7283 : I have no other avenues to try, and cannot disperse the evil.
-7284 : Where could his scales possibly...?
-7285 : Darrcuiln...and Morimar, too. And alssso...
-7286 : ...You two. Even a caged Opo-opo knows that it cannot reach the pamama tree.
-7287 : This was your doing, I assume?
-7288 : 'Twas.
-7289 : I know not what you plan, but I could have my answer engraved on a ssstone tablet and you would just claim to be illiterate.
-7290 : Come on, Sajj'aka. Yer not one to forget the oath ya swore to August--to protect the wildlands.
-7291 : Or do you mean to say ya wanted to help when it was convenient for ya, and the rest of us be damned?
-7292 : Please, mighty dragon! We need your aid!
-7293 : No. Begone.
-7294 : But this is the will of the king himself!
-7295 : What you would asssk of me cannot be done. August told us to impart one lesson to the people--never again were they to set foot in the wilds.
-7296 : What do you think of Sajj'aka's claim? It's relevant. It's preposterous.
-7297 : Sssee, Morimar? Even an outsider such as [he/she] knows the tale.
-7298 : Do you not see your role as an accomplice in this travesssty?
-7299 : What would you know of the truth? Morimar and I were there, while your far ancestors were doubtless still bickering over some petty land dispute.
-7300 : In any event, the king had but one wish--that none ever enter the continent.
-7301 : But the children of men are foolhardy. Their lives last but an inssstant, and thus their capacity for wisdom is lacking.
-7302 : They knew his dying words, yet from then until this very day, they never abandoned their desire to terrorize the jungle.
-7303 : The fools are not aware that the World Tree's roots are buried deep within the Serpentine Labyrinth, shutting in the forces of darkness from the outssside world.
-7304 : No, not only are they ignorant--they continue to harm the Tree with each breath they take.
-7305 : Numberless are the years I spent watching humanity's pernicious deeds from atop this frigid peak.
-7306 : I am confident that the king would not have wavered in these dark times. Man is to leave this place.
-7307 : Ya sing a tune of gloom and doom, Sajj'aka, but these are desperate times. Who else do ya expect to save the World Tree?
-7308 : This isn't a question of men, nor of how long a life ya lead. Doesn't matter one bit.
-7309 : If the prince of the deeps comes back, both man and beast, both the mortal and the ageless, will be swallowed up whole.
-7310 : Ya know why--because he detests all life. Yer aware of it as much as I am.
-7311 : His scythe'll reap all that draws breath.
-7312 : You ssspeak truth. A storm threatens to tear us all apart.
-7313 : The World Tree's power has begun to fade, and my wingsss will not carry me for more than a few brief moments.
-7314 : The Naakualsss have been embroiled in conflict from dawn to dusk since the moment Morimar emerged from that cursed labyrinth, and even they have begun to forget why.
-7315 : That's exactly what I'm gettin' at!
-7316 : Sajj'aka, not for even a second have I forgotten that August gave me Ortharsyne and said Never again is man to set foot into the wilds.
-7317 : But think--why, after all these centuries, would the blade burn bright and point these two kids here?
-7318 : I've been trying to say that the whole time! Don't you agree, %?
-7319 : What is your opinion? There's some deeper meaning. It's just the winds of chance.
-7320 : See? We both think so!
-7321 : That is correct, child. Your sojourn was but pure misconception.
-7322 : No, I...I refuse to believe that.
-7323 : %, you don't either, do you? Because if you do...
-7324 : I, too, see a reason behind all this.
-7325 : Long ago, when August's dyin' words had begun to fade into legend, Adoulinians set out to recolonize the land.
-7326 : You're talking about the Great Expedition.
-7327 : Is that how it came to be known? Trust me, there was nothin' great 'bout it.
-7328 : August made a five-degree turn in his grave and they all ran howling back to the city with their tails between their legs.
-7329 : And what'd they do when they got back? Made some excuse about needin' to respect the dead and erected that huge seal.
-7330 : A huge seal?
-7331 : What matters is that they made it. Don't worry yerself with the particulars.
-7332 : When faced with something they do not know, man has a deep-rooted need to seal it away and never think 'bout it again.
-7333 : They cover it, put it away, and pretend that it never existed.
-7334 : <Snort> August was right. Some people're stronger than others.
-7335 : That's why his first warning came in a dream. He figured that'd be enough.
-7336 : But your Ygnas is as thick-skulled as a Velkk.
-7337 : So when that didn't work, August took a bit o' the World Tree's power and turned him into a leafkin.
-7338 : And the landshivers...are those caused by the founder king, too?
-7339 : Would that they were.
-7340 : No matter how strong a man is, he can't make the earth tremble.
-7341 : No, it's 'cause the World Tree is losin' her strength.
-7342 : It's no surprise you'd misunderstand. The warnings are graver now than you'd read in any of yer books.
-7343 : First the king gets poofed into a seedling, and now landshivers?
-7344 : Surely people would think to stop colonization.
-7345 : And in most times, that would have been the case.
-7346 : But no, not with Ygnas. Not once has he thought to give in.
-7347 : Not only does he remain resolute, but he even took that curse to be a blessing, thinking it'd help him understand the World Tree.
-7348 : Help him understand? I don't follow.
-7349 : Wait...is that why he said that the curse must never be lifted?
-7350 : I'm pretty sure.
-7351 : Some people are stronger than others...but perhaps Ygnas is stronger still.
-7352 : And not just him. Arciela, %...and all your compatriots who persist in colonizing the land.
-7353 : No, I'm not sure that's the case.
-7354 : %, do you remember the first time we met?
-7355 : It was outside the forest, when a young girl no older than eight went outside the city walls to find some herbs to help her grandfather.
-7356 : Do you remember? Tiana. Of course. I've seen lots of little girls...
-7357 : %, isn't that a stroke too cruel? How could you forget about Tiana?
-7358 : I think that we all are weak. We put on airs to protect those we love.
-7359 : For Tiana, it was her grandfather. For my brother, it is the people of Adoulin.
-7360 : (And for this princess...)
-7361 : (...it is not just the people, but all things that live on the continent.)
-7362 : (Would you not say so, %?)
-7363 : How do you react? Assent. Dissent.
-7364 : %? Why are you nodding?
-7365 : (Well, if you say so...)
-7366 : %? Is there something wrong?
-7367 : To protect somethin' they love, huh? Can't say I understand it...but that may be my age showin'.
-7368 : (Like a chocobo being put out to pasture.)
-7369 : Shut yer trap! If I wanted yer opinion, I'd've given it to ya!
-7370 : (...)
-7371 : Yes, that's a good boy.
-7372 : Y'know what I think, Sajj'aka? August must be pretty conflicted. That's why he used the sword to call them here.
-7373 : ...Conflicted?
-7374 : Yup. That's my opinion.
-7375 : Times have changed, and new forces are comin' to bear.
-7376 : There are so many like Arciela, and like %, workin' for the benefit of Adoulin.
-7377 : Is that so...
-7378 : I've got an idea of where to find yer scales.
-7379 : How...how could you possibly know that?
-7380 : Hmph. Ya think all I've been doin' these long years is slingin' my axe around?
-7381 : I may not be as spry as I once was, but I can sneak around like the best of 'em!
-7382 : Ya got somethin' to say? Come now, out with it.
-7383 : (...No. We simply have different perspectives.)
-7384 : That's right. Different. Now, uh...where was I? Oh, right.
-7385 : Y'know, there's a reason we haven't found those scales yet. And it's not because we're overlookin' somethin'--it's because we aren't searchin' in the right place.
-7386 : And where would you suggessst?
-7387 : Sometimes you can be pretty dense, Sajj'aka.
-7388 : Didn't you just get done saying people aren't nearly as clever as you?
-7389 : Bwahaha, nothin' beats playin' around with a fuddy-duddy like yerself! But back to the matter at hand...
-7390 : Where are you thinking, Morimar?
-7391 : Deep within the recesses of the Naakuals' charges... That's right.
-7392 : The Serpentine Labyrinth.
-7393 : Why would...?
-7394 : Think. That place has been sealed off thanks to the pact they made with August. Some areas haven't been opened up in generations upon generations.
-7395 : The pioneers have tried to make inroads there, but've met with little success.
-7396 : So if we could find a way in...
-7397 : Then there's a chance we can find 'em.
-7398 : But it won't be enough just to ask the Naakuals to let you in.
-7399 : We would need more than their permission?
-7400 : You take a long look at your %.
-7401 : They'll need your okay too, Sajj'aka! So says the ritual.
-7402 : At lassst, I see why you brought them before me.
-7403 : Finally. As I said, August is wandering 'n confused.
-7404 : All of us know that stopping colonization won't stem the tide of what's to come.
-7405 : The World Tree can't hold out much longer!
-7406 : So I got to thinkin'--ya've gotta lead them deep inside the labyrinth, even if it means lettin' colonization go on.
-7407 : You can't let them hurt the forest without purpose, right?
-7408 : And ya care what happens to this land.
-7409 : Ya know why he's kept silent all this time--it was to let them meet with the Naakuals and the leafkin.
-7410 : And with you, too, Sajj'aka.
-7411 : Even since that Ygnas turned into one of those little green buggers, August hasn't made a single peep, like he did during the Great Expedition.
-7412 : No, colonization has proceeded quite smoothly, and the pioneers have breached the reaches of the Serpentine Labyrinth. Isn't that all the proof you need?
-7413 : There've been no sacrifices and no saviors. Everythin's just on the edge of boilin' over.
-7414 : Do ya disagree? I'm more than willin' to listen.
-7415 : ... Morimar, my old friend and battle brother.
-7416 : And you, who bears proof of your deeds.
-7417 : %...if you and your ilk are indeed this new force Morimar thinks you are, then I shall bessstow upon you my protection, that you may light the way ahead.
-7418 : With Sajj'aka's blessin', ya should be able to enter areas of the Serpentine Labyrinth that were once forbidden.
-7419 : Ya know yer task--to search for the dragon's scales. Get a move on, before it's too late!
-7420 : I'll come with you, %!
-7421 : Unfortunately, dear princess, I can't allow ya to.
-7422 : Not that I don't appreciate yer valor. Far from it. But yer talents are better used elsewhere.
-7423 : Darrcuiln can only protect ya so much--and there are other things ya need to be doin'.
-7424 : Like what?
-7425 : Look within yerself. Is searchin' for dragon scales the best way ya can help?
-7426 : What 'bout Adoulin? Don't they need a shining beacon, given the state Ygnas is in?
-7427 : ...You're right. I'm needed in the city.
-7428 : %, I know you can do this without me. There are things in Adoulin that only I can handle.
-7429 : Among them, gathering information. And I am sure you'll do the same, though in a different way.
-7430 : I know searching for those scales will be dangerous, and it may mean your life--but there's no one I would trust more.
-7431 : After all...we each have our role to play.
-7432 : And Darrcuiln...I know that you talk to % telepathically.
-7433 : Could you...could you do the same with me?
-7434 : (<Gulp>... So you knew all along.)
-7435 : (I will tell you this--there are some things better left unknown.)
-7436 : I'm not one to shy away from candles in times of darkness. The blood of Adoulin courses through me--and I am prepared to fight.
-7437 : (...I see.)
-7438 : Bwahaha, the girl's got a leg up on you, shaggy.
-7439 : (Then I shall do what I can.)
-7440 : (Anything I tell %, I shall tell you as well. I trust you do not mind, %?)
-7441 : Should Darrcuiln speak with Arciela? Yes. She has a right to know. No. I'd rather keep her safe.
-7442 : (She is not the type of girl to give in. She will keep pressing until you submit.)
-7443 : I'm so glad to hear you agree.
-7444 : %, the Serpentine Labyrinth is a tough nut to crack. Ya should head back to Arciela from time to time. I'm sure she'll dig up somethin' that'll help ya.
-7445 : Suppose there's not much left for me to say. Keep your nose to the grindstone, but not so much that ya lose sight of what's important.
-7446 : Ssso it is as Morimar said. My scales were sealed away in that cursed place.
-7447 : I know you can find them all. To think...all those yearsss I wasted searching in the wrong places.
-7448 : But remember--even if you find them all, I will not be at full strength, and will not be able to penetrate the Ssserpentine Labyrinth any more than you.
-7449 : Hades, my hatred for you grows deeper with each breath I exhale! %, I know you will sssucceed!
-7450 : My scales...I can ssscarcely believe they are all here.
-7451 : Utterly...utterly amazing!
-7452 : I had long resssigned myself to eternal pain, but now I remember what it feels like to be whole.
-7453 : It's all fading away...
-7454 : The nightmare is over.
-7455 : I...I am free. Once more will I be able to sssoar above the clouds, feeling their wet droplets coalesce on my flesh.
-7456 : Children of man, you have my thanksss. Now that I am once again whole, I will aid your cause.
-7457 : A dragon does not forget his promises.
-7458 : Is this...%? Like the one August brought back from Rhazowa?
-7459 : You obtain %!
-7460 : So what now, Sajj'aka? You feel like humanity isn't as hopeless as you thought?
-7461 : My friend, these outsidersss...what did you call them?
-7462 : Adventurers. They journey the land for all sorts of purposes. Fame. Fortune. Justice. Wanderlust.
-7463 : Here, they fulfill the roles of pioneers.
-7464 : They come from the Middle Lands, but they have been all over the world. Some went to...what was it called? Aht Urhgan? Where they served as mercenaries.
-7465 : Color me impresssed, Morimar. You have certainly been busy when not under my gaze.
-7466 : We talk of August and curses, ancient empires and forgotten kingdoms...but what Vana'diel is today, it is because of young men and women like %.
-7467 : An age of adventure...
-7468 : Ssspeaking of powers long forgotten, back in those olden times, there were three forces that made all this possible.
-7469 : The savage yet noble hero, King August.
-7470 : The twinned World Tree, which watches over all life.
-7471 : And you, Sajj'aka. A holy dragon whose light shines like the freshly woken sun.
-7472 : I thought...I thought all had been lossst.
-7473 : We worked as hard as we could, yet it was all we could do to ssseal away Hades.
-7474 : And now, with those forces in a precipitousss decline, I thought there was no way to save this land.
-7475 : ...
-7476 : Up until this moment, I had taken these phenomena to herald the beginning of the end.
-7477 : I thought myself irreparably shattered, yet now my woundsss are mended. This is all thanks to you.
-7478 : With this, you should be able to ressstore the World Tree.
-7479 : Two of the three are ready to be brought to bear. Now what about August, whose spirit is held hostage in the Serpentine Labyrinth?
-7480 : If we only had sssomething that could compare to his valor...
-7481 : We do.
-7482 : %, you have traveled through Vana'diel. There is a certain song that you perhaps may have heard of.
-7483 : It shelters us in times of need.
-7484 : A mere song?
-7485 : Yes. This song has been passed down in Adoulin from generation to generation, and is said to have come from the Goddess herself.
-7486 : Though storms may brew And threaten the land, There is one shining star That shall help us to stand.
-7487 : It remains resolute Before man, before beast, And brings with it a song, A bright hope when fortune has ceased.
-7488 : This ally is just, Its eyes raised to the sky, Protecting us from our foes-- A blessing from on high.
-7489 : It has been around longer than Adoulin, and some scholars assert that it was originally sung in a tongue not known to the people of Vana'diel.
-7490 : And the section we know is but one part of a greater whole.
-7491 : Our interpretation may be wrong, but nonetheless, it is a beacon that guides Adoulinians in dark times.
-7492 : The Goddess of the Dawn has served as our eternal protector, and we cannot help but think these words spilled forth from her lips.
-7493 : Hearing this song now, I feel like all hope is not lost. That tomorrow will be a brighter day.
-7494 : As Sajj'aka said, maybe we do not have the three forces that sealed Hades away so long ago...but we have something now that they did not.
-7495 : Just like a holy dragon rising valiantly from the peaks... Just like a young tree stretching defiantly towards the heavens...
-7496 : We have a new power, standing right by our side.
-7497 : So the light of dawn comes from the east, hmm?
-7498 : And this new power can cleanse evil, expel monstrositiesss, and conquer the darkness...
-7499 : Sajj'aka, this sapling you have given us--what are we to do with it?
-7500 : When August recovered the sssapling from Rhazowa and brought it here, he planted it in one of the most sacred areas of Ulbuka.
-7501 : But such an area would have long since fallen to the choking miasssmas of the Serpentine Labyrinth.
-7502 : Were you able to affix it to the roots of the exisssting World Tree, you may be able to bring it back to life...but I have not the faintest notion of how.
-7503 : Not at all?
-7504 : Unfortunately. But do not fret, young one. Should you desssire to aid the World Tree, all you need do is ask it.
-7505 : Ask the World Tree? How would we go about doing that?
-7506 : Wait...could you possibly mean...?
-7507 : I see you are ssstarting to realize at last.
-7508 : Your first order of business is to restore the World Tree. That is the only way to bolssster Ulbuka against the evil within.
-7509 : Should we have been invited to this gathering?
-7510 : Arciela and %! We've been waitin' fer ya.
-7511 : But before we get started, I owe ya an apology.
-7512 : An apology? For what?
-7513 : For the whole Hades deal. It was that bastard this whole time.
-7514 : I shoulda known.
-7515 : But if you know about him now, then does that mean...?
-7516 : Yeah. I found out while ya were gone.
-7517 : While dealin' with the whole Melvien incident in Leafallia, the World Tree brought forth vivid images in my mind. I can still feel 'em.
-7518 : And all this time, I had ignored what was right in front of me. Curse the lotta 'em!
-7519 : My mind blanked out. Not fer a second, but fer minutes. Ta think...
-7520 : Sajj'aka regained his former strength and the World Tree came back ta life. And then Hades...
-7521 : That cursed fool came back too! I'd sooner rake my hands o'er hot coals than let it happen, but it was too late!
-7522 : But our problems don't stop there. No, I'm here because--
-7523 : Of the Xol Triumvirate.
-7524 : Then I can spare ya the long explanation, and content myself that you're aware of the disaster they bring about by servin' their foul master.
-7525 : The easssterly winds have shifted, young ones, heralding the revival of his malicious decadence.
-7526 : Calling it an ill portent would make mockery of the sssacrifices August and his generals made...that we all made.
-7527 : But we have yet to bear witness to breaches in the jungle's integrity itself, indicating that neither Hades nor his ssservants have crested in power.
-7528 : But Sajj'aka, things have already begun to--
-7529 : No, Princesss. They have not.
-7530 : If they were to fully awaken, the land would split in twain, choking tendrils dragging pioneers into a bottomless crevasse. No, what you see now is merely a foreshadowing of what is to come.
-7531 : But we're not exactly sittin' pretty here, either.
-7532 : You speak truthfully.
-7533 : That's the reason why we've come. To seek your wisdom and experience against your old foes.
-7534 : (...)
-7535 : Balamor... That name is not familiar to me. And you believe he is the most recent incarnation of the undying horde'sss leader.
-7536 : Let's leave that one alone for now.
-7537 : Just forget about him?
-7538 : If what ya said is true, he'll probably be content to sit on the sidelines and let it all play out as long as we don't make any sudden moves.
-7539 : He'll look out from his little perch, laughin' at how our actions cause the stage to revolve.
-7540 : He thinks we're puppets, dancing around fer his own pleasure...and the fewer immediate threats we've gotta deal with, the better.
-7541 : And what's this about a Grand Guignol? Idiot's already writing his script when the characters have their own ideas how things'll shake out!
-7542 : We've got two left to deal with, assumin' they're the same as they were then. The first, Dhokmak the Brash Xol, he of the toxic miasma.
-7543 : Then there's the one who commands forked lightning and blades of wind, Ashrakk, the Duskbrood Xol.
-7544 : And if yer rumors are true, Princess, then that's exactly who we're dealin' with.
-7545 : But, then again, now that we're dealin' with this Balamor figure...I wouldn't bet my axe on it.
-7546 : Grah! Does it even matter in the end? We've gotta put them outta their misery regardless of whether they're the fiends I remember.
-7547 : I'd hoped it was my time to pass on quietly into the night, but as long as they're here, ya've got me by yer side.
-7548 : And I shall lend my aid as well. Now that I have recovered--
-7549 : Not you, Sajj'aka. Not yet.
-7550 : We might've gotten yer scales back and ditched that ol' curse, but yer in no condition to go sharpenin' your talons on those two.
-7551 : Ya gotta get stronger, old friend. Hades is comin' back, and we'll need ya then more'n now.
-7552 : You were there; that unholy battleground where our comrades...
-7553 : Leave the triumvirate to us and get yerself ready.
-7554 : Perhaps that is for the best. Your hands have proven capable more than once.
-7555 : Okay, time to fly!
-7556 : How do you respond? Just where are we going? Fly?
-7557 : Oho, I guess I left that little detail out.
-7558 : Walk doesn't sound as dramatic. But we've got to get there somehow. Where, you ask?
-7559 : Leafallia--where else? The best way to understand the forest is to hear it from the queen herself.
-7560 : Forgive me for saying this, %, but your tendency to be one step behind seems to be literal as well as figurative.
-7561 : Where to begin...
-7562 : Why start with more ephemeral topicsss when we can focus on someone close to our hearts: Morimar.
-7563 : But if we take things out of order then their heads will spin so fast they'll go tumbling right off the cliff.
-7564 : I suppose that means I must lead you toward a most uncomfortable truth.
-7565 : You cannot defeat Hades as things stand, and I need you to carefully listen to the reason.
-7566 : In his quest to keep himself from dissipating into nothingness, Hades engraved a piece of himself onto the souls of each member of the Xol Triumvirate.
-7567 : How would he go about doing that?
-7568 : It is not as peculiar a technique as you might surmise.
-7569 : Why, it is the same technique as that used by the key to the founder king's grave, passed on from each generation of the Order of Adoulin to the next.
-7570 : A key, Princess, whose passing you once witnessed.
-7571 : That key, engraved with the soul of Ygnas himself, was also once handed over to % temporarily.
-7572 : You mean...
-7573 : The one and same. Hades used a similar ritual to create blood sigils on the spirits of his three most trusted underlings.
-7574 : Blood sigils?
-7575 : Most sinister, no? But as long as they exist, you cannot vanquish Hades.
-7576 : I don't understand.
-7577 : The sigils are inexorably intertwined not just with the triumvirate...
-7578 : But with Hades' soul itself.
-7579 : <Gulp>
-7580 : These sigils not only provide entry to the turris, but they are an armor stronger than the thickest mythril.
-7581 : The Xol Triumvirate are inscribed with these profane marks.
-7582 : Any harm inflicted upon Hades mars instead the flesh of those three abominations.
-7583 : How do you respond? What does that mean? Then our attacks against him...
-7584 : Exactly what it sounds like. Wounds do not affect him.
-7585 : An entire retinue could slice and hack at him for days, but you may as well assault the sea with a saber.
-7586 : ...Did not work, as you have doubtlessly noticed. His flesh is impervious, his organs unblemished.
-7587 : But those sigils serve another purpose--they are symbols of the triumvirate's total fealty.
-7588 : How could they be anything less? Hades has engraved himself upon their very souls.
-7589 : Teodor, why do you know all this? Please, tell me!
-7590 : That which I thought I had unraveled has come twisting back to me.
-7591 : Come back to you?
-7592 : No, you can't mean--!
-7593 : I do. It prevents me from heading toward Hades' domain.
-7594 : As I said, they are symbols of absolute fealty...
-7595 : As it was then...
-7596 : His blood sigil takes hold of me once more.
-7597 : No!
-7598 : Sssurely you understand now, Princess.
-7599 : Though he once ssserved under the monster, he is now one of the seven...the Undying Naakual.
-7600 : In the flesh.
-7601 : Teodor...a Naakual!?
-7602 : Yes.
-7603 : Sajj'aka and Morimar have long protected Ulbuka from that which sought to engulf it...and so, too, have I.
-7604 : In the age of the founder king, I had originally pledged my life to Hades, but came to embrace August and all he stood for.
-7605 : And now, I stand before you.
-7606 : When Morimar bid you flee from the turris, he was not acting irrationally. Far from it.
-7607 : I am the reason for his actions.
-7608 : But how? Why!?
-7609 : Because the blood sigil prevented me from laying siege myself.
-7610 : No...
-7611 : When I caught wind that he was making haste for the turris, I cut him off--and revealed the truth.
-7612 : Forgive my squawking like a colibri repeating the same phrase thrice over, but Hades cannot be vanquished as long as the sigils are manifest.
-7613 : How can you call something a battle when the enemy's victory is already assured?
-7614 : I was naught but honest. Had you fought alongside him in that struggle, all of you would have been consumed.
-7615 : And confronted face-to-face, engaged with death itself, escape would have been utterly impossible.
-7616 : Someone had to stay there and confront him, alone, so that the rest would survive.
-7617 : In a word, I sentenced him to death. I confided that the only way for you to survive was for him to sacrifice himself.
-7618 : And do you know how he replied?
-7619 : I've got no problem givin' up my life if it means protectin' those dear ta me.
-7620 : How fitting.
-7621 : (Morimar...why? Why did you have to suffer alone?)
-7622 : Oh, no...
-7623 : You surely understand the implications, having toppled both Ashrakk and Dhokmak.
-7624 : To them, the marks are a blessing, but to me...a curse.
-7625 : And Hades will not go quietly into the night as long as any of the marks survive.
-7626 : There is only one way. You must wrest my mark from me.
-7627 : ...In the same way as the hallowed August did so many centuries ago.
-7628 : Yet here is not a place for bloodshed. We must go somewhere more appropriate.
-7629 : Here.
-7630 : I'll await you in Rala Waterways...in the Watergarden Coliseum.
-7631 : And Princess--I forbid you from taking part.
-7632 : For the mark to be extinguished, I must challenge % with the utmost rancor.
-7633 : I understand.
-7634 : But I have one request. Though I cannot take part, I would like to be present--as one of August's heirs.
-7635 : I fear your bravery outstrips your wisdom here, Arciela. You may not like what you see.
-7636 : I won't shy away from my people's future.
-7637 : Spoken like a true leader. When next I see you, it will be on the field of battle.
-7638 : Teodor had always struck me as being more than he let on...
-7639 : But never would I have imagined he lived during the time of the founder king.
-7640 : How do you respond? You knew each other? I thought he was a libertine, myself.
-7641 : In a word, yes. I had been lost in thought in the library, when he gave me a kind word and an encouraging nod. Ever since then, he's always been there to listen to my troubles.
-7642 : It was he who suggested that I register at the Pioneers' Coalition so I could leave for the jungle more...formally.
-7643 : He was almost...mystical. Yet he was very down-to-earth and accepted me for all my flaws.
-7644 : Hehe, isn't that a little mean?
-7645 : But given that pioneers always spread rumors about him drowning in drink and gambling at the Mummers' Coalition, I can't fault you for thinking that.
-7646 : If you asssk me, his blending in with the citizens of Adoulin was too much of a risk.
-7647 : Right as I would forget about him, he would come bounding up the mountain with fanciful tales of the sights he saw and people he met. A youngling again, he ssseemed to be, as if the centuries of his life touched him not.
-7648 : Lest you be fooled, %, he is unlike any of the other Naakuals you have faced. Never let your guard down for an inssstant.
-7649 : And if you cannot even best the man in black, rest assured that Hades would grind your bonesss into dust and come for your eastern homeland. So fight with both vim and vigor.
-7650 : He expects no less of you. Nor do I. You have proven your mettle before, and a warrior such as he--who brought the founder king to a standstill--will show you no quarter.
-7651 : Remove the curse the dread lord has placed upon him.
-7652 : Go. Death waits for no man.
-7653 : %...Teodor tells me you have besssted him.
-7654 : Last he came, he ssspoke of you in the most glowing of terms.
-7655 : It's been ages, he opined, since he fought with all his might.
-7656 : You should have heard him prattling on like a child receiving a new toy on Ssstarlight.
-7657 : Yet I must confesss I envy his free spirit...
-7658 : Enough. You did not come to hear me wax poetic about timesss gone by.
-7659 : You impress me more each time we meet. None other has had the resolve to vanquish each of the seven Naakuals.
-7660 : You have resided in Adoulin for sssome time now.
-7661 : I know what the city's leaders tell all who disembark on Ulbukan soil.
-7662 : The Naakuals are thwarting the pioneers' best efforts...and that your job is to remove anything that stands in the way of progresss.
-7663 : You may deny it, but your face speaks the truth.
-7664 : In a twisted way, those words were prophetic, for your overcoming of the seventh Naakual will prove critical in sssaving this land.
-7665 : I would have expected nothing less of you.
-7666 : Those who represent the will of the founder king are destined to sssubjugate the Naakuals.
-7667 : There is a reason I am keenly aware of that fact...for it was I who started that superstition within the city.
-7668 : But lest you think I dessscended upon Jorius Yett and issued an edict from on high, in fact I planted seeds of the truth within their minds.
-7669 : Humanity has always intrigued me. Thoughts buried in your deepest recesses always find a way to sssurface as words.
-7670 : Think back. There exist seven Naakuals in Adoulin's collective conscious, but only six had ever been ssseen. Did you not find that to be a bit queer?
-7671 : Seven locales, but only six Naakuals?
-7672 : Why would people hold such legendsss close to heart when their experiences taught them otherwise?
-7673 : All the more amusing when the seventh was in their faces the entire time.
-7674 : You have thwarted the Naakuals, as did August before you.
-7675 : You have earned the trussst of not only those noble beings, but of the leafkin as well.
-7676 : To sssay nothing of the faith I place in you.
-7677 : The time is nigh. Go forth with the confidence I know you have.
-7678 : You can succeed where August did not.
-7679 : There is nothing out of the ordinary here.
-7680 : You can hear a strange voice... Items, items, la la la la la
-7681 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7682 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7683 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7684 : Now, listen close...
-7685 : Oh... Well, if that's the case, I'm outta here.
-7686 : The Goblin slipped away when you were not looking...
-7687 : You can hear a strange, raspy voice...
-7688 : I travel......hear lots... Hear...stories... Can tell...if...
-7689 : .........listen......
-7690 : Oh...... ...outta here.........
-7691 : Would you like to hear a story? No, thank you. Let's hear one.
-7692 : What story would you like to be told? None, thank you. (1). (2). (3). (4). (5). 11(1) 11(2) 11(3)
-7696 : Press any button to proceed.
-7698 : Oh, wise Sajj'aka... We have something to show you regarding Siren's disappearance.
-7699 : %, if you would... Please show His Eminence the item you found in %.
-7700 : You show Sajj'aka the %.
-7701 : %? I have not heard of such a place. Let me sssee...
-7702 : Hmm... Yesss, I can sense Siren's presence emanating from this bell...
-7703 : However, she seems to have lost her power and is immersed in a deep ssslumber.
-7704 : A deep slumber?
-7705 : So if she were to regain her power, she would wake up eventually!?
-7706 : Do not be so hasssty, Princess. Even with my great wisdom, I am uncertain how to go about such a matter...
-7707 : However, it is clear that we must focusss on how to restore her power before we can proceed any further.
-7708 : Yes, I suppose you are right.
-7709 : Although, how can we do that, I wonder...
-7710 : What will you ask about? The lifestream. Sweets. %. %.
-7711 : Hm? S-sweets, you say?
-7712 : They'd make me feel better, but I'm not so sure about this particular situation...
-7713 : H-hey! Where did you get that!?
-7714 : That has nothing to do with Siren!
-7715 : Is that... Is that a leaf from my brother?
-7716 : I don't think that has anything to do with Siren...
-7717 : The lifestream... In other words, you're saying that if we can borrow the power of ergon loci, we might be able to use it to restore Siren's power...
-7718 : And if Siren regains her power and is able to wake up...
-7719 : Ah!
-7720 : I forgot something important!
-7721 : If Siren wakes up, do you think she'll even listen to what we have to say?
-7722 : I mean, she is a powerful being who is able to control all of nature...
-7723 : Anything to say? The Communion. Talk about sweets. %. %.
-7724 : I highly doubt offering Siren sweets will convince her to help us.
-7725 : It's not like they'd convince me to listen to you either!
-7726 : H-hey, I mean it!
-7727 : This is no time for jokes, %. Try to be serious for a change.
-7728 : %, I don't think that's going to get us anywhere.
-7729 : The Communion!
-7730 : That reminds me of something Lhaiso once said...
-7731 : Long ago, distinguished geomancers used the Communion to speak with nature and prime avatars...
-7732 : If so, we could ask either Lhaiso or Ikhi for help...
-7733 : The Communion... A Communion is a pact with nature.
-7734 : What's that, Ygnas? A Communion is a pact with nature?
-7735 : Yes, I heard that from a descendant of [a certain geomancer family/Zacariah's].
-7736 : It represents your will of how things should be, not how they are.
-7737 : Your will of how things should be...
-7738 : In that case, does that mean that I can use the lifestream as well?
-7739 : Arciela, do you remember when you were anointed as the leader of the Order of Adoulin?
-7740 : You made a declaration in front of the leaders of the various orders assembled before you.
-7741 : Just like then, why don't you simply tell the prime avatar what you are thinking and what you hope to accomplish?
-7742 : So I should simply tell her what I said back then...
-7743 : I think I can do that!
-7744 : Although, if there is even a tiny bit of reluctance on your part, it will undoubtedly show through as well.
-7745 : In other words, you're saying I need to be strong and have conviction.
-7746 : Hmm... A Communion with the lifestream... Yesss, that may be worth attempting.
-7747 : Beyond that, I sssuppose the rest is up to you.
-7748 : Yes, we are at a loss for any other possible avenues of pursuit.
-7749 : It's our only choice.
-7750 : Now then, I shall go to the ergon locus locations around Adoulin and gather the power of the lifestream.
-7751 : I'm counting on your assistance, Darrcuiln.
-7752 : (You can count on me.)
-7753 : %, go to the land with which you have a strong connection and help gather the power we need.
-7754 : Arciela, you will need to prepare yourself to carry out the Communion.
-7755 : Yes, Ygnas.
-7756 : All that remains is the location...
-7757 : It must be a reference to a land where the link to the World Tree is ssstrong.
-7758 : %! That must be the place!
-7759 : Okay, let's meet up at % once we've made the necessary preparations.
-7760 : I'll go on ahead and wait for you there.
-7761 : Thank you, Your Eminence.
-7762 : I believe you to be capable of success in this endeavor. You ssshall forge a new path forward for Ulbuka.
-7763 : Okay, Ygnas, %... Good luck to you both!
-7764 : Head to the location that you have a strong connection to and gather its power.
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7058 : Word has been received of a Troll threat in Wajaom Woodlands.
+7059 : Word has been received of an undead threat in Bhaflau Thickets.
+7060 : Begone from here. You frail mortals should have thought twice before assscending this peak.
+7061 : I have no patience for those who desssecrate the forest. Depart at once.
+7062 : If you do not, then I have no choice but to ssswing the radiant hammer of vengeance down upon your meager frames!
+7063 : Wait! ...Your Eminence. Before you judge us, I would like you to take a look at this.
+7064 : That blade...
+7065 : %, can you show him the proof of your bonds to this forest, too?
+7066 : Show your %? Sounds like a plan. No can do.
+7067 : You bring forth the % before the Winged Scourge.
+7068 : %! Do you want to get us burned to a crisp!?
+7069 : ...Or are you saying that because you <gasp> left it back in Adoulin?
+7070 : Did you leave it behind? Yes, silly me. No, I've got it right here.
+7071 : How could you!?
+7072 : Wait a minute...
+7073 : Ugh! This better be the last time you try to pull my leg like that, %! I don't think my heart can take much more.
+7074 : The Winged Scourge casts a burning stare in your direction.
+7075 : Hmmm... Ortharsssyne and %...
+7076 : You mean to tell me that you are not like the rest of those pillagers, but ssstaunch believers in August and his desire to preserve the forest?
+7077 : You refer to the founder king by his first name? So...you knew him personally?
+7078 : But he lived centuries upon centuries ago! You couldn't possibly--
+7079 : Of courssse I knew him, for I am Sajj'aka.
+7080 : Not only did I know the first Adoulin king, I ssswore my allegiance to him.
+7081 : Was it centuries ago? Millennia? Time flows for many thingsss, but upon Sajj'aka it touchesss not.
+7082 : Seasss change. Landsss change. Even should the starsss fade from existence, the covenant made with Augussst shall not break.
+7083 : In my eyes, the lives of your kind are as delicate and transient as bubbles in a ssstream, your moments of glory mere sssparks from flint.
+7084 : Inconsssequential, insssignificant, insssubstantial--such is how I came to conceive of your peoples.
+7085 : Augussst has been the only exception.
+7086 : His aura shone brighter than my refulgent scales, and his resolve was ssstrong enough to wrest me from the realm of shadows.
+7087 : That is not the lone justification for why my memory of him will persissst until the end of time, but it is an important one.
+7088 : And what of you, ssspindly-legged foal?
+7089 : Does the ressspect for the king you claim to harbor within that miniscule bosom of yours amount to even a drop in the sea compared to what I showed him while he was alive?
+7090 : Well, I...
+7091 : <Snort> Hopefully you can at least answer this sssimple question.
+7092 : As a preface...you are aware of the ssseven guardians that protect the Ulbukan hinterland, are you not?
+7093 : Yes, I am. They're the Naakuals, right?
+7094 : Is that the ephemeral sssobriquet they have been given by your kind? Very well.
+7095 : I shall not waste my breath explaining the ressst.
+7096 : However, there was one more guardian who fought alongside August...a worthy tiger whose fur shone a lussstrous gold.
+7097 : That must be Terrcualn.
+7098 : I recall reading about him during one of my trips to the library. What was the title of the book, though...?
+7099 : Aha, His Majesty and the Golden Beast! That's it!
+7100 : Ah, booksss. An inconvenient form of immortality, but perhapsss the best your ephemeral kind can hope for. If you are truly learned, you should have no qualms about a simple tessst.
+7101 : Pray tell me, where did August meet Terrcualn in combat?
+7102 : Umm... Where they fought, you say? Well...that would be...
+7103 : %, what do we do? I don't remember that detail at all.
+7104 : ...Aha, it's a trick question! The story makes no mention of where they fought!
+7105 : Confidence conceals ignorance only when the other party is ignorant as well, you misssguided fool.
+7106 : In the end, you care as little for August as I care for dissemblers.
+7107 : The one who saved me from that place where even the faintest hint of light is ssswallowed whole...nestlingsss such as you could never hope to fathom his greatnesss. I was foolish to believe otherwise.
+7108 : I will not ssstand for this a moment longer.
+7109 : I know not why you tressspassed upon this land, and I no longer care.
+7110 : There is nothing left to dissscuss, for you have proven beyond a doubt that you are incapable of understanding August's will.
+7111 : Remove yourselves from my presence. Our conversation has left me weary of both ssspeaking with mortals and with life itself.
+7112 : I'm so embarrassed, %... I don't want to admit it, but maybe he's right after all.
+7113 : It was silly of me to come here knowing so little.
+7114 : If I'm to make amends, there's only one thing left to do.
+7115 : %, let's burrow deep into Adoulin's vault of knowledge, leaving no page unturned in our wake!
+7116 : Petulant children. Did I not ask you to be gone from my sssight?
+7117 : We swear that we have no intention of harming the jungle! Please, hear our plea!
+7118 : Then it is my sssworn duty as a protector of this land to confirm if your intent matches your words.
+7119 : It matters little which of you engages in this tessst I am to put forth. But anger me further, and your life is forfeit.
+7120 : Make light of this trial, and I shall grind your skulls between my teeth and sssuck the marrow from your bones.
+7121 : We shall not.
+7122 : Well, how unexpected! The [boy/girl] is putting on airs!
+7123 : Yet pride always comes before a fall. Let us hope that the fire in your eyesss does not become quenched by the avalanche of failure.
+7124 : And an avalanche it shall be, ssshould you make even one misstep. Let the first trial begin.
+7125 : The king of legends was sssaved by a tiger whose mane looked to be woven from golden threads. Where was the site of their struggle?
+7126 : Answer now, lest your flesssh be rent from your frame.
+7127 : Where did the fight occur? Marjami Ravine. Yorcia Weald. Morimar Basalt Fields.
+7128 : Dare the two of you mock me!?
+7129 : It has been many years since I have conversssed with your kind. Perhaps you merely...misspoke. I shall grant you a reprieve.
+7130 : The truth is never a low-hanging fruit, free for all to pluck. It comes only to those willing to snatch it from the heavens.
+7131 : Though I did not bear witness to this truth, Terrcualn and August incessantly regaled me with every lassst detail, and I could recite the story by heart.
+7132 : Beyond doubt, the two ssstruggled valiantly, with August staring straight into the abyss and dragging forth victory from its gaping maw.
+7133 : Terrcualn thus chose to ssserve the fabled one, learning to love him much as I did.
+7134 : Now, for the second test.
+7135 : Terrcualn's cub was entrusted to one of August's most trusted generals. I assume you came across this fact in your studies.
+7136 : Who was this man?
+7137 : What was the man's name? Morigan. Morimar. Morison.
+7138 : Do you make a mockery of August's sssacrifice? Are you such a buffoon that you cannot answer so much as the name of the man who fought by his side?
+7139 : If only he knew that... No. I must have misheard.
+7140 : Come, tell me your anssswer once more.
+7141 : Yes, that is correct. A truly powerful individual indeed, though his ssstar did not shine as brightly as his lord's.
+7142 : August's eleven generals were the only men and women to ever move my heart. That remainsss true to this day.
+7143 : Let us move to the final quessstion.
+7144 : When all seemed lost and the king made his last ssstand, where was it that he fought tooth and claw?
+7145 : Where did the last battle occur? Abyssea. Promyvion. The Serpentine Labyrinth.
+7146 : Never have I heard tales of such a location, but its name alone sends shivers up my ssspine.
+7147 : I deign to give you one more chance.
+7148 : That is correct. Young one, you have prepared well for this encounter.
+7149 : I recognize you as heritors to August's will, and will grant you one brief audience.
+7150 : Phew...
+7151 : %, I'm always glad to have you by my side. I don't know what I would've done...
+7152 : There are limitsss to that which man has recorded in his annals, but as I said before--truth is a fruit found only by the intellectually ravenous.
+7153 : Then you know details hidden from our eyes and ears?
+7154 : Beyond doubt.
+7155 : Sajj'aka, you mentioned that it was August--the founder king--who released you.
+7156 : Your memory is sssharp as a fresh blade, young one. And what about you, [son/daughter] of man?
+7157 : Do you recall this tale?
+7158 : Does the story sound familiar? Yes, it does. Not one iota.
+7159 : Hmm... I had taken you both for fools, but now I sssee that you are worthy.
+7160 : Ha...hahaha!
+7161 : Quite the show you've put on for me! But your honesssty and candor are refreshing.
+7162 : Be thankful that your friend is both meticulousss and sound of mind.
+7163 : Yes, that tale is yet another in this series of truthsss. I am not of Ulbukan origin.
+7164 : The time is not right for me to explain the ssstory in its entirety, but suffice to say...
+7165 : I was long chained down in a terrible domain, and it was the king who releasssed me from my prison.
+7166 : Never again will I return there. Nor will they...
+7167 : What will you ask? But isn't it your homeland? Who are they?
+7168 : Homeland. Quite the pretty phrase, washing away reality with a thin veneer of nossstalgia. No, my homeland is not a place to which I desire to return.
+7169 : And I will take no further questionsss on the matter.
+7170 : You mentioned earlier the beings you know as the Naakuals.
+7171 : So...you have vanquished them.
+7172 : Perhaps it is as he said...I should not look down on the [sssons/daughtersss] of man.
+7173 : As who said?
+7174 : Sajj'aka...
+7175 : As pioneers whose charge is to open up the jungle, clashes with the Naakuals are inevitable. We knew it from the very beginning.
+7176 : Hmm...pioneering... Unsssurprising, given that they are the guardians of Ulbuka.
+7177 : We are quite alike, the Naakualsss and I. We are all residents of a land we cannot call our own, rescued from fate by the one you call the founder king.
+7178 : They obeyed his will much like I did, and when he ordered them to guard sssix locations around Ulbuka, they were bound to obey. That is how they came to protect this land.
+7179 : The ancient pact declared that they were to remain dissstant from the affairs of mortals and shelter the jungle from harm.
+7180 : Their calling is to shelter the jungle...?
+7181 : Yet countlesss years have passed since the king made his request manifest. Perhaps too many years.
+7182 : Some who witnessed those times firsthand have had their memories fade as the centuries passed, and have long forgotten the very reason for their sssworn task.
+7183 : And not jussst the why...but also the what.
+7184 : You may call them the protectors of the land, young one, but you are sssorely mistaken.
+7185 : It is not the jungle they pledged to protect.
+7186 : I don't understand.
+7187 : They were scattered throughout the six reaches of Ulbuka, to be sssure, but not for the reason you think.
+7188 : They were sent to guard the six entrances to what you refer to as the Serpentine Labyrinth.
+7189 : Then the Serpentine Labyrinth...is more than just a myth?
+7190 : When August made his last ssstand, he bid Morimar and I to return to the surface without him.
+7191 : Our purpose--given by the king himself--was not to guard his side. It was to deliver his orders unto...
+7192 : ...the Naakuals. They were to seal the entrances to the labyrinth and ensure that nary so much as a man's breath penetrate into its recesses.
+7193 : Sajj'aka! Let me interject.
+7194 : You said that the Naakuals are to guard the six entrances to the Serpentine Labyrinth.
+7195 : Correct.
+7196 : Our annals state that there are seven Naakuals, but you mention only six entrances.
+7197 : Then where is the seventh one? What is he protecting?
+7198 : He was...different from the rest.
+7199 : In ancient times, he was referred to as The Deathborne Xol, and his purpose was to ssserve the hallowed leader of the Cimmerian Adherents.
+7200 : You mean...August's sworn enemies?
+7201 : Indeed. He was one of the Xol Triumvirate.
+7202 : But during his fierce classshes with August, he came to see the light.
+7203 : I know not where he is or what his tasssk is. Perhaps...
+7204 : No, ssspeculation is not my forte. He is impossible for me to read.
+7205 : Sajj'aka, I have more to ask you.
+7206 : August's sword--Ortharsyne--led me here to this very spot.
+7207 : Before I began private tutelage, my father often read to us a poem, and one verse sticks out to me to this day: When disaster is nigh and evil has descended, brandish the sword to the heavens, and all shall be mended.
+7208 : The light that pierced the sky signaled the top of this peak. I know the founder king left something--or someone--very important with you.
+7209 : But Ortharsyne was not our only beacon.
+7210 : The twinned World Tree, whose power wanes even as we speak, gave % to %...as it gave something to you.
+7211 : The winds of change are sweeping Ulbuka, threatening to blow away all she embraces.
+7212 : And this change bodes ill for all of us. Horrific beasts of unforeseen origin are appearing in greater numbers by the day. Landshivers threaten to knock over even the stoutest building in Adoulin. Trees wither and die, and the water runs foul.
+7213 : Tell me, Sajj'aka--why? Why is this happening? Isn't there anything we can do to stop it?
+7214 : Please. If you know anything, share it with us!
+7215 : ...
+7216 : The seals on the Serpentine Labyrinth wear thin. The spirits of the past are beginning to reawaken.
+7217 : The spirits of the past...do you mean those who commanded the Cimmerian Adherents?
+7218 : None other. Despite his monumental strength, even August was not able to vanquisssh them. Merely sealing them within the labyrinth's confines took all of his strength. And yet he succeeded in stopping him...
+7219 : The Lord of the Serpentine Labyrinth...Hades.
+7220 : So this entity...has a name.
+7221 : Darkness threatens to choke this land once more. He returnsss.
+7222 : The sssmell of the wind...the undulations of the land... It is now as it was then.
+7223 : Like a harsh wind chipping away at a boulder, his return is sluggish...but inevitable.
+7224 : And what then? When he returns to Ulbuka?
+7225 : You too, child, must sssense it. Forces antithetical to all life strengthen with each passing day.
+7226 : As they wax, the power of the World Tree wanes.
+7227 : Having lost its twin, it coalesced all its energies into its roots and took hold deep within Ulbukan soil.
+7228 : It then ssspread throughout the land, quelling all the evil that sought to consume it.
+7229 : Countless years have passed since then, and, as the World Tree aged, it began to lose its potency.
+7230 : The landshivers are but a physical manifessstation of this phenomenon. Each shudder is the World Tree trembling in agony.
+7231 : And what...what if its power is completely lost?
+7232 : Then all that August worked to contain will ssspill out onto the surface.
+7233 : Hades' wait is almost over, his black heart is growing stronger as we speak.
+7234 : Calamity will befall us once again.
+7235 : The air a stifling miasma, the water a fetid pool, the land a shattered palisade, and the jungle a lifeless husk.
+7236 : Black flames will scourge the forest, rending all life from stem to ssstern, spelling a brutal end for us all.
+7237 : This is the inevitable conclusion of all we have faced so far!? How...how can we stop it?
+7238 : We cannot.
+7239 : It can't be... Sajj'aka, you stared into the Serpentine Labyrinth and lived. You must know something--!
+7240 : Young child and her young friend... I am but a relic of the passst.
+7241 : Would that August were alive, things may be different. If not his body, then at least his ssspirit...
+7242 : But it is still chained within the Serpentine Labyrinth's most inner recessses.
+7243 : During August's crusade, he was ruthlessly devoted to his cause, and the World Tree was at the height of its power.
+7244 : And I had just been freed, my blood boiling for revenge.
+7245 : These three forces combined to seal that dark malady deep within.
+7246 : Yet dessspite the most favorable of circumstances, we failed to eliminate the threat completely.
+7247 : This time, we have no light of hope to guide us.
+7248 : Though I remain in this realm, I still bear the wounds I suffered during that ssstruggle.
+7249 : As I alluded to before, even if I were healthy, the founder king's ssspirit is trapped, and the World Tree has begun to crumble.
+7250 : Yet despite all this, mankind insists on working its utmost to destroy the wilds!
+7251 : And here I sit, bearing the same injury...and even you and your lot I would forgive. But my heart still pulses with rage at the mere thought of the evil sealed away!
+7252 : What will you do? Pet and comfort him. Unleash a feral scream.
+7253 : How can you possibly underssstand my pain!?
+7254 : How many times must we knock them down before they cease to rise up once more!?
+7255 : %! Wh-whatever has gotten into you!?
+7256 : Ssstop that this instant!
+7257 : <Sigh> Forgive my sudden outburssst.
+7258 : Whatever the case, our three lights of hope have been extinguished.
+7259 : But, surely there must be something? Maybe if there was some way to save the World Tree...
+7260 : The world is made up of one sssimple truth: if something can grow old, it can die.
+7261 : But perhaps...perhaps there is a way to reverse the process.
+7262 : What will you inquire? What are you proposing? What can we do?
+7263 : Firssst, a brief lesson. The World Tree's origins lie not in Ulbuka.
+7264 : To hear August tell it, he had retrieved a young branch of the World Tree from a far-off land, and planted it here, in this continent.
+7265 : It sprang forth from the sssoil and began to bud before one turn of the moon, its limbs stretching so high they must have touched Altana herself.
+7266 : If we were to do the same thing... ...And this time, the rootsss are already here to work with.
+7267 : So if we were to find a similar branch...
+7268 : Then the World Tree would burssst into existence much as it did then...only faster.
+7269 : But the question remains--where did he possibly find such an object?
+7270 : A Lightsland. The World Tree grew in a sssanctified place filled with light and surrounded by serene waters.
+7271 : In a place that was once called Rhazowa.
+7272 : There was once a Lightsssland on that frozen continent... ...Nevertheless, its presence is but a memory etched onto a tattered canvas.
+7273 : Rhazowa...we only know it as a land wrapped in the flames of war.
+7274 : But I can feel it...a spark of brilliance located within a ssstifling place.
+7275 : When the World Tree sssensed changes occurring here, it gifted a piece of itself, creating a new Lightsland here.
+7276 : I can feel it. Soft vibrations in the land, calling me there.
+7277 : If it's as simple as going there, then--
+7278 : No. Even though you have seen the reality, there is nothing you can do.
+7279 : I, and I alone, have the power to accesss the Lightsland.
+7280 : But the trauma I have sssuffered is too great, and my constitution is too frail.
+7281 : Those blasphemous entities ssstripped me of my scales, cursed them, and scattered them throughout the land.
+7282 : This is why my wounds will never heal. I cannot fly as long as my ssscales are held captive. Not now, not ever.
+7283 : Even the slightest flap of my wings sends jolts of pain down my ssspine.
+7284 : Circling the mountaintop is all I can bear before I am forced to make landfall. Arriving at the Lightsssland? Beyond question.
+7285 : I have searched many of your lifetimesss for even one, but to no avail.
+7286 : I have no other avenues to try, and cannot disperse the evil.
+7287 : Where could his scales possibly...?
+7288 : Darrcuiln...and Morimar, too. And alssso...
+7289 : ...You two. Even a caged Opo-opo knows that it cannot reach the pamama tree.
+7290 : This was your doing, I assume?
+7291 : 'Twas.
+7292 : I know not what you plan, but I could have my answer engraved on a ssstone tablet and you would just claim to be illiterate.
+7293 : Come on, Sajj'aka. Yer not one to forget the oath ya swore to August--to protect the wildlands.
+7294 : Or do you mean to say ya wanted to help when it was convenient for ya, and the rest of us be damned?
+7295 : Please, mighty dragon! We need your aid!
+7296 : No. Begone.
+7297 : But this is the will of the king himself!
+7298 : What you would asssk of me cannot be done. August told us to impart one lesson to the people--never again were they to set foot in the wilds.
+7299 : What do you think of Sajj'aka's claim? It's relevant. It's preposterous.
+7300 : Sssee, Morimar? Even an outsider such as [he/she] knows the tale.
+7301 : Do you not see your role as an accomplice in this travesssty?
+7302 : What would you know of the truth? Morimar and I were there, while your far ancestors were doubtless still bickering over some petty land dispute.
+7303 : In any event, the king had but one wish--that none ever enter the continent.
+7304 : But the children of men are foolhardy. Their lives last but an inssstant, and thus their capacity for wisdom is lacking.
+7305 : They knew his dying words, yet from then until this very day, they never abandoned their desire to terrorize the jungle.
+7306 : The fools are not aware that the World Tree's roots are buried deep within the Serpentine Labyrinth, shutting in the forces of darkness from the outssside world.
+7307 : No, not only are they ignorant--they continue to harm the Tree with each breath they take.
+7308 : Numberless are the years I spent watching humanity's pernicious deeds from atop this frigid peak.
+7309 : I am confident that the king would not have wavered in these dark times. Man is to leave this place.
+7310 : Ya sing a tune of gloom and doom, Sajj'aka, but these are desperate times. Who else do ya expect to save the World Tree?
+7311 : This isn't a question of men, nor of how long a life ya lead. Doesn't matter one bit.
+7312 : If the prince of the deeps comes back, both man and beast, both the mortal and the ageless, will be swallowed up whole.
+7313 : Ya know why--because he detests all life. Yer aware of it as much as I am.
+7314 : His scythe'll reap all that draws breath.
+7315 : You ssspeak truth. A storm threatens to tear us all apart.
+7316 : The World Tree's power has begun to fade, and my wingsss will not carry me for more than a few brief moments.
+7317 : The Naakualsss have been embroiled in conflict from dawn to dusk since the moment Morimar emerged from that cursed labyrinth, and even they have begun to forget why.
+7318 : That's exactly what I'm gettin' at!
+7319 : Sajj'aka, not for even a second have I forgotten that August gave me Ortharsyne and said Never again is man to set foot into the wilds.
+7320 : But think--why, after all these centuries, would the blade burn bright and point these two kids here?
+7321 : I've been trying to say that the whole time! Don't you agree, %?
+7322 : What is your opinion? There's some deeper meaning. It's just the winds of chance.
+7323 : See? We both think so!
+7324 : That is correct, child. Your sojourn was but pure misconception.
+7325 : No, I...I refuse to believe that.
+7326 : %, you don't either, do you? Because if you do...
+7327 : I, too, see a reason behind all this.
+7328 : Long ago, when August's dyin' words had begun to fade into legend, Adoulinians set out to recolonize the land.
+7329 : You're talking about the Great Expedition.
+7330 : Is that how it came to be known? Trust me, there was nothin' great 'bout it.
+7331 : August made a five-degree turn in his grave and they all ran howling back to the city with their tails between their legs.
+7332 : And what'd they do when they got back? Made some excuse about needin' to respect the dead and erected that huge seal.
+7333 : A huge seal?
+7334 : What matters is that they made it. Don't worry yerself with the particulars.
+7335 : When faced with something they do not know, man has a deep-rooted need to seal it away and never think 'bout it again.
+7336 : They cover it, put it away, and pretend that it never existed.
+7337 : <Snort> August was right. Some people're stronger than others.
+7338 : That's why his first warning came in a dream. He figured that'd be enough.
+7339 : But your Ygnas is as thick-skulled as a Velkk.
+7340 : So when that didn't work, August took a bit o' the World Tree's power and turned him into a leafkin.
+7341 : And the landshivers...are those caused by the founder king, too?
+7342 : Would that they were.
+7343 : No matter how strong a man is, he can't make the earth tremble.
+7344 : No, it's 'cause the World Tree is losin' her strength.
+7345 : It's no surprise you'd misunderstand. The warnings are graver now than you'd read in any of yer books.
+7346 : First the king gets poofed into a seedling, and now landshivers?
+7347 : Surely people would think to stop colonization.
+7348 : And in most times, that would have been the case.
+7349 : But no, not with Ygnas. Not once has he thought to give in.
+7350 : Not only does he remain resolute, but he even took that curse to be a blessing, thinking it'd help him understand the World Tree.
+7351 : Help him understand? I don't follow.
+7352 : Wait...is that why he said that the curse must never be lifted?
+7353 : I'm pretty sure.
+7354 : Some people are stronger than others...but perhaps Ygnas is stronger still.
+7355 : And not just him. Arciela, %...and all your compatriots who persist in colonizing the land.
+7356 : No, I'm not sure that's the case.
+7357 : %, do you remember the first time we met?
+7358 : It was outside the forest, when a young girl no older than eight went outside the city walls to find some herbs to help her grandfather.
+7359 : Do you remember? Tiana. Of course. I've seen lots of little girls...
+7360 : %, isn't that a stroke too cruel? How could you forget about Tiana?
+7361 : I think that we all are weak. We put on airs to protect those we love.
+7362 : For Tiana, it was her grandfather. For my brother, it is the people of Adoulin.
+7363 : (And for this princess...)
+7364 : (...it is not just the people, but all things that live on the continent.)
+7365 : (Would you not say so, %?)
+7366 : How do you react? Assent. Dissent.
+7367 : %? Why are you nodding?
+7368 : (Well, if you say so...)
+7369 : %? Is there something wrong?
+7370 : To protect somethin' they love, huh? Can't say I understand it...but that may be my age showin'.
+7371 : (Like a chocobo being put out to pasture.)
+7372 : Shut yer trap! If I wanted yer opinion, I'd've given it to ya!
+7373 : (...)
+7374 : Yes, that's a good boy.
+7375 : Y'know what I think, Sajj'aka? August must be pretty conflicted. That's why he used the sword to call them here.
+7376 : ...Conflicted?
+7377 : Yup. That's my opinion.
+7378 : Times have changed, and new forces are comin' to bear.
+7379 : There are so many like Arciela, and like %, workin' for the benefit of Adoulin.
+7380 : Is that so...
+7381 : I've got an idea of where to find yer scales.
+7382 : How...how could you possibly know that?
+7383 : Hmph. Ya think all I've been doin' these long years is slingin' my axe around?
+7384 : I may not be as spry as I once was, but I can sneak around like the best of 'em!
+7385 : Ya got somethin' to say? Come now, out with it.
+7386 : (...No. We simply have different perspectives.)
+7387 : That's right. Different. Now, uh...where was I? Oh, right.
+7388 : Y'know, there's a reason we haven't found those scales yet. And it's not because we're overlookin' somethin'--it's because we aren't searchin' in the right place.
+7389 : And where would you suggessst?
+7390 : Sometimes you can be pretty dense, Sajj'aka.
+7391 : Didn't you just get done saying people aren't nearly as clever as you?
+7392 : Bwahaha, nothin' beats playin' around with a fuddy-duddy like yerself! But back to the matter at hand...
+7393 : Where are you thinking, Morimar?
+7394 : Deep within the recesses of the Naakuals' charges... That's right.
+7395 : The Serpentine Labyrinth.
+7396 : Why would...?
+7397 : Think. That place has been sealed off thanks to the pact they made with August. Some areas haven't been opened up in generations upon generations.
+7398 : The pioneers have tried to make inroads there, but've met with little success.
+7399 : So if we could find a way in...
+7400 : Then there's a chance we can find 'em.
+7401 : But it won't be enough just to ask the Naakuals to let you in.
+7402 : We would need more than their permission?
+7403 : You take a long look at your %.
+7404 : They'll need your okay too, Sajj'aka! So says the ritual.
+7405 : At lassst, I see why you brought them before me.
+7406 : Finally. As I said, August is wandering 'n confused.
+7407 : All of us know that stopping colonization won't stem the tide of what's to come.
+7408 : The World Tree can't hold out much longer!
+7409 : So I got to thinkin'--ya've gotta lead them deep inside the labyrinth, even if it means lettin' colonization go on.
+7410 : You can't let them hurt the forest without purpose, right?
+7411 : And ya care what happens to this land.
+7412 : Ya know why he's kept silent all this time--it was to let them meet with the Naakuals and the leafkin.
+7413 : And with you, too, Sajj'aka.
+7414 : Even since that Ygnas turned into one of those little green buggers, August hasn't made a single peep, like he did during the Great Expedition.
+7415 : No, colonization has proceeded quite smoothly, and the pioneers have breached the reaches of the Serpentine Labyrinth. Isn't that all the proof you need?
+7416 : There've been no sacrifices and no saviors. Everythin's just on the edge of boilin' over.
+7417 : Do ya disagree? I'm more than willin' to listen.
+7418 : ... Morimar, my old friend and battle brother.
+7419 : And you, who bears proof of your deeds.
+7420 : %...if you and your ilk are indeed this new force Morimar thinks you are, then I shall bessstow upon you my protection, that you may light the way ahead.
+7421 : With Sajj'aka's blessin', ya should be able to enter areas of the Serpentine Labyrinth that were once forbidden.
+7422 : Ya know yer task--to search for the dragon's scales. Get a move on, before it's too late!
+7423 : I'll come with you, %!
+7424 : Unfortunately, dear princess, I can't allow ya to.
+7425 : Not that I don't appreciate yer valor. Far from it. But yer talents are better used elsewhere.
+7426 : Darrcuiln can only protect ya so much--and there are other things ya need to be doin'.
+7427 : Like what?
+7428 : Look within yerself. Is searchin' for dragon scales the best way ya can help?
+7429 : What 'bout Adoulin? Don't they need a shining beacon, given the state Ygnas is in?
+7430 : ...You're right. I'm needed in the city.
+7431 : %, I know you can do this without me. There are things in Adoulin that only I can handle.
+7432 : Among them, gathering information. And I am sure you'll do the same, though in a different way.
+7433 : I know searching for those scales will be dangerous, and it may mean your life--but there's no one I would trust more.
+7434 : After all...we each have our role to play.
+7435 : And Darrcuiln...I know that you talk to % telepathically.
+7436 : Could you...could you do the same with me?
+7437 : (<Gulp>... So you knew all along.)
+7438 : (I will tell you this--there are some things better left unknown.)
+7439 : I'm not one to shy away from candles in times of darkness. The blood of Adoulin courses through me--and I am prepared to fight.
+7440 : (...I see.)
+7441 : Bwahaha, the girl's got a leg up on you, shaggy.
+7442 : (Then I shall do what I can.)
+7443 : (Anything I tell %, I shall tell you as well. I trust you do not mind, %?)
+7444 : Should Darrcuiln speak with Arciela? Yes. She has a right to know. No. I'd rather keep her safe.
+7445 : (She is not the type of girl to give in. She will keep pressing until you submit.)
+7446 : I'm so glad to hear you agree.
+7447 : %, the Serpentine Labyrinth is a tough nut to crack. Ya should head back to Arciela from time to time. I'm sure she'll dig up somethin' that'll help ya.
+7448 : Suppose there's not much left for me to say. Keep your nose to the grindstone, but not so much that ya lose sight of what's important.
+7449 : Ssso it is as Morimar said. My scales were sealed away in that cursed place.
+7450 : I know you can find them all. To think...all those yearsss I wasted searching in the wrong places.
+7451 : But remember--even if you find them all, I will not be at full strength, and will not be able to penetrate the Ssserpentine Labyrinth any more than you.
+7452 : Hades, my hatred for you grows deeper with each breath I exhale! %, I know you will sssucceed!
+7453 : My scales...I can ssscarcely believe they are all here.
+7454 : Utterly...utterly amazing!
+7455 : I had long resssigned myself to eternal pain, but now I remember what it feels like to be whole.
+7456 : It's all fading away...
+7457 : The nightmare is over.
+7458 : I...I am free. Once more will I be able to sssoar above the clouds, feeling their wet droplets coalesce on my flesh.
+7459 : Children of man, you have my thanksss. Now that I am once again whole, I will aid your cause.
+7460 : A dragon does not forget his promises.
+7461 : Is this...%? Like the one August brought back from Rhazowa?
+7462 : You obtain %!
+7463 : So what now, Sajj'aka? You feel like humanity isn't as hopeless as you thought?
+7464 : My friend, these outsidersss...what did you call them?
+7465 : Adventurers. They journey the land for all sorts of purposes. Fame. Fortune. Justice. Wanderlust.
+7466 : Here, they fulfill the roles of pioneers.
+7467 : They come from the Middle Lands, but they have been all over the world. Some went to...what was it called? Aht Urhgan? Where they served as mercenaries.
+7468 : Color me impresssed, Morimar. You have certainly been busy when not under my gaze.
+7469 : We talk of August and curses, ancient empires and forgotten kingdoms...but what Vana'diel is today, it is because of young men and women like %.
+7470 : An age of adventure...
+7471 : Ssspeaking of powers long forgotten, back in those olden times, there were three forces that made all this possible.
+7472 : The savage yet noble hero, King August.
+7473 : The twinned World Tree, which watches over all life.
+7474 : And you, Sajj'aka. A holy dragon whose light shines like the freshly woken sun.
+7475 : I thought...I thought all had been lossst.
+7476 : We worked as hard as we could, yet it was all we could do to ssseal away Hades.
+7477 : And now, with those forces in a precipitousss decline, I thought there was no way to save this land.
+7478 : ...
+7479 : Up until this moment, I had taken these phenomena to herald the beginning of the end.
+7480 : I thought myself irreparably shattered, yet now my woundsss are mended. This is all thanks to you.
+7481 : With this, you should be able to ressstore the World Tree.
+7482 : Two of the three are ready to be brought to bear. Now what about August, whose spirit is held hostage in the Serpentine Labyrinth?
+7483 : If we only had sssomething that could compare to his valor...
+7484 : We do.
+7485 : %, you have traveled through Vana'diel. There is a certain song that you perhaps may have heard of.
+7486 : It shelters us in times of need.
+7487 : A mere song?
+7488 : Yes. This song has been passed down in Adoulin from generation to generation, and is said to have come from the Goddess herself.
+7489 : Though storms may brew And threaten the land, There is one shining star That shall help us to stand.
+7490 : It remains resolute Before man, before beast, And brings with it a song, A bright hope when fortune has ceased.
+7491 : This ally is just, Its eyes raised to the sky, Protecting us from our foes-- A blessing from on high.
+7492 : It has been around longer than Adoulin, and some scholars assert that it was originally sung in a tongue not known to the people of Vana'diel.
+7493 : And the section we know is but one part of a greater whole.
+7494 : Our interpretation may be wrong, but nonetheless, it is a beacon that guides Adoulinians in dark times.
+7495 : The Goddess of the Dawn has served as our eternal protector, and we cannot help but think these words spilled forth from her lips.
+7496 : Hearing this song now, I feel like all hope is not lost. That tomorrow will be a brighter day.
+7497 : As Sajj'aka said, maybe we do not have the three forces that sealed Hades away so long ago...but we have something now that they did not.
+7498 : Just like a holy dragon rising valiantly from the peaks... Just like a young tree stretching defiantly towards the heavens...
+7499 : We have a new power, standing right by our side.
+7500 : So the light of dawn comes from the east, hmm?
+7501 : And this new power can cleanse evil, expel monstrositiesss, and conquer the darkness...
+7502 : Sajj'aka, this sapling you have given us--what are we to do with it?
+7503 : When August recovered the sssapling from Rhazowa and brought it here, he planted it in one of the most sacred areas of Ulbuka.
+7504 : But such an area would have long since fallen to the choking miasssmas of the Serpentine Labyrinth.
+7505 : Were you able to affix it to the roots of the exisssting World Tree, you may be able to bring it back to life...but I have not the faintest notion of how.
+7506 : Not at all?
+7507 : Unfortunately. But do not fret, young one. Should you desssire to aid the World Tree, all you need do is ask it.
+7508 : Ask the World Tree? How would we go about doing that?
+7509 : Wait...could you possibly mean...?
+7510 : I see you are ssstarting to realize at last.
+7511 : Your first order of business is to restore the World Tree. That is the only way to bolssster Ulbuka against the evil within.
+7512 : Should we have been invited to this gathering?
+7513 : Arciela and %! We've been waitin' fer ya.
+7514 : But before we get started, I owe ya an apology.
+7515 : An apology? For what?
+7516 : For the whole Hades deal. It was that bastard this whole time.
+7517 : I shoulda known.
+7518 : But if you know about him now, then does that mean...?
+7519 : Yeah. I found out while ya were gone.
+7520 : While dealin' with the whole Melvien incident in Leafallia, the World Tree brought forth vivid images in my mind. I can still feel 'em.
+7521 : And all this time, I had ignored what was right in front of me. Curse the lotta 'em!
+7522 : My mind blanked out. Not fer a second, but fer minutes. Ta think...
+7523 : Sajj'aka regained his former strength and the World Tree came back ta life. And then Hades...
+7524 : That cursed fool came back too! I'd sooner rake my hands o'er hot coals than let it happen, but it was too late!
+7525 : But our problems don't stop there. No, I'm here because--
+7526 : Of the Xol Triumvirate.
+7527 : Then I can spare ya the long explanation, and content myself that you're aware of the disaster they bring about by servin' their foul master.
+7528 : The easssterly winds have shifted, young ones, heralding the revival of his malicious decadence.
+7529 : Calling it an ill portent would make mockery of the sssacrifices August and his generals made...that we all made.
+7530 : But we have yet to bear witness to breaches in the jungle's integrity itself, indicating that neither Hades nor his ssservants have crested in power.
+7531 : But Sajj'aka, things have already begun to--
+7532 : No, Princesss. They have not.
+7533 : If they were to fully awaken, the land would split in twain, choking tendrils dragging pioneers into a bottomless crevasse. No, what you see now is merely a foreshadowing of what is to come.
+7534 : But we're not exactly sittin' pretty here, either.
+7535 : You speak truthfully.
+7536 : That's the reason why we've come. To seek your wisdom and experience against your old foes.
+7537 : (...)
+7538 : Balamor... That name is not familiar to me. And you believe he is the most recent incarnation of the undying horde'sss leader.
+7539 : Let's leave that one alone for now.
+7540 : Just forget about him?
+7541 : If what ya said is true, he'll probably be content to sit on the sidelines and let it all play out as long as we don't make any sudden moves.
+7542 : He'll look out from his little perch, laughin' at how our actions cause the stage to revolve.
+7543 : He thinks we're puppets, dancing around fer his own pleasure...and the fewer immediate threats we've gotta deal with, the better.
+7544 : And what's this about a Grand Guignol? Idiot's already writing his script when the characters have their own ideas how things'll shake out!
+7545 : We've got two left to deal with, assumin' they're the same as they were then. The first, Dhokmak the Brash Xol, he of the toxic miasma.
+7546 : Then there's the one who commands forked lightning and blades of wind, Ashrakk, the Duskbrood Xol.
+7547 : And if yer rumors are true, Princess, then that's exactly who we're dealin' with.
+7548 : But, then again, now that we're dealin' with this Balamor figure...I wouldn't bet my axe on it.
+7549 : Grah! Does it even matter in the end? We've gotta put them outta their misery regardless of whether they're the fiends I remember.
+7550 : I'd hoped it was my time to pass on quietly into the night, but as long as they're here, ya've got me by yer side.
+7551 : And I shall lend my aid as well. Now that I have recovered--
+7552 : Not you, Sajj'aka. Not yet.
+7553 : We might've gotten yer scales back and ditched that ol' curse, but yer in no condition to go sharpenin' your talons on those two.
+7554 : Ya gotta get stronger, old friend. Hades is comin' back, and we'll need ya then more'n now.
+7555 : You were there; that unholy battleground where our comrades...
+7556 : Leave the triumvirate to us and get yerself ready.
+7557 : Perhaps that is for the best. Your hands have proven capable more than once.
+7558 : Okay, time to fly!
+7559 : How do you respond? Just where are we going? Fly?
+7560 : Oho, I guess I left that little detail out.
+7561 : Walk doesn't sound as dramatic. But we've got to get there somehow. Where, you ask?
+7562 : Leafallia--where else? The best way to understand the forest is to hear it from the queen herself.
+7563 : Forgive me for saying this, %, but your tendency to be one step behind seems to be literal as well as figurative.
+7564 : Where to begin...
+7565 : Why start with more ephemeral topicsss when we can focus on someone close to our hearts: Morimar.
+7566 : But if we take things out of order then their heads will spin so fast they'll go tumbling right off the cliff.
+7567 : I suppose that means I must lead you toward a most uncomfortable truth.
+7568 : You cannot defeat Hades as things stand, and I need you to carefully listen to the reason.
+7569 : In his quest to keep himself from dissipating into nothingness, Hades engraved a piece of himself onto the souls of each member of the Xol Triumvirate.
+7570 : How would he go about doing that?
+7571 : It is not as peculiar a technique as you might surmise.
+7572 : Why, it is the same technique as that used by the key to the founder king's grave, passed on from each generation of the Order of Adoulin to the next.
+7573 : A key, Princess, whose passing you once witnessed.
+7574 : That key, engraved with the soul of Ygnas himself, was also once handed over to % temporarily.
+7575 : You mean...
+7576 : The one and same. Hades used a similar ritual to create blood sigils on the spirits of his three most trusted underlings.
+7577 : Blood sigils?
+7578 : Most sinister, no? But as long as they exist, you cannot vanquish Hades.
+7579 : I don't understand.
+7580 : The sigils are inexorably intertwined not just with the triumvirate...
+7581 : But with Hades' soul itself.
+7582 : <Gulp>
+7583 : These sigils not only provide entry to the turris, but they are an armor stronger than the thickest mythril.
+7584 : The Xol Triumvirate are inscribed with these profane marks.
+7585 : Any harm inflicted upon Hades mars instead the flesh of those three abominations.
+7586 : How do you respond? What does that mean? Then our attacks against him...
+7587 : Exactly what it sounds like. Wounds do not affect him.
+7588 : An entire retinue could slice and hack at him for days, but you may as well assault the sea with a saber.
+7589 : ...Did not work, as you have doubtlessly noticed. His flesh is impervious, his organs unblemished.
+7590 : But those sigils serve another purpose--they are symbols of the triumvirate's total fealty.
+7591 : How could they be anything less? Hades has engraved himself upon their very souls.
+7592 : Teodor, why do you know all this? Please, tell me!
+7593 : That which I thought I had unraveled has come twisting back to me.
+7594 : Come back to you?
+7595 : No, you can't mean--!
+7596 : I do. It prevents me from heading toward Hades' domain.
+7597 : As I said, they are symbols of absolute fealty...
+7598 : As it was then...
+7599 : His blood sigil takes hold of me once more.
+7600 : No!
+7601 : Sssurely you understand now, Princess.
+7602 : Though he once ssserved under the monster, he is now one of the seven...the Undying Naakual.
+7603 : In the flesh.
+7604 : Teodor...a Naakual!?
+7605 : Yes.
+7606 : Sajj'aka and Morimar have long protected Ulbuka from that which sought to engulf it...and so, too, have I.
+7607 : In the age of the founder king, I had originally pledged my life to Hades, but came to embrace August and all he stood for.
+7608 : And now, I stand before you.
+7609 : When Morimar bid you flee from the turris, he was not acting irrationally. Far from it.
+7610 : I am the reason for his actions.
+7611 : But how? Why!?
+7612 : Because the blood sigil prevented me from laying siege myself.
+7613 : No...
+7614 : When I caught wind that he was making haste for the turris, I cut him off--and revealed the truth.
+7615 : Forgive my squawking like a colibri repeating the same phrase thrice over, but Hades cannot be vanquished as long as the sigils are manifest.
+7616 : How can you call something a battle when the enemy's victory is already assured?
+7617 : I was naught but honest. Had you fought alongside him in that struggle, all of you would have been consumed.
+7618 : And confronted face-to-face, engaged with death itself, escape would have been utterly impossible.
+7619 : Someone had to stay there and confront him, alone, so that the rest would survive.
+7620 : In a word, I sentenced him to death. I confided that the only way for you to survive was for him to sacrifice himself.
+7621 : And do you know how he replied?
+7622 : I've got no problem givin' up my life if it means protectin' those dear ta me.
+7623 : How fitting.
+7624 : (Morimar...why? Why did you have to suffer alone?)
+7625 : Oh, no...
+7626 : You surely understand the implications, having toppled both Ashrakk and Dhokmak.
+7627 : To them, the marks are a blessing, but to me...a curse.
+7628 : And Hades will not go quietly into the night as long as any of the marks survive.
+7629 : There is only one way. You must wrest my mark from me.
+7630 : ...In the same way as the hallowed August did so many centuries ago.
+7631 : Yet here is not a place for bloodshed. We must go somewhere more appropriate.
+7632 : Here.
+7633 : I'll await you in Rala Waterways...in the Watergarden Coliseum.
+7634 : And Princess--I forbid you from taking part.
+7635 : For the mark to be extinguished, I must challenge % with the utmost rancor.
+7636 : I understand.
+7637 : But I have one request. Though I cannot take part, I would like to be present--as one of August's heirs.
+7638 : I fear your bravery outstrips your wisdom here, Arciela. You may not like what you see.
+7639 : I won't shy away from my people's future.
+7640 : Spoken like a true leader. When next I see you, it will be on the field of battle.
+7641 : Teodor had always struck me as being more than he let on...
+7642 : But never would I have imagined he lived during the time of the founder king.
+7643 : How do you respond? You knew each other? I thought he was a libertine, myself.
+7644 : In a word, yes. I had been lost in thought in the library, when he gave me a kind word and an encouraging nod. Ever since then, he's always been there to listen to my troubles.
+7645 : It was he who suggested that I register at the Pioneers' Coalition so I could leave for the jungle more...formally.
+7646 : He was almost...mystical. Yet he was very down-to-earth and accepted me for all my flaws.
+7647 : Hehe, isn't that a little mean?
+7648 : But given that pioneers always spread rumors about him drowning in drink and gambling at the Mummers' Coalition, I can't fault you for thinking that.
+7649 : If you asssk me, his blending in with the citizens of Adoulin was too much of a risk.
+7650 : Right as I would forget about him, he would come bounding up the mountain with fanciful tales of the sights he saw and people he met. A youngling again, he ssseemed to be, as if the centuries of his life touched him not.
+7651 : Lest you be fooled, %, he is unlike any of the other Naakuals you have faced. Never let your guard down for an inssstant.
+7652 : And if you cannot even best the man in black, rest assured that Hades would grind your bonesss into dust and come for your eastern homeland. So fight with both vim and vigor.
+7653 : He expects no less of you. Nor do I. You have proven your mettle before, and a warrior such as he--who brought the founder king to a standstill--will show you no quarter.
+7654 : Remove the curse the dread lord has placed upon him.
+7655 : Go. Death waits for no man.
+7656 : %...Teodor tells me you have besssted him.
+7657 : Last he came, he ssspoke of you in the most glowing of terms.
+7658 : It's been ages, he opined, since he fought with all his might.
+7659 : You should have heard him prattling on like a child receiving a new toy on Ssstarlight.
+7660 : Yet I must confesss I envy his free spirit...
+7661 : Enough. You did not come to hear me wax poetic about timesss gone by.
+7662 : You impress me more each time we meet. None other has had the resolve to vanquish each of the seven Naakuals.
+7663 : You have resided in Adoulin for sssome time now.
+7664 : I know what the city's leaders tell all who disembark on Ulbukan soil.
+7665 : The Naakuals are thwarting the pioneers' best efforts...and that your job is to remove anything that stands in the way of progresss.
+7666 : You may deny it, but your face speaks the truth.
+7667 : In a twisted way, those words were prophetic, for your overcoming of the seventh Naakual will prove critical in sssaving this land.
+7668 : I would have expected nothing less of you.
+7669 : Those who represent the will of the founder king are destined to sssubjugate the Naakuals.
+7670 : There is a reason I am keenly aware of that fact...for it was I who started that superstition within the city.
+7671 : But lest you think I dessscended upon Jorius Yett and issued an edict from on high, in fact I planted seeds of the truth within their minds.
+7672 : Humanity has always intrigued me. Thoughts buried in your deepest recesses always find a way to sssurface as words.
+7673 : Think back. There exist seven Naakuals in Adoulin's collective conscious, but only six had ever been ssseen. Did you not find that to be a bit queer?
+7674 : Seven locales, but only six Naakuals?
+7675 : Why would people hold such legendsss close to heart when their experiences taught them otherwise?
+7676 : All the more amusing when the seventh was in their faces the entire time.
+7677 : You have thwarted the Naakuals, as did August before you.
+7678 : You have earned the trussst of not only those noble beings, but of the leafkin as well.
+7679 : To sssay nothing of the faith I place in you.
+7680 : The time is nigh. Go forth with the confidence I know you have.
+7681 : You can succeed where August did not.
+7682 : There is nothing out of the ordinary here.
+7683 : You can hear a strange voice... Items, items, la la la la la
+7684 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7685 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7686 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7687 : Now, listen close...
+7688 : Oh... Well, if that's the case, I'm outta here.
+7689 : The Goblin slipped away when you were not looking...
+7690 : You can hear a strange, raspy voice...
+7691 : I travel......hear lots... Hear...stories... Can tell...if...
+7692 : .........listen......
+7693 : Oh...... ...outta here.........
+7694 : Would you like to hear a story? No, thank you. Let's hear one.
+7695 : What story would you like to be told? None, thank you. (1). (2). (3). (4). (5). 11(1) 11(2) 11(3)
+7699 : Press any button to proceed.
+7701 : Oh, wise Sajj'aka... We have something to show you regarding Siren's disappearance.
+7702 : %, if you would... Please show His Eminence the item you found in %.
+7703 : You show Sajj'aka the %.
+7704 : %? I have not heard of such a place. Let me sssee...
+7705 : Hmm... Yesss, I can sense Siren's presence emanating from this bell...
+7706 : However, she seems to have lost her power and is immersed in a deep ssslumber.
+7707 : A deep slumber?
+7708 : So if she were to regain her power, she would wake up eventually!?
+7709 : Do not be so hasssty, Princess. Even with my great wisdom, I am uncertain how to go about such a matter...
+7710 : However, it is clear that we must focusss on how to restore her power before we can proceed any further.
+7711 : Yes, I suppose you are right.
+7712 : Although, how can we do that, I wonder...
+7713 : What will you ask about? The lifestream. Sweets. %. %.
+7714 : Hm? S-sweets, you say?
+7715 : They'd make me feel better, but I'm not so sure about this particular situation...
+7716 : H-hey! Where did you get that!?
+7717 : That has nothing to do with Siren!
+7718 : Is that... Is that a leaf from my brother?
+7719 : I don't think that has anything to do with Siren...
+7720 : The lifestream... In other words, you're saying that if we can borrow the power of ergon loci, we might be able to use it to restore Siren's power...
+7721 : And if Siren regains her power and is able to wake up...
+7722 : Ah!
+7723 : I forgot something important!
+7724 : If Siren wakes up, do you think she'll even listen to what we have to say?
+7725 : I mean, she is a powerful being who is able to control all of nature...
+7726 : Anything to say? The Communion. Talk about sweets. %. %.
+7727 : I highly doubt offering Siren sweets will convince her to help us.
+7728 : It's not like they'd convince me to listen to you either!
+7729 : H-hey, I mean it!
+7730 : This is no time for jokes, %. Try to be serious for a change.
+7731 : %, I don't think that's going to get us anywhere.
+7732 : The Communion!
+7733 : That reminds me of something Lhaiso once said...
+7734 : Long ago, distinguished geomancers used the Communion to speak with nature and prime avatars...
+7735 : If so, we could ask either Lhaiso or Ikhi for help...
+7736 : The Communion... A Communion is a pact with nature.
+7737 : What's that, Ygnas? A Communion is a pact with nature?
+7738 : Yes, I heard that from a descendant of [a certain geomancer family/Zacariah's].
+7739 : It represents your will of how things should be, not how they are.
+7740 : Your will of how things should be...
+7741 : In that case, does that mean that I can use the lifestream as well?
+7742 : Arciela, do you remember when you were anointed as the leader of the Order of Adoulin?
+7743 : You made a declaration in front of the leaders of the various orders assembled before you.
+7744 : Just like then, why don't you simply tell the prime avatar what you are thinking and what you hope to accomplish?
+7745 : So I should simply tell her what I said back then...
+7746 : I think I can do that!
+7747 : Although, if there is even a tiny bit of reluctance on your part, it will undoubtedly show through as well.
+7748 : In other words, you're saying I need to be strong and have conviction.
+7749 : Hmm... A Communion with the lifestream... Yesss, that may be worth attempting.
+7750 : Beyond that, I sssuppose the rest is up to you.
+7751 : Yes, we are at a loss for any other possible avenues of pursuit.
+7752 : It's our only choice.
+7753 : Now then, I shall go to the ergon locus locations around Adoulin and gather the power of the lifestream.
+7754 : I'm counting on your assistance, Darrcuiln.
+7755 : (You can count on me.)
+7756 : %, go to the land with which you have a strong connection and help gather the power we need.
+7757 : Arciela, you will need to prepare yourself to carry out the Communion.
+7758 : Yes, Ygnas.
+7759 : All that remains is the location...
+7760 : It must be a reference to a land where the link to the World Tree is ssstrong.
+7761 : %! That must be the place!
+7762 : Okay, let's meet up at % once we've made the necessary preparations.
+7763 : I'll go on ahead and wait for you there.
+7764 : Thank you, Your Eminence.
+7765 : I believe you to be capable of success in this endeavor. You ssshall forge a new path forward for Ulbuka.
+7766 : Okay, Ygnas, %... Good luck to you both!
+7767 : Head to the location that you have a strong connection to and gather its power.

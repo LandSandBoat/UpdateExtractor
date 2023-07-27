@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,494 +7044,497 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : You can't fish here.
-7055 : You can't fish without a rod in your hands.
-7056 : You can't fish without bait on the hook.
-7057 : You can't fish at the moment.
-7058 : You didn't catch anything.
-7059 : % caught a monster!
-7060 : Your line breaks.
-7061 : Your rod breaks.
-7062 : Something caught the hook!
-7063 : You lost your catch.
-7064 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7065 : You feel there's something here.
-7066 : You feel there's something nearby.
-7067 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7068 : % caught  %!
-7069 : You dig and you dig, but find nothing.
-7070 : #/%
-7071 : Your rod breaks. Whatever caught the hook was pretty big.
-7072 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7073 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7074 : You lost your catch due to your lack of skill.
-7075 : Number fished : # Original Dice No. ## Result # (0=caught)
-7076 : You didn't catch anything.
-7077 : The paper on your % ripped.
-7078 : A tiny goldfish approaches!
-7079 : A plump, black goldfish approaches!
-7080 : A fat, juicy goldfish approaches!
-7081 : There are no goldfish to be found...
-7082 : % caught %, but cannot carry any more items. % regretfully releases it.
-7083 : The goldfish slipped off your scoop...
-7084 : ch# skill up check.
-7085 : a:#.
-7086 : Time # / Status # / #
-7087 : d:#. e:#. f:#. g:#.
-7088 : h: #. i: #. sr: #.
-7089 : j:#. k:#.
-7090 : You give up and reel in your line.
-7091 : You give up.
-7092 : % obtains # gil.
-7093 : % caught %!
-7094 : You don't know how much longer you can keep this one on the line...
-7095 : You have a good feeling about this one!
-7096 : You have a bad feeling about this one.
-7097 : You have a terrible feeling about this one...
-7098 : You don't know if you have enough skill to reel this one in.
-7099 : You're fairly sure you don't have enough skill to reel this one in.
-7100 : You're positive you don't have enough skill to reel this one in!
-7101 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7102 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7103 : l: #. m: #. n: #. CH: #.
-7104 : Something caught the hook!!!
-7105 : You feel something pulling at your line.
-7106 : Something clamps onto your line ferociously!
-7107 : Your keen angler's senses tell you that this is the pull of %!
-7108 : This strength... You get the sense that you are on the verge of an epic catch!
-7109 : The timer has started. # seconds remaining.
-7110 : #sec.#/#sec.
-7111 : 0:# 1:# 2:# 3:#
-7112 : 4:# 5:# 6:# 7:#
-7113 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7114 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7115 : #/#(#
-7116 : Version invalid error!
-7117 : Hurry before the goldfish sees you!
-7118 : % fishes up a large box!
-7120 : Fish No# / Bait No# / Hit# >>> #
-7121 : Point# >>> #
-7122 : %(#) skill#
-7123 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7124 : Im Rnd : # Pz Rnd : #
-7125 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7126 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7127 : skill : # size : # kind : # sch : #
-7128 : time : # mes : # flag : # bonus : #
-7129 : item : # hp : # pow : # swing : #
-7130 : suc : # cons : # weight : # +- : #
-7131 : speed : # +- : # exc : # client : #
-7132 : general : #
-7133 : ro:# rs:# ps:# dt:#
-7134 : ra:# ti:#
-7135 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7136 : You get the distinct sense that your moogle friend frequents this spot...
-7137 : You have a feeling that your moogle friend has been through this way...
-7138 : You suspect that the scenery around here would be to a moogle's liking...
-7139 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7140 : You have a hunch that this area would be favored by moogles...
-7141 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7142 : % catches # %!
-7143 : % obtained %!
-7144 : It appears your chocobo found this item with ease.
-7145 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7146 : FPT # DPT # DoT#
-7147 : FPT # TDPT # h#
-7148 : You cannot fish at this time.
-7149 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7150 : You discover a cache of beastman resources and receive # Imperial Standing!
-7151 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7152 : You receive # bayld!
-7153 : Your chocobo refuses to partake of the %.
-7154 : Tallying conquest results...
-7155 : Conquest results tallied.
-7156 : This region is currently under San d'Orian control.
-7157 : This region is currently under Bastokan control.
-7158 : This region is currently under Windurstian control.
-7159 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7160 : This region is currently neutral.
-7161 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7162 : All three nations are tied for first place.
-7163 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7164 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7165 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7166 : All three nations are tied for first place.
-7167 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7169 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7170 : All three nations are tied for first place.
-7171 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7172 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7173 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7174 : All three nations are tied for first place.
-7175 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7177 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7178 : Global balance of power: All three nations are tied for first place.
-7179 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7180 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7181 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7182 : All three nations are tied for first place.
-7183 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7185 : Conquest update: This region is currently neutral.
-7186 : Conquest update: This region is currently under San d'Orian control.
-7187 : Conquest update: This region is currently under Bastokan control.
-7188 : Conquest update: This region is currently under Windurstian control.
-7189 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7190 : All three nations are at a deadlock.
-7191 : The beastmen are on the rise.
-7192 : Regional influence: San d'Oria - Dominant
-7193 : Regional influence: San d'Oria - Major
-7194 : Regional influence: San d'Oria - Minor
-7195 : Regional influence: San d'Oria - Minimal
-7196 : Bastok - Dominant
-7197 : Bastok - Major
-7198 : Bastok - Minor
-7199 : Bastok - Minimal
-7200 : Windurst - Dominant
-7201 : Windurst - Major
-7202 : Windurst - Minor
-7203 : Windurst - Minimal
-7204 : Bastok and Windurst have formed an alliance.
-7205 : San d'Oria and Windurst have formed an alliance.
-7206 : San d'Oria and Bastok have formed an alliance.
-7207 : Bastok and Windurst are currently allies.
-7208 : San d'Oria and Windurst are currently allies.
-7209 : San d'Oria and Bastok are currently allies.
-7210 : # #
-7211 : # % #
-7212 : ITEM_ID:# :#
-7213 : :# :#
-7214 : [//]:[////] :#:#
-7215 : The beastmen are gaining power.
-7216 : San d'Oria's regional control is now 10% closer to the first place country's!
-7217 : Bastok's regional control is now 10% closer to the first place country's!
-7218 : Windurst's regional control are now 10% closer to the first place country's!
-7219 : San d'Oria's region points have increased!
-7220 : Bastok's region points have increased!
-7221 : Windurst's region points have increased!
-7222 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7223 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7224 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7225 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7226 : A Bastokan Expeditionary Force has been dispatched to this area.
-7227 : A Windurstian Expeditionary Force has been dispatched to this area.
-7228 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7229 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7230 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7231 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7232 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7233 : There was a curse on the beastmen's banner!
-7234 : The curse of the beastmen's banner has been lifted!
-7235 : There is a beastmen's banner.
-7311 : # #
-7312 : # #
-7313 : The gate is firmly closed...
-7314 : You must move closer.
-7315 : This gate guards an area under Imperial control.
-7316 : Azouph Isle Staging Point.
-7317 : Mamool Ja Staging Point.
-7318 : Halvung Staging Point.
-7319 : Dvucca Isle Staging Point.
-7320 : Ilrusi Atoll Staging Point.
-7321 : Nyzul Isle Staging Point.
-7322 : Enter the gate? Yes. No.
-7323 : Leave through the gate? Yes. No.
-7324 : Use the device? Yes. No.
-7325 : You cannot leave this area while in the possession of %.
-7326 : Attuning yourself to this runic portal will open a path to the Chamber of Passage.
-7327 : % has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
-7328 : % has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
-7329 : % has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
-7330 : % has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
-7331 : % has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
-7332 : % has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
-7333 : This is a restricted area.
-7334 : There is no response...
-7335 : You're a mercenary from Salaheem's Sentinels?
-7336 : This tunnel leads to the Alzadaal Undersea Ruins.
-7337 : Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
-7338 : However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
-7339 : The fee for entering the ruins comes to # %.
-7340 : Very well. You may proceed.
-7341 : Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
-7342 : Leave the ruins? Yes, I'm done here. Not just yet.
-7343 : DEBUG: You return your entry ticket.
-7344 : If you need a map of the ruins, you can purchase one for # %.
-7345 : Here is your %. Keep it in a safe place.
-7346 : You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
-7347 : You have a %? Let me have a closer look at that...
-7348 : Commencing %! Objective: Remove all threats
-7349 : Commencing %! Objective: Discover orichalcum ore
-7350 : Commencing %! Objective: Protect the professor
-7351 : Commencing %! Objective: Protect the vegetation
-7352 : Commencing %! Objective: Buy black sheep
-7353 : Commencing %! Objective: Retrieve the supplies
-7354 : Commencing %! Objective: Become a test subject
-7355 : Commencing %! Objective: Retrieve the OGMA
-7356 : Commencing %! Objective: Defeat Raubahn
-7357 : Commencing %! Objective: Defeat the count
-7358 : Commencing %! Objective: Rescue the agent
-7359 : Commencing %! Objective: Destroy the assassins
-7360 : Commencing %! Objective: Defeat Sagelord Molaal Ja
-7361 : Commencing %! Objective: Steal the supplies
-7362 : Commencing %! Objective: Apprehend the spy
-7363 : Commencing %! Objective: Recover the treasure
-7364 : Commencing %! Objective: Annihilate the enemy
-7365 : Commencing %! Objective: Neutralize the marids
-7366 : Commencing %! Objective: Gather pathological data
-7367 : Commencing %! Objective: Defeat Orochi
-7368 : Commencing %! Objective: Remove the obstructions
-7369 : Commencing %! Objective: Deliver the provisions
-7370 : Commencing %! Objective: Destroy the Troll fugitives
-7371 : Commencing %! Objective: Discover alternate route
-7372 : Commencing %! Objective: Assassinate Borgerlur
-7373 : Commencing %! Objective: Match the apkallu
-7374 : Commencing %! Objective: Remove the threat
-7375 : Commencing %! Objective: Drive out the hunters
-7376 : Commencing %! Objective: Rescue Princess Kadjaya
-7377 : Commencing %! Objective: Defeat Black Shuck
-7378 : Commencing %! Objective: Escort the prisoner
-7379 : Commencing %! Objective: Destroy the undead
-7380 : Commencing %! Objective: Find the survivors
-7381 : Commencing %! Objective: Eliminate the Black Baron
-7382 : Commencing %! Objective: Activate the bridge
-7383 : Commencing %! Objective: Exterminate the chigoes
-7384 : Commencing %! Objective: Clear the mine fields
-7385 : Commencing %! Objective: Locate the generals
-7386 : Commencing %! Objective: Retrieve the Mark-IIs
-7387 : Commencing %! Objective: Assassinate King Goldemar
-7388 : Commencing %! Objective: Find the figurehead
-7389 : Commencing %! Objective: Eliminate Lamia No.13
-7390 : Commencing %! Objective: Exterminate all monsters
-7391 : Commencing %! Objective: Demolish the shipwrecks
-7392 : Commencing %! Objective: Save the Qiqirn divers
-7393 : Commencing %! Objective: Capture the apkallu
-7394 : Commencing %! Objective: Find the ring
-7395 : Commencing %! Objective: Locate the agents
-7396 : Commencing %! Objective: Collect ahtapot
-7397 : Commencing %! Objective: Defeat Khimaira 14X
-7398 : Commencing %! Objective: Complete on-site objectives
-7399 : Commencing %! Objective: Complete on-site objectives
-7400 : Commencing %! Objective: Follow your orders
-7401 : Commencing %! Objective: Follow your orders
-7402 : Commencing %! Objective: Follow your orders
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : You can't fish here.
+7058 : You can't fish without a rod in your hands.
+7059 : You can't fish without bait on the hook.
+7060 : You can't fish at the moment.
+7061 : You didn't catch anything.
+7062 : % caught a monster!
+7063 : Your line breaks.
+7064 : Your rod breaks.
+7065 : Something caught the hook!
+7066 : You lost your catch.
+7067 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7068 : You feel there's something here.
+7069 : You feel there's something nearby.
+7070 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7071 : % caught  %!
+7072 : You dig and you dig, but find nothing.
+7073 : #/%
+7074 : Your rod breaks. Whatever caught the hook was pretty big.
+7075 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7076 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7077 : You lost your catch due to your lack of skill.
+7078 : Number fished : # Original Dice No. ## Result # (0=caught)
+7079 : You didn't catch anything.
+7080 : The paper on your % ripped.
+7081 : A tiny goldfish approaches!
+7082 : A plump, black goldfish approaches!
+7083 : A fat, juicy goldfish approaches!
+7084 : There are no goldfish to be found...
+7085 : % caught %, but cannot carry any more items. % regretfully releases it.
+7086 : The goldfish slipped off your scoop...
+7087 : ch# skill up check.
+7088 : a:#.
+7089 : Time # / Status # / #
+7090 : d:#. e:#. f:#. g:#.
+7091 : h: #. i: #. sr: #.
+7092 : j:#. k:#.
+7093 : You give up and reel in your line.
+7094 : You give up.
+7095 : % obtains # gil.
+7096 : % caught %!
+7097 : You don't know how much longer you can keep this one on the line...
+7098 : You have a good feeling about this one!
+7099 : You have a bad feeling about this one.
+7100 : You have a terrible feeling about this one...
+7101 : You don't know if you have enough skill to reel this one in.
+7102 : You're fairly sure you don't have enough skill to reel this one in.
+7103 : You're positive you don't have enough skill to reel this one in!
+7104 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7105 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7106 : l: #. m: #. n: #. CH: #.
+7107 : Something caught the hook!!!
+7108 : You feel something pulling at your line.
+7109 : Something clamps onto your line ferociously!
+7110 : Your keen angler's senses tell you that this is the pull of %!
+7111 : This strength... You get the sense that you are on the verge of an epic catch!
+7112 : The timer has started. # seconds remaining.
+7113 : #sec.#/#sec.
+7114 : 0:# 1:# 2:# 3:#
+7115 : 4:# 5:# 6:# 7:#
+7116 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7117 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7118 : #/#(#
+7119 : Version invalid error!
+7120 : Hurry before the goldfish sees you!
+7121 : % fishes up a large box!
+7123 : Fish No# / Bait No# / Hit# >>> #
+7124 : Point# >>> #
+7125 : %(#) skill#
+7126 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7127 : Im Rnd : # Pz Rnd : #
+7128 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7129 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7130 : skill : # size : # kind : # sch : #
+7131 : time : # mes : # flag : # bonus : #
+7132 : item : # hp : # pow : # swing : #
+7133 : suc : # cons : # weight : # +- : #
+7134 : speed : # +- : # exc : # client : #
+7135 : general : #
+7136 : ro:# rs:# ps:# dt:#
+7137 : ra:# ti:#
+7138 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7139 : You get the distinct sense that your moogle friend frequents this spot...
+7140 : You have a feeling that your moogle friend has been through this way...
+7141 : You suspect that the scenery around here would be to a moogle's liking...
+7142 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7143 : You have a hunch that this area would be favored by moogles...
+7144 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7145 : % catches # %!
+7146 : % obtained %!
+7147 : It appears your chocobo found this item with ease.
+7148 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7149 : FPT # DPT # DoT#
+7150 : FPT # TDPT # h#
+7151 : You cannot fish at this time.
+7152 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7153 : You discover a cache of beastman resources and receive # Imperial Standing!
+7154 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7155 : You receive # bayld!
+7156 : Your chocobo refuses to partake of the %.
+7157 : Tallying conquest results...
+7158 : Conquest results tallied.
+7159 : This region is currently under San d'Orian control.
+7160 : This region is currently under Bastokan control.
+7161 : This region is currently under Windurstian control.
+7162 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7163 : This region is currently neutral.
+7164 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7165 : All three nations are tied for first place.
+7166 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7167 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7169 : All three nations are tied for first place.
+7170 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7172 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7173 : All three nations are tied for first place.
+7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7175 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7176 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7177 : All three nations are tied for first place.
+7178 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7180 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7181 : Global balance of power: All three nations are tied for first place.
+7182 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7183 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7184 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7185 : All three nations are tied for first place.
+7186 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7188 : Conquest update: This region is currently neutral.
+7189 : Conquest update: This region is currently under San d'Orian control.
+7190 : Conquest update: This region is currently under Bastokan control.
+7191 : Conquest update: This region is currently under Windurstian control.
+7192 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7193 : All three nations are at a deadlock.
+7194 : The beastmen are on the rise.
+7195 : Regional influence: San d'Oria - Dominant
+7196 : Regional influence: San d'Oria - Major
+7197 : Regional influence: San d'Oria - Minor
+7198 : Regional influence: San d'Oria - Minimal
+7199 : Bastok - Dominant
+7200 : Bastok - Major
+7201 : Bastok - Minor
+7202 : Bastok - Minimal
+7203 : Windurst - Dominant
+7204 : Windurst - Major
+7205 : Windurst - Minor
+7206 : Windurst - Minimal
+7207 : Bastok and Windurst have formed an alliance.
+7208 : San d'Oria and Windurst have formed an alliance.
+7209 : San d'Oria and Bastok have formed an alliance.
+7210 : Bastok and Windurst are currently allies.
+7211 : San d'Oria and Windurst are currently allies.
+7212 : San d'Oria and Bastok are currently allies.
+7213 : # #
+7214 : # % #
+7215 : ITEM_ID:# :#
+7216 : :# :#
+7217 : [//]:[////] :#:#
+7218 : The beastmen are gaining power.
+7219 : San d'Oria's regional control is now 10% closer to the first place country's!
+7220 : Bastok's regional control is now 10% closer to the first place country's!
+7221 : Windurst's regional control are now 10% closer to the first place country's!
+7222 : San d'Oria's region points have increased!
+7223 : Bastok's region points have increased!
+7224 : Windurst's region points have increased!
+7225 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7226 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7227 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7228 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7229 : A Bastokan Expeditionary Force has been dispatched to this area.
+7230 : A Windurstian Expeditionary Force has been dispatched to this area.
+7231 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7232 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7233 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7234 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7235 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7236 : There was a curse on the beastmen's banner!
+7237 : The curse of the beastmen's banner has been lifted!
+7238 : There is a beastmen's banner.
+7314 : # #
+7315 : # #
+7316 : The gate is firmly closed...
+7317 : You must move closer.
+7318 : This gate guards an area under Imperial control.
+7319 : Azouph Isle Staging Point.
+7320 : Mamool Ja Staging Point.
+7321 : Halvung Staging Point.
+7322 : Dvucca Isle Staging Point.
+7323 : Ilrusi Atoll Staging Point.
+7324 : Nyzul Isle Staging Point.
+7325 : Enter the gate? Yes. No.
+7326 : Leave through the gate? Yes. No.
+7327 : Use the device? Yes. No.
+7328 : You cannot leave this area while in the possession of %.
+7329 : Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+7330 : % has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
+7331 : % has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+7332 : % has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
+7333 : % has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
+7334 : % has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
+7335 : % has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
+7336 : This is a restricted area.
+7337 : There is no response...
+7338 : You're a mercenary from Salaheem's Sentinels?
+7339 : This tunnel leads to the Alzadaal Undersea Ruins.
+7340 : Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+7341 : However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+7342 : The fee for entering the ruins comes to # %.
+7343 : Very well. You may proceed.
+7344 : Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+7345 : Leave the ruins? Yes, I'm done here. Not just yet.
+7346 : DEBUG: You return your entry ticket.
+7347 : If you need a map of the ruins, you can purchase one for # %.
+7348 : Here is your %. Keep it in a safe place.
+7349 : You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+7350 : You have a %? Let me have a closer look at that...
+7351 : Commencing %! Objective: Remove all threats
+7352 : Commencing %! Objective: Discover orichalcum ore
+7353 : Commencing %! Objective: Protect the professor
+7354 : Commencing %! Objective: Protect the vegetation
+7355 : Commencing %! Objective: Buy black sheep
+7356 : Commencing %! Objective: Retrieve the supplies
+7357 : Commencing %! Objective: Become a test subject
+7358 : Commencing %! Objective: Retrieve the OGMA
+7359 : Commencing %! Objective: Defeat Raubahn
+7360 : Commencing %! Objective: Defeat the count
+7361 : Commencing %! Objective: Rescue the agent
+7362 : Commencing %! Objective: Destroy the assassins
+7363 : Commencing %! Objective: Defeat Sagelord Molaal Ja
+7364 : Commencing %! Objective: Steal the supplies
+7365 : Commencing %! Objective: Apprehend the spy
+7366 : Commencing %! Objective: Recover the treasure
+7367 : Commencing %! Objective: Annihilate the enemy
+7368 : Commencing %! Objective: Neutralize the marids
+7369 : Commencing %! Objective: Gather pathological data
+7370 : Commencing %! Objective: Defeat Orochi
+7371 : Commencing %! Objective: Remove the obstructions
+7372 : Commencing %! Objective: Deliver the provisions
+7373 : Commencing %! Objective: Destroy the Troll fugitives
+7374 : Commencing %! Objective: Discover alternate route
+7375 : Commencing %! Objective: Assassinate Borgerlur
+7376 : Commencing %! Objective: Match the apkallu
+7377 : Commencing %! Objective: Remove the threat
+7378 : Commencing %! Objective: Drive out the hunters
+7379 : Commencing %! Objective: Rescue Princess Kadjaya
+7380 : Commencing %! Objective: Defeat Black Shuck
+7381 : Commencing %! Objective: Escort the prisoner
+7382 : Commencing %! Objective: Destroy the undead
+7383 : Commencing %! Objective: Find the survivors
+7384 : Commencing %! Objective: Eliminate the Black Baron
+7385 : Commencing %! Objective: Activate the bridge
+7386 : Commencing %! Objective: Exterminate the chigoes
+7387 : Commencing %! Objective: Clear the mine fields
+7388 : Commencing %! Objective: Locate the generals
+7389 : Commencing %! Objective: Retrieve the Mark-IIs
+7390 : Commencing %! Objective: Assassinate King Goldemar
+7391 : Commencing %! Objective: Find the figurehead
+7392 : Commencing %! Objective: Eliminate Lamia No.13
+7393 : Commencing %! Objective: Exterminate all monsters
+7394 : Commencing %! Objective: Demolish the shipwrecks
+7395 : Commencing %! Objective: Save the Qiqirn divers
+7396 : Commencing %! Objective: Capture the apkallu
+7397 : Commencing %! Objective: Find the ring
+7398 : Commencing %! Objective: Locate the agents
+7399 : Commencing %! Objective: Collect ahtapot
+7400 : Commencing %! Objective: Defeat Khimaira 14X
+7401 : Commencing %! Objective: Complete on-site objectives
+7402 : Commencing %! Objective: Complete on-site objectives
 7403 : Commencing %! Objective: Follow your orders
 7404 : Commencing %! Objective: Follow your orders
 7405 : Commencing %! Objective: Follow your orders
 7406 : Commencing %! Objective: Follow your orders
 7407 : Commencing %! Objective: Follow your orders
-7408 : You have # [minute/minutes] (Earth time) to complete this mission.
-7409 : The mission has failed. Leaving area.
-7410 : ission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-#).
-7411 : ission objective completed. Unlocking Rune of Release.
-7412 : You gain # [Assault point/Assault points]!
-7413 : ime remaining: # [minute/minutes] (Earth time).
-7414 : ime remaining: # [second/seconds] (Earth time).
-7415 : The % fades into nothingness...
-7416 : ll party members have fallen in battle. Mission failure in # [minute/minutes].
-7417 : Commencing Heroine's Holdfast!
-7418 : There is no response...
-7419 : Which restriction will you remove? None.  Main/Sub-Weapon. (# left) Head/Neck equipment. (# left) Body equipment. (# left) Hand equipment. (# left) Leg/Foot equipment. (# left) Back/Waist equipment. (# left) Ranged Weapon/Ammo. (# left) Earrings/Rings. (# left) Support Job. (# left) Job Abilities. (# left) Spellcasting. (# left) Strength. (# left) Dexterity. (# left) Vitality. (# left) Agility. (# left) Intelligence. (# left) Mind. (# left) Charisma. (# left) Max HP. (# left) Max MP. (# left)
-7420 : Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? Yes. No.
-7421 : This restriction has already been removed.
-7422 : The restriction could not be removed.
-7423 : Which restriction will you remove? (# left) None.  Main/Sub-Weapon. Head/Neck equipment. Body equipment. Hand equipment. Leg/Foot equipment. Back/Waist equipment. Ranged Weapon/Ammo. Earrings/Rings. Support Job. Job Abilities. Spellcasting. Strength. Dexterity. Vitality. Agility. Intelligence. Mind. Charisma. Max HP. Max MP.
-7424 : Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? Yes. No.
-7425 : % obtains the temporary item: %!
-7426 : Obtained temporary item: %!
-7427 : % obtains %!
-7428 : Main Weapon/Sub-Weapon restriction removed.
-7429 : Head/Neck equipment restriction removed.
-7430 : Body equipment restriction removed.
-7431 : Hands equipment restriction removed.
-7432 : Legs/Feet equipment restriction removed.
-7433 : Back/Waist equipment restriction removed.
-7434 : Ranged Weapon/Ammo restriction removed.
-7435 : Earrings/Rings restriction removed.
-7436 : Support Job restriction removed.
-7437 : Job Abilities restriction removed.
-7438 : Spellcasting restriction removed.
-7439 : STR Down removed.
-7440 : DEX Down removed.
-7441 : VIT Down removed.
-7442 : AGI Down removed.
-7443 : INT Down removed.
-7444 : MND Down removed.
-7445 : CHR Down removed.
-7446 : Max HP Down removed.
-7447 : Max MP Down removed.
-7448 : What do you take? Nothing. % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining)
-7449 : Obtained temporary item: %!
-7450 : You already have that temporary item.
-7451 : You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
-7452 : Travel to the next floor? Not yet. Exit the Assault area. Travel to the next floor. Travel to the floor on the right. Travel to the floor on the left. Travel to Floor #. Travel to Floor ???.
-7453 : loor # objective complete. Rune of Transfer activated.
-7454 : Activate the lamp? Yes. Yes. No.
-7455 : The certification code for all party members is required to activate this lamp. Your certification code has been registered.
-7456 : Your certification code has been registered.
-7457 : This lamp has already been activated.
-7458 : This lamp cannot be activated unless all other lamps are activated at the same time.
-7459 : All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
-7460 : It appears you cannot activate this lamp for some time...
-7461 : Apparently, this lamp must be activated in a specific order...
-7462 : Not all lights have been activated...
-7463 : Confirming operation procedure...
-7464 : The Rune of Transfer has already been activated.
-7465 : Objective: Eliminate enemy leader.
-7466 : Objective: Eliminate enemy leader.
-7467 : Objective: Eliminate specified enemies.
-7468 : Objective: Activate all lamps.
-7469 : Objective: Eliminate specified enemy.
-7470 : Objective: Eliminate all enemies.
-7471 : Avoid discovery by archaic gears!
-7472 : Do not destroy archaic gears!
-7473 : Time limit has been reduced by # [minute/minutes].
-7474 : Security field malfunction.
-7475 : Potential token reward reduced.
-7476 : Job ability restriction has been removed.
-7477 : Job abilities are restricted.
-7478 : Weapon skill restriction has been removed.
-7479 : Weapon skills are restricted.
-7480 : White magic restriction has been removed.
-7481 : White magic is restricted.
-7482 : Black magic restriction has been removed.
-7483 : Black magic is restricted.
-7484 : Song restriction has been removed.
-7485 : Songs are restricted.
-7486 : Ninjutsu restriction has been removed.
-7487 : Ninjutsu is restricted.
-7488 : Summon magic restriction has been removed.
-7489 : Summon magic is restricted.
-7490 : Blue magic restriction has been removed.
-7491 : Blue magic is restricted.
-7492 : Attack Speed Down removed.
-7493 : Afflicted by Attack Speed Down.
-7494 : Casting Speed Down removed.
-7495 : Afflicted by Casting Speed Down.
-7496 : STR Down removed.
-7497 : Afflicted by STR Down.
-7498 : DEX Down removed.
-7499 : Afflicted by DEX Down.
-7500 : VIT Down removed.
-7501 : Afflicted by VIT Down.
-7502 : AGI Down removed.
-7503 : Afflicted by AGI Down.
-7504 : INT Down removed.
-7505 : Afflicted by INT Down.
-7506 : MND Down removed.
-7507 : Afflicted by MND Down.
-7508 : CHR Down removed.
-7509 : Afflicted by CHR Down.
-7510 : Regain removed.
-7511 : Received Regain effect.
-7512 : Regen removed.
-7513 : Received Regen effect.
-7514 : Refresh removed.
-7515 : Received Refresh effect.
-7516 : Flurry removed.
-7517 : Received Flurry effect.
-7518 : Concentration removed.
-7519 : Received Concentration effect.
-7520 : STR Boost removed.
-7521 : Received STR Boost.
-7522 : DEX Boost removed.
-7523 : Received DEX Boost.
-7524 : VIT Boost removed.
-7525 : Received VIT Boost.
-7526 : AGI Boost removed.
-7527 : Received AGI Boost.
-7528 : INT Boost removed.
-7529 : Received INT Boost.
-7530 : MND Boost removed.
-7531 : Received MND Boost.
-7532 : CHR Boost removed.
-7533 : Received CHR Boost.
-7534 : The data on the % will be reset when you complete the objective of the next floor.
-7535 : Do you really want to exit? Yes. No.
-7536 : You now possess # part[/s] of %.
-7537 : You have acquired all necessary parts and completed %.
-7538 : You already possess %. Unable to obtain additional parts.
-7539 : You could not obtain % because you already have one in your possession.
-7540 : Your time limit for this battle has been extended by # minute[/s] (Earth time).
-7541 : You already possess % and cannot obtain another.
-7542 : You are carrying a full load of temporary items and cannot obtain any more.
-7543 : Main Weapon/Sub-Weapon restriction removed for %.
-7544 : Head/Neck equipment restriction removed for %.
-7545 : Body equipment restriction removed for %.
-7546 : Hand equipment restriction removed for %.
-7547 : Leg/Foot equipment restriction removed for %.
-7548 : Back/Waist equipment restriction removed for %.
-7549 : Ranged Weapon/Ammo restriction removed for %.
-7550 : Earrings/Rings restriction removed for %.
-7551 : Support Job restriction removed for %.
-7552 : Job Abilities restriction removed for %.
-7553 : Spellcasting restriction removed for %.
-7554 : STR Down removed for %.
-7555 : DEX Down removed for %.
-7556 : VIT Down removed for %.
-7557 : AGI Down removed for %.
-7558 : INT Down removed for %.
-7559 : MND Down removed for %.
-7560 : CHR Down removed for %.
-7561 : Max HP Down removed for %.
-7562 : Max MP Down removed for %.
-7563 : Ugh...
-7564 : Did you really think a corsair could defeat me? Ludicrous.
-7565 : No need for worry, corsairs... You will be a fitting sacrifice for the Empire!
-7566 : Defeated...by a corsair...?
-7567 : Take this!
-7568 : Time for you to rest beneath the waves!
-7569 : There's nothing you can do to stop us!
-7570 : You will regret for eternity the day you turned against the Empire!
-7571 : A battle on the high seas? My warrior's spirit soars in anticipation!
-7572 : My time is near...
-7573 : And so I fall...
-7574 : Swift as lightning...!
-7575 : Harness the whirlwind...!
-7576 : Feel the sting of my blade!
-7577 : Unnatural curs!
-7578 : You have overpowered my crew...
-7579 : I will test your blades. Prepare to join your ancestors...
-7580 : For the Black Coffin!
-7581 : For Ephramad!
-7582 : Troublesome squabs...
-7583 : Leave the Ashu Talif? Yes. No.
-7584 : bjective complete. You may return on the lifeboat.
-7585 : Objective failed. Leaving the Ashu Talif.
-7586 : Your bag feels heavier...
-7587 : Imperial dogs!
-7588 : You will not escape!
-7589 : Ugh... No point in continuing any farther...
-7590 : Ugh... This is the end...
-7591 : Shall we be off?
-7592 : Can you open this?
-7593 : Phew...
-7594 : So this is what I must draw...
-7595 : This place is giving me the creeps. As soon as I'm finished with my work, we should head back.
-7596 : !?
-7597 : Wh-what is this!?
-7598 : What in Urhguum is happening here!?
-7599 : Make it stop!!!
-7600 : Ugh...
-7601 : Please, stay close to me! I...I've never fought anyone before!
-7602 : Help!
-7603 : How...could this happen...?
-7604 : It's here!
-7605 : Ack!
-7606 : Ouch! You're supposed to be protecting me, you know!
-7607 : I must sketch the cabin. Let's go!
-7608 : Let's go!
-7609 : Oh, I must draw this!
-7610 : I am almost done...
-7611 : Finished! A beautiful sketch, if I do say so myself!
-7612 : All of a sudden, this place doesn't seem so creepy anymore...
-7613 : I didn't realize this would be so difficult... Let's head back now.
-7614 : Thank you for protecting me. I've regained my composure now....
-7615 : It doesn't seem that there are any ghosts left... You defeated them all, didn't you? My, you are incredible!
-7616 : Ah, a treasure chest! Be sure to open it before we head back.
-7617 : A chill runs down your spine!
-7618 : Ugh! What!?
-7619 : Huh? Where did you come from!?
-7620 : Ahahaha... Imperial dogs, you are too naive!
+7408 : Commencing %! Objective: Follow your orders
+7409 : Commencing %! Objective: Follow your orders
+7410 : Commencing %! Objective: Follow your orders
+7411 : You have # [minute/minutes] (Earth time) to complete this mission.
+7412 : The mission has failed. Leaving area.
+7413 : ission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-#).
+7414 : ission objective completed. Unlocking Rune of Release.
+7415 : You gain # [Assault point/Assault points]!
+7416 : ime remaining: # [minute/minutes] (Earth time).
+7417 : ime remaining: # [second/seconds] (Earth time).
+7418 : The % fades into nothingness...
+7419 : ll party members have fallen in battle. Mission failure in # [minute/minutes].
+7420 : Commencing Heroine's Holdfast!
+7421 : There is no response...
+7422 : Which restriction will you remove? None.  Main/Sub-Weapon. (# left) Head/Neck equipment. (# left) Body equipment. (# left) Hand equipment. (# left) Leg/Foot equipment. (# left) Back/Waist equipment. (# left) Ranged Weapon/Ammo. (# left) Earrings/Rings. (# left) Support Job. (# left) Job Abilities. (# left) Spellcasting. (# left) Strength. (# left) Dexterity. (# left) Vitality. (# left) Agility. (# left) Intelligence. (# left) Mind. (# left) Charisma. (# left) Max HP. (# left) Max MP. (# left)
+7423 : Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? Yes. No.
+7424 : This restriction has already been removed.
+7425 : The restriction could not be removed.
+7426 : Which restriction will you remove? (# left) None.  Main/Sub-Weapon. Head/Neck equipment. Body equipment. Hand equipment. Leg/Foot equipment. Back/Waist equipment. Ranged Weapon/Ammo. Earrings/Rings. Support Job. Job Abilities. Spellcasting. Strength. Dexterity. Vitality. Agility. Intelligence. Mind. Charisma. Max HP. Max MP.
+7427 : Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? Yes. No.
+7428 : % obtains the temporary item: %!
+7429 : Obtained temporary item: %!
+7430 : % obtains %!
+7431 : Main Weapon/Sub-Weapon restriction removed.
+7432 : Head/Neck equipment restriction removed.
+7433 : Body equipment restriction removed.
+7434 : Hands equipment restriction removed.
+7435 : Legs/Feet equipment restriction removed.
+7436 : Back/Waist equipment restriction removed.
+7437 : Ranged Weapon/Ammo restriction removed.
+7438 : Earrings/Rings restriction removed.
+7439 : Support Job restriction removed.
+7440 : Job Abilities restriction removed.
+7441 : Spellcasting restriction removed.
+7442 : STR Down removed.
+7443 : DEX Down removed.
+7444 : VIT Down removed.
+7445 : AGI Down removed.
+7446 : INT Down removed.
+7447 : MND Down removed.
+7448 : CHR Down removed.
+7449 : Max HP Down removed.
+7450 : Max MP Down removed.
+7451 : What do you take? Nothing. % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining)
+7452 : Obtained temporary item: %!
+7453 : You already have that temporary item.
+7454 : You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
+7455 : Travel to the next floor? Not yet. Exit the Assault area. Travel to the next floor. Travel to the floor on the right. Travel to the floor on the left. Travel to Floor #. Travel to Floor ???.
+7456 : loor # objective complete. Rune of Transfer activated.
+7457 : Activate the lamp? Yes. Yes. No.
+7458 : The certification code for all party members is required to activate this lamp. Your certification code has been registered.
+7459 : Your certification code has been registered.
+7460 : This lamp has already been activated.
+7461 : This lamp cannot be activated unless all other lamps are activated at the same time.
+7462 : All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
+7463 : It appears you cannot activate this lamp for some time...
+7464 : Apparently, this lamp must be activated in a specific order...
+7465 : Not all lights have been activated...
+7466 : Confirming operation procedure...
+7467 : The Rune of Transfer has already been activated.
+7468 : Objective: Eliminate enemy leader.
+7469 : Objective: Eliminate enemy leader.
+7470 : Objective: Eliminate specified enemies.
+7471 : Objective: Activate all lamps.
+7472 : Objective: Eliminate specified enemy.
+7473 : Objective: Eliminate all enemies.
+7474 : Avoid discovery by archaic gears!
+7475 : Do not destroy archaic gears!
+7476 : Time limit has been reduced by # [minute/minutes].
+7477 : Security field malfunction.
+7478 : Potential token reward reduced.
+7479 : Job ability restriction has been removed.
+7480 : Job abilities are restricted.
+7481 : Weapon skill restriction has been removed.
+7482 : Weapon skills are restricted.
+7483 : White magic restriction has been removed.
+7484 : White magic is restricted.
+7485 : Black magic restriction has been removed.
+7486 : Black magic is restricted.
+7487 : Song restriction has been removed.
+7488 : Songs are restricted.
+7489 : Ninjutsu restriction has been removed.
+7490 : Ninjutsu is restricted.
+7491 : Summon magic restriction has been removed.
+7492 : Summon magic is restricted.
+7493 : Blue magic restriction has been removed.
+7494 : Blue magic is restricted.
+7495 : Attack Speed Down removed.
+7496 : Afflicted by Attack Speed Down.
+7497 : Casting Speed Down removed.
+7498 : Afflicted by Casting Speed Down.
+7499 : STR Down removed.
+7500 : Afflicted by STR Down.
+7501 : DEX Down removed.
+7502 : Afflicted by DEX Down.
+7503 : VIT Down removed.
+7504 : Afflicted by VIT Down.
+7505 : AGI Down removed.
+7506 : Afflicted by AGI Down.
+7507 : INT Down removed.
+7508 : Afflicted by INT Down.
+7509 : MND Down removed.
+7510 : Afflicted by MND Down.
+7511 : CHR Down removed.
+7512 : Afflicted by CHR Down.
+7513 : Regain removed.
+7514 : Received Regain effect.
+7515 : Regen removed.
+7516 : Received Regen effect.
+7517 : Refresh removed.
+7518 : Received Refresh effect.
+7519 : Flurry removed.
+7520 : Received Flurry effect.
+7521 : Concentration removed.
+7522 : Received Concentration effect.
+7523 : STR Boost removed.
+7524 : Received STR Boost.
+7525 : DEX Boost removed.
+7526 : Received DEX Boost.
+7527 : VIT Boost removed.
+7528 : Received VIT Boost.
+7529 : AGI Boost removed.
+7530 : Received AGI Boost.
+7531 : INT Boost removed.
+7532 : Received INT Boost.
+7533 : MND Boost removed.
+7534 : Received MND Boost.
+7535 : CHR Boost removed.
+7536 : Received CHR Boost.
+7537 : The data on the % will be reset when you complete the objective of the next floor.
+7538 : Do you really want to exit? Yes. No.
+7539 : You now possess # part[/s] of %.
+7540 : You have acquired all necessary parts and completed %.
+7541 : You already possess %. Unable to obtain additional parts.
+7542 : You could not obtain % because you already have one in your possession.
+7543 : Your time limit for this battle has been extended by # minute[/s] (Earth time).
+7544 : You already possess % and cannot obtain another.
+7545 : You are carrying a full load of temporary items and cannot obtain any more.
+7546 : Main Weapon/Sub-Weapon restriction removed for %.
+7547 : Head/Neck equipment restriction removed for %.
+7548 : Body equipment restriction removed for %.
+7549 : Hand equipment restriction removed for %.
+7550 : Leg/Foot equipment restriction removed for %.
+7551 : Back/Waist equipment restriction removed for %.
+7552 : Ranged Weapon/Ammo restriction removed for %.
+7553 : Earrings/Rings restriction removed for %.
+7554 : Support Job restriction removed for %.
+7555 : Job Abilities restriction removed for %.
+7556 : Spellcasting restriction removed for %.
+7557 : STR Down removed for %.
+7558 : DEX Down removed for %.
+7559 : VIT Down removed for %.
+7560 : AGI Down removed for %.
+7561 : INT Down removed for %.
+7562 : MND Down removed for %.
+7563 : CHR Down removed for %.
+7564 : Max HP Down removed for %.
+7565 : Max MP Down removed for %.
+7566 : Ugh...
+7567 : Did you really think a corsair could defeat me? Ludicrous.
+7568 : No need for worry, corsairs... You will be a fitting sacrifice for the Empire!
+7569 : Defeated...by a corsair...?
+7570 : Take this!
+7571 : Time for you to rest beneath the waves!
+7572 : There's nothing you can do to stop us!
+7573 : You will regret for eternity the day you turned against the Empire!
+7574 : A battle on the high seas? My warrior's spirit soars in anticipation!
+7575 : My time is near...
+7576 : And so I fall...
+7577 : Swift as lightning...!
+7578 : Harness the whirlwind...!
+7579 : Feel the sting of my blade!
+7580 : Unnatural curs!
+7581 : You have overpowered my crew...
+7582 : I will test your blades. Prepare to join your ancestors...
+7583 : For the Black Coffin!
+7584 : For Ephramad!
+7585 : Troublesome squabs...
+7586 : Leave the Ashu Talif? Yes. No.
+7587 : bjective complete. You may return on the lifeboat.
+7588 : Objective failed. Leaving the Ashu Talif.
+7589 : Your bag feels heavier...
+7590 : Imperial dogs!
+7591 : You will not escape!
+7592 : Ugh... No point in continuing any farther...
+7593 : Ugh... This is the end...
+7594 : Shall we be off?
+7595 : Can you open this?
+7596 : Phew...
+7597 : So this is what I must draw...
+7598 : This place is giving me the creeps. As soon as I'm finished with my work, we should head back.
+7599 : !?
+7600 : Wh-what is this!?
+7601 : What in Urhguum is happening here!?
+7602 : Make it stop!!!
+7603 : Ugh...
+7604 : Please, stay close to me! I...I've never fought anyone before!
+7605 : Help!
+7606 : How...could this happen...?
+7607 : It's here!
+7608 : Ack!
+7609 : Ouch! You're supposed to be protecting me, you know!
+7610 : I must sketch the cabin. Let's go!
+7611 : Let's go!
+7612 : Oh, I must draw this!
+7613 : I am almost done...
+7614 : Finished! A beautiful sketch, if I do say so myself!
+7615 : All of a sudden, this place doesn't seem so creepy anymore...
+7616 : I didn't realize this would be so difficult... Let's head back now.
+7617 : Thank you for protecting me. I've regained my composure now....
+7618 : It doesn't seem that there are any ghosts left... You defeated them all, didn't you? My, you are incredible!
+7619 : Ah, a treasure chest! Be sure to open it before we head back.
+7620 : A chill runs down your spine!
+7621 : Ugh! What!?
+7622 : Huh? Where did you come from!?
+7623 : Ahahaha... Imperial dogs, you are too naive!

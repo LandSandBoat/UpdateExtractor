@@ -7666,6 +7666,7 @@ INSERT INTO `item_equipment` VALUES (26488,'diamond_aspis',99,119,746,0,0,2,0,0)
 INSERT INTO `item_equipment` VALUES (26489,'troth',1,0,8388606,0,0,2,0,0); -- TODO: capture model from retail
 INSERT INTO `item_equipment` VALUES (26490,'ark_shield',1,0,8388606,0,0,2,0,0); -- TODO: capture model from retail
 INSERT INTO `item_equipment` VALUES (26491,'prime_shield',99,119,128,0,0,2,0,0); -- TODO: capture model from retail
+INSERT INTO `item_equipment` VALUES (26492,'duban',99,119,128,0,0,2,0,0); -- TODO: capture model from retail
 INSERT INTO `item_equipment` VALUES (26514,'poroggo_fleece',1,0,8388606,0,0,20,0,0); -- TODO: capture model from retail
 INSERT INTO `item_equipment` VALUES (26515,'poroggo_fleece_+1',1,0,8388606,0,0,20,0,0); -- TODO: capture model from retail
 INSERT INTO `item_equipment` VALUES (26516,'citrullus_shirt',1,0,8388606,0,0,20,0,0); -- TODO: capture model from retail
