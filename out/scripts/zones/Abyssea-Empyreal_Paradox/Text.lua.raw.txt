@@ -2324,31 +2324,31 @@
 2326 : Objective: Skuld / Kills: #. Equipment: Target item must be equipped.
 2327 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 2328 : Objective: # [monster/monsters] of the hippogryph family. Equipment: Target item must be equipped.
-2329 : Objective: # ).
+2329 : Objective: # %.
 2330 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 2331 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2332 : Objective: # [monster/monsters] of the peiste family. Equipment: Target item must be equipped.
 2333 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 2334 : Objective: # [monster/monsters] of the puk family. Equipment: Target item must be equipped.
-2335 : Objective: # ).
+2335 : Objective: # %.
 2336 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2337 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2338 : Objective: # [monster/monsters] of the gnole family. Equipment: Target item must be equipped.
 2339 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 2340 : Objective: # [monster/monsters] of the cluster bomb family. Equipment: Target item must be equipped.
-2341 : Objective: # ).
+2341 : Objective: # %.
 2342 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 2343 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 2344 : Objective: # [monster/monsters] of the rafflesia family. Equipment: Target item must be equipped.
 2345 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 2346 : Objective: # [monster/monsters] of the ladybug family. Equipment: Target item must be equipped.
-2347 : Objective: # ).
+2347 : Objective: # %.
 2348 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2349 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2350 : Objective: # [monster/monsters] of the gnat family. Equipment: Target item must be equipped.
 2351 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 2352 : Objective: # [monster/monsters] of the chigoe family. Equipment: Target item must be equipped.
-2353 : Objective: # ).
+2353 : Objective: # %.
 2354 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 2355 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2356 : Objective: # [monster/monsters] of the slug family. Equipment: Target item must be equipped.
@@ -2602,7 +2602,7 @@
 2604 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 2605 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 2606 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-2607 : Objective: # ). Area: Grauberg (S).
+2607 : Objective: # %. Area: Grauberg (S).
 2608 : Weapon Skill: Mercy Stroke, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 2609 : Objective: # vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2610 : Weapon Skill: Mandalic Stab, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -2673,29 +2673,29 @@
 2675 : Objective: # beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 2676 : Objective: Tammuz / Kills: #. Equipment: Target item must be equipped.
 2677 : Objective: Chesma / Kills: #. Equipment: Target item must be equipped.
-2678 : Objective: # ).
-2679 : Objective: # ).
-2680 : Objective: # ).
-2681 : Objective: # ).
-2682 : Objective: # ).
-2683 : Objective: # ).
-2684 : Objective: # ).
-2685 : Objective: # ).
-2686 : Objective: # ).
-2687 : Objective: # ).
-2688 : Objective: # ).
-2689 : Objective: # ).
-2690 : Objective: # ).
-2691 : Objective: # ).
-2692 : Objective: # ).
-2693 : Objective: # ).
-2694 : Objective: # ).
-2695 : Objective: # ).
-2696 : Objective: # ).
-2697 : Objective: # ).
-2698 : Objective: # ).
-2699 : Objective: # ).
-2700 : Objective: # ).
+2678 : Objective: # %.
+2679 : Objective: # %.
+2680 : Objective: # %.
+2681 : Objective: # %.
+2682 : Objective: # %.
+2683 : Objective: # %.
+2684 : Objective: # %.
+2685 : Objective: # %.
+2686 : Objective: # %.
+2687 : Objective: # %.
+2688 : Objective: # %.
+2689 : Objective: # %.
+2690 : Objective: # %.
+2691 : Objective: # %.
+2692 : Objective: # %.
+2693 : Objective: # %.
+2694 : Objective: # %.
+2695 : Objective: # %.
+2696 : Objective: # %.
+2697 : Objective: # %.
+2698 : Objective: # %.
+2699 : Objective: # %.
+2700 : Objective: # %.
 2701 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 2702 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 2703 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -2904,7 +2904,7 @@
 2906 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 2907 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 2908 : Objective: Trigger the additional effect of the % / Times: #. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-2909 : Objective: # ). Area: Grauberg (S).
+2909 : Objective: # %. Area: Grauberg (S).
 2910 : Objective: # elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 2911 : Objective: # plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 2912 : Objective: # bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -3044,92 +3044,92 @@
 3046 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 3047 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 3048 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-3049 : Objective: # ).
-3050 : Objective: # ).
-3051 : Objective: # ).
-3052 : Objective: # ).
-3053 : Objective: # ).
-3054 : Objective: # ).
-3055 : Objective: # ).
-3056 : Objective: # ).
-3057 : Objective: # ).
-3058 : Objective: # ).
-3059 : Objective: # ).
-3060 : Objective: # ).
-3061 : Objective: # ).
-3062 : Objective: # ).
-3063 : Objective: # ).
-3064 : Objective: # ).
-3065 : Objective: # ).
-3066 : Objective: # ).
-3067 : Objective: # ).
-3068 : Objective: # ).
-3069 : Objective: # ).
-3070 : Objective: # ).
-3071 : Objective: # ).
-3072 : Objective: # ).
-3073 : Objective: # ).
-3074 : Objective: # ).
-3075 : Objective: # ).
-3076 : Objective: # ).
-3077 : Objective: # ).
-3078 : Objective: # ).
-3079 : Objective: # ).
-3080 : Objective: # ).
-3081 : Objective: # ).
-3082 : Objective: # ).
-3083 : Objective: # ).
-3084 : Objective: # ).
-3085 : Objective: # ).
-3086 : Objective: # ).
-3087 : Objective: # ).
-3088 : Objective: # ).
-3089 : Objective: # ).
-3090 : Objective: # ).
-3091 : Objective: # ).
-3092 : Objective: # ).
-3093 : Objective: # ).
-3094 : Objective: # ).
-3095 : Objective: # ).
-3096 : Objective: # ).
-3097 : Objective: # ).
-3098 : Objective: # ).
-3099 : Objective: # ).
-3100 : Objective: # ).
-3101 : Objective: # ).
-3102 : Objective: # ).
-3103 : Objective: # ).
-3104 : Objective: # ).
-3105 : Objective: # ).
-3106 : Objective: # ).
-3107 : Objective: # ).
-3108 : Objective: # ).
-3109 : Objective: # ).
-3110 : Objective: # ).
-3111 : Objective: # ).
-3112 : Objective: # ).
-3113 : Objective: # ).
-3114 : Objective: # ).
-3115 : Objective: # ).
-3116 : Objective: # ).
-3117 : Objective: # ).
-3118 : Objective: # ).
-3119 : Objective: # ).
-3120 : Objective: # ).
-3121 : Objective: # ).
-3122 : Objective: # ).
-3123 : Objective: # ).
-3124 : Objective: # ).
-3125 : Objective: # ).
-3126 : Objective: # ).
-3127 : Objective: # ).
-3128 : Objective: # ).
+3049 : Objective: # %.
+3050 : Objective: # %.
+3051 : Objective: # %.
+3052 : Objective: # %.
+3053 : Objective: # %.
+3054 : Objective: # %.
+3055 : Objective: # %.
+3056 : Objective: # %.
+3057 : Objective: # %.
+3058 : Objective: # %.
+3059 : Objective: # %.
+3060 : Objective: # %.
+3061 : Objective: # %.
+3062 : Objective: # %.
+3063 : Objective: # %.
+3064 : Objective: # %.
+3065 : Objective: # %.
+3066 : Objective: # %.
+3067 : Objective: # %.
+3068 : Objective: # %.
+3069 : Objective: # %.
+3070 : Objective: # %.
+3071 : Objective: # %.
+3072 : Objective: # %.
+3073 : Objective: # %.
+3074 : Objective: # %.
+3075 : Objective: # %.
+3076 : Objective: # %.
+3077 : Objective: # %.
+3078 : Objective: # %.
+3079 : Objective: # %.
+3080 : Objective: # %.
+3081 : Objective: # %.
+3082 : Objective: # %.
+3083 : Objective: # %.
+3084 : Objective: # %.
+3085 : Objective: # %.
+3086 : Objective: # %.
+3087 : Objective: # %.
+3088 : Objective: # %.
+3089 : Objective: # %.
+3090 : Objective: # %.
+3091 : Objective: # %.
+3092 : Objective: # %.
+3093 : Objective: # %.
+3094 : Objective: # %.
+3095 : Objective: # %.
+3096 : Objective: # %.
+3097 : Objective: # %.
+3098 : Objective: # %.
+3099 : Objective: # %.
+3100 : Objective: # %.
+3101 : Objective: # %.
+3102 : Objective: # %.
+3103 : Objective: # %.
+3104 : Objective: # %.
+3105 : Objective: # %.
+3106 : Objective: # %.
+3107 : Objective: # %.
+3108 : Objective: # %.
+3109 : Objective: # %.
+3110 : Objective: # %.
+3111 : Objective: # %.
+3112 : Objective: # %.
+3113 : Objective: # %.
+3114 : Objective: # %.
+3115 : Objective: # %.
+3116 : Objective: # %.
+3117 : Objective: # %.
+3118 : Objective: # %.
+3119 : Objective: # %.
+3120 : Objective: # %.
+3121 : Objective: # %.
+3122 : Objective: # %.
+3123 : Objective: # %.
+3124 : Objective: # %.
+3125 : Objective: # %.
+3126 : Objective: # %.
+3127 : Objective: # %.
+3128 : Objective: # %.
 3129 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3130 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
 3131 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3132 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3133 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
-3134 : Objective: # ).
+3134 : Objective: # %.
 3135 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3136 : Objective: # lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 3137 : Objective: # bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -3265,76 +3265,76 @@
 3267 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 3268 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 3269 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-3270 : Objective: # ).
-3271 : Objective: # ).
-3272 : Objective: # ).
-3273 : Objective: # ).
-3274 : Objective: # ).
-3275 : Objective: # ).
-3276 : Objective: # ).
-3277 : Objective: # ).
-3278 : Objective: # ).
-3279 : Objective: # ).
-3280 : Objective: # ).
-3281 : Objective: # ).
-3282 : Objective: # ).
-3283 : Objective: # ).
-3284 : Objective: # ).
-3285 : Objective: # ).
-3286 : Objective: # ).
-3287 : Objective: # ).
-3288 : Objective: # ).
-3289 : Objective: # ).
-3290 : Objective: # ).
-3291 : Objective: # ).
-3292 : Objective: # ).
-3293 : Objective: # ).
-3294 : Objective: # ).
-3295 : Objective: # ).
-3296 : Objective: # ).
-3297 : Objective: # ).
-3298 : Objective: # ).
-3299 : Objective: # ).
-3300 : Objective: # ).
-3301 : Objective: # ).
-3302 : Objective: # ).
-3303 : Objective: # ).
-3304 : Objective: # ).
-3305 : Objective: # ).
-3306 : Objective: # ).
-3307 : Objective: # ).
-3308 : Objective: # ).
-3309 : Objective: # ).
-3310 : Objective: # ).
-3311 : Objective: # ).
-3312 : Objective: # ).
-3313 : Objective: # ).
-3314 : Objective: # ).
-3315 : Objective: # ).
-3316 : Objective: # ).
-3317 : Objective: # ).
-3318 : Objective: # ).
-3319 : Objective: # ).
-3320 : Objective: # ).
-3321 : Objective: # ).
-3322 : Objective: # ).
-3323 : Objective: # ).
-3324 : Objective: # ).
-3325 : Objective: # ).
+3270 : Objective: # %.
+3271 : Objective: # %.
+3272 : Objective: # %.
+3273 : Objective: # %.
+3274 : Objective: # %.
+3275 : Objective: # %.
+3276 : Objective: # %.
+3277 : Objective: # %.
+3278 : Objective: # %.
+3279 : Objective: # %.
+3280 : Objective: # %.
+3281 : Objective: # %.
+3282 : Objective: # %.
+3283 : Objective: # %.
+3284 : Objective: # %.
+3285 : Objective: # %.
+3286 : Objective: # %.
+3287 : Objective: # %.
+3288 : Objective: # %.
+3289 : Objective: # %.
+3290 : Objective: # %.
+3291 : Objective: # %.
+3292 : Objective: # %.
+3293 : Objective: # %.
+3294 : Objective: # %.
+3295 : Objective: # %.
+3296 : Objective: # %.
+3297 : Objective: # %.
+3298 : Objective: # %.
+3299 : Objective: # %.
+3300 : Objective: # %.
+3301 : Objective: # %.
+3302 : Objective: # %.
+3303 : Objective: # %.
+3304 : Objective: # %.
+3305 : Objective: # %.
+3306 : Objective: # %.
+3307 : Objective: # %.
+3308 : Objective: # %.
+3309 : Objective: # %.
+3310 : Objective: # %.
+3311 : Objective: # %.
+3312 : Objective: # %.
+3313 : Objective: # %.
+3314 : Objective: # %.
+3315 : Objective: # %.
+3316 : Objective: # %.
+3317 : Objective: # %.
+3318 : Objective: # %.
+3319 : Objective: # %.
+3320 : Objective: # %.
+3321 : Objective: # %.
+3322 : Objective: # %.
+3323 : Objective: # %.
+3324 : Objective: # %.
+3325 : Objective: # %.
 3326 : Objective: # lizard-type creature[/s]. Equipment: Target item must be equipped.
 3327 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
 3328 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3329 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped.
 3330 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
-3331 : Objective: # ).
-3332 : Objective: # ).
-3333 : Objective: # ).
-3334 : Objective: # ).
-3335 : Objective: # ).
-3336 : Objective: # ).
-3337 : Objective: # ).
-3338 : Objective: # ).
-3339 : Objective: # ).
+3331 : Objective: # %.
+3332 : Objective: # %.
+3333 : Objective: # %.
+3334 : Objective: # %.
+3335 : Objective: # %.
+3336 : Objective: # %.
+3337 : Objective: # %.
+3338 : Objective: # %.
+3339 : Objective: # %.
 3340 : Objective: Velosareon / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3341 : Objective: Dagourmarche / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 3342 : Objective: Mildaunegeux / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -3389,48 +3389,48 @@
 3391 : Objective: Gu'Dha Effigy / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 3392 : Objective: Tzee Xicu Idol / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 3393 : Objective: Overlord's Tombstone / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-3394 : Objective: # ).
-3395 : Objective: # ).
-3396 : Objective: # ).
-3397 : Objective: # ).
-3398 : Objective: # ).
-3399 : Objective: # ).
-3400 : Objective: # ).
-3401 : Objective: # ).
-3402 : Objective: # ).
-3403 : Objective: # ).
-3404 : Objective: # ).
-3405 : Objective: # ).
-3406 : Objective: # ).
-3407 : Objective: # ).
-3408 : Objective: # ).
-3409 : Objective: # ).
-3410 : Objective: # ).
-3411 : Objective: # ).
-3412 : Objective: # ).
-3413 : Objective: # ).
-3414 : Objective: # ).
-3415 : Objective: # ).
+3394 : Objective: # %.
+3395 : Objective: # %.
+3396 : Objective: # %.
+3397 : Objective: # %.
+3398 : Objective: # %.
+3399 : Objective: # %.
+3400 : Objective: # %.
+3401 : Objective: # %.
+3402 : Objective: # %.
+3403 : Objective: # %.
+3404 : Objective: # %.
+3405 : Objective: # %.
+3406 : Objective: # %.
+3407 : Objective: # %.
+3408 : Objective: # %.
+3409 : Objective: # %.
+3410 : Objective: # %.
+3411 : Objective: # %.
+3412 : Objective: # %.
+3413 : Objective: # %.
+3414 : Objective: # %.
+3415 : Objective: # %.
 3416 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3417 : Objective: # bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 3418 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3419 : Objective: # ).
-3420 : Objective: # ).
-3421 : Objective: # ).
+3419 : Objective: # %.
+3420 : Objective: # %.
+3421 : Objective: # %.
 3422 : Objective: # beast-type creature[/s]. Equipment: Target item must be equipped.
 3423 : Objective: # vermin-type creature[/s]. Equipment: Target item must be equipped.
 3424 : Objective: # aquan-type creature[/s]. Equipment: Target item must be equipped.
 3425 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3426 : Objective: # plantoid-type creature[/s]. Equipment: Target item must be equipped.
-3427 : Objective: # ).
-3428 : Objective: # ).
-3429 : Objective: # ).
-3430 : Objective: # ).
-3431 : Objective: # ).
-3432 : Objective: # ).
-3433 : Objective: # ).
-3434 : Objective: # ).
-3435 : Objective: # ).
+3427 : Objective: # %.
+3428 : Objective: # %.
+3429 : Objective: # %.
+3430 : Objective: # %.
+3431 : Objective: # %.
+3432 : Objective: # %.
+3433 : Objective: # %.
+3434 : Objective: # %.
+3435 : Objective: # %.
 3436 : Objective: Animated Knuckles / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3437 : Objective: Animated Dagger / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 3438 : Objective: Animated Longsword / Kills: #. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -3494,26 +3494,26 @@
 3496 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 3497 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 3498 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3499 : Objective: # ).
-3500 : Objective: # ).
-3501 : Objective: # ).
-3502 : Objective: # ).
+3499 : Objective: # %.
+3500 : Objective: # %.
+3501 : Objective: # %.
+3502 : Objective: # %.
 3503 : Objective: # amorph-type creature[/s]. Equipment: Target item must be equipped.
 3504 : Objective: # arcana-type creature[/s]. Equipment: Target item must be equipped.
 3505 : Objective: # dragon-type creature[/s]. Equipment: Target item must be equipped.
 3506 : Objective: # undead-type creature[/s]. Equipment: Target item must be equipped.
 3507 : Objective: # demon-type creature[/s]. Equipment: Target item must be equipped.
-3508 : Objective: # ).
-3509 : Objective: # ).
-3510 : Objective: # ).
-3511 : Objective: # ).
-3512 : Objective: # ).
-3513 : Objective: # ).
-3514 : Objective: # ).
-3515 : Objective: # ).
-3516 : Objective: # ).
-3517 : Objective: # ).
-3518 : Objective: # ).
+3508 : Objective: # %.
+3509 : Objective: # %.
+3510 : Objective: # %.
+3511 : Objective: # %.
+3512 : Objective: # %.
+3513 : Objective: # %.
+3514 : Objective: # %.
+3515 : Objective: # %.
+3516 : Objective: # %.
+3517 : Objective: # %.
+3518 : Objective: # %.
 3519 : Objective: # amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 3520 : Objective: # undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 3521 : Objective: # demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -3556,16 +3556,16 @@
 3558 : Weapon Skill: Any staff weapon skill, # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 3559 : Weapon Skill: Any marksmanship weapon skill, # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 3560 : Weapon Skill: Any archery weapon skill, # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-3561 : Objective: # ).
-3562 : Objective: # ).
-3563 : Objective: # ).
-3564 : Objective: # ).
-3565 : Objective: # ).
-3566 : Objective: # ).
-3567 : Objective: # ).
-3568 : Objective: # ).
-3569 : Objective: # ).
-3570 : Objective: # ).
+3561 : Objective: # %.
+3562 : Objective: # %.
+3563 : Objective: # %.
+3564 : Objective: # %.
+3565 : Objective: # %.
+3566 : Objective: # %.
+3567 : Objective: # %.
+3568 : Objective: # %.
+3569 : Objective: # %.
+3570 : Objective: # %.
 3571 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 3572 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 3573 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -3581,20 +3581,20 @@
 3583 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 3584 : Objective: Obtain # experience point[/s]. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 3585 : Weapon Skill: Any weapon skill, # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-3586 : Objective: # ).
-3587 : Objective: # ).
-3588 : Objective: # ).
-3589 : Objective: # ).
-3590 : Objective: # ).
-3591 : Objective: # ).
-3592 : Objective: # ).
-3593 : Objective: # ).
-3594 : Objective: # ).
-3595 : Objective: # ).
-3596 : Objective: # ).
-3597 : Objective: # ).
-3598 : Objective: # ).
-3599 : Objective: # ).
+3586 : Objective: # %.
+3587 : Objective: # %.
+3588 : Objective: # %.
+3589 : Objective: # %.
+3590 : Objective: # %.
+3591 : Objective: # %.
+3592 : Objective: # %.
+3593 : Objective: # %.
+3594 : Objective: # %.
+3595 : Objective: # %.
+3596 : Objective: # %.
+3597 : Objective: # %.
+3598 : Objective: # %.
+3599 : Objective: # %.
 3600 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3601 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
 3602 : Objective: # [monster/monsters] of any family. Equipment: Target item must be equipped.
@@ -4372,31 +4372,31 @@
 4374 : Objective: Skuld / Kills: #/#. Equipment: Target item must be equipped.
 4375 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 4376 : Objective: [Monster/Monsters] of the hippogryph family: #/#. Equipment: Target item must be equipped.
-4377 : Objective: # / # ).
+4377 : Objective: # / # %.
 4378 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 4379 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4380 : Objective: [Monster/Monsters] of the peiste family: #/#. Equipment: Target item must be equipped.
 4381 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 4382 : Objective: [Monster/Monsters] of the puk family: #/#. Equipment: Target item must be equipped.
-4383 : Objective: # / # ).
+4383 : Objective: # / # %.
 4384 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4385 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4386 : Objective: [Monster/Monsters] of the gnole family: #/#. Equipment: Target item must be equipped.
 4387 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 4388 : Objective: [Monster/Monsters] of the cluster bomb family: #/#. Equipment: Target item must be equipped.
-4389 : Objective: # / # ).
+4389 : Objective: # / # %.
 4390 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 4391 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 4392 : Objective: [Monster/Monsters] of the rafflesia family: #/#. Equipment: Target item must be equipped.
 4393 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 4394 : Objective: [Monster/Monsters] of the ladybug family: #/#. Equipment: Target item must be equipped.
-4395 : Objective: # / # ).
+4395 : Objective: # / # %.
 4396 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4397 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4398 : Objective: [Monster/Monsters] of the gnat family: #/#. Equipment: Target item must be equipped.
 4399 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 4400 : Objective: [Monster/Monsters] of the chigoe family: #/#. Equipment: Target item must be equipped.
-4401 : Objective: # / # ).
+4401 : Objective: # / # %.
 4402 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 4403 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4404 : Objective: [Monster/Monsters] of the slug family: #/#. Equipment: Target item must be equipped.
@@ -4650,7 +4650,7 @@
 4652 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 4653 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
 4654 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-4655 : Objective: # / # ). Area: Grauberg (S).
+4655 : Objective: # / # %. Area: Grauberg (S).
 4656 : Weapon Skill: Mercy Stroke, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 4657 : Objective: #/# vermin-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4658 : Weapon Skill: Mandalic Stab, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped.
@@ -4721,29 +4721,29 @@
 4723 : Objective: #/# beast-type creature[/s]. Weapon Skill: Namas Arrow Equipment: Target item must be equipped.
 4724 : Objective: Tammuz / Kills: #/#. Equipment: Target item must be equipped.
 4725 : Objective: Chesma / Kills: #/#. Equipment: Target item must be equipped.
-4726 : Objective: # / # ).
-4727 : Objective: # / # ).
-4728 : Objective: # / # ).
-4729 : Objective: # / # ).
-4730 : Objective: # / # ).
-4731 : Objective: # / # ).
-4732 : Objective: # / # ).
-4733 : Objective: # / # ).
-4734 : Objective: # / # ).
-4735 : Objective: # / # ).
-4736 : Objective: # / # ).
-4737 : Objective: # / # ).
-4738 : Objective: # / # ).
-4739 : Objective: # / # ).
-4740 : Objective: # / # ).
-4741 : Objective: # / # ).
-4742 : Objective: # / # ).
-4743 : Objective: # / # ).
-4744 : Objective: # / # ).
-4745 : Objective: # / # ).
-4746 : Objective: # / # ).
-4747 : Objective: # / # ).
-4748 : Objective: # / # ).
+4726 : Objective: # / # %.
+4727 : Objective: # / # %.
+4728 : Objective: # / # %.
+4729 : Objective: # / # %.
+4730 : Objective: # / # %.
+4731 : Objective: # / # %.
+4732 : Objective: # / # %.
+4733 : Objective: # / # %.
+4734 : Objective: # / # %.
+4735 : Objective: # / # %.
+4736 : Objective: # / # %.
+4737 : Objective: # / # %.
+4738 : Objective: # / # %.
+4739 : Objective: # / # %.
+4740 : Objective: # / # %.
+4741 : Objective: # / # %.
+4742 : Objective: # / # %.
+4743 : Objective: # / # %.
+4744 : Objective: # / # %.
+4745 : Objective: # / # %.
+4746 : Objective: # / # %.
+4747 : Objective: # / # %.
+4748 : Objective: # / # %.
 4749 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 4750 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 4751 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
@@ -4952,7 +4952,7 @@
 4954 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the opo-opo family. Equipment: Target item must be equipped.
 4955 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 4956 : Objective: Trigger the additional effect of the % / Times: #/#. Enemy: Monsters of the dhalmel family. Equipment: Target item must be equipped.
-4957 : Objective: # / # ). Area: Grauberg (S).
+4957 : Objective: # / # %. Area: Grauberg (S).
 4958 : Objective: #/# elemental-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 4959 : Objective: #/# plantoid-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
 4960 : Objective: #/# bird-type creature[/s]. Weapon Skill: Mercy Stroke Equipment: Target item must be equipped.
@@ -5092,92 +5092,92 @@
 5094 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Any beast-type creature. Equipment: Target item must be equipped.
 5095 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Any lizard-type creature. Equipment: Target item must be equipped.
 5096 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Any arcana-type creature. Equipment: Target item must be equipped.
-5097 : Objective: # / # ).
-5098 : Objective: # / # ).
-5099 : Objective: # / # ).
-5100 : Objective: # / # ).
-5101 : Objective: # / # ).
-5102 : Objective: # / # ).
-5103 : Objective: # / # ).
-5104 : Objective: # / # ).
-5105 : Objective: # / # ).
-5106 : Objective: # / # ).
-5107 : Objective: # / # ).
-5108 : Objective: # / # ).
-5109 : Objective: # / # ).
-5110 : Objective: # / # ).
-5111 : Objective: # / # ).
-5112 : Objective: # / # ).
-5113 : Objective: # / # ).
-5114 : Objective: # / # ).
-5115 : Objective: # / # ).
-5116 : Objective: # / # ).
-5117 : Objective: # / # ).
-5118 : Objective: # / # ).
-5119 : Objective: # / # ).
-5120 : Objective: # / # ).
-5121 : Objective: # / # ).
-5122 : Objective: # / # ).
-5123 : Objective: # / # ).
-5124 : Objective: # / # ).
-5125 : Objective: # / # ).
-5126 : Objective: # / # ).
-5127 : Objective: # / # ).
-5128 : Objective: # / # ).
-5129 : Objective: # / # ).
-5130 : Objective: # / # ).
-5131 : Objective: # / # ).
-5132 : Objective: # / # ).
-5133 : Objective: # / # ).
-5134 : Objective: # / # ).
-5135 : Objective: # / # ).
-5136 : Objective: # / # ).
-5137 : Objective: # / # ).
-5138 : Objective: # / # ).
-5139 : Objective: # / # ).
-5140 : Objective: # / # ).
-5141 : Objective: # / # ).
-5142 : Objective: # / # ).
-5143 : Objective: # / # ).
-5144 : Objective: # / # ).
-5145 : Objective: # / # ).
-5146 : Objective: # / # ).
-5147 : Objective: # / # ).
-5148 : Objective: # / # ).
-5149 : Objective: # / # ).
-5150 : Objective: # / # ).
-5151 : Objective: # / # ).
-5152 : Objective: # / # ).
-5153 : Objective: # / # ).
-5154 : Objective: # / # ).
-5155 : Objective: # / # ).
-5156 : Objective: # / # ).
-5157 : Objective: # / # ).
-5158 : Objective: # / # ).
-5159 : Objective: # / # ).
-5160 : Objective: # / # ).
-5161 : Objective: # / # ).
-5162 : Objective: # / # ).
-5163 : Objective: # / # ).
-5164 : Objective: # / # ).
-5165 : Objective: # / # ).
-5166 : Objective: # / # ).
-5167 : Objective: # / # ).
-5168 : Objective: # / # ).
-5169 : Objective: # / # ).
-5170 : Objective: # / # ).
-5171 : Objective: # / # ).
-5172 : Objective: # / # ).
-5173 : Objective: # / # ).
-5174 : Objective: # / # ).
-5175 : Objective: # / # ).
-5176 : Objective: # / # ).
+5097 : Objective: # / # %.
+5098 : Objective: # / # %.
+5099 : Objective: # / # %.
+5100 : Objective: # / # %.
+5101 : Objective: # / # %.
+5102 : Objective: # / # %.
+5103 : Objective: # / # %.
+5104 : Objective: # / # %.
+5105 : Objective: # / # %.
+5106 : Objective: # / # %.
+5107 : Objective: # / # %.
+5108 : Objective: # / # %.
+5109 : Objective: # / # %.
+5110 : Objective: # / # %.
+5111 : Objective: # / # %.
+5112 : Objective: # / # %.
+5113 : Objective: # / # %.
+5114 : Objective: # / # %.
+5115 : Objective: # / # %.
+5116 : Objective: # / # %.
+5117 : Objective: # / # %.
+5118 : Objective: # / # %.
+5119 : Objective: # / # %.
+5120 : Objective: # / # %.
+5121 : Objective: # / # %.
+5122 : Objective: # / # %.
+5123 : Objective: # / # %.
+5124 : Objective: # / # %.
+5125 : Objective: # / # %.
+5126 : Objective: # / # %.
+5127 : Objective: # / # %.
+5128 : Objective: # / # %.
+5129 : Objective: # / # %.
+5130 : Objective: # / # %.
+5131 : Objective: # / # %.
+5132 : Objective: # / # %.
+5133 : Objective: # / # %.
+5134 : Objective: # / # %.
+5135 : Objective: # / # %.
+5136 : Objective: # / # %.
+5137 : Objective: # / # %.
+5138 : Objective: # / # %.
+5139 : Objective: # / # %.
+5140 : Objective: # / # %.
+5141 : Objective: # / # %.
+5142 : Objective: # / # %.
+5143 : Objective: # / # %.
+5144 : Objective: # / # %.
+5145 : Objective: # / # %.
+5146 : Objective: # / # %.
+5147 : Objective: # / # %.
+5148 : Objective: # / # %.
+5149 : Objective: # / # %.
+5150 : Objective: # / # %.
+5151 : Objective: # / # %.
+5152 : Objective: # / # %.
+5153 : Objective: # / # %.
+5154 : Objective: # / # %.
+5155 : Objective: # / # %.
+5156 : Objective: # / # %.
+5157 : Objective: # / # %.
+5158 : Objective: # / # %.
+5159 : Objective: # / # %.
+5160 : Objective: # / # %.
+5161 : Objective: # / # %.
+5162 : Objective: # / # %.
+5163 : Objective: # / # %.
+5164 : Objective: # / # %.
+5165 : Objective: # / # %.
+5166 : Objective: # / # %.
+5167 : Objective: # / # %.
+5168 : Objective: # / # %.
+5169 : Objective: # / # %.
+5170 : Objective: # / # %.
+5171 : Objective: # / # %.
+5172 : Objective: # / # %.
+5173 : Objective: # / # %.
+5174 : Objective: # / # %.
+5175 : Objective: # / # %.
+5176 : Objective: # / # %.
 5177 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5178 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
 5179 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5180 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5181 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
-5182 : Objective: # / # ).
+5182 : Objective: # / # %.
 5183 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5184 : Objective: #/# lizard-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
 5185 : Objective: #/# bird-type creature[/s]. Weather/Day: [/////////]. Equipment: Target item must be equipped.
@@ -5313,76 +5313,76 @@
 5315 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the sheep family. Equipment: Target item must be equipped.
 5316 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the lizard family. Equipment: Target item must be equipped.
 5317 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the rabbit family. Equipment: Target item must be equipped.
-5318 : Objective: # / # ).
-5319 : Objective: # / # ).
-5320 : Objective: # / # ).
-5321 : Objective: # / # ).
-5322 : Objective: # / # ).
-5323 : Objective: # / # ).
-5324 : Objective: # / # ).
-5325 : Objective: # / # ).
-5326 : Objective: # / # ).
-5327 : Objective: # / # ).
-5328 : Objective: # / # ).
-5329 : Objective: # / # ).
-5330 : Objective: # / # ).
-5331 : Objective: # / # ).
-5332 : Objective: # / # ).
-5333 : Objective: # / # ).
-5334 : Objective: # / # ).
-5335 : Objective: # / # ).
-5336 : Objective: # / # ).
-5337 : Objective: # / # ).
-5338 : Objective: # / # ).
-5339 : Objective: # / # ).
-5340 : Objective: # / # ).
-5341 : Objective: # / # ).
-5342 : Objective: # / # ).
-5343 : Objective: # / # ).
-5344 : Objective: # / # ).
-5345 : Objective: # / # ).
-5346 : Objective: # / # ).
-5347 : Objective: # / # ).
-5348 : Objective: # / # ).
-5349 : Objective: # / # ).
-5350 : Objective: # / # ).
-5351 : Objective: # / # ).
-5352 : Objective: # / # ).
-5353 : Objective: # / # ).
-5354 : Objective: # / # ).
-5355 : Objective: # / # ).
-5356 : Objective: # / # ).
-5357 : Objective: # / # ).
-5358 : Objective: # / # ).
-5359 : Objective: # / # ).
-5360 : Objective: # / # ).
-5361 : Objective: # / # ).
-5362 : Objective: # / # ).
-5363 : Objective: # / # ).
-5364 : Objective: # / # ).
-5365 : Objective: # / # ).
-5366 : Objective: # / # ).
-5367 : Objective: # / # ).
-5368 : Objective: # / # ).
-5369 : Objective: # / # ).
-5370 : Objective: # / # ).
-5371 : Objective: # / # ).
-5372 : Objective: # / # ).
-5373 : Objective: # / # ).
+5318 : Objective: # / # %.
+5319 : Objective: # / # %.
+5320 : Objective: # / # %.
+5321 : Objective: # / # %.
+5322 : Objective: # / # %.
+5323 : Objective: # / # %.
+5324 : Objective: # / # %.
+5325 : Objective: # / # %.
+5326 : Objective: # / # %.
+5327 : Objective: # / # %.
+5328 : Objective: # / # %.
+5329 : Objective: # / # %.
+5330 : Objective: # / # %.
+5331 : Objective: # / # %.
+5332 : Objective: # / # %.
+5333 : Objective: # / # %.
+5334 : Objective: # / # %.
+5335 : Objective: # / # %.
+5336 : Objective: # / # %.
+5337 : Objective: # / # %.
+5338 : Objective: # / # %.
+5339 : Objective: # / # %.
+5340 : Objective: # / # %.
+5341 : Objective: # / # %.
+5342 : Objective: # / # %.
+5343 : Objective: # / # %.
+5344 : Objective: # / # %.
+5345 : Objective: # / # %.
+5346 : Objective: # / # %.
+5347 : Objective: # / # %.
+5348 : Objective: # / # %.
+5349 : Objective: # / # %.
+5350 : Objective: # / # %.
+5351 : Objective: # / # %.
+5352 : Objective: # / # %.
+5353 : Objective: # / # %.
+5354 : Objective: # / # %.
+5355 : Objective: # / # %.
+5356 : Objective: # / # %.
+5357 : Objective: # / # %.
+5358 : Objective: # / # %.
+5359 : Objective: # / # %.
+5360 : Objective: # / # %.
+5361 : Objective: # / # %.
+5362 : Objective: # / # %.
+5363 : Objective: # / # %.
+5364 : Objective: # / # %.
+5365 : Objective: # / # %.
+5366 : Objective: # / # %.
+5367 : Objective: # / # %.
+5368 : Objective: # / # %.
+5369 : Objective: # / # %.
+5370 : Objective: # / # %.
+5371 : Objective: # / # %.
+5372 : Objective: # / # %.
+5373 : Objective: # / # %.
 5374 : Objective: #/# lizard-type creature[/s]. Equipment: Target item must be equipped.
 5375 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
 5376 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5377 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped.
 5378 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
-5379 : Objective: # / # ).
-5380 : Objective: # / # ).
-5381 : Objective: # / # ).
-5382 : Objective: # / # ).
-5383 : Objective: # / # ).
-5384 : Objective: # / # ).
-5385 : Objective: # / # ).
-5386 : Objective: # / # ).
-5387 : Objective: # / # ).
+5379 : Objective: # / # %.
+5380 : Objective: # / # %.
+5381 : Objective: # / # %.
+5382 : Objective: # / # %.
+5383 : Objective: # / # %.
+5384 : Objective: # / # %.
+5385 : Objective: # / # %.
+5386 : Objective: # / # %.
+5387 : Objective: # / # %.
 5388 : Objective: Velosareon / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5389 : Objective: Dagourmarche / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
 5390 : Objective: Mildaunegeux / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine.
@@ -5437,48 +5437,48 @@
 5439 : Objective: Gu'Dha Effigy / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Bastok.
 5440 : Objective: Tzee Xicu Idol / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Windurst.
 5441 : Objective: Overlord's Tombstone / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria.
-5442 : Objective: # / # ).
-5443 : Objective: # / # ).
-5444 : Objective: # / # ).
-5445 : Objective: # / # ).
-5446 : Objective: # / # ).
-5447 : Objective: # / # ).
-5448 : Objective: # / # ).
-5449 : Objective: # / # ).
-5450 : Objective: # / # ).
-5451 : Objective: # / # ).
-5452 : Objective: # / # ).
-5453 : Objective: # / # ).
-5454 : Objective: # / # ).
-5455 : Objective: # / # ).
-5456 : Objective: # / # ).
-5457 : Objective: # / # ).
-5458 : Objective: # / # ).
-5459 : Objective: # / # ).
-5460 : Objective: # / # ).
-5461 : Objective: # / # ).
-5462 : Objective: # / # ).
-5463 : Objective: # / # ).
+5442 : Objective: # / # %.
+5443 : Objective: # / # %.
+5444 : Objective: # / # %.
+5445 : Objective: # / # %.
+5446 : Objective: # / # %.
+5447 : Objective: # / # %.
+5448 : Objective: # / # %.
+5449 : Objective: # / # %.
+5450 : Objective: # / # %.
+5451 : Objective: # / # %.
+5452 : Objective: # / # %.
+5453 : Objective: # / # %.
+5454 : Objective: # / # %.
+5455 : Objective: # / # %.
+5456 : Objective: # / # %.
+5457 : Objective: # / # %.
+5458 : Objective: # / # %.
+5459 : Objective: # / # %.
+5460 : Objective: # / # %.
+5461 : Objective: # / # %.
+5462 : Objective: # / # %.
+5463 : Objective: # / # %.
 5464 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5465 : Objective: #/# bird-type creature[/s]. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
 5466 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Monsters of any family. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5467 : Objective: # / # ).
-5468 : Objective: # / # ).
-5469 : Objective: # / # ).
+5467 : Objective: # / # %.
+5468 : Objective: # / # %.
+5469 : Objective: # / # %.
 5470 : Objective: #/# beast-type creature[/s]. Equipment: Target item must be equipped.
 5471 : Objective: #/# vermin-type creature[/s]. Equipment: Target item must be equipped.
 5472 : Objective: #/# aquan-type creature[/s]. Equipment: Target item must be equipped.
 5473 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5474 : Objective: #/# plantoid-type creature[/s]. Equipment: Target item must be equipped.
-5475 : Objective: # / # ).
-5476 : Objective: # / # ).
-5477 : Objective: # / # ).
-5478 : Objective: # / # ).
-5479 : Objective: # / # ).
-5480 : Objective: # / # ).
-5481 : Objective: # / # ).
-5482 : Objective: # / # ).
-5483 : Objective: # / # ).
+5475 : Objective: # / # %.
+5476 : Objective: # / # %.
+5477 : Objective: # / # %.
+5478 : Objective: # / # %.
+5479 : Objective: # / # %.
+5480 : Objective: # / # %.
+5481 : Objective: # / # %.
+5482 : Objective: # / # %.
+5483 : Objective: # / # %.
 5484 : Objective: Animated Knuckles / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5485 : Objective: Animated Dagger / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
 5486 : Objective: Animated Longsword / Kills: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard.
@@ -5542,26 +5542,26 @@
 5544 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the pugil family. Equipment: Target item must be equipped.
 5545 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the golem family. Equipment: Target item must be equipped.
 5546 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any vermin-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5547 : Objective: # / # ).
-5548 : Objective: # / # ).
-5549 : Objective: # / # ).
-5550 : Objective: # / # ).
+5547 : Objective: # / # %.
+5548 : Objective: # / # %.
+5549 : Objective: # / # %.
+5550 : Objective: # / # %.
 5551 : Objective: #/# amorph-type creature[/s]. Equipment: Target item must be equipped.
 5552 : Objective: #/# arcana-type creature[/s]. Equipment: Target item must be equipped.
 5553 : Objective: #/# dragon-type creature[/s]. Equipment: Target item must be equipped.
 5554 : Objective: #/# undead-type creature[/s]. Equipment: Target item must be equipped.
 5555 : Objective: #/# demon-type creature[/s]. Equipment: Target item must be equipped.
-5556 : Objective: # / # ).
-5557 : Objective: # / # ).
-5558 : Objective: # / # ).
-5559 : Objective: # / # ).
-5560 : Objective: # / # ).
-5561 : Objective: # / # ).
-5562 : Objective: # / # ).
-5563 : Objective: # / # ).
-5564 : Objective: # / # ).
-5565 : Objective: # / # ).
-5566 : Objective: # / # ).
+5556 : Objective: # / # %.
+5557 : Objective: # / # %.
+5558 : Objective: # / # %.
+5559 : Objective: # / # %.
+5560 : Objective: # / # %.
+5561 : Objective: # / # %.
+5562 : Objective: # / # %.
+5563 : Objective: # / # %.
+5564 : Objective: # / # %.
+5565 : Objective: # / # %.
+5566 : Objective: # / # %.
 5567 : Objective: #/# amorph-type creature[/s]. Weapon Skill: Any dagger weapon skill Equipment: Target item must be equipped.
 5568 : Objective: #/# undead-type creature[/s]. Weapon Skill: Any hand-to-hand weapon skill Equipment: Target item must be equipped.
 5569 : Objective: #/# demon-type creature[/s]. Weapon Skill: Any sword weapon skill Equipment: Target item must be equipped.
@@ -5604,16 +5604,16 @@
 5606 : Weapon Skill: Any staff weapon skill, # / # [time/times]. Enemy: Monsters of the bird family. Equipment: Target item must be equipped.
 5607 : Weapon Skill: Any marksmanship weapon skill, # / # [time/times]. Enemy: Monsters of the cockatrice family. Equipment: Target item must be equipped.
 5608 : Weapon Skill: Any archery weapon skill, # / # [time/times]. Enemy: Monsters of the bat family. Equipment: Target item must be equipped.
-5609 : Objective: # / # ).
-5610 : Objective: # / # ).
-5611 : Objective: # / # ).
-5612 : Objective: # / # ).
-5613 : Objective: # / # ).
-5614 : Objective: # / # ).
-5615 : Objective: # / # ).
-5616 : Objective: # / # ).
-5617 : Objective: # / # ).
-5618 : Objective: # / # ).
+5609 : Objective: # / # %.
+5610 : Objective: # / # %.
+5611 : Objective: # / # %.
+5612 : Objective: # / # %.
+5613 : Objective: # / # %.
+5614 : Objective: # / # %.
+5615 : Objective: # / # %.
+5616 : Objective: # / # %.
+5617 : Objective: # / # %.
+5618 : Objective: # / # %.
 5619 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Valkurm.
 5620 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Buburimu.
 5621 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - San d'Oria/Dynamis - Qufim.
@@ -5629,20 +5629,20 @@
 5631 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Beaucedine/Dynamis - Tavnazia.
 5632 : Objective: Obtain experience points: #/#. Equipment: Target item must be equipped. Area: Dynamis - Xarcabard/Dynamis - Tavnazia.
 5633 : Weapon Skill: Any weapon skill, # / # [time/times]. Enemy: Any undead-type creature. Equipment: Target item must be equipped. Enemies must yield experience to your fellow.
-5634 : Objective: # / # ).
-5635 : Objective: # / # ).
-5636 : Objective: # / # ).
-5637 : Objective: # / # ).
-5638 : Objective: # / # ).
-5639 : Objective: # / # ).
-5640 : Objective: # / # ).
-5641 : Objective: # / # ).
-5642 : Objective: # / # ).
-5643 : Objective: # / # ).
-5644 : Objective: # / # ).
-5645 : Objective: # / # ).
-5646 : Objective: # / # ).
-5647 : Objective: # / # ).
+5634 : Objective: # / # %.
+5635 : Objective: # / # %.
+5636 : Objective: # / # %.
+5637 : Objective: # / # %.
+5638 : Objective: # / # %.
+5639 : Objective: # / # %.
+5640 : Objective: # / # %.
+5641 : Objective: # / # %.
+5642 : Objective: # / # %.
+5643 : Objective: # / # %.
+5644 : Objective: # / # %.
+5645 : Objective: # / # %.
+5646 : Objective: # / # %.
+5647 : Objective: # / # %.
 5648 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5649 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
 5650 : Objective: [Monster/Monsters] of any family: #/#. Equipment: Target item must be equipped.
@@ -7044,589 +7044,589 @@
 7051 : You have been awarded the temporary item % as compensation.
 7052 : You already posses the temporary item % and cannot receive another one as compensation.
 7053 : Please claim your item before maintenance for the February 2022 version update begins.
-7054 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7055 : Word has been received of a Troll threat in Wajaom Woodlands.
-7056 : Word has been received of an undead threat in Bhaflau Thickets.
-7057 : Tallying conquest results...
-7058 : Conquest results tallied.
-7059 : This region is currently under San d'Orian control.
-7060 : This region is currently under Bastokan control.
-7061 : This region is currently under Windurstian control.
-7062 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7063 : This region is currently neutral.
-7064 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7065 : All three nations are tied for first place.
-7066 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7067 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7068 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7069 : All three nations are tied for first place.
-7070 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7072 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7073 : All three nations are tied for first place.
-7074 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7076 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7077 : All three nations are tied for first place.
-7078 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7079 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7080 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7081 : Global balance of power: All three nations are tied for first place.
-7082 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7084 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7085 : All three nations are tied for first place.
-7086 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7087 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7088 : Conquest update: This region is currently neutral.
-7089 : Conquest update: This region is currently under San d'Orian control.
-7090 : Conquest update: This region is currently under Bastokan control.
-7091 : Conquest update: This region is currently under Windurstian control.
-7092 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7093 : All three nations are at a deadlock.
-7094 : The beastmen are on the rise.
-7095 : Regional influence: San d'Oria - Dominant
-7096 : Regional influence: San d'Oria - Major
-7097 : Regional influence: San d'Oria - Minor
-7098 : Regional influence: San d'Oria - Minimal
-7099 : Bastok - Dominant
-7100 : Bastok - Major
-7101 : Bastok - Minor
-7102 : Bastok - Minimal
-7103 : Windurst - Dominant
-7104 : Windurst - Major
-7105 : Windurst - Minor
-7106 : Windurst - Minimal
-7107 : Bastok and Windurst have formed an alliance.
-7108 : San d'Oria and Windurst have formed an alliance.
-7109 : San d'Oria and Bastok have formed an alliance.
-7110 : Bastok and Windurst are currently allies.
-7111 : San d'Oria and Windurst are currently allies.
-7112 : San d'Oria and Bastok are currently allies.
-7113 : # #
-7114 : # % #
-7115 : ITEM_ID:# :#
-7116 : :# :#
-7117 : [//]:[////] :#:#
-7118 : The beastmen are gaining power.
-7119 : San d'Oria's regional control is now 10% closer to the first place country's!
-7120 : Bastok's regional control is now 10% closer to the first place country's!
-7121 : Windurst's regional control are now 10% closer to the first place country's!
-7122 : San d'Oria's region points have increased!
-7123 : Bastok's region points have increased!
-7124 : Windurst's region points have increased!
-7125 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7126 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7127 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7128 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7129 : A Bastokan Expeditionary Force has been dispatched to this area.
-7130 : A Windurstian Expeditionary Force has been dispatched to this area.
-7131 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7132 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7133 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7134 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7135 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7136 : There was a curse on the beastmen's banner!
-7137 : The curse of the beastmen's banner has been lifted!
-7138 : There is a beastmen's banner.
-7214 : # #
-7215 : # #
-7216 : You do not have visitant status.
-7217 : % obtained the key item: %!
-7218 : % obtained the temporary item: %!
-7219 : % already possesses % and could not obtain another.
-7220 : % attains level #!
-7221 : % earns a merit point! (Total: #)
-7222 : Visitant Light Intensity Pearlescent: # / Ebon: # Golden: # / Silvery: #
-7223 : Azure: # / Ruby: # / Amber: #
-7224 : %'s attack staggers the fiend!
-7225 : The fiend is unable to cast magic.
-7226 : The fiend is unable to use special attacks.
-7227 : The fiend is frozen in its tracks.
-7228 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental magic!
-7229 : The fiend appears vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship] weapon skills!
-7230 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental weapon skills!
-7231 : Your visitant status will wear off in # [second/minute].
-7232 : Your visitant status will wear off in # [seconds/minutes].
-7233 : Your visitant status has worn off.
-7234 : Your visitant status has been extended by # [minute/minutes].
-7235 : Exiting in # [minute/minutes].
-7236 : Those without visitant status will be ejected from the area in # [minute/minutes]. To learn about this status, please consult a Conflux Surveyor.
-7237 : Exiting in # [second/minute].
-7238 : Exiting in # [seconds/minutes].
-7239 : Exiting now.
-7240 : Returning to the Searing Ward in # [second/seconds].
-7241 : You do not have visitant status. Returning to the Searing Ward in # [second/seconds].
-7242 : Returning to the Searing Ward in # [second/seconds].
-7243 : Returning to the Searing Ward now.
-7244 : If you wish to journey within Abyssea, bring me % and I will grant you visitant status.
-7245 : What would you like to do? Nothing. Learn about visitant status. Request visitant status. Extend visitant status.
-7246 : All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with %.
-7247 : Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, % is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
-7248 : Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
-7249 : A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
-7250 : Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional noise.
-7251 : When requesting visitant status, please indicate the number of % you wish to process. A greater number will allow you a longer stay.
-7252 : It is also possible to extend your visitant status by bringing me more %.
-7253 : To obtain %, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
-7254 : Lastly, I will explain in detail the myriad effects granted by the visitant status.
-7255 : Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
-7256 : Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
-7257 : All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
-7258 : That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
-7259 : I see you have # [minute/minutes] of visitant status remaining from your previous visit.
-7260 : Use how many %? None for now. Set to remaining time: # min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min.
-7261 : The ancient abyssite in your possession will grant you an additional # [minute/minutes] of visitant status.
-7262 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
-7263 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
-7264 : Total time obtained for this stay: # min. Confirm. Cancel.
-7265 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
-7266 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
-7267 : % expended: 0. Your visitant status has been set to # [minute/minutes].
-7268 : You could not extend your visitant status.
-7269 : Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
-7270 : What will you do? (Cruor balance: #) Nothing. Learn about cruor. Exchange for items. Exchange for temporary items. Exchange for key items. Exchange for enhancement effects. Dispose of abyssite.
-7271 : Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
-7272 : Known by some as blood gold, these red granules are highly prized and see use as both energy source and construction material.
-7273 : It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
-7274 : Chief among them being ancient abyssite, a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
-7275 : Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
-7276 : The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
-7277 : I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
-7278 : Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
-7279 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7280 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7281 : Select key item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7282 : Select enhancement. (Cruor: #) Nothing for now. Reraise: #. Protect: #. Shell: #. Regen: #. Refresh: #. HP boost: #. MP boost: #. STR-DEX boost: #. VIT-AGI boost: #. INT-MND-CHR boost: #. All enhancements: #.
-7283 : Discard which one? None for now. %. %. %. %. %. %. %. %. %. %. %.
-7284 : Trade for %?
-7285 : Trade for %?
-7286 : Trade for %? Yes. No.
-7287 : Trade for %? Yes. No.
-7288 : Trade for %? Yes. No.
-7289 : [//////HP/MP/STRDEX/VITAGI/INTMNDCHR/] Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]? Yes. No.
-7290 : Discard the %? Yes. No.
-7291 : You obtain % in exchange for # cruor!
-7292 : You obtain the temporary item: % in exchange for # cruor!
-7293 : You obtain the key item: % in exchange for # cruor!
-7294 : You receive [/the effect of Reraise/the effect of Protect/the effect of Shell/the effect of Regen/the effect of Refresh/a HP boost/a MP boost/a STR-DEX boost/a VIT-AGI boost/an INT-MND-CHR boost/all available enhancements] in exchange for # cruor!
-7295 : Very well. I shall dispose of this % in your stead.
-7296 : You relinquish the %.
-7297 : You do not have enough cruor.
-7298 : It appears you already possess that temporary item.
-7299 : It appears you already possess that key item.
-7300 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
-7301 : This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
-7302 : This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
-7303 : This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
-7304 : This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
-7305 : This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
-7306 : This ancient abyssite resonates with the ground beneath you, allowing you to obtain more %.
-7307 : This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
-7308 : This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
-7309 : This is a map of Abyssea - La Theine. Don't leave home without it!
-7310 : This is a map of Abyssea - Konschtat. Don't leave home without it!
-7311 : This is a map of Abyssea - Tahrongi. Don't leave home without it!
-7312 : This is a map of Abyssea - Attohwa. Don't leave home without it!
-7313 : This is a map of Abyssea - Misareaux. Don't leave home without it!
-7314 : This is a map of Abyssea - Vunkerl. Don't leave home without it!
-7315 : Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
-7316 : Trade for how many? (Cruor balance: #) None for now. # (# cruor). # (# cruor). ## cruor). ## cruor). # (# cruor).
-7317 : Trade for # of the item? Yes. No.
-7318 : You receive # ) in exchange for # cruor.
-7319 : Well met, wayfarer. I am an Atma Infusionist, and from my title I trust you can glean my field of expertise. Those who possess % may come to me to have atma infused.
-7320 : How might I serve you? You may not. Tell me about atma. Infuse me with atma. Examine infused atma. Purge atma. Reinfuse previous atma set. Select from recent history.
-7321 : Atma is most accurately described as the crystalline agglomeration of an Abyssean creature's soul. Through painstaking research, we infusionists have discovered a way to imbue ordinary people such as yourself with its power.
-7322 : Infusion makes possible the augmentation of individuals, granting them powers particular to the creature from which the atma is sourced.
-7323 : The infusion process requires three objects: an atma, %, and cruor.
-7324 : % is a rare variety of ancient abyssite that can only be procured with great difficulty. And it won't please you to know that atma is rarer still.
-7325 : For only the most savage creatures, you see, are known to yield atma. And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.
-7326 : Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.
-7327 : Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.
-7328 : The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.
-7329 : For instance, there are monsters known to be weak against magic-based weapon skills. Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.
-7330 : All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change. Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.
-7331 : Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.
-7332 : But should fortune smile upon you and you find yourself in possession of atma, bring it here. I will see that it serves you well.
-7333 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7334 : # cruor is required to infuse the %.
-7335 : Have % infused? Confirm. Cancel.
-7336 : You do not have enough cruor.
-7337 : You have already been infused with that atma.
-7338 : You cannot be infused with more than # atma at any given time. Please have an existing atma purged if you wish to replace it with another.
-7339 : Examine which atma? None for now. %. %. %.
-7340 : Purge which atma? None for now. %. %. %. Purge all.
-7341 : Purge %? Yes. No.
-7342 : Purge all atma? Yes. No.
-7343 : % expends # cruor and is now infused with %!
-7344 : % has been purged of the %.
-7345 : % has been purged of all infused atma.
-7346 : You have not been cleared for atma infusion.
-7347 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
-7348 : Reinfuse the following atma? On second thought, no. %. %. %. Make it so.
-7349 : # cruor will be required to reinfuse your previous atma configuration.
-7350 : Proceed with the infusion? Yes. No.
-7351 : % expends # cruor and [his/her] previous atma configuration is restored!
-7352 : It would seem you've already been infused with that atma configuration. Perhaps you meant to ask me to infuse some new atma instead?
-7353 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. %. %.
-7354 : Infuse the following atma? Cancel. %. %. %. Select new atma. Proceed.
-7355 : Replace currently infused atma? Yes, replace. No, cancel.
-7356 : # cruor is required to infuse the selected atma.
-7357 : Have the selected atma infused? Confirm. Cancel.
-7358 : % expends # cruor and is now infused with [his/her] chosen atma set!
-7359 : Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
-7360 : Ask for something? No thanks. Synthetic atma? My memories? Show me the atma.
-7361 : As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
-7362 : The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
-7363 : After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
-7364 : We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
-7365 : Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
-7366 : If you possess such memories, then I can bring forth the latent power that resides within you as well.
-7367 : Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
-7368 : Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
-7369 : But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
-7370 : Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
-7371 : We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
-7372 : Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
-7373 : Very well. We shall see what latent powers you possess. Stand still and clear your mind...
-7374 : Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
-7375 : Yes, I see within you # [memory/memories] that I could process into atma. Which shall I extract?
-7376 : ...And yet, I see nothing tangible enough for me to process. I am sorry.
-7377 : Synthesize atma? (Cruor balance: #) None for now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7378 : Expend # cruor? Yes. No.
-7379 : Very well. Let us begin the extraction.
-7380 : Still your heart, and empty your mind...
-7381 : The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
-7382 : Behold, the physical manifestation of the innermost power of your soul!
-7383 : The monster was concealing a treasure chest!
-7384 : The treasure chest will disappear in # [second/seconds].
-7385 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
-7386 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %. Add to lottable spoils. Destroy treasure chest.
-7387 : Which key item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
-7388 : Obtain the %? Yes. No.
-7389 : Obtain the %? Yes. No.
-7390 : Obtain the %? Yes. No.
-7391 : Obtain this temporary item?
-7392 : Obtain this item?
-7393 : % obtains the temporary item: %!
-7394 : % obtains the item: %!
-7395 : % obtains the key item: %!
-7396 : % transferred the contents of the pyxis to the cache of lottable spoils.
-7397 : You already possess that temporary item.
-7398 : You already possess that key item.
-7399 : That temporary item had already disappeared.
-7400 : That key item had already disappeared.
-7401 : That item had already disappeared.
-7402 : The treasure chest had already disappeared.
-7403 : % obtained # cruor.
-7404 : % obtains several temporary items!
-7405 : %'s body emits [a faint/a mild/a strong] pearlescent light!
-7406 : %'s body emits [a faint/a mild/a strong] golden light!
-7407 : %'s body emits [a faint/a mild/a strong] silvery light!
-7408 : %'s body emits [a faint/a mild/a strong] ebon light!
-7409 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] azure light!
-7410 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] ruby light!
-7411 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] amber light!
-7412 : You cannot open that treasure chest.
-7413 : % has claim over that treasure chest.
-7414 : Your party does not have claim over that treasure chest.
-7415 : %'s time limit has been reduced by # [minute/minutes].
-7416 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
-7417 : The treasure chest has disappeared.
-7418 : What will you do? Attempt to unlock it. Examine lock. Peer between the crack. Leave it be. Destroy the chest.
-7419 : Examine which temporary item? None of them. %. %. %. %. %. %. %. %.
-7420 : Examine which item? None of them. %. %. %. %. %. %. %. %.
-7421 : Key item: %.
-7422 : Key item: %. Key item: %.
-7423 : Key item: %. Key item: %. Key item: %.
-7424 : Key item: %. Key item: %. Key item: %. Key item: %.
-7425 : [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
-7426 : The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
-7427 : [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
-7428 : The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
-7429 : The treasure chest appears to be laden with numerous temporary items.
-7430 : The treasure chest appears to contain a strangely familiar stone fragment.
-7431 : The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
-7432 : The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
-7433 : Temporary item confirmed.
-7434 : Item confirmed.
-7435 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
-7436 : Unlocking this treasure chest requires # correct [guess/guesses]. It will disappear after # failed [attempt/attempts]. Current progress: # correct [guess/guesses].
-7437 : Previous: # (Success: # / Failure: #) Do nothing. Twist number dial up. Twist number dial down.
-7438 : Your selection has been rendered void. Another party member has already made a selection.
-7439 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
-7440 : This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
-7441 : Unlocking this treasure chest requires you to adjust air pressure to fall within ##. The allotted number of attempts is #. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: #
-7442 : Pressure: # / Target: ## / Tries left: # Do nothing. Pull lever down one notch. Pull lever down two notches. Pull lever down three notches.  Push lever up one notch. Push lever up two notches. Push lever up three notches.
-7443 : % [reduced/increased] the air pressure by # units. Current air pressure: #[/ (minimum)/ (maximum)]
-7444 : Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
-7445 : You have a hunch that the lock's combination is between ##. The allotted number of attempts is #.
-7446 : Attempts remaining: # Do nothing. Input combination.
-7447 : Please input a two-digit combination between ##.
-7448 : % inputs the number #[, but nothing happens./, successfully unlocking the chest!]
-7449 : You have a hunch that the lock's combination is [greater/less] than #.
-7450 : You have a hunch that the [second/first] digit is [even/odd].
-7451 : You have a hunch that the [second/first] digit is #.
-7452 : You have a hunch that the [second/first] digit is #, #, or #.
-7453 : You have a hunch that one of the digits is #.
-7454 : You have a hunch that the sum of the two digits is #.
-7455 : % succeeded in opening the lock!
-7456 : % failed to open the lock.
-7457 : % uses % and opens the lock!
-7458 : What will you do? (Cruor balance: #) Nothing. Activate Conflux #0# (#). Do not use. Warp to Conflux #01: #. Warp to Conflux #02: #. Warp to Conflux #03: #. Warp to Conflux #04: #. Warp to Conflux #05: #. Warp to Conflux #06: #. Warp to Conflux #07: #. Warp to Conflux #08: #. Warp to Conflux #00: #.
-7459 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
-7460 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? Yes. No.
-7461 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
-7462 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? Yes. No.
-7463 : You used # cruor.
-7464 : You do not have enough cruor.
-7465 : Veridical Conflux #0[1/2/3/4/5/6/7/8/0] has been activated for %!
-7466 : What will you do? (Energy level: #) Nothing for now. Recover HP: #. Recover MP: #. Recover from status ailments: #. Prepare to replenish martello. Prepare to upgrade martello. Replenish from the [east/southeast/south/southwest/west/northwest/north/northeast]. Upgrade from the [east/southeast/south/southwest/west/northwest/north/northeast]. Cease replenishing this martello. Cease upgrading this martello. Cease replenishing other martello. Cease upgrading other martello.
-7467 : [Recover HP/Recover MP/Recover from status ailments]? Yes. No.
-7468 : The martello does not have enough energy.
-7469 : Recovery was unnecessary.
-7470 : Prepare to [replenish/upgrade] this martello? Yes. No.
-7471 : This martello does not need to be [replenished/upgraded].
-7472 : To [replenish/upgrade] the martello, please examine it from the [east/southeast/south/southwest/west/northwest/north/northeast]. Please be aware that your positioning directly impacts the efficiency of the process. You can [replenish/upgrade] only one martello at any given time. To commence work on another, you must either wait for the process to be completed, or cancel it.
-7473 : [Replenish/Upgrade] from this direction? Yes. No.
-7474 : The martello's [energy/energy capacity] has [recovered/increased] by #! The [replenishment/upgrading] effort was [successful./a great success./a tremendous success!/an unparalleled success!]
-7475 : Please note that martello recast time is # [minute/minutes].
-7476 : You must wait another # [minute/minutes] to use the martello.
-7477 : You cannot use the martello at this time.
-7478 : Cease [replenishing/upgrading] this martello? Yes. No.
-7479 : You have canceled [replenishing/upgrading] [this/the other] martello.
-7480 : You sense an aura of boundless rage...
-7481 : Your keen senses tell you that something may happen if only you had [this item/these items].
-7482 : %...
-7483 : %...
-7484 : Use the [key item/key items]? Yes. No.
-7485 : "Triple Attack"+: Major Physical damage taken -: Minor Lightning elemental attack +: Major
-7486 : STR+: Major Attack+: Superior Ranged Attack+: Major
-7487 : Defense+: Major "Magic Def. Bonus"+: Minor Enhances "Resist Charm" effect: Minor
-7488 : MP+: Superior MND+: Major Enmity-: Major
-7489 : Enmity critical hit rate -: Minor Enhances "Resist Slow" effect: Major Enhances "Resist Curse" effect: Major
-7490 : Magic Accuracy+: Major Physical damage taken -: Minor Enhances "Resist Paralysis" Effect: Major
-7491 : Attack+: Major "Magic Atk. Bonus": Major
-7492 : HP+: Superior Enh. "Resist Sleep" effect: Superior
-7493 : Damage taken -: Minor Enhances "Resist Silence" effect: Major
-7494 : AGI+: Major "Double Attack"+: Major
-7495 : STR+: Superior "Double Attack"+: Major "Regain": Major
-7496 : Accuracy+: Major Evasion+: Major Enh. resistance against "Death": Minor
-7497 : Wind elemental accuracy +: Major Lightning elemental accuracy +: Major "Refresh": Minor
-7498 : "Subtle Blow"+: Major Water damage attack +: Major Enhances "Resist Poison" effect: Major
-7499 : Defense+: Major "Magic Def. Bonus": Minor "Regen": Major
-7500 : "Magic Atk. Bonus": Major Ice elemental attack +: Major Light elemental attack +: Major
-7501 : VIT+: Major Breath damage taken -: Major
-7502 : Wind elemental attack +: Major Wind elemental accuracy +: Major
-7503 : CHR+: Major Critical hit rate +: Minor
-7504 : Ranged Attack+: Major Ranged Accuracy+: Major
-7505 : Attack+: Major Defense+: Major "Regen": Major
-7506 : STR+: Major "Double Attack"+: Major Enhances "Resist Sleep" effect: Major
-7507 : Enh. "Drain" and "Aspir" effects: Major "Store TP"+: Minor Enhances "Resist Slow" effect: Major
-7508 : Darkness elemental attack +: Major Enhances "Resist Amnesia" effect: Major Enhances "Resist Silence" effect: Major
-7509 : Attack+: Major Evasion+: Major Enh. "Resist Paralysis" effect: Major
-7510 : "Double Attack"+: Major Enhances "Resist Bind" effect: Major Enhances "Resist Blind" effect: Major
-7511 : VIT+: Minor Defense+: Major
-7512 : Enhances "Resist Slow" effect: Major Enhances "Resist Blind" effect: Major
-7513 : Earth elemental attack +: Major Earth elemental accuracy +: Major
-7514 : STR+: Minor Darkness elemental accuracy +: Major
-7515 : INT+: Major "Conserve TP"+: Minor Fire elemental accuracy +: Major
-7516 : MND+: Minor Earth elemental accuracy +: Major Occasionally annuls magic damage taken
-7517 : MND+: Superior "Conserve MP"+: Minor Ice elemental attack +: Minor
-7518 : HP+: Superior Magic Accuracy+: Major Magic critical damage +: Major
-7519 : Attack+: Minor Magic critical hit rate +: Major Fire elemental attack +: Major
-7520 : STR+: Minor TP Bonus+: Minor Occasionally annuls physical damage
-7521 : Skillchain Bonus+: Minor STR+: Minor
-7522 : MND+: Minor Water elemental accuracy +: Minor
-7523 : "Fast Cast"+: Minor Spell interruption rate down: Minor
-7524 : "Store TP"+: Minor "Waltz" potency+: Minor
-7525 : AGI+: Superior Critical hit rate +: Major "Counter"+: Minor
-7526 : STR+: Minor VIT+: Minor AGI+: Major
-7527 : "Subtle Blow"+: Minor "Store TP"+: Minor Song spellcasting time -: Major
-7528 : VIT+: Superior "Regen": Superior Enmity decrease when taking damage -: Minor
-7529 : DEX+: Superior Critical hit rate +: Superior Critical hit damage +: Major
-7530 : "Regain": Minor <LTG>+: Minor <WTR>+: Minor
-7531 : "Triple Attack"+: Minor Breath damage taken -: Major
-7532 : Haste+: Minor Enhances effects of rice balls
-7533 : VIT+: Minor DEX+: Minor
-7534 : CHR+: Minor "Triple Attack"+: Minor
-7535 : HP+: Major Critical hit damage +: Major Enmity+: Minor
-7536 : "Fast Cast"+: Minor Water elemental attack +: Minor Water elemental accuracy +: Minor
-7537 : INT+: Superior "Refresh": Major Enmity-: Minor
-7538 : "Regain": Minor "Conserve TP"+: Minor TP Bonus+: Minor
-7539 : "Conserve MP"+: Minor Lightning elemental attack +: Major Magic damage taken -: Minor
-7540 : Attack+: Major "Double Attack"+: Major Occasionally absorbs magic damage
-7541 : Evasion+: Minor <WND>+: Major
-7542 : AGI+: Minor <FIR>+: Major
-7543 : <DKN>+: Major "Resist Stun"+: Major
-7544 : Haste+: Minor Enhances monster correlation effects
-7545 : Magic Accuracy+: Superior "Fast Cast"+: Superior (Same elemental magic as weather) Enmity-: Superior
-7546 : "Magic Atk. Bonus": Minor "Magic Def. Bonus": Minor <FIR>+: Superior
-7547 : <ERT>+: Superior Damage taken -: Minor Gain full benefit of Earthsday/earth weather bonuses
-7548 : <WND>+: Superior Haste+: Major Enhances "Snapshot" effect: Minor
-7549 : "Store TP"+: Major Critical hit rate +: Minor Enhances "Resist Bind" effect: Superior
-7550 : HP+: Major MP+: Major DEX+: Minor
-7551 : STR+: Minor Fire-based weapon skill damage+: Major Gain full benefit of Firesday/fire weather bonuses
-7552 : TP Bonus+: Superior (2H weapon equipped) WS accuracy+: Superior
-7553 : Attack+: Minor Fire elemental attack +: Major
-7554 : Haste+: Minor Enmity-: Minor
-7555 : Elemental magic skill+: Major Gain full benefit of Windsday/wind weather bonuses
-7556 : Attack+: Minor Enh. "Resist Paralysis" effect: Superior
-7557 : Accuracy+: Major Evasion+: Major
-7558 : DEX+: Superior Haste+: Superior Enmity+: Minor
-7559 : DEX+: Minor <LTG>+: Superior Gain full benefit of Lightningday/lightning weather bonuses
-7560 : INT+: Minor <ICE>+: Superior Gain full benefit of Iceday/ice weather bonuses
-7561 : "Regen": Minor "Store TP"+: Major "Double Attack"+: Minor
-7562 : Defense+: Superior "Magic Def. Bonus": Minor "Conserve TP"+: Major
-7563 : <LIT>+: Superior Light elemental attack +: Major Gain full benefit of Lightsday/light weather bonuses
-7564 : MND+: Minor <WTR>+Superior Gain full benefit of Watersday/water weather bonuses
-7565 : Accuracy+: Minor (2H weapon equipped) WS damage +: Minor
-7566 : VIT+: Major INT+: Major
-7567 : Song recast delay -: Superior Enhances "Dia" effect
-7568 : "Store TP"+: Major Occasionally increases TP gained when taking damage
-7569 : "Subtle Blow"+: Minor Enmity+: Major
-7570 : "Store TP"+: Major "Conserve TP"+: Major
-7571 : CHR+: Superior Occasionally absorbs magic damage "Save TP": Major
-7572 : "Triple Attack"+: Minor Breath damage taken -: Major Enhances "Zanshin" effect: Minor
-7573 : Enh. resistance against "Death": Major (HP above 25%) Damage taken-: Major (HP above 25%) "Slip damage": Superior
-7574 : "Regain": Superior "Slow"+: Superior (Daytime) "Regen": Superior
-7575 : (Depending on day) Magic Accuracy+: Major (Depending on day) Enhances elemental magic (Depending on day) Elemental WS damage+: Minor
-7576 : MP+: Minor (Daytime) "Refresh": Superior "Addle"+: Superior
-7577 : MND+: Minor <DRK>+: Superior Gain full benefit of Darksday/dark weather bonuses
-7578 : Attack+: Minor (2H weapon equipped) "Regain"+: Major
-7579 : Attack+: Minor "Double Attack"+: Major
-7580 : Accuracy+: Superior Enhances "Resist Petrify" effect: Superior
-7581 : Occasionally absorbs physical damage Occasionally absorbs magic damage taken
-7582 : INT+: Major MND+: Major
-7583 : AGI+: Minor Ranged Attack+: Major
-7584 : "Triple Attack"+: Superior Quick Magic Auto-reraise
-7585 : MP+: Minor "Regain": Minor Light elemental accuracy +: Minor
-7586 : STR+: Minor Critical hit damage +: Minor "Regen": Minor
-7587 : INT+: Minor Magic attack +: Minor "Refresh": Minor
-7588 : MND+: Minor Enhances magic burst effect +: Minor Depending on day: enhances elemental magic
-7589 : MP+: Minor Darkness elemental attack +: Minor Darkness elemental accuracy +: Minor
-7590 : STR+: Minor Magic damage taken -: Minor Light elemental attack +: Minor
-7591 : Haste+: Minor "Fast Cast"+: Minor "Magic Def. Bonus": Superior
-7592 : "Store TP"+: Minor Cure spellcasting time -: Minor Song recast delay -: Superior
-7593 : DEX+: Minor <DKN>+: Minor Weapon skill accuracy +: Minor
-7594 : MP+: Major Magic critical hit rate +: Major "Blood Pact" ability delay -: Minor
-7595 : VIT+: Minor (Depending on day:) Magic Accuracy+ / Elemental WS damage +: Minor
-7596 : Magic Evasion+: Minor "Treasure Hunter"+: Minor Increases "Samba" duration: Minor
-7597 : "Refresh": Minor "Fast Cast"+: Minor Movement speed +: Major
-7598 : Attack+: Minor VIT+: Minor Enh. "Beast Killer" effect: Minor
-7599 : AGI+: Major INT+: Major Magic Accuracy+: Major
-7600 : "Magic Atk. Bonus": Superior Enh. "Zanshin" effect: Superior Enh. "Demon Killer" effect: Major
-7601 : "Subtle Blow"+: Superior Enmity-: Superior Occasionally absorbs physical damage
-7602 : "Magic Atk. Bonus": Minor Enhances "Dragon Killer" effect: Minor (Wyvern) HP+: Superior
-7603 : Breath damage taken -: Major Enh. "Lizard Killer" effect: Minor "Regen": Major
-7604 : HP-: Major Attack+: Superior "Triple Attack"+: Major
-7605 : MP-: Superior "Magic Atk. Bonus": Superior Magic Accuracy+: Superior
-7606 : "Double Attack"+: Minor "Triple Attack"+: Minor Enh. "Arcana Killer" effect: Minor
-7607 : AGI+: Minor Evasion+: Minor Critical hit rate +: Major
-7608 : HP+: Minor MP+: Minor Damage taken -: Minor
-7609 : "Regen": Minor "Refresh": Minor "Regain": Minor
-7610 : "Magic Def. Bonus"+: Minor "Fast Cast"+: Major "Cure" potency+: Minor
-7611 : Haste+: Major Increases duration of "Absorb" spells Magic Evasion+: Minor
-7612 : STR+: Minor MND+: Minor Enh. resistance against "Death": Superior
-7613 : VIT+: Minor Enhances "Dual Wield" effect (2H weapon equipped) Attack+: Major
-7614 : HP+: Major MP+: Major "Save TP": Major
-7615 : (HP below 25%) "Regen": Major (HP below 25%) "Refresh": Superior Resistance to status ailments+: Minor
-7616 : "Resist Stun"+: Major Enhances all attributes+: Minor Movement speed +: Major
-7617 : HP-: Minor MP+: Major "Magic Atk. Bonus": Minor
-7618 : Great Sword skill+: Major Scythe skill+: Major (2H weapon equipped) WS damage+: Major
-7619 : "Magic Atk. Bonus": Minor Magic critical damage +: Major "Conserve MP"+: Superior
-7620 : CHR+: Minor Accuracy+: Major Magic Accuracy+: Major
-7621 : HP+: Minor Accuracy+: Minor Increases cruor yield.
-7622 : (HP below 25%) VIT+: Superior (HP below 25%) AGI+: Superior (HP below 25%) "Regain": Major
-7623 : "Double Attack"+: Major (HP above 50%) "Slow"+: Superior (HP below 50%) "Haste"+: Superior
-7624 : STR+: Major Evasion-: Major Counter+: Major
-7625 : HP+: Superior STR+: Major Damage taken +: Major
-7626 : (Guard) Damage taken -: Major (HP below 50%) Damage taken -: Superior (HP below 50%) Movement speed -: Superior
-7627 : "Cure" potency+: Minor Enhancing magic skill+: Major "Waltz" potency+: Minor
-7628 : MP+: Minor (HP below 50%) "Refresh": Major (HP below 50%) "Fast Cast"+: Superior
-7629 : Enhances all attributes+: Superior Resistance to status ailments+: Superior Occasionally absorbs damage taken
-7630 : In The Wyrm God, temporary items cannot be used and all effects will be removed.
-7631 : Atma will be deactivated in The Wyrm God.
-7632 : Time debug: Time limit: # [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
-7633 : Time debug: Do what? Nuttin'. Increase time limit. Reduce time limit. Switch OFF "Search flag switched ON flag." Forced exit flag OFF. Receive one %.
-7634 : Time debug: Increase by how much? Return. +0 minute. +1 minute. +2 minutes. +3 minutes. +5 minutes. +10 minutes. +15 minutes. +30 minutes. +45 minutes. +60 minutes. +75 minutes. +90 minutes. +120 minutes.
-7635 : Time debug: Reduce by how much?  -0 minute. -1 minute. -2 minutes. -3 minutes. -5 minutes. -10 minutes. -15 minutes. -30 minutes. -45 minutes. -60 minutes. -75 minutes. -90 minutes. -120 minutes.
-7636 : Time debug: Your time limit has been set to # minute(s).
-7637 : Time debug: Your time limit has been [increased by/reduced by] # minute(s). New time limit is # [sec/min].
-7638 : Time debug: Search flag is now [OFF/ON].
-7639 : Time debug: "Search flag ON flag" is now [OFF/ON].
-7640 : Time debug: Forced exit flag is now [OFF/ON].
-7641 : Time debug: You got %!
-7642 : FB Debug: [No error/Lack of info error/Monster number error/Spawn rate incorrect/Casket type incorrect/Casket rank incorrect/Casket empty/Search flag error].
-7643 : FB Debug: Spawn rate #/#
-7644 : FB Debug: Recovery obtainment = # / Probability fluctuation =# / Item = #.
-7645 : FB Debug: Recovery obtainment value = # / Probability fluctuation value = # / Item value = #.
-7646 : FB Debug: Casket type probability # / # Casket type fixed = #.
-7647 : FB Debug: Casket rank bonus value = # Casket rank fixed = #.
-7648 : defpc processing debug: XP obtainment bonus value = #.
-7649 : defpc processing debug: Cruor obtainment bonus = #.
-7650 : defpc processing debug: NMs defeated = #.
-7651 : defpc processing debug: FB spawn rate bonus value = #.
-7652 : defpc processing debug: FB recovery obtainment-type rank & spawn rate bonus value = #.
-7653 : defpc processing debug: FB probability fluctuation-type rank & spawn rate bonus value = #.
-7654 : defpc processing debug: FB Item-type rank & spawn value bonus value = #.
-7655 : AP Debug: Do what? Nuttin'. AP: Adjust elapsed time. AP: Adjust number of quests cleared for all PCs. AP: Adjust amount of XP obtained for all PCs. AP: Adjust amount of cruor for all PCs. AP: Adjust number of NMs defeated for all PCs. AP: Adjust number of HNMs defeated for all PCs. AP: Adjust pollution levels for this area. AP: Adjust number of defenses for this area. OT: Acquire info pertaining to "Order Trophy."
-7656 : Elapsed time: #P (1P = # min)
-7657 : XP: #P (1P = # QUEST)
-7658 : XP: #P (1P = # XP)
-7659 : Cruor: #P (1P = # cruor)
-7660 : NMs defeated: #P (1P = # NM)
-7661 : HNMs defeated: #P (1P = # HNM)
-7662 : Pollution level: # P
-7663 : Number of defenses: # P
-7664 : Change value? No thanks. Increase. Decrease.
-7665 : All clear to receive the effect of "Flee"?  Oh Goddess, no!   Bring it on!
-7666 : Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with # minute(s) of "Flee."
-7667 : OT Debug: Do what? Nothing for now. OT: Obtainment bonus. OT: Fortune rate. OT: Externimation record.
-7668 : Obtained bonus work. XP added: #. Cruor added: #. NMs defeated: #.
-7669 : Fortune rate work. Spawn rate added value: # Blue casket spawn rate: # Red casket spawn rate: # Gold casket spawn rate: #
-7670 : Extermination record work. Previous monster defeated: #. No. of same ID defeated: #. No. of diff. ID defeated: #.
-7671 : Nothing happens...
-7672 : You can feel the warm, moist breath of the maw on your skin.
-7673 : An unseen force is drawing you towards the maw.
-7674 : A portal has opened within the depths of the maw.
-7675 : Raise your %? Yes. No.
-7676 : You fit the % into the hollow.
-7677 : There is a hollow here in the shape of %.
-7678 : The lycopodium is entranced by a sparkling light...
-7679 : Your memory is engraved with an image of your surroundings and the fragrance of flowers...
-7680 : The ground is sparkling with a strange light.
-7681 : The sparkling light seems vaguely familiar to you...
-7682 : You sense that a certain trigger may awaken the memories slumbering in your mind.
-7683 : The fragrance of the flower sends your senses reeling back to the world of the past...
-7684 : The relevant battle data has been recorded in your %.
-7685 : An unseen force is drawing you towards the maw.
-7686 : Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? Proceed. Not yet.
-7687 : Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? Proceed. Not yet.
-7688 : You do not possess %...
-7689 : Your body cannot cope with further strain. You must rest for another # [minute/minutes].
-7690 : To where will you head? [The past/The present]. Walk of Echoes. Nowhere for now.
-7691 : There is nothing out of the ordinary here.
-7692 : You can hear a strange voice... Items, items, la la la la la
-7693 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7694 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7695 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7696 : Now, listen close...
-7697 : Oh... Well, if that's the case, I'm outta here.
-7698 : The Goblin slipped away when you were not looking...
-7699 : You can hear a strange, raspy voice...
-7700 : I travel......hear lots... Hear...stories... Can tell...if...
-7701 : .........listen......
-7702 : Oh...... ...outta here.........
-7703 : Enter the battlefield? Enter. Decline.
-7704 : Leave the battlefield? Run away. Stay.
-7705 : You cannot enter the battlefield at present. Please wait a little longer.
-7706 : You cannot enter the battlefield at present. Please wait a little longer.
-7707 : You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
-7708 : Your time in the battlefield is up! Now exiting...
-7709 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7710 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7711 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7054 : You have been rewarded % as compensation.
+7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+7056 : Please claim your item before maintenance for the October 2022 version update begins.
+7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7058 : Word has been received of a Troll threat in Wajaom Woodlands.
+7059 : Word has been received of an undead threat in Bhaflau Thickets.
+7060 : Tallying conquest results...
+7061 : Conquest results tallied.
+7062 : This region is currently under San d'Orian control.
+7063 : This region is currently under Bastokan control.
+7064 : This region is currently under Windurstian control.
+7065 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7066 : This region is currently neutral.
+7067 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7068 : All three nations are tied for first place.
+7069 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7070 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7072 : All three nations are tied for first place.
+7073 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7074 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7075 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7076 : All three nations are tied for first place.
+7077 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7078 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7079 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7080 : All three nations are tied for first place.
+7081 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7082 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7083 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7084 : Global balance of power: All three nations are tied for first place.
+7085 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7086 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7087 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7088 : All three nations are tied for first place.
+7089 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7090 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7091 : Conquest update: This region is currently neutral.
+7092 : Conquest update: This region is currently under San d'Orian control.
+7093 : Conquest update: This region is currently under Bastokan control.
+7094 : Conquest update: This region is currently under Windurstian control.
+7095 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7096 : All three nations are at a deadlock.
+7097 : The beastmen are on the rise.
+7098 : Regional influence: San d'Oria - Dominant
+7099 : Regional influence: San d'Oria - Major
+7100 : Regional influence: San d'Oria - Minor
+7101 : Regional influence: San d'Oria - Minimal
+7102 : Bastok - Dominant
+7103 : Bastok - Major
+7104 : Bastok - Minor
+7105 : Bastok - Minimal
+7106 : Windurst - Dominant
+7107 : Windurst - Major
+7108 : Windurst - Minor
+7109 : Windurst - Minimal
+7110 : Bastok and Windurst have formed an alliance.
+7111 : San d'Oria and Windurst have formed an alliance.
+7112 : San d'Oria and Bastok have formed an alliance.
+7113 : Bastok and Windurst are currently allies.
+7114 : San d'Oria and Windurst are currently allies.
+7115 : San d'Oria and Bastok are currently allies.
+7116 : # #
+7117 : # % #
+7118 : ITEM_ID:# :#
+7119 : :# :#
+7120 : [//]:[////] :#:#
+7121 : The beastmen are gaining power.
+7122 : San d'Oria's regional control is now 10% closer to the first place country's!
+7123 : Bastok's regional control is now 10% closer to the first place country's!
+7124 : Windurst's regional control are now 10% closer to the first place country's!
+7125 : San d'Oria's region points have increased!
+7126 : Bastok's region points have increased!
+7127 : Windurst's region points have increased!
+7128 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7129 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7130 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7131 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7132 : A Bastokan Expeditionary Force has been dispatched to this area.
+7133 : A Windurstian Expeditionary Force has been dispatched to this area.
+7134 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7135 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7136 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7137 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7138 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7139 : There was a curse on the beastmen's banner!
+7140 : The curse of the beastmen's banner has been lifted!
+7141 : There is a beastmen's banner.
+7217 : # #
+7218 : # #
+7219 : You do not have visitant status.
+7220 : % obtained the key item: %!
+7221 : % obtained the temporary item: %!
+7222 : % already possesses % and could not obtain another.
+7223 : % attains level #!
+7224 : % earns a merit point! (Total: #)
+7225 : Visitant Light Intensity Pearlescent: # / Ebon: # Golden: # / Silvery: #
+7226 : Azure: # / Ruby: # / Amber: #
+7227 : %'s attack staggers the fiend!
+7228 : The fiend is unable to cast magic.
+7229 : The fiend is unable to use special attacks.
+7230 : The fiend is frozen in its tracks.
+7231 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental magic!
+7232 : The fiend appears vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship] weapon skills!
+7233 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental weapon skills!
+7234 : Your visitant status will wear off in # [second/minute].
+7235 : Your visitant status will wear off in # [seconds/minutes].
+7236 : Your visitant status has worn off.
+7237 : Your visitant status has been extended by # [minute/minutes].
+7238 : Exiting in # [minute/minutes].
+7239 : Those without visitant status will be ejected from the area in # [minute/minutes]. To learn about this status, please consult a Conflux Surveyor.
+7240 : Exiting in # [second/minute].
+7241 : Exiting in # [seconds/minutes].
+7242 : Exiting now.
+7243 : Returning to the Searing Ward in # [second/seconds].
+7244 : You do not have visitant status. Returning to the Searing Ward in # [second/seconds].
+7245 : Returning to the Searing Ward in # [second/seconds].
+7246 : Returning to the Searing Ward now.
+7247 : If you wish to journey within Abyssea, bring me % and I will grant you visitant status.
+7248 : What would you like to do? Nothing. Learn about visitant status. Request visitant status. Extend visitant status.
+7249 : All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with %.
+7250 : Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, % is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
+7251 : Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
+7252 : A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
+7253 : Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional noise.
+7254 : When requesting visitant status, please indicate the number of % you wish to process. A greater number will allow you a longer stay.
+7255 : It is also possible to extend your visitant status by bringing me more %.
+7256 : To obtain %, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
+7257 : Lastly, I will explain in detail the myriad effects granted by the visitant status.
+7258 : Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
+7259 : Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
+7260 : All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
+7261 : That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
+7262 : I see you have # [minute/minutes] of visitant status remaining from your previous visit.
+7263 : Use how many %? None for now. Set to remaining time: # min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min.
+7264 : The ancient abyssite in your possession will grant you an additional # [minute/minutes] of visitant status.
+7265 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
+7266 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
+7267 : Total time obtained for this stay: # min. Confirm. Cancel.
+7268 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
+7269 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
+7270 : % expended: 0. Your visitant status has been set to # [minute/minutes].
+7271 : You could not extend your visitant status.
+7272 : Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
+7273 : What will you do? (Cruor balance: #) Nothing. Learn about cruor. Exchange for items. Exchange for temporary items. Exchange for key items. Exchange for enhancement effects. Dispose of abyssite.
+7274 : Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
+7275 : Known by some as blood gold, these red granules are highly prized and see use as both energy source and construction material.
+7276 : It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
+7277 : Chief among them being ancient abyssite, a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
+7278 : Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
+7279 : The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
+7280 : I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
+7281 : Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
+7282 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7283 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7284 : Select key item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7285 : Select enhancement. (Cruor: #) Nothing for now. Reraise: #. Protect: #. Shell: #. Regen: #. Refresh: #. HP boost: #. MP boost: #. STR-DEX boost: #. VIT-AGI boost: #. INT-MND-CHR boost: #. All enhancements: #.
+7286 : Discard which one? None for now. %. %. %. %. %. %. %. %. %. %. %.
+7287 : Trade for %?
+7288 : Trade for %?
+7289 : Trade for %? Yes. No.
+7290 : Trade for %? Yes. No.
+7291 : Trade for %? Yes. No.
+7292 : [//////HP/MP/STRDEX/VITAGI/INTMNDCHR/] Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]? Yes. No.
+7293 : Discard the %? Yes. No.
+7294 : You obtain % in exchange for # cruor!
+7295 : You obtain the temporary item: % in exchange for # cruor!
+7296 : You obtain the key item: % in exchange for # cruor!
+7297 : You receive [/the effect of Reraise/the effect of Protect/the effect of Shell/the effect of Regen/the effect of Refresh/a HP boost/a MP boost/a STR-DEX boost/a VIT-AGI boost/an INT-MND-CHR boost/all available enhancements] in exchange for # cruor!
+7298 : Very well. I shall dispose of this % in your stead.
+7299 : You relinquish the %.
+7300 : You do not have enough cruor.
+7301 : It appears you already possess that temporary item.
+7302 : It appears you already possess that key item.
+7303 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
+7304 : This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
+7305 : This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
+7306 : This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
+7307 : This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
+7308 : This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
+7309 : This ancient abyssite resonates with the ground beneath you, allowing you to obtain more %.
+7310 : This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
+7311 : This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
+7312 : This is a map of Abyssea - La Theine. Don't leave home without it!
+7313 : This is a map of Abyssea - Konschtat. Don't leave home without it!
+7314 : This is a map of Abyssea - Tahrongi. Don't leave home without it!
+7315 : This is a map of Abyssea - Attohwa. Don't leave home without it!
+7316 : This is a map of Abyssea - Misareaux. Don't leave home without it!
+7317 : This is a map of Abyssea - Vunkerl. Don't leave home without it!
+7318 : Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
+7319 : Trade for how many? (Cruor balance: #) None for now. # (# cruor). # (# cruor). ## cruor). ## cruor). # (# cruor).
+7320 : Trade for # of the item? Yes. No.
+7321 : You receive # ) in exchange for # cruor.
+7322 : Well met, wayfarer. I am an Atma Infusionist, and from my title I trust you can glean my field of expertise. Those who possess % may come to me to have atma infused.
+7323 : How might I serve you? You may not. Tell me about atma. Infuse me with atma. Examine infused atma. Purge atma. Reinfuse previous atma set. Select from recent history.
+7324 : Atma is most accurately described as the crystalline agglomeration of an Abyssean creature's soul. Through painstaking research, we infusionists have discovered a way to imbue ordinary people such as yourself with its power.
+7325 : Infusion makes possible the augmentation of individuals, granting them powers particular to the creature from which the atma is sourced.
+7326 : The infusion process requires three objects: an atma, %, and cruor.
+7327 : % is a rare variety of ancient abyssite that can only be procured with great difficulty. And it won't please you to know that atma is rarer still.
+7328 : For only the most savage creatures, you see, are known to yield atma. And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.
+7329 : Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.
+7330 : Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.
+7331 : The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.
+7332 : For instance, there are monsters known to be weak against magic-based weapon skills. Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.
+7333 : All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change. Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.
+7334 : Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.
+7335 : But should fortune smile upon you and you find yourself in possession of atma, bring it here. I will see that it serves you well.
+7336 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7337 : # cruor is required to infuse the %.
+7338 : Have % infused? Confirm. Cancel.
+7339 : You do not have enough cruor.
+7340 : You have already been infused with that atma.
+7341 : You cannot be infused with more than # atma at any given time. Please have an existing atma purged if you wish to replace it with another.
+7342 : Examine which atma? None for now. %. %. %.
+7343 : Purge which atma? None for now. %. %. %. Purge all.
+7344 : Purge %? Yes. No.
+7345 : Purge all atma? Yes. No.
+7346 : % expends # cruor and is now infused with %!
+7347 : % has been purged of the %.
+7348 : % has been purged of all infused atma.
+7349 : You have not been cleared for atma infusion.
+7350 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
+7351 : Reinfuse the following atma? On second thought, no. %. %. %. Make it so.
+7352 : # cruor will be required to reinfuse your previous atma configuration.
+7353 : Proceed with the infusion? Yes. No.
+7354 : % expends # cruor and [his/her] previous atma configuration is restored!
+7355 : It would seem you've already been infused with that atma configuration. Perhaps you meant to ask me to infuse some new atma instead?
+7356 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. %. %.
+7357 : Infuse the following atma? Cancel. %. %. %. Select new atma. Proceed.
+7358 : Replace currently infused atma? Yes, replace. No, cancel.
+7359 : # cruor is required to infuse the selected atma.
+7360 : Have the selected atma infused? Confirm. Cancel.
+7361 : % expends # cruor and is now infused with [his/her] chosen atma set!
+7362 : Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
+7363 : Ask for something? No thanks. Synthetic atma? My memories? Show me the atma.
+7364 : As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
+7365 : The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
+7366 : After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
+7367 : We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
+7368 : Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
+7369 : If you possess such memories, then I can bring forth the latent power that resides within you as well.
+7370 : Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
+7371 : Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
+7372 : But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
+7373 : Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
+7374 : We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
+7375 : Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
+7376 : Very well. We shall see what latent powers you possess. Stand still and clear your mind...
+7377 : Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
+7378 : Yes, I see within you # [memory/memories] that I could process into atma. Which shall I extract?
+7379 : ...And yet, I see nothing tangible enough for me to process. I am sorry.
+7380 : Synthesize atma? (Cruor balance: #) None for now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7381 : Expend # cruor? Yes. No.
+7382 : Very well. Let us begin the extraction.
+7383 : Still your heart, and empty your mind...
+7384 : The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
+7385 : Behold, the physical manifestation of the innermost power of your soul!
+7386 : The monster was concealing a treasure chest!
+7387 : The treasure chest will disappear in # [second/seconds].
+7388 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
+7389 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %. Add to lottable spoils. Destroy treasure chest.
+7390 : Which key item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
+7391 : Obtain the %? Yes. No.
+7392 : Obtain the %? Yes. No.
+7393 : Obtain the %? Yes. No.
+7394 : Obtain this temporary item?
+7395 : Obtain this item?
+7396 : % obtains the temporary item: %!
+7397 : % obtains the item: %!
+7398 : % obtains the key item: %!
+7399 : % transferred the contents of the pyxis to the cache of lottable spoils.
+7400 : You already possess that temporary item.
+7401 : You already possess that key item.
+7402 : That temporary item had already disappeared.
+7403 : That key item had already disappeared.
+7404 : That item had already disappeared.
+7405 : The treasure chest had already disappeared.
+7406 : % obtained # cruor.
+7407 : % obtains several temporary items!
+7408 : %'s body emits [a faint/a mild/a strong] pearlescent light!
+7409 : %'s body emits [a faint/a mild/a strong] golden light!
+7410 : %'s body emits [a faint/a mild/a strong] silvery light!
+7411 : %'s body emits [a faint/a mild/a strong] ebon light!
+7412 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] azure light!
+7413 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] ruby light!
+7414 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] amber light!
+7415 : You cannot open that treasure chest.
+7416 : % has claim over that treasure chest.
+7417 : Your party does not have claim over that treasure chest.
+7418 : %'s time limit has been reduced by # [minute/minutes].
+7419 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
+7420 : The treasure chest has disappeared.
+7421 : What will you do? Attempt to unlock it. Examine lock. Peer between the crack. Leave it be. Destroy the chest.
+7422 : Examine which temporary item? None of them. %. %. %. %. %. %. %. %.
+7423 : Examine which item? None of them. %. %. %. %. %. %. %. %.
+7424 : Key item: %.
+7425 : Key item: %. Key item: %.
+7426 : Key item: %. Key item: %. Key item: %.
+7427 : Key item: %. Key item: %. Key item: %. Key item: %.
+7428 : [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
+7429 : The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
+7430 : [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
+7431 : The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
+7432 : The treasure chest appears to be laden with numerous temporary items.
+7433 : The treasure chest appears to contain a strangely familiar stone fragment.
+7434 : The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
+7435 : The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
+7436 : Temporary item confirmed.
+7437 : Item confirmed.
+7438 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
+7439 : Unlocking this treasure chest requires # correct [guess/guesses]. It will disappear after # failed [attempt/attempts]. Current progress: # correct [guess/guesses].
+7440 : Previous: # (Success: # / Failure: #) Do nothing. Twist number dial up. Twist number dial down.
+7441 : Your selection has been rendered void. Another party member has already made a selection.
+7442 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
+7443 : This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
+7444 : Unlocking this treasure chest requires you to adjust air pressure to fall within ##. The allotted number of attempts is #. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: #
+7445 : Pressure: # / Target: ## / Tries left: # Do nothing. Pull lever down one notch. Pull lever down two notches. Pull lever down three notches.  Push lever up one notch. Push lever up two notches. Push lever up three notches.
+7446 : % [reduced/increased] the air pressure by # units. Current air pressure: #[/ (minimum)/ (maximum)]
+7447 : Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
+7448 : You have a hunch that the lock's combination is between ##. The allotted number of attempts is #.
+7449 : Attempts remaining: # Do nothing. Input combination.
+7450 : Please input a two-digit combination between ##.
+7451 : % inputs the number #[, but nothing happens./, successfully unlocking the chest!]
+7452 : You have a hunch that the lock's combination is [greater/less] than #.
+7453 : You have a hunch that the [second/first] digit is [even/odd].
+7454 : You have a hunch that the [second/first] digit is #.
+7455 : You have a hunch that the [second/first] digit is #, #, or #.
+7456 : You have a hunch that one of the digits is #.
+7457 : You have a hunch that the sum of the two digits is #.
+7458 : % succeeded in opening the lock!
+7459 : % failed to open the lock.
+7460 : % uses % and opens the lock!
+7461 : What will you do? (Cruor balance: #) Nothing. Activate Conflux #0# (#). Do not use. Warp to Conflux #01: #. Warp to Conflux #02: #. Warp to Conflux #03: #. Warp to Conflux #04: #. Warp to Conflux #05: #. Warp to Conflux #06: #. Warp to Conflux #07: #. Warp to Conflux #08: #. Warp to Conflux #00: #.
+7462 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
+7463 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? Yes. No.
+7464 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
+7465 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? Yes. No.
+7466 : You used # cruor.
+7467 : You do not have enough cruor.
+7468 : Veridical Conflux #0[1/2/3/4/5/6/7/8/0] has been activated for %!
+7469 : What will you do? (Energy level: #) Nothing for now. Recover HP: #. Recover MP: #. Recover from status ailments: #. Prepare to replenish martello. Prepare to upgrade martello. Replenish from the [east/southeast/south/southwest/west/northwest/north/northeast]. Upgrade from the [east/southeast/south/southwest/west/northwest/north/northeast]. Cease replenishing this martello. Cease upgrading this martello. Cease replenishing other martello. Cease upgrading other martello.
+7470 : [Recover HP/Recover MP/Recover from status ailments]? Yes. No.
+7471 : The martello does not have enough energy.
+7472 : Recovery was unnecessary.
+7473 : Prepare to [replenish/upgrade] this martello? Yes. No.
+7474 : This martello does not need to be [replenished/upgraded].
+7475 : To [replenish/upgrade] the martello, please examine it from the [east/southeast/south/southwest/west/northwest/north/northeast]. Please be aware that your positioning directly impacts the efficiency of the process. You can [replenish/upgrade] only one martello at any given time. To commence work on another, you must either wait for the process to be completed, or cancel it.
+7476 : [Replenish/Upgrade] from this direction? Yes. No.
+7477 : The martello's [energy/energy capacity] has [recovered/increased] by #! The [replenishment/upgrading] effort was [successful./a great success./a tremendous success!/an unparalleled success!]
+7478 : Please note that martello recast time is # [minute/minutes].
+7479 : You must wait another # [minute/minutes] to use the martello.
+7480 : You cannot use the martello at this time.
+7481 : Cease [replenishing/upgrading] this martello? Yes. No.
+7482 : You have canceled [replenishing/upgrading] [this/the other] martello.
+7483 : You sense an aura of boundless rage...
+7484 : Your keen senses tell you that something may happen if only you had [this item/these items].
+7485 : %...
+7486 : %...
+7487 : Use the [key item/key items]? Yes. No.
+7488 : "Triple Attack"+: Major Physical damage taken -: Minor Lightning elemental attack +: Major
+7489 : STR+: Major Attack+: Superior Ranged Attack+: Major
+7490 : Defense+: Major "Magic Def. Bonus"+: Minor Enhances "Resist Charm" effect: Minor
+7491 : MP+: Superior MND+: Major Enmity-: Major
+7492 : Enmity critical hit rate -: Minor Enhances "Resist Slow" effect: Major Enhances "Resist Curse" effect: Major
+7493 : Magic Accuracy+: Major Physical damage taken -: Minor Enhances "Resist Paralysis" Effect: Major
+7494 : Attack+: Major "Magic Atk. Bonus": Major
+7495 : HP+: Superior Enh. "Resist Sleep" effect: Superior
+7496 : Damage taken -: Minor Enhances "Resist Silence" effect: Major
+7497 : AGI+: Major "Double Attack"+: Major
+7498 : STR+: Superior "Double Attack"+: Major "Regain": Major
+7499 : Accuracy+: Major Evasion+: Major Enh. resistance against "Death": Minor
+7500 : Wind elemental accuracy +: Major Lightning elemental accuracy +: Major "Refresh": Minor
+7501 : "Subtle Blow"+: Major Water damage attack +: Major Enhances "Resist Poison" effect: Major
+7502 : Defense+: Major "Magic Def. Bonus": Minor "Regen": Major
+7503 : "Magic Atk. Bonus": Major Ice elemental attack +: Major Light elemental attack +: Major
+7504 : VIT+: Major Breath damage taken -: Major
+7505 : Wind elemental attack +: Major Wind elemental accuracy +: Major
+7506 : CHR+: Major Critical hit rate +: Minor
+7507 : Ranged Attack+: Major Ranged Accuracy+: Major
+7508 : Attack+: Major Defense+: Major "Regen": Major
+7509 : STR+: Major "Double Attack"+: Major Enhances "Resist Sleep" effect: Major
+7510 : Enh. "Drain" and "Aspir" effects: Major "Store TP"+: Minor Enhances "Resist Slow" effect: Major
+7511 : Darkness elemental attack +: Major Enhances "Resist Amnesia" effect: Major Enhances "Resist Silence" effect: Major
+7512 : Attack+: Major Evasion+: Major Enh. "Resist Paralysis" effect: Major
+7513 : "Double Attack"+: Major Enhances "Resist Bind" effect: Major Enhances "Resist Blind" effect: Major
+7514 : VIT+: Minor Defense+: Major
+7515 : Enhances "Resist Slow" effect: Major Enhances "Resist Blind" effect: Major
+7516 : Earth elemental attack +: Major Earth elemental accuracy +: Major
+7517 : STR+: Minor Darkness elemental accuracy +: Major
+7518 : INT+: Major "Conserve TP"+: Minor Fire elemental accuracy +: Major
+7519 : MND+: Minor Earth elemental accuracy +: Major Occasionally annuls magic damage taken
+7520 : MND+: Superior "Conserve MP"+: Minor Ice elemental attack +: Minor
+7521 : HP+: Superior Magic Accuracy+: Major Magic critical damage +: Major
+7522 : Attack+: Minor Magic critical hit rate +: Major Fire elemental attack +: Major
+7523 : STR+: Minor TP Bonus+: Minor Occasionally annuls physical damage
+7524 : Skillchain Bonus+: Minor STR+: Minor
+7525 : MND+: Minor Water elemental accuracy +: Minor
+7526 : "Fast Cast"+: Minor Spell interruption rate down: Minor
+7527 : "Store TP"+: Minor "Waltz" potency+: Minor
+7528 : AGI+: Superior Critical hit rate +: Major "Counter"+: Minor
+7529 : STR+: Minor VIT+: Minor AGI+: Major
+7530 : "Subtle Blow"+: Minor "Store TP"+: Minor Song spellcasting time -: Major
+7531 : VIT+: Superior "Regen": Superior Enmity decrease when taking damage -: Minor
+7532 : DEX+: Superior Critical hit rate +: Superior Critical hit damage +: Major
+7533 : "Regain": Minor <LTG>+: Minor <WTR>+: Minor
+7534 : "Triple Attack"+: Minor Breath damage taken -: Major
+7535 : Haste+: Minor Enhances effects of rice balls
+7536 : VIT+: Minor DEX+: Minor
+7537 : CHR+: Minor "Triple Attack"+: Minor
+7538 : HP+: Major Critical hit damage +: Major Enmity+: Minor
+7539 : "Fast Cast"+: Minor Water elemental attack +: Minor Water elemental accuracy +: Minor
+7540 : INT+: Superior "Refresh": Major Enmity-: Minor
+7541 : "Regain": Minor "Conserve TP"+: Minor TP Bonus+: Minor
+7542 : "Conserve MP"+: Minor Lightning elemental attack +: Major Magic damage taken -: Minor
+7543 : Attack+: Major "Double Attack"+: Major Occasionally absorbs magic damage
+7544 : Evasion+: Minor <WND>+: Major
+7545 : AGI+: Minor <FIR>+: Major
+7546 : <DKN>+: Major "Resist Stun"+: Major
+7547 : Haste+: Minor Enhances monster correlation effects
+7548 : Magic Accuracy+: Superior "Fast Cast"+: Superior (Same elemental magic as weather) Enmity-: Superior
+7549 : "Magic Atk. Bonus": Minor "Magic Def. Bonus": Minor <FIR>+: Superior
+7550 : <ERT>+: Superior Damage taken -: Minor Gain full benefit of Earthsday/earth weather bonuses
+7551 : <WND>+: Superior Haste+: Major Enhances "Snapshot" effect: Minor
+7552 : "Store TP"+: Major Critical hit rate +: Minor Enhances "Resist Bind" effect: Superior
+7553 : HP+: Major MP+: Major DEX+: Minor
+7554 : STR+: Minor Fire-based weapon skill damage+: Major Gain full benefit of Firesday/fire weather bonuses
+7555 : TP Bonus+: Superior (2H weapon equipped) WS accuracy+: Superior
+7556 : Attack+: Minor Fire elemental attack +: Major
+7557 : Haste+: Minor Enmity-: Minor
+7558 : Elemental magic skill+: Major Gain full benefit of Windsday/wind weather bonuses
+7559 : Attack+: Minor Enh. "Resist Paralysis" effect: Superior
+7560 : Accuracy+: Major Evasion+: Major
+7561 : DEX+: Superior Haste+: Superior Enmity+: Minor
+7562 : DEX+: Minor <LTG>+: Superior Gain full benefit of Lightningday/lightning weather bonuses
+7563 : INT+: Minor <ICE>+: Superior Gain full benefit of Iceday/ice weather bonuses
+7564 : "Regen": Minor "Store TP"+: Major "Double Attack"+: Minor
+7565 : Defense+: Superior "Magic Def. Bonus": Minor "Conserve TP"+: Major
+7566 : <LIT>+: Superior Light elemental attack +: Major Gain full benefit of Lightsday/light weather bonuses
+7567 : MND+: Minor <WTR>+Superior Gain full benefit of Watersday/water weather bonuses
+7568 : Accuracy+: Minor (2H weapon equipped) WS damage +: Minor
+7569 : VIT+: Major INT+: Major
+7570 : Song recast delay -: Superior Enhances "Dia" effect
+7571 : "Store TP"+: Major Occasionally increases TP gained when taking damage
+7572 : "Subtle Blow"+: Minor Enmity+: Major
+7573 : "Store TP"+: Major "Conserve TP"+: Major
+7574 : CHR+: Superior Occasionally absorbs magic damage "Save TP": Major
+7575 : "Triple Attack"+: Minor Breath damage taken -: Major Enhances "Zanshin" effect: Minor
+7576 : Enh. resistance against "Death": Major (HP above 25%) Damage taken-: Major (HP above 25%) "Slip damage": Superior
+7577 : "Regain": Superior "Slow"+: Superior (Daytime) "Regen": Superior
+7578 : (Depending on day) Magic Accuracy+: Major (Depending on day) Enhances elemental magic (Depending on day) Elemental WS damage+: Minor
+7579 : MP+: Minor (Daytime) "Refresh": Superior "Addle"+: Superior
+7580 : MND+: Minor <DRK>+: Superior Gain full benefit of Darksday/dark weather bonuses
+7581 : Attack+: Minor (2H weapon equipped) "Regain"+: Major
+7582 : Attack+: Minor "Double Attack"+: Major
+7583 : Accuracy+: Superior Enhances "Resist Petrify" effect: Superior
+7584 : Occasionally absorbs physical damage Occasionally absorbs magic damage taken
+7585 : INT+: Major MND+: Major
+7586 : AGI+: Minor Ranged Attack+: Major
+7587 : "Triple Attack"+: Superior Quick Magic Auto-reraise
+7588 : MP+: Minor "Regain": Minor Light elemental accuracy +: Minor
+7589 : STR+: Minor Critical hit damage +: Minor "Regen": Minor
+7590 : INT+: Minor Magic attack +: Minor "Refresh": Minor
+7591 : MND+: Minor Enhances magic burst effect +: Minor Depending on day: enhances elemental magic
+7592 : MP+: Minor Darkness elemental attack +: Minor Darkness elemental accuracy +: Minor
+7593 : STR+: Minor Magic damage taken -: Minor Light elemental attack +: Minor
+7594 : Haste+: Minor "Fast Cast"+: Minor "Magic Def. Bonus": Superior
+7595 : "Store TP"+: Minor Cure spellcasting time -: Minor Song recast delay -: Superior
+7596 : DEX+: Minor <DKN>+: Minor Weapon skill accuracy +: Minor
+7597 : MP+: Major Magic critical hit rate +: Major "Blood Pact" ability delay -: Minor
+7598 : VIT+: Minor (Depending on day:) Magic Accuracy+ / Elemental WS damage +: Minor
+7599 : Magic Evasion+: Minor "Treasure Hunter"+: Minor Increases "Samba" duration: Minor
+7600 : "Refresh": Minor "Fast Cast"+: Minor Movement speed +: Major
+7601 : Attack+: Minor VIT+: Minor Enh. "Beast Killer" effect: Minor
+7602 : AGI+: Major INT+: Major Magic Accuracy+: Major
+7603 : "Magic Atk. Bonus": Superior Enh. "Zanshin" effect: Superior Enh. "Demon Killer" effect: Major
+7604 : "Subtle Blow"+: Superior Enmity-: Superior Occasionally absorbs physical damage
+7605 : "Magic Atk. Bonus": Minor Enhances "Dragon Killer" effect: Minor (Wyvern) HP+: Superior
+7606 : Breath damage taken -: Major Enh. "Lizard Killer" effect: Minor "Regen": Major
+7607 : HP-: Major Attack+: Superior "Triple Attack"+: Major
+7608 : MP-: Superior "Magic Atk. Bonus": Superior Magic Accuracy+: Superior
+7609 : "Double Attack"+: Minor "Triple Attack"+: Minor Enh. "Arcana Killer" effect: Minor
+7610 : AGI+: Minor Evasion+: Minor Critical hit rate +: Major
+7611 : HP+: Minor MP+: Minor Damage taken -: Minor
+7612 : "Regen": Minor "Refresh": Minor "Regain": Minor
+7613 : "Magic Def. Bonus"+: Minor "Fast Cast"+: Major "Cure" potency+: Minor
+7614 : Haste+: Major Increases duration of "Absorb" spells Magic Evasion+: Minor
+7615 : STR+: Minor MND+: Minor Enh. resistance against "Death": Superior
+7616 : VIT+: Minor Enhances "Dual Wield" effect (2H weapon equipped) Attack+: Major
+7617 : HP+: Major MP+: Major "Save TP": Major
+7618 : (HP below 25%) "Regen": Major (HP below 25%) "Refresh": Superior Resistance to status ailments+: Minor
+7619 : "Resist Stun"+: Major Enhances all attributes+: Minor Movement speed +: Major
+7620 : HP-: Minor MP+: Major "Magic Atk. Bonus": Minor
+7621 : Great Sword skill+: Major Scythe skill+: Major (2H weapon equipped) WS damage+: Major
+7622 : "Magic Atk. Bonus": Minor Magic critical damage +: Major "Conserve MP"+: Superior
+7623 : CHR+: Minor Accuracy+: Major Magic Accuracy+: Major
+7624 : HP+: Minor Accuracy+: Minor Increases cruor yield.
+7625 : (HP below 25%) VIT+: Superior (HP below 25%) AGI+: Superior (HP below 25%) "Regain": Major
+7626 : "Double Attack"+: Major (HP above 50%) "Slow"+: Superior (HP below 50%) "Haste"+: Superior
+7627 : STR+: Major Evasion-: Major Counter+: Major
+7628 : HP+: Superior STR+: Major Damage taken +: Major
+7629 : (Guard) Damage taken -: Major (HP below 50%) Damage taken -: Superior (HP below 50%) Movement speed -: Superior
+7630 : "Cure" potency+: Minor Enhancing magic skill+: Major "Waltz" potency+: Minor
+7631 : MP+: Minor (HP below 50%) "Refresh": Major (HP below 50%) "Fast Cast"+: Superior
+7632 : Enhances all attributes+: Superior Resistance to status ailments+: Superior Occasionally absorbs damage taken
+7633 : In The Wyrm God, temporary items cannot be used and all effects will be removed.
+7634 : Atma will be deactivated in The Wyrm God.
+7635 : Time debug: Time limit: # [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
+7636 : Time debug: Do what? Nuttin'. Increase time limit. Reduce time limit. Switch OFF "Search flag switched ON flag." Forced exit flag OFF. Receive one %.
+7637 : Time debug: Increase by how much? Return. +0 minute. +1 minute. +2 minutes. +3 minutes. +5 minutes. +10 minutes. +15 minutes. +30 minutes. +45 minutes. +60 minutes. +75 minutes. +90 minutes. +120 minutes.
+7638 : Time debug: Reduce by how much?  -0 minute. -1 minute. -2 minutes. -3 minutes. -5 minutes. -10 minutes. -15 minutes. -30 minutes. -45 minutes. -60 minutes. -75 minutes. -90 minutes. -120 minutes.
+7639 : Time debug: Your time limit has been set to # minute(s).
+7640 : Time debug: Your time limit has been [increased by/reduced by] # minute(s). New time limit is # [sec/min].
+7641 : Time debug: Search flag is now [OFF/ON].
+7642 : Time debug: "Search flag ON flag" is now [OFF/ON].
+7643 : Time debug: Forced exit flag is now [OFF/ON].
+7644 : Time debug: You got %!
+7645 : FB Debug: [No error/Lack of info error/Monster number error/Spawn rate incorrect/Casket type incorrect/Casket rank incorrect/Casket empty/Search flag error].
+7646 : FB Debug: Spawn rate #/#
+7647 : FB Debug: Recovery obtainment = # / Probability fluctuation =# / Item = #.
+7648 : FB Debug: Recovery obtainment value = # / Probability fluctuation value = # / Item value = #.
+7649 : FB Debug: Casket type probability # / # Casket type fixed = #.
+7650 : FB Debug: Casket rank bonus value = # Casket rank fixed = #.
+7651 : defpc processing debug: XP obtainment bonus value = #.
+7652 : defpc processing debug: Cruor obtainment bonus = #.
+7653 : defpc processing debug: NMs defeated = #.
+7654 : defpc processing debug: FB spawn rate bonus value = #.
+7655 : defpc processing debug: FB recovery obtainment-type rank & spawn rate bonus value = #.
+7656 : defpc processing debug: FB probability fluctuation-type rank & spawn rate bonus value = #.
+7657 : defpc processing debug: FB Item-type rank & spawn value bonus value = #.
+7658 : AP Debug: Do what? Nuttin'. AP: Adjust elapsed time. AP: Adjust number of quests cleared for all PCs. AP: Adjust amount of XP obtained for all PCs. AP: Adjust amount of cruor for all PCs. AP: Adjust number of NMs defeated for all PCs. AP: Adjust number of HNMs defeated for all PCs. AP: Adjust pollution levels for this area. AP: Adjust number of defenses for this area. OT: Acquire info pertaining to "Order Trophy."
+7659 : Elapsed time: #P (1P = # min)
+7660 : XP: #P (1P = # QUEST)
+7661 : XP: #P (1P = # XP)
+7662 : Cruor: #P (1P = # cruor)
+7663 : NMs defeated: #P (1P = # NM)
+7664 : HNMs defeated: #P (1P = # HNM)
+7665 : Pollution level: # P
+7666 : Number of defenses: # P
+7667 : Change value? No thanks. Increase. Decrease.
+7668 : All clear to receive the effect of "Flee"?  Oh Goddess, no!   Bring it on!
+7669 : Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with # minute(s) of "Flee."
+7670 : OT Debug: Do what? Nothing for now. OT: Obtainment bonus. OT: Fortune rate. OT: Externimation record.
+7671 : Obtained bonus work. XP added: #. Cruor added: #. NMs defeated: #.
+7672 : Fortune rate work. Spawn rate added value: # Blue casket spawn rate: # Red casket spawn rate: # Gold casket spawn rate: #
+7673 : Extermination record work. Previous monster defeated: #. No. of same ID defeated: #. No. of diff. ID defeated: #.
+7674 : Nothing happens...
+7675 : You can feel the warm, moist breath of the maw on your skin.
+7676 : An unseen force is drawing you towards the maw.
+7677 : A portal has opened within the depths of the maw.
+7678 : Raise your %? Yes. No.
+7679 : You fit the % into the hollow.
+7680 : There is a hollow here in the shape of %.
+7681 : The lycopodium is entranced by a sparkling light...
+7682 : Your memory is engraved with an image of your surroundings and the fragrance of flowers...
+7683 : The ground is sparkling with a strange light.
+7684 : The sparkling light seems vaguely familiar to you...
+7685 : You sense that a certain trigger may awaken the memories slumbering in your mind.
+7686 : The fragrance of the flower sends your senses reeling back to the world of the past...
+7687 : The relevant battle data has been recorded in your %.
+7688 : An unseen force is drawing you towards the maw.
+7689 : Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? Proceed. Not yet.
+7690 : Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? Proceed. Not yet.
+7691 : You do not possess %...
+7692 : Your body cannot cope with further strain. You must rest for another # [minute/minutes].
+7693 : To where will you head? [The past/The present]. Walk of Echoes. Nowhere for now.
+7694 : There is nothing out of the ordinary here.
+7695 : You can hear a strange voice... Items, items, la la la la la
+7696 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7697 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7698 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7699 : Now, listen close...
+7700 : Oh... Well, if that's the case, I'm outta here.
+7701 : The Goblin slipped away when you were not looking...
+7702 : You can hear a strange, raspy voice...
+7703 : I travel......hear lots... Hear...stories... Can tell...if...
+7704 : .........listen......
+7705 : Oh...... ...outta here.........
+7706 : Enter the battlefield? Enter. Decline.
+7707 : Leave the battlefield? Run away. Stay.
+7708 : You cannot enter the battlefield at present. Please wait a little longer.
+7709 : You cannot enter the battlefield at present. Please wait a little longer.
+7710 : You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+7711 : Your time in the battlefield is up! Now exiting...
 7712 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7713 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7714 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
@@ -7634,398 +7634,401 @@
 7716 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7717 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 7718 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-7719 : You have been enchanted so that you may enter!
-7720 : Your entry enchantment has expired!
-7721 : You are not cleared to enter the battlefield. Now exiting...
-7722 : A cursed seal has been placed upon this platform.
-7723 : The battlefield where your party members are engaged in combat is locked. Access is denied.
-7724 : There is no response. You cannot escape!
-7725 : The door is sealed shut with an evil curse.
-7726 : A mysterious force is sealing the platform.
-7727 : The old wooden door is locked tight.
-7728 : The door is sealed with a mysterious energy.
-7729 : It is a giant crystal.
-7730 : A strong magical force is whirling up from the platform.
-7731 : A fierce column of wind blocks your path. You cannot proceed any further...
-7732 : An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
-7733 : An unfathomable light is rising from this strangely marked platform...
-7734 : A heavy wooden gate. It is tightly locked...
-7735 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7736 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7737 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7719 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7720 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7721 : You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+7722 : You have been enchanted so that you may enter!
+7723 : Your entry enchantment has expired!
+7724 : You are not cleared to enter the battlefield. Now exiting...
+7725 : A cursed seal has been placed upon this platform.
+7726 : The battlefield where your party members are engaged in combat is locked. Access is denied.
+7727 : There is no response. You cannot escape!
+7728 : The door is sealed shut with an evil curse.
+7729 : A mysterious force is sealing the platform.
+7730 : The old wooden door is locked tight.
+7731 : The door is sealed with a mysterious energy.
+7732 : It is a giant crystal.
+7733 : A strong magical force is whirling up from the platform.
+7734 : A fierce column of wind blocks your path. You cannot proceed any further...
+7735 : An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+7736 : An unfathomable light is rising from this strangely marked platform...
+7737 : A heavy wooden gate. It is tightly locked...
 7738 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-7739 : A glowing mist of ever-changing proportions floats before you...
-7740 : A solid iron gate. It is tightly locked...
-7741 : You see a gigantic crystal, glowing with amber light...
-7742 : You see a gigantic crystal, glowing with amber light...
-7743 : Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
-7744 : Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
-7745 : If you listen closely, you can faintly hear female voices singing in rounds...
-7746 : It appears as if something had been thrust into the rockface here...
-7747 : A decorative door. It appears to be locked...
-7748 : The door is locked.
-7749 : The gate is locked.
-7750 : The door is locked.
+7739 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7740 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7741 : You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+7742 : A glowing mist of ever-changing proportions floats before you...
+7743 : A solid iron gate. It is tightly locked...
+7744 : You see a gigantic crystal, glowing with amber light...
+7745 : You see a gigantic crystal, glowing with amber light...
+7746 : Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+7747 : Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+7748 : If you listen closely, you can faintly hear female voices singing in rounds...
+7749 : It appears as if something had been thrust into the rockface here...
+7750 : A decorative door. It appears to be locked...
 7751 : The door is locked.
-7752 : There seems to be a space beneath the floor, but you are unable to access it.
-7753 : You do not meet the requirements to enter the battlefield. Access is denied.
-7754 : [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
-7755 : [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
-7756 : [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
-7757 : [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
-7758 : [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
-7759 : [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
-7760 : [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
-7761 : [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
-7762 : You were unable to protect the special character. Now leaving the battlefield.
-7763 : You were unable to protect Prince Trion. Now leaving the battlefield.
-7764 : You were unable to protect Captain Volker. Now leaving the battlefield.
-7765 : You were unable to protect Ajido-Marujido. Now leaving the battlefield.
-7766 : Your % is torn...
-7767 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-7768 : Your % is torn...
-7769 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-7770 : You see innumerable stars shimmering in the distance...
-7779 : _A
-7780 : _B
-7781 : _C
-7782 : _D
-7783 : _E
-7784 : (_A
-7785 : (_B
-7786 : (_C
-7789 : _A
-7790 : _B
-7791 : _C
-7792 : remove1
-7793 : remove2
-7794 : remove3
-7795 : _A
-7796 : _B
-7797 : _C
-7799 : %% %%
-7800 : ID ###### #
-7801 : _A
-7802 : _B
-7803 : _C
-7804 : ID  ID
-7806 : ID
-7807 : _A
-7808 : _B
-7809 : _C
-7812 : _A
-7813 : _B
-7814 : _C
-7815 : pending _A
-7816 : pending _B
-7817 : pending _C
-7818 : _A
-7819 : _B
-7820 : _C
-7821 : _A _A talk
-7822 : _B _B talk
-7823 : _C _C talk
-7824 : _AID_A
-7825 : _BID_B
-7826 : _CID_C
-7827 : _A
-7828 : _A
-7829 : _A
-7830 : _B
-7831 : _B
-7832 : _B
-7833 : _C
-7834 : _C
-7835 : _C
-7837 : _Apending
-7838 : _Apending  pending
-7839 : _Bpending
-7840 : _Bpending  pending
-7841 : _Cpending
-7842 : _Cpending  pending
-7843 : _Apending
-7844 : _Bpending
-7845 : _Cpending
-7847 : defpcpending
-7848 : _A
-7849 : _B
-7850 : _C
-7851 : _A PC_A
-7852 : _B PC_B
-7853 : _C PC_C
-7854 : _A
-7855 : _B
-7856 : _C
+7752 : The gate is locked.
+7753 : The door is locked.
+7754 : The door is locked.
+7755 : There seems to be a space beneath the floor, but you are unable to access it.
+7756 : You do not meet the requirements to enter the battlefield. Access is denied.
+7757 : [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+7758 : [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+7759 : [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+7760 : [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+7761 : [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+7762 : [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+7763 : [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+7764 : [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+7765 : You were unable to protect the special character. Now leaving the battlefield.
+7766 : You were unable to protect Prince Trion. Now leaving the battlefield.
+7767 : You were unable to protect Captain Volker. Now leaving the battlefield.
+7768 : You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+7769 : Your % is torn...
+7770 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+7771 : Your % is torn...
+7772 : Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+7773 : You see innumerable stars shimmering in the distance...
+7782 : _A
+7783 : _B
+7784 : _C
+7785 : _D
+7786 : _E
+7787 : (_A
+7788 : (_B
+7789 : (_C
+7792 : _A
+7793 : _B
+7794 : _C
+7795 : remove1
+7796 : remove2
+7797 : remove3
+7798 : _A
+7799 : _B
+7800 : _C
+7802 : %% %%
+7803 : ID ###### #
+7804 : _A
+7805 : _B
+7806 : _C
+7807 : ID  ID
+7809 : ID
+7810 : _A
+7811 : _B
+7812 : _C
+7815 : _A
+7816 : _B
+7817 : _C
+7818 : pending _A
+7819 : pending _B
+7820 : pending _C
+7821 : _A
+7822 : _B
+7823 : _C
+7824 : _A _A talk
+7825 : _B _B talk
+7826 : _C _C talk
+7827 : _AID_A
+7828 : _BID_B
+7829 : _CID_C
+7830 : _A
+7831 : _A
+7832 : _A
+7833 : _B
+7834 : _B
+7835 : _B
+7836 : _C
+7837 : _C
+7838 : _C
+7840 : _Apending
+7841 : _Apending  pending
+7842 : _Bpending
+7843 : _Bpending  pending
+7844 : _Cpending
+7845 : _Cpending  pending
+7846 : _Apending
+7847 : _Bpending
+7848 : _Cpending
+7850 : defpcpending
+7851 : _A
+7852 : _B
+7853 : _C
+7854 : _A PC_A
+7855 : _B PC_B
+7856 : _C PC_C
 7857 : _A
 7858 : _B
 7859 : _C
 7860 : _A
 7861 : _B
 7862 : _C
-7863 : (_A)
-7864 : (_B)
-7865 : (_C)
-7867 : ENDPARA
-7868 : _A
-7869 : _B
-7870 : _C
-7871 : BAID
-7872 : CABID
-7873 : (AID)
-7874 : (BID)
-7875 : (CID)
+7863 : _A
+7864 : _B
+7865 : _C
+7866 : (_A)
+7867 : (_B)
+7868 : (_C)
+7870 : ENDPARA
+7871 : _A
+7872 : _B
+7873 : _C
+7874 : BAID
+7875 : CABID
 7876 : (AID)
 7877 : (BID)
 7878 : (CID)
-7879 : (A)
-7880 : (B)
-7881 : (C)
-7885 : _A
-7886 : _B
-7887 : _C
+7879 : (AID)
+7880 : (BID)
+7881 : (CID)
+7882 : (A)
+7883 : (B)
+7884 : (C)
 7888 : _A
 7889 : _B
 7890 : _C
 7891 : _A
 7892 : _B
 7893 : _C
-7897 : %% %%
-7903 : _A
-7904 : _B
-7905 : _C
-7907 : _A
-7908 : _B
-7909 : _C
+7894 : _A
+7895 : _B
+7896 : _C
+7900 : %% %%
+7906 : _A
+7907 : _B
+7908 : _C
 7910 : _A
 7911 : _B
 7912 : _C
-7913 : pending
-7914 : _A
-7915 : _B
-7916 : _C
-7918 : _A
-7919 : _B
-7920 : _C
-7921 : _APC
-7922 : _BPC
-7923 : _CPC
-7927 : pending_A
-7928 : pending_B
-7929 : pending_C
-7932 : %% %%
-7933 : ID ###### #
-7934 : ID  ID
-7936 : ID
-7937 : _A
-7938 : _B
-7939 : _C
-7942 : _A
-7943 : _B
-7944 : _C
-7945 : pending _A
-7946 : pending _B
-7947 : pending _C
-7948 : pending _D
-7949 : pending _E
-7950 : _B
-7951 : _C
-7952 : _A _A talk
-7953 : _B _B talk
-7954 : _C _C talk
-7955 : _AID_A
-7956 : _BID_B
-7957 : _CID_C
-7958 : _A
-7959 : _A
-7960 : _A
-7961 : _B
-7962 : _B
-7963 : _B
-7964 : _C
-7965 : _C
-7966 : _C
-7968 : _Apending
-7969 : _Apending  pending
-7970 : _Bpending
-7971 : _Bpending  pending
-7972 : _Cpending
-7973 : _Cpending  pending
-7974 : _Apending
-7975 : _Bpending
-7976 : _Cpending
-7978 : defpcpending
-7979 : _A
-7980 : _B
-7981 : _C
-7982 : _A PC_A
-7983 : _B PC_B
-7984 : _C PC_C
-7985 : _A
-7986 : _B
-7987 : _C
+7913 : _A
+7914 : _B
+7915 : _C
+7916 : pending
+7917 : _A
+7918 : _B
+7919 : _C
+7921 : _A
+7922 : _B
+7923 : _C
+7924 : _APC
+7925 : _BPC
+7926 : _CPC
+7930 : pending_A
+7931 : pending_B
+7932 : pending_C
+7935 : %% %%
+7936 : ID ###### #
+7937 : ID  ID
+7939 : ID
+7940 : _A
+7941 : _B
+7942 : _C
+7945 : _A
+7946 : _B
+7947 : _C
+7948 : pending _A
+7949 : pending _B
+7950 : pending _C
+7951 : pending _D
+7952 : pending _E
+7953 : _B
+7954 : _C
+7955 : _A _A talk
+7956 : _B _B talk
+7957 : _C _C talk
+7958 : _AID_A
+7959 : _BID_B
+7960 : _CID_C
+7961 : _A
+7962 : _A
+7963 : _A
+7964 : _B
+7965 : _B
+7966 : _B
+7967 : _C
+7968 : _C
+7969 : _C
+7971 : _Apending
+7972 : _Apending  pending
+7973 : _Bpending
+7974 : _Bpending  pending
+7975 : _Cpending
+7976 : _Cpending  pending
+7977 : _Apending
+7978 : _Bpending
+7979 : _Cpending
+7981 : defpcpending
+7982 : _A
+7983 : _B
+7984 : _C
+7985 : _A PC_A
+7986 : _B PC_B
+7987 : _C PC_C
 7988 : _A
 7989 : _B
 7990 : _C
 7991 : _A
 7992 : _B
 7993 : _C
-7994 : (_A)
-7995 : (_B)
-7996 : (_C)
-7998 : ENDPARA
-7999 : _A
-8000 : _B
-8001 : _C
-8002 : BAID
-8003 : CABID
-8004 : (AID)
-8005 : (BID)
-8006 : (CID)
+7994 : _A
+7995 : _B
+7996 : _C
+7997 : (_A)
+7998 : (_B)
+7999 : (_C)
+8001 : ENDPARA
+8002 : _A
+8003 : _B
+8004 : _C
+8005 : BAID
+8006 : CABID
 8007 : (AID)
 8008 : (BID)
 8009 : (CID)
-8010 : (A)
-8011 : (B)
-8012 : (C)
-8014 : Currently, # members of your party (including yourself) have clearance to enter the battlefield.
-8015 : Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
-8016 : Only % can enter the battlefield.
-8017 : The time limit for this battle is # minutes.
-8018 : There is a crack in the %. It no longer contains a monster.
-8019 : A crack has formed on the %, and the beast inside has been unleashed!
-8020 : Boss mode : #!!
-8021 : Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
-8023 : DEBUG1
-8025 : DEBUG
-8026 : DEBUG
-8027 : # # BOSS_STATUS#
-8028 : # ID#
-8029 : # # BOSS_STATUS# #pending
-8030 : PARTY0# PARTY1#PARTY2#
-8031 : PARTY3# PARTY4#PARTY5#
-8034 : CLI_NUM0 = #
-8035 : CLI_NUM1 = #
-8036 : CLI_NUM2 = #
-8037 : CLI_NUM3 = #
-8038 : CLI_NUM4 = #
-8039 : CLI_NUM5 = #
-8040 : CLI_NUM6 = #
-8041 : CLI_NUM7 = #
-8042 : Skip the event? Yes. No.
-8043 : Battlefield clear time: # second[/s]!
-8044 : Battlefield clear time: # minute[/s], # second[/s]!
-8045 : The current battlefield clear time record is # second[/s].
-8046 : The current battlefield clear time record is # minute[/s] # second[/s].
-8047 : Called the NPC! PC ID = #! RESULT = #!
-8048 : Got rid of the NPC! PC ID = #!
-8049 : The NPC has fallen, and he can't get up! Leaving room A!
-8050 : The NPC has fallen, and he can't get up! Leaving room B!
-8051 : The NPC has fallen, and he can't get up! Leaving room C!
-8052 : The NPC has fallen, and he can't get up! Leaving room D!
-8053 : All party members have fallen in battle. Now leaving the battlefield.
-8054 : Everybody's fallen in room A, and they can't get up! Leaving room A!
-8055 : Everybody's fallen in room B, and they can't get up! Leaving room B!
-8056 : Everybody's fallen in room C, and they can't get up! Leaving room C!
-8057 : Everybody's fallen in room D, and they can't get up! Leaving room D!
-8058 : Everybody's fallen in room E, and they can't get up! Leaving room E!
-8059 : If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
-8060 : If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-8061 : What the hell is that number!? It's not possible!!!
-8062 : Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-8063 : You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
-8064 : You do not meet the requirements to enter the battlefield with your party members. Access is denied.
-8065 : The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
-8066 : That record is held by # adventurers, including %!
-8067 : That record is held by %!
-8068 : The % disappears!
-8069 : Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
-8070 : Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
-8071 : A malignant force escapes from your %.
-8072 : You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
-8073 : Your % is calling out to something...
-8074 : The % has a large crack running straight down the side.
-8075 : You have broken the clear time record for [The Wyrm God/The Wyrm God/]!
-8076 : The current battlefield clear time record for [The Wyrm God/The Wyrm God/] is # second[/s].
-8077 : The current battlefield clear time record for [The Wyrm God/The Wyrm God/] is # minute[/s] # second[/s].
-8078 : Entering the battlefield for [The Wyrm God/The Wyrm God/]!
-8079 : Which battlefield will you enter? None. The Wyrm God. The Wyrm God
-8080 : Do you want to hear a story? No, thank you. Let's hear one.
-8081 : What story would you like to be told? On second thought, maybe later. The Wyrm God(pt.1). The Wyrm God(pt.2). The Wyrm God(pt.3). Meanwhile, Back on Abyssea. A Moonlight Requite.
-8085 : %? Could it truly be you?
-8086 : But...how is it that you're still here!?
-8087 : What will you say? P-Prishe? What's a girl like you...
-8088 : Huh? What the hell kind of reaction is that? Have you got a fever or something? Then again, with all you've been through, small wonder if you're not feeling yourself.
-8089 : No, wait... Something isn't quite right here. Who are you?
-8090 : ...
-8091 : So all hell broke loose on Abyssea...
-8092 : And you're %, only you've come from another dimension. That's not the craziest thing I've ever heard, but it sure as hell comes close.
-8093 : There's something I need to say. The wretched state of the world--it's...it's all our fault.
-8094 : I bet you've already figured it out.
-8095 : We went up against Promathia, %. We took on the Twilight God...but we couldn't finish the job.
-8096 : We got our butts handed to us, in fact, all that dropkicking to no avail. You and your comrades were all swallowed up...and there was nothing I could do but stand by and watch in stunned horror.
-8097 : Being what I am, I was the sole survival of the carnage. But truth be told, I would've sooner joined you all on the far side. I don't know if I could muster up the courage to face Cardinal Mildaurion again.
-8098 : What do you say? Snap out of it, Prishe! Say nothing and continue on.
-8099 : Hey! Those were the exact words you said to me before!
-8100 : You're right, %. It's not like me to be a sad-sack sourpuss.
-8101 : H-hey! Are you planning to do what I think you're planning to do?
-8102 : Why, you're every ilm the gutsy adventurer the % I knew was! Always setting the bar so high, you make me look bad, you know?
-8103 : At any rate, it's good to know that % will always be %, no matter what dimension [he/she] hails from.
-8104 : I do notice one difference, though. The oodles and oodles of power you emanate--it seems to be something inherent to folk of your world.
-8105 : I hate to admit it, but it's obvious I'll just end up cramping your style if I tag along.;
-8106 : Therefore, I'm going to sit this one out. My world, Abyssea--it's all in your hands now, %.
-8107 : What do you say? You just leave it to me! Smile in response.
-8108 : Hehehe, ever the reliable adventurer, I see.
-8109 : % flashes [his/her] pearly whites at Prishe.
-8110 : Ah, how many times have I seen that doltish grin of yours? Sure brings back memories.
-8111 : Now, let me be dead serious for a moment, %.
-8112 : You're bursting at the seams with power that people of Abyssea can only dream of, this is true.
-8113 : However, the enemy that awaits beyond isn't the run-of-the-mill man-god you might be expecting.
-8114 : In absorbing our friend Selh'teus into His being, the Twilight God has evolved and taken on a fearsome new form: terror and dread made flesh.
-8115 : He looks more like a wyrm now, but one that's bigger, badder, and uglier than anything you've ever seen.
-8116 : But hey, don't let these little details unnerve you.
-8117 : When you square off against this souped-up Promathia, the foremost thing to keep in mind is to be yourself. That's right, %. Be your bloodthirsty, ruthless self.
-8118 : Ready yourself as best you can, because if even the extra-dimensional version of you can't come out on top, then--the Goddess forbid--Abyssea truly is screwed.
-8119 : You did it, %!
-8120 : I always knew you could do it, but still, I was on pins and needles the whole time. I'd already lost you once before, after all.
-8121 : It's just as I feared, though. Defeating a god won't turn back time--won't undo all the damage in the blink of an eye. Those who were taken won't be coming back, while those who remain will have to rebuild their world the old-fashioned way.
-8122 : You see the ring of red in the sky, %? That there's the mothercrystal, shattered all to pieces once again.
-8123 : Do you notice?
-8124 : Promathia's gone, but neither can I hear the voice of the Goddess. I'm sure she's grieving in silence even as we speak.
-8125 : There's no cause for concern, though. As long as mankind lives on, so too will the gods that gave birth to us.
-8126 : When her champions fell to Promathia, Abyssea was forced onto a new path, one with eventualities far departed from before.
-8127 : Things may never be the same again, but I still mean to put to good use the long life I've been given. I'm going to stay here and keep watch over the world, see where it's headed.
-8128 : You'd have to go a long way to find a better view than here. Don't you think, %?
-8129 : Wh-what's with the sidelong glance? Cut it out already! Spells and curses have no effect on me, let alone words and stares!
-8130 : If this is the moon we're standing on, then that thing a hojillion malms away must be Abyssea.
-8131 : It's as round as the moon, and even more beautiful, I reckon.
-8132 : This place, though, holds special meaning for me. After all, it's where I fought my last battle beside my friends.
-8133 : If I left, I'd be making a lot of people sad. I can't be doing that now, can I?
-8134 : And that's why I have to stay.
-8135 : Rough days are still ahead for Abyssea, and it pains me that I won't be around to help out.
-8136 : But with you on the job, I know I've got nothing to worry about.
-8137 : When you get back, I want you to deliver a message to the cardinal. Tell her that I'm alive, and in strapping shape as always.
-8138 : Tell her also...that I'm sorry.
-8139 : Folk would call me improper to send a god-slayer as my errand [boy/girl]. But as you can see, there's no one else around I can ask to do this favor.
-8140 : We may be of different worlds, but ours is a friendship of dimension transcending! Go well, %, and thank you. I hope it won't be long before we meet again.
-8141 : Hey! If it isn't the other %! Did you forget something when you left?
-8142 : Or perhaps--dare I hope--you came all this way to see little old me? Hmmm?
-8143 : Aaah, poor Prishe, never a moment to herself! But such is the price of popularity!
-8144 : Hey, the joke wasn't that bad, was it!? Hmmm, perhaps the time in solitude has dulled my edge.
-8145 : But never mind that. It's truly good to see you again, %.
-8146 : And it appears you've already delivered my message to the cardinal.
-8147 : Ah, sorry! It's the whisper of the soul thing that told me. It's against the rules, I know, but you can't blame a girl for trying.
-8148 : It's dead quiet here, and you can literally see forever. The clouds that envelop Abyssea, they form all kinds of interesting shapes. Looking at them never gets old!
-8149 : But to tell you the truth, I can't help but feel lonely.
-8150 : When I saw you coming, %, my heart skipped a beat. I thought it'd leap out of my chest for the joy, no exaggeration!
-8151 : Promise you'll come and visit me again, all right? It doesn't have to be every day, mind you. Every other day should do it.
-8152 : All right?
-8153 : Promise to visit Prishe? Of course! Uh...
-8154 : What!? Too rich and famous now to be seen hanging out with an old friend!?
-8155 : It's a promise, %! Don't even think of breaking it!
-8156 : Now, look here. As a show of gratitude, I'm going to give you a present.
-8157 : It's %, something that once belonged to the you of Abyssea.
-8158 : [He/She] would have wanted you to have it, %.
-8159 : Take good care of it as if it were me, you hear?
-8160 : I've never had so much free time in my life. It's all I can do to find things to occupy myself. Perhaps I'll go for a stroll along the surface of the moon. Moonlighting--heheh, you get it?
-8161 : No? Damn it, I really am losing my edge...
-8162 : Press confirm to proceed.
+8010 : (AID)
+8011 : (BID)
+8012 : (CID)
+8013 : (A)
+8014 : (B)
+8015 : (C)
+8017 : Currently, # members of your party (including yourself) have clearance to enter the battlefield.
+8018 : Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
+8019 : Only % can enter the battlefield.
+8020 : The time limit for this battle is # minutes.
+8021 : There is a crack in the %. It no longer contains a monster.
+8022 : A crack has formed on the %, and the beast inside has been unleashed!
+8023 : Boss mode : #!!
+8024 : Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+8026 : DEBUG1
+8028 : DEBUG
+8029 : DEBUG
+8030 : # # BOSS_STATUS#
+8031 : # ID#
+8032 : # # BOSS_STATUS# #pending
+8033 : PARTY0# PARTY1#PARTY2#
+8034 : PARTY3# PARTY4#PARTY5#
+8037 : CLI_NUM0 = #
+8038 : CLI_NUM1 = #
+8039 : CLI_NUM2 = #
+8040 : CLI_NUM3 = #
+8041 : CLI_NUM4 = #
+8042 : CLI_NUM5 = #
+8043 : CLI_NUM6 = #
+8044 : CLI_NUM7 = #
+8045 : Skip the event? Yes. No.
+8046 : Battlefield clear time: # second[/s]!
+8047 : Battlefield clear time: # minute[/s], # second[/s]!
+8048 : The current battlefield clear time record is # second[/s].
+8049 : The current battlefield clear time record is # minute[/s] # second[/s].
+8050 : Called the NPC! PC ID = #! RESULT = #!
+8051 : Got rid of the NPC! PC ID = #!
+8052 : The NPC has fallen, and he can't get up! Leaving room A!
+8053 : The NPC has fallen, and he can't get up! Leaving room B!
+8054 : The NPC has fallen, and he can't get up! Leaving room C!
+8055 : The NPC has fallen, and he can't get up! Leaving room D!
+8056 : All party members have fallen in battle. Now leaving the battlefield.
+8057 : Everybody's fallen in room A, and they can't get up! Leaving room A!
+8058 : Everybody's fallen in room B, and they can't get up! Leaving room B!
+8059 : Everybody's fallen in room C, and they can't get up! Leaving room C!
+8060 : Everybody's fallen in room D, and they can't get up! Leaving room D!
+8061 : Everybody's fallen in room E, and they can't get up! Leaving room E!
+8062 : If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
+8063 : If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
+8064 : What the hell is that number!? It's not possible!!!
+8065 : Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+8066 : You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+8067 : You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+8068 : The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+8069 : That record is held by # adventurers, including %!
+8070 : That record is held by %!
+8071 : The % disappears!
+8072 : Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
+8073 : Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+8074 : A malignant force escapes from your %.
+8075 : You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+8076 : Your % is calling out to something...
+8077 : The % has a large crack running straight down the side.
+8078 : You have broken the clear time record for [The Wyrm God/The Wyrm God/]!
+8079 : The current battlefield clear time record for [The Wyrm God/The Wyrm God/] is # second[/s].
+8080 : The current battlefield clear time record for [The Wyrm God/The Wyrm God/] is # minute[/s] # second[/s].
+8081 : Entering the battlefield for [The Wyrm God/The Wyrm God/]!
+8082 : Which battlefield will you enter? None. The Wyrm God. The Wyrm God
+8083 : Do you want to hear a story? No, thank you. Let's hear one.
+8084 : What story would you like to be told? On second thought, maybe later. The Wyrm God(pt.1). The Wyrm God(pt.2). The Wyrm God(pt.3). Meanwhile, Back on Abyssea. A Moonlight Requite.
+8088 : %? Could it truly be you?
+8089 : But...how is it that you're still here!?
+8090 : What will you say? P-Prishe? What's a girl like you...
+8091 : Huh? What the hell kind of reaction is that? Have you got a fever or something? Then again, with all you've been through, small wonder if you're not feeling yourself.
+8092 : No, wait... Something isn't quite right here. Who are you?
+8093 : ...
+8094 : So all hell broke loose on Abyssea...
+8095 : And you're %, only you've come from another dimension. That's not the craziest thing I've ever heard, but it sure as hell comes close.
+8096 : There's something I need to say. The wretched state of the world--it's...it's all our fault.
+8097 : I bet you've already figured it out.
+8098 : We went up against Promathia, %. We took on the Twilight God...but we couldn't finish the job.
+8099 : We got our butts handed to us, in fact, all that dropkicking to no avail. You and your comrades were all swallowed up...and there was nothing I could do but stand by and watch in stunned horror.
+8100 : Being what I am, I was the sole survival of the carnage. But truth be told, I would've sooner joined you all on the far side. I don't know if I could muster up the courage to face Cardinal Mildaurion again.
+8101 : What do you say? Snap out of it, Prishe! Say nothing and continue on.
+8102 : Hey! Those were the exact words you said to me before!
+8103 : You're right, %. It's not like me to be a sad-sack sourpuss.
+8104 : H-hey! Are you planning to do what I think you're planning to do?
+8105 : Why, you're every ilm the gutsy adventurer the % I knew was! Always setting the bar so high, you make me look bad, you know?
+8106 : At any rate, it's good to know that % will always be %, no matter what dimension [he/she] hails from.
+8107 : I do notice one difference, though. The oodles and oodles of power you emanate--it seems to be something inherent to folk of your world.
+8108 : I hate to admit it, but it's obvious I'll just end up cramping your style if I tag along.;
+8109 : Therefore, I'm going to sit this one out. My world, Abyssea--it's all in your hands now, %.
+8110 : What do you say? You just leave it to me! Smile in response.
+8111 : Hehehe, ever the reliable adventurer, I see.
+8112 : % flashes [his/her] pearly whites at Prishe.
+8113 : Ah, how many times have I seen that doltish grin of yours? Sure brings back memories.
+8114 : Now, let me be dead serious for a moment, %.
+8115 : You're bursting at the seams with power that people of Abyssea can only dream of, this is true.
+8116 : However, the enemy that awaits beyond isn't the run-of-the-mill man-god you might be expecting.
+8117 : In absorbing our friend Selh'teus into His being, the Twilight God has evolved and taken on a fearsome new form: terror and dread made flesh.
+8118 : He looks more like a wyrm now, but one that's bigger, badder, and uglier than anything you've ever seen.
+8119 : But hey, don't let these little details unnerve you.
+8120 : When you square off against this souped-up Promathia, the foremost thing to keep in mind is to be yourself. That's right, %. Be your bloodthirsty, ruthless self.
+8121 : Ready yourself as best you can, because if even the extra-dimensional version of you can't come out on top, then--the Goddess forbid--Abyssea truly is screwed.
+8122 : You did it, %!
+8123 : I always knew you could do it, but still, I was on pins and needles the whole time. I'd already lost you once before, after all.
+8124 : It's just as I feared, though. Defeating a god won't turn back time--won't undo all the damage in the blink of an eye. Those who were taken won't be coming back, while those who remain will have to rebuild their world the old-fashioned way.
+8125 : You see the ring of red in the sky, %? That there's the mothercrystal, shattered all to pieces once again.
+8126 : Do you notice?
+8127 : Promathia's gone, but neither can I hear the voice of the Goddess. I'm sure she's grieving in silence even as we speak.
+8128 : There's no cause for concern, though. As long as mankind lives on, so too will the gods that gave birth to us.
+8129 : When her champions fell to Promathia, Abyssea was forced onto a new path, one with eventualities far departed from before.
+8130 : Things may never be the same again, but I still mean to put to good use the long life I've been given. I'm going to stay here and keep watch over the world, see where it's headed.
+8131 : You'd have to go a long way to find a better view than here. Don't you think, %?
+8132 : Wh-what's with the sidelong glance? Cut it out already! Spells and curses have no effect on me, let alone words and stares!
+8133 : If this is the moon we're standing on, then that thing a hojillion malms away must be Abyssea.
+8134 : It's as round as the moon, and even more beautiful, I reckon.
+8135 : This place, though, holds special meaning for me. After all, it's where I fought my last battle beside my friends.
+8136 : If I left, I'd be making a lot of people sad. I can't be doing that now, can I?
+8137 : And that's why I have to stay.
+8138 : Rough days are still ahead for Abyssea, and it pains me that I won't be around to help out.
+8139 : But with you on the job, I know I've got nothing to worry about.
+8140 : When you get back, I want you to deliver a message to the cardinal. Tell her that I'm alive, and in strapping shape as always.
+8141 : Tell her also...that I'm sorry.
+8142 : Folk would call me improper to send a god-slayer as my errand [boy/girl]. But as you can see, there's no one else around I can ask to do this favor.
+8143 : We may be of different worlds, but ours is a friendship of dimension transcending! Go well, %, and thank you. I hope it won't be long before we meet again.
+8144 : Hey! If it isn't the other %! Did you forget something when you left?
+8145 : Or perhaps--dare I hope--you came all this way to see little old me? Hmmm?
+8146 : Aaah, poor Prishe, never a moment to herself! But such is the price of popularity!
+8147 : Hey, the joke wasn't that bad, was it!? Hmmm, perhaps the time in solitude has dulled my edge.
+8148 : But never mind that. It's truly good to see you again, %.
+8149 : And it appears you've already delivered my message to the cardinal.
+8150 : Ah, sorry! It's the whisper of the soul thing that told me. It's against the rules, I know, but you can't blame a girl for trying.
+8151 : It's dead quiet here, and you can literally see forever. The clouds that envelop Abyssea, they form all kinds of interesting shapes. Looking at them never gets old!
+8152 : But to tell you the truth, I can't help but feel lonely.
+8153 : When I saw you coming, %, my heart skipped a beat. I thought it'd leap out of my chest for the joy, no exaggeration!
+8154 : Promise you'll come and visit me again, all right? It doesn't have to be every day, mind you. Every other day should do it.
+8155 : All right?
+8156 : Promise to visit Prishe? Of course! Uh...
+8157 : What!? Too rich and famous now to be seen hanging out with an old friend!?
+8158 : It's a promise, %! Don't even think of breaking it!
+8159 : Now, look here. As a show of gratitude, I'm going to give you a present.
+8160 : It's %, something that once belonged to the you of Abyssea.
+8161 : [He/She] would have wanted you to have it, %.
+8162 : Take good care of it as if it were me, you hear?
+8163 : I've never had so much free time in my life. It's all I can do to find things to occupy myself. Perhaps I'll go for a stroll along the surface of the moon. Moonlighting--heheh, you get it?
+8164 : No? Damn it, I really am losing my edge...
+8165 : Press confirm to proceed.
