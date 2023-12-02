@@ -6376,7 +6376,7 @@
 6378 : The Adventurer Gratitude Campaign is currently underway! Enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6379 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6380 : You will be able to use the Assist Channel until #/#/# at #:# (JST).
-6381 : In celebration of the UT x FINAL FANTASY Collaboration, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
+6381 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6382 : You cannot obtain the %.
 6383 : You cannot obtain any more.
 6384 : You cannot obtain the %. Come back after sorting your inventory.
@@ -7047,16 +7047,16 @@
 7054 : You have been rewarded % as compensation.
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
-7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7058 : Word has been received of a Troll threat in Wajaom Woodlands.
-7059 : Word has been received of an undead threat in Bhaflau Thickets.
-7060 : Enter Limbus? Yes. No.
-7061 : Exit Limbus? Yes. Not yet.
-7062 : You cannot enter Limbus at present. Please wait a little longer.
+7057 : You receive # deeds for a total of #!
+7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7059 : Word has been received of a Troll threat in Wajaom Woodlands.
+7060 : Word has been received of an undead threat in Bhaflau Thickets.
+7061 : Enter Limbus? Yes. No.
+7062 : Exit Limbus? Yes. Not yet.
 7063 : You cannot enter Limbus at present. Please wait a little longer.
-7064 : You have already cleared Limbus. You may not enter unless you are assisting a player who has not defeated the boss.
-7065 : You have exceeded the time limit. Exiting Limbus now.
-7066 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
+7064 : You cannot enter Limbus at present. Please wait a little longer.
+7065 : You have already cleared Limbus. You may not enter unless you are assisting a player who has not defeated the boss.
+7066 : You have exceeded the time limit. Exiting Limbus now.
 7067 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7068 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7069 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
@@ -7068,370 +7068,371 @@
 7075 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7076 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7077 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
-7078 : You hear a faint hum.
-7079 : You can no longer hear a faint hum.
-7080 : You do not have clearance to enter Limbus. Exiting now.
-7081 : You do not have clearance to enter Limbus.
-7082 : There is no response. You cannot escape!
-7083 : There are several six-sided indentations and a thin slot in the center of the circular dais here.
-7084 : You have not fulfilled the requirements to enter Limbus.
-7094 : You have exceeded the time limit for Battlefield A. Exiting now.
-7095 : You have exceeded the time limit for Battlefield B. Exiting now.
-7096 : You have exceeded the time limit for Battlefield C. Exiting now.
-7097 : You have exceeded the time limit for Battlefield D. Exiting now.
-7098 : You have exceeded the time limit for Battlefield E. Exiting now.
-7099 : You have exceeded the time limit for Battlefield F. Exiting now.
-7100 : Battlefield A is currently empty.
-7101 : Battlefield B is currently empty.
-7102 : Battlefield C is currently empty.
-7103 : The battle has been reset!
-7104 : The room is now free.
-7105 : You have just popped Boss A!
-7106 : You have just popped Boss B!
-7107 : You have just popped Boss C!
-7108 : remove1
-7109 : remove2
-7110 : remove3
-7111 : You have defeated Boss A!
-7112 : You have defeated Boss B!
-7113 : You have defeated Boss C!
-7114 : Boss has been defeated.
-7115 : You wanna know names? %, %, %, %, and possibly more...
-7116 : You wanna know IDs? #, #, #, #, #, #, and the number of those in the area is...#!
-7117 : Your party member(s) is in Battlefield A!
-7118 : Your party member(s) is in Battlefield B!
-7119 : Your party member(s) is in Battlefield C!
-7120 : Wanna see name or ID? Name please! I wanna see IDs!
-7121 : Names for which room? A B C
-7122 : IDs for which room? A B C
-7123 : Party in Room A!
-7124 : Party in Room B!
-7125 : Party in Room C!
-7126 : Buff error 1
-7127 : Buff error 2
-7128 : You will be the first of your party to enter Battlefield A!
-7129 : You will be the first of your party to enter Battlefield B!
-7130 : You will be the first of your party to enter Battlefield D!
-7131 : You have been given permission to enter! Entering Battlefield A.
-7132 : You have been given permission to enter! Entering Battlefield B.
-7133 : You have been given permission to enter! Entering Battlefield C.
-7134 : You have been given permission to enter! Entering Battlefield D.
-7135 : You have been given permission to enter! Entering Battlefield E.
-7136 : You have been given permission to enter! Entering Battlefield F.
-7137 : There's something funky going on with the number of people in Room A...
-7138 : There's something funky going on with the number of people in Room B...
-7139 : There's something funky going on with the number of people in Room C...
-7140 : _A _A talk
-7141 : _B _B talk
-7142 : _C _C talk
-7143 : _AID_A
-7144 : _BID_B
-7145 : _CID_C
-7146 : _A
+7078 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
+7079 : You hear a faint hum.
+7080 : You can no longer hear a faint hum.
+7081 : You do not have clearance to enter Limbus. Exiting now.
+7082 : You do not have clearance to enter Limbus.
+7083 : There is no response. You cannot escape!
+7084 : There are several six-sided indentations and a thin slot in the center of the circular dais here.
+7085 : You have not fulfilled the requirements to enter Limbus.
+7095 : You have exceeded the time limit for Battlefield A. Exiting now.
+7096 : You have exceeded the time limit for Battlefield B. Exiting now.
+7097 : You have exceeded the time limit for Battlefield C. Exiting now.
+7098 : You have exceeded the time limit for Battlefield D. Exiting now.
+7099 : You have exceeded the time limit for Battlefield E. Exiting now.
+7100 : You have exceeded the time limit for Battlefield F. Exiting now.
+7101 : Battlefield A is currently empty.
+7102 : Battlefield B is currently empty.
+7103 : Battlefield C is currently empty.
+7104 : The battle has been reset!
+7105 : The room is now free.
+7106 : You have just popped Boss A!
+7107 : You have just popped Boss B!
+7108 : You have just popped Boss C!
+7109 : remove1
+7110 : remove2
+7111 : remove3
+7112 : You have defeated Boss A!
+7113 : You have defeated Boss B!
+7114 : You have defeated Boss C!
+7115 : Boss has been defeated.
+7116 : You wanna know names? %, %, %, %, and possibly more...
+7117 : You wanna know IDs? #, #, #, #, #, #, and the number of those in the area is...#!
+7118 : Your party member(s) is in Battlefield A!
+7119 : Your party member(s) is in Battlefield B!
+7120 : Your party member(s) is in Battlefield C!
+7121 : Wanna see name or ID? Name please! I wanna see IDs!
+7122 : Names for which room? A B C
+7123 : IDs for which room? A B C
+7124 : Party in Room A!
+7125 : Party in Room B!
+7126 : Party in Room C!
+7127 : Buff error 1
+7128 : Buff error 2
+7129 : You will be the first of your party to enter Battlefield A!
+7130 : You will be the first of your party to enter Battlefield B!
+7131 : You will be the first of your party to enter Battlefield D!
+7132 : You have been given permission to enter! Entering Battlefield A.
+7133 : You have been given permission to enter! Entering Battlefield B.
+7134 : You have been given permission to enter! Entering Battlefield C.
+7135 : You have been given permission to enter! Entering Battlefield D.
+7136 : You have been given permission to enter! Entering Battlefield E.
+7137 : You have been given permission to enter! Entering Battlefield F.
+7138 : There's something funky going on with the number of people in Room A...
+7139 : There's something funky going on with the number of people in Room B...
+7140 : There's something funky going on with the number of people in Room C...
+7141 : _A _A talk
+7142 : _B _B talk
+7143 : _C _C talk
+7144 : _AID_A
+7145 : _BID_B
+7146 : _CID_C
 7147 : _A
 7148 : _A
-7149 : _B
+7149 : _A
 7150 : _B
 7151 : _B
-7152 : _C
+7152 : _B
 7153 : _C
 7154 : _C
-7156 : _Apending
-7157 : _Apending  pending
-7158 : _Bpending
-7159 : _Bpending  pending
-7160 : _Cpending
-7161 : _Cpending  pending
-7162 : _Apending
-7163 : _Bpending
-7164 : _Cpending
-7166 : defpcpending
-7167 : _A
-7168 : _B
-7169 : _C
-7170 : _A PC_A
-7171 : _B PC_B
-7172 : _C PC_C
-7173 : _A
-7174 : _B
-7175 : _C
-7176 : _A
-7177 : _B
-7178 : _C
-7179 : _A
-7180 : _B
-7181 : _C
-7182 : (_A)
-7183 : (_B)
-7184 : (_C)
-7186 : ENDPARA
-7187 : _A
-7188 : _B
-7189 : _C
-7190 : BAID
-7191 : CABID
-7192 : (AID)
-7193 : (BID)
-7194 : (CID)
-7195 : (AID)
-7196 : (BID)
-7197 : (CID)
-7198 : (A)
-7199 : (B)
-7200 : (C)
-7204 : _A
-7205 : _B
-7206 : _C
-7207 : _A
-7208 : _B
-7209 : _C
-7210 : _A
-7211 : _B
-7212 : _C
-7216 : %% %%
-7222 : _A
-7223 : _B
-7224 : _C
-7226 : _A
-7227 : _B
-7228 : _C
-7229 : _A
-7230 : _B
-7231 : _C
-7232 : pending
-7233 : _A
-7234 : _B
-7235 : _C
-7237 : _A
-7238 : _B
-7239 : _C
-7240 : _APC
-7241 : _BPC
-7242 : _CPC
-7246 : pending_A
-7247 : pending_B
-7248 : pending_C
-7251 : %% %%
-7252 : ID ###### #
-7253 : ID  ID
-7255 : ID
-7256 : _A
-7257 : _B
-7258 : _C
-7261 : _A
-7262 : _B
-7263 : _C
-7264 : pending _A
-7265 : pending _B
-7266 : pending _C
-7267 : _A
-7268 : _B
-7269 : _C
-7270 : _A _A talk
-7271 : _B _B talk
-7272 : _C _C talk
-7273 : _AID_A
-7274 : _BID_B
-7275 : _CID_C
-7276 : _A
+7155 : _C
+7157 : _Apending
+7158 : _Apending  pending
+7159 : _Bpending
+7160 : _Bpending  pending
+7161 : _Cpending
+7162 : _Cpending  pending
+7163 : _Apending
+7164 : _Bpending
+7165 : _Cpending
+7167 : defpcpending
+7168 : _A
+7169 : _B
+7170 : _C
+7171 : _A PC_A
+7172 : _B PC_B
+7173 : _C PC_C
+7174 : _A
+7175 : _B
+7176 : _C
+7177 : _A
+7178 : _B
+7179 : _C
+7180 : _A
+7181 : _B
+7182 : _C
+7183 : (_A)
+7184 : (_B)
+7185 : (_C)
+7187 : ENDPARA
+7188 : _A
+7189 : _B
+7190 : _C
+7191 : BAID
+7192 : CABID
+7193 : (AID)
+7194 : (BID)
+7195 : (CID)
+7196 : (AID)
+7197 : (BID)
+7198 : (CID)
+7199 : (A)
+7200 : (B)
+7201 : (C)
+7205 : _A
+7206 : _B
+7207 : _C
+7208 : _A
+7209 : _B
+7210 : _C
+7211 : _A
+7212 : _B
+7213 : _C
+7217 : %% %%
+7223 : _A
+7224 : _B
+7225 : _C
+7227 : _A
+7228 : _B
+7229 : _C
+7230 : _A
+7231 : _B
+7232 : _C
+7233 : pending
+7234 : _A
+7235 : _B
+7236 : _C
+7238 : _A
+7239 : _B
+7240 : _C
+7241 : _APC
+7242 : _BPC
+7243 : _CPC
+7247 : pending_A
+7248 : pending_B
+7249 : pending_C
+7252 : %% %%
+7253 : ID ###### #
+7254 : ID  ID
+7256 : ID
+7257 : _A
+7258 : _B
+7259 : _C
+7262 : _A
+7263 : _B
+7264 : _C
+7265 : pending _A
+7266 : pending _B
+7267 : pending _C
+7268 : _A
+7269 : _B
+7270 : _C
+7271 : _A _A talk
+7272 : _B _B talk
+7273 : _C _C talk
+7274 : _AID_A
+7275 : _BID_B
+7276 : _CID_C
 7277 : _A
 7278 : _A
-7279 : _B
+7279 : _A
 7280 : _B
 7281 : _B
-7282 : _C
+7282 : _B
 7283 : _C
 7284 : _C
-7286 : _Apending
-7287 : _Apending  pending
-7288 : _Bpending
-7289 : _Bpending  pending
-7290 : _Cpending
-7291 : _Cpending  pending
-7292 : _Apending
-7293 : _Bpending
-7294 : _Cpending
-7296 : defpcpending
-7297 : _A
-7298 : _B
-7299 : _C
-7300 : _A PC_A
-7301 : _B PC_B
-7302 : _C PC_C
-7303 : _A
-7304 : _B
-7305 : _C
-7306 : _A
-7307 : _B
-7308 : _C
-7309 : _A
-7310 : _B
-7311 : _C
-7312 : (_A)
-7313 : (_B)
-7314 : (_C)
-7316 : ENDPARA
-7317 : _A
-7318 : _B
-7319 : _C
-7320 : BAID
-7321 : CABID
-7322 : (There is no ID for A)
-7323 : (There is no ID for B)
-7324 : (There is no ID for C)
-7325 : (An ID exists for A)
-7326 : (An ID exists for B)
-7327 : (An ID exists for C)
-7328 : (A is already reserved)
-7329 : (B is already reserved)
-7330 : (C is already reserved)
-7331 : (You do not have the proper settings to enter)
-7332 : Currently, # party members in this area have clearance to enter Limbus.
+7285 : _C
+7287 : _Apending
+7288 : _Apending  pending
+7289 : _Bpending
+7290 : _Bpending  pending
+7291 : _Cpending
+7292 : _Cpending  pending
+7293 : _Apending
+7294 : _Bpending
+7295 : _Cpending
+7297 : defpcpending
+7298 : _A
+7299 : _B
+7300 : _C
+7301 : _A PC_A
+7302 : _B PC_B
+7303 : _C PC_C
+7304 : _A
+7305 : _B
+7306 : _C
+7307 : _A
+7308 : _B
+7309 : _C
+7310 : _A
+7311 : _B
+7312 : _C
+7313 : (_A)
+7314 : (_B)
+7315 : (_C)
+7317 : ENDPARA
+7318 : _A
+7319 : _B
+7320 : _C
+7321 : BAID
+7322 : CABID
+7323 : (There is no ID for A)
+7324 : (There is no ID for B)
+7325 : (There is no ID for C)
+7326 : (An ID exists for A)
+7327 : (An ID exists for B)
+7328 : (An ID exists for C)
+7329 : (A is already reserved)
+7330 : (B is already reserved)
+7331 : (C is already reserved)
+7332 : (You do not have the proper settings to enter)
 7333 : Currently, # party members in this area have clearance to enter Limbus.
-7334 : You are the only player with clearance to enter Limbus.
-7335 : ou may stay in Limbus for # [minute/minutes].
-7336 : The boss mode is currently set at #.
-7337 : Trying for room: #. Desired boss mode: #.
-7339 : DEBUG1
-7340 : Return to the waiting room? No. Yes.
-7341 : (DEBUG) Failed to return to default battlefield settings. Canceling now.
-7342 : # # BOSS_STATUS#
-7343 : # ID#
-7344 : # # BOSS_STATUS# #pending
-7345 : PARTY0# PARTY1#PARTY2#
-7346 : PARTY3# PARTY4#PARTY5#
-7349 : CLI_NUM0 = #
-7350 : CLI_NUM1 = #
-7351 : CLI_NUM2 = #
-7352 : CLI_NUM3 = #
-7353 : CLI_NUM4 = #
-7354 : CLI_NUM5 = #
-7355 : CLI_NUM6 = #
-7356 : CLI_NUM7 = #
-7357 : Skip the event? Yes. No.
-7358 : All party members in Limbus have fallen in battle. Exiting now.
-7359 : All players in Room A have fallen in battle. Exiting now.
-7360 : All players in Room B have fallen in battle. Exiting now.
-7361 : All players in Room C have fallen in battle. Exiting now.
-7362 : All players in Room D have fallen in battle. Exiting now.
-7363 : All players in Room E have fallen in battle. Exiting now.
-7364 : All players in Room F have fallen in battle. Exiting now.
-7365 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes], # [second/seconds].
-7366 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes].
-7368 : Only # party members have clearance to enter Limbus. The area has reached capacity.
-7369 : You cannot enter. Your settings differ from those who have already entered.
+7334 : Currently, # party members in this area have clearance to enter Limbus.
+7335 : You are the only player with clearance to enter Limbus.
+7336 : ou may stay in Limbus for # [minute/minutes].
+7337 : The boss mode is currently set at #.
+7338 : Trying for room: #. Desired boss mode: #.
+7340 : DEBUG1
+7341 : Return to the waiting room? No. Yes.
+7342 : (DEBUG) Failed to return to default battlefield settings. Canceling now.
+7343 : # # BOSS_STATUS#
+7344 : # ID#
+7345 : # # BOSS_STATUS# #pending
+7346 : PARTY0# PARTY1#PARTY2#
+7347 : PARTY3# PARTY4#PARTY5#
+7350 : CLI_NUM0 = #
+7351 : CLI_NUM1 = #
+7352 : CLI_NUM2 = #
+7353 : CLI_NUM3 = #
+7354 : CLI_NUM4 = #
+7355 : CLI_NUM5 = #
+7356 : CLI_NUM6 = #
+7357 : CLI_NUM7 = #
+7358 : Skip the event? Yes. No.
+7359 : All party members in Limbus have fallen in battle. Exiting now.
+7360 : All players in Room A have fallen in battle. Exiting now.
+7361 : All players in Room B have fallen in battle. Exiting now.
+7362 : All players in Room C have fallen in battle. Exiting now.
+7363 : All players in Room D have fallen in battle. Exiting now.
+7364 : All players in Room E have fallen in battle. Exiting now.
+7365 : All players in Room F have fallen in battle. Exiting now.
+7366 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes], # [second/seconds].
+7367 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes].
+7369 : Only # party members have clearance to enter Limbus. The area has reached capacity.
 7370 : You cannot enter. Your settings differ from those who have already entered.
-7371 : You insert the % polished with % into the slot!
-7372 : The light in the % has grown dim.
-7373 : The % is not responding.
-7374 : our time in Limbus has been extended # [minute/minutes].
-7375 : ou have # [minute/minutes] left in Limbus.
-7376 : ou have # [second/seconds] left in Limbus.
-7377 : Tallying conquest results...
-7378 : Conquest results tallied.
-7379 : This region is currently under San d'Orian control.
-7380 : This region is currently under Bastokan control.
-7381 : This region is currently under Windurstian control.
-7382 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7383 : This region is currently neutral.
-7384 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7385 : All three nations are tied for first place.
-7386 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7387 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7388 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7389 : All three nations are tied for first place.
-7390 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7391 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7392 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7393 : All three nations are tied for first place.
-7394 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7395 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7396 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7397 : All three nations are tied for first place.
-7398 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7399 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7400 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7401 : Global balance of power: All three nations are tied for first place.
-7402 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7403 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7404 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7405 : All three nations are tied for first place.
-7406 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7407 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7408 : Conquest update: This region is currently neutral.
-7409 : Conquest update: This region is currently under San d'Orian control.
-7410 : Conquest update: This region is currently under Bastokan control.
-7411 : Conquest update: This region is currently under Windurstian control.
-7412 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7413 : All three nations are at a deadlock.
-7414 : The beastmen are on the rise.
-7415 : Regional influence: San d'Oria - Dominant
-7416 : Regional influence: San d'Oria - Major
-7417 : Regional influence: San d'Oria - Minor
-7418 : Regional influence: San d'Oria - Minimal
-7419 : Bastok - Dominant
-7420 : Bastok - Major
-7421 : Bastok - Minor
-7422 : Bastok - Minimal
-7423 : Windurst - Dominant
-7424 : Windurst - Major
-7425 : Windurst - Minor
-7426 : Windurst - Minimal
-7427 : Bastok and Windurst have formed an alliance.
-7428 : San d'Oria and Windurst have formed an alliance.
-7429 : San d'Oria and Bastok have formed an alliance.
-7430 : Bastok and Windurst are currently allies.
-7431 : San d'Oria and Windurst are currently allies.
-7432 : San d'Oria and Bastok are currently allies.
-7433 : # #
-7434 : # % #
-7435 : ITEM_ID:# :#
-7436 : :# :#
-7437 : [//]:[////] :#:#
-7438 : The beastmen are gaining power.
-7439 : San d'Oria's regional control is now 10% closer to the first place country's!
-7440 : Bastok's regional control is now 10% closer to the first place country's!
-7441 : Windurst's regional control are now 10% closer to the first place country's!
-7442 : San d'Oria's region points have increased!
-7443 : Bastok's region points have increased!
-7444 : Windurst's region points have increased!
-7445 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7446 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7447 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7448 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7449 : A Bastokan Expeditionary Force has been dispatched to this area.
-7450 : A Windurstian Expeditionary Force has been dispatched to this area.
-7451 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7452 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7453 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7454 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7455 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7456 : There was a curse on the beastmen's banner!
-7457 : The curse of the beastmen's banner has been lifted!
-7458 : There is a beastmen's banner.
-7534 : # #
+7371 : You cannot enter. Your settings differ from those who have already entered.
+7372 : You insert the % polished with % into the slot!
+7373 : The light in the % has grown dim.
+7374 : The % is not responding.
+7375 : our time in Limbus has been extended # [minute/minutes].
+7376 : ou have # [minute/minutes] left in Limbus.
+7377 : ou have # [second/seconds] left in Limbus.
+7378 : Tallying conquest results...
+7379 : Conquest results tallied.
+7380 : This region is currently under San d'Orian control.
+7381 : This region is currently under Bastokan control.
+7382 : This region is currently under Windurstian control.
+7383 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7384 : This region is currently neutral.
+7385 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7386 : All three nations are tied for first place.
+7387 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7388 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7389 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7390 : All three nations are tied for first place.
+7391 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7392 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7393 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7394 : All three nations are tied for first place.
+7395 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7396 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7397 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7398 : All three nations are tied for first place.
+7399 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7400 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7401 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7402 : Global balance of power: All three nations are tied for first place.
+7403 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7404 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7405 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7406 : All three nations are tied for first place.
+7407 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7408 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7409 : Conquest update: This region is currently neutral.
+7410 : Conquest update: This region is currently under San d'Orian control.
+7411 : Conquest update: This region is currently under Bastokan control.
+7412 : Conquest update: This region is currently under Windurstian control.
+7413 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7414 : All three nations are at a deadlock.
+7415 : The beastmen are on the rise.
+7416 : Regional influence: San d'Oria - Dominant
+7417 : Regional influence: San d'Oria - Major
+7418 : Regional influence: San d'Oria - Minor
+7419 : Regional influence: San d'Oria - Minimal
+7420 : Bastok - Dominant
+7421 : Bastok - Major
+7422 : Bastok - Minor
+7423 : Bastok - Minimal
+7424 : Windurst - Dominant
+7425 : Windurst - Major
+7426 : Windurst - Minor
+7427 : Windurst - Minimal
+7428 : Bastok and Windurst have formed an alliance.
+7429 : San d'Oria and Windurst have formed an alliance.
+7430 : San d'Oria and Bastok have formed an alliance.
+7431 : Bastok and Windurst are currently allies.
+7432 : San d'Oria and Windurst are currently allies.
+7433 : San d'Oria and Bastok are currently allies.
+7434 : # #
+7435 : # % #
+7436 : ITEM_ID:# :#
+7437 : :# :#
+7438 : [//]:[////] :#:#
+7439 : The beastmen are gaining power.
+7440 : San d'Oria's regional control is now 10% closer to the first place country's!
+7441 : Bastok's regional control is now 10% closer to the first place country's!
+7442 : Windurst's regional control are now 10% closer to the first place country's!
+7443 : San d'Oria's region points have increased!
+7444 : Bastok's region points have increased!
+7445 : Windurst's region points have increased!
+7446 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7447 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7448 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7449 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7450 : A Bastokan Expeditionary Force has been dispatched to this area.
+7451 : A Windurstian Expeditionary Force has been dispatched to this area.
+7452 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7453 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7454 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7455 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7456 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7457 : There was a curse on the beastmen's banner!
+7458 : The curse of the beastmen's banner has been lifted!
+7459 : There is a beastmen's banner.
 7535 : # #
-7536 : DEBUG: Flag error.
-7537 : DEBUG: You are in West Apollyon.
-7538 : DEBUG: You are in West Apollyon - Boss Room.
-7539 : DEBUG: You are in East Apollyon.
-7540 : DEBUG: You are in East Apollyon - Boss Room.
-7541 : DEBUG: West Apollyon - Boss Room. The coordinates you specified do not exist.
-7542 : DEBUG: East Apollyon - Boss Room The coordinates you specified do not exist.
-7543 : DEBUG: Stage clear!
-7544 : DEBUG: Reset vortex...
-7545 : Leave Apollyon? Yes. No.
-7546 : Enter the vortex? Yes. No.
-7547 : There is no response. You cannot escape!
-7548 : You have entered [SW Apollyon/NW Apollyon/SE Apollyon/NE Apollyon/Central Apollyon/CS Apollyon/CS Apollyon/Central Apollyon].
-7549 : Enter which part of Apollyon? None. SW Apollyon. NW Apollyon. SE Apollyon. NE Apollyon. Central Apollyon. CS Apollyon. CS Apollyon II. Central Apollyon II.
-7550 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
-7551 : Boss Room B: No level restriction. Up to 18 party or alliance members may enter.
-7552 : Boss Room C: No level restriction. Up to 18 party or alliance members may enter.
-7553 : Boss Room D: No level restriction. Up to 18 party or alliance members may enter.
-7554 : Boss Room E: No level restriction. Up to 18 party or alliance members may enter.
-7555 : Boss Room F: No level restriction. Up to 18 party or alliance members may enter.
-7556 : vortex materializes...
-7557 : Check the status of which area? None. SW Apollyon. NW Apollyon. SE Apollyon. NE Apollyon. Central Apollyon. CS Apollyon.
-7558 : There are currently no alliances in that area.
-7559 : The alliance currently in that area has # [minute/minutes] left in Apollyon.
+7536 : # #
+7537 : DEBUG: Flag error.
+7538 : DEBUG: You are in West Apollyon.
+7539 : DEBUG: You are in West Apollyon - Boss Room.
+7540 : DEBUG: You are in East Apollyon.
+7541 : DEBUG: You are in East Apollyon - Boss Room.
+7542 : DEBUG: West Apollyon - Boss Room. The coordinates you specified do not exist.
+7543 : DEBUG: East Apollyon - Boss Room The coordinates you specified do not exist.
+7544 : DEBUG: Stage clear!
+7545 : DEBUG: Reset vortex...
+7546 : Leave Apollyon? Yes. No.
+7547 : Enter the vortex? Yes. No.
+7548 : There is no response. You cannot escape!
+7549 : You have entered [SW Apollyon/NW Apollyon/SE Apollyon/NE Apollyon/Central Apollyon/CS Apollyon/CS Apollyon/Central Apollyon].
+7550 : Enter which part of Apollyon? None. SW Apollyon. NW Apollyon. SE Apollyon. NE Apollyon. Central Apollyon. CS Apollyon. CS Apollyon II. Central Apollyon II.
+7551 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
+7552 : Boss Room B: No level restriction. Up to 18 party or alliance members may enter.
+7553 : Boss Room C: No level restriction. Up to 18 party or alliance members may enter.
+7554 : Boss Room D: No level restriction. Up to 18 party or alliance members may enter.
+7555 : Boss Room E: No level restriction. Up to 18 party or alliance members may enter.
+7556 : Boss Room F: No level restriction. Up to 18 party or alliance members may enter.
+7557 : vortex materializes...
+7558 : Check the status of which area? None. SW Apollyon. NW Apollyon. SE Apollyon. NE Apollyon. Central Apollyon. CS Apollyon.
+7559 : There are currently no alliances in that area.
+7560 : The alliance currently in that area has # [minute/minutes] left in Apollyon.

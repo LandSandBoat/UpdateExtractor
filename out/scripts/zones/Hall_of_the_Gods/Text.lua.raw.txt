@@ -6376,7 +6376,7 @@
 6378 : The Adventurer Gratitude Campaign is currently underway! Enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6379 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6380 : You will be able to use the Assist Channel until #/#/# at #:# (JST).
-6381 : In celebration of the UT x FINAL FANTASY Collaboration, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
+6381 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6382 : You cannot obtain the %.
 6383 : You cannot obtain any more.
 6384 : You cannot obtain the %. Come back after sorting your inventory.
@@ -7047,530 +7047,531 @@
 7054 : You have been rewarded % as compensation.
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
-7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7058 : Word has been received of a Troll threat in Wajaom Woodlands.
-7059 : Word has been received of an undead threat in Bhaflau Thickets.
-7060 : You can't fish here.
-7061 : You can't fish without a rod in your hands.
-7062 : You can't fish without bait on the hook.
-7063 : You can't fish at the moment.
-7064 : You didn't catch anything.
-7065 : % caught a monster!
-7066 : Your line breaks.
-7067 : Your rod breaks.
-7068 : Something caught the hook!
-7069 : You lost your catch.
-7070 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7071 : You feel there's something here.
-7072 : You feel there's something nearby.
-7073 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7074 : % caught  %!
-7075 : You dig and you dig, but find nothing.
-7076 : #/%
-7077 : Your rod breaks. Whatever caught the hook was pretty big.
-7078 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7079 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7080 : You lost your catch due to your lack of skill.
-7081 : Number fished : # Original Dice No. ## Result # (0=caught)
-7082 : You didn't catch anything.
-7083 : The paper on your % ripped.
-7084 : A tiny goldfish approaches!
-7085 : A plump, black goldfish approaches!
-7086 : A fat, juicy goldfish approaches!
-7087 : There are no goldfish to be found...
-7088 : % caught %, but cannot carry any more items. % regretfully releases it.
-7089 : The goldfish slipped off your scoop...
-7090 : ch# skill up check.
-7091 : a:#.
-7092 : Time # / Status # / #
-7093 : d:#. e:#. f:#. g:#.
-7094 : h: #. i: #. sr: #.
-7095 : j:#. k:#.
-7096 : You give up and reel in your line.
-7097 : You give up.
-7098 : % obtains # gil.
-7099 : % caught %!
-7100 : You don't know how much longer you can keep this one on the line...
-7101 : You have a good feeling about this one!
-7102 : You have a bad feeling about this one.
-7103 : You have a terrible feeling about this one...
-7104 : You don't know if you have enough skill to reel this one in.
-7105 : You're fairly sure you don't have enough skill to reel this one in.
-7106 : You're positive you don't have enough skill to reel this one in!
-7107 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7108 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7109 : l: #. m: #. n: #. CH: #.
-7110 : Something caught the hook!!!
-7111 : You feel something pulling at your line.
-7112 : Something clamps onto your line ferociously!
-7113 : Your keen angler's senses tell you that this is the pull of %!
-7114 : This strength... You get the sense that you are on the verge of an epic catch!
-7115 : The timer has started. # seconds remaining.
-7116 : #sec.#/#sec.
-7117 : 0:# 1:# 2:# 3:#
-7118 : 4:# 5:# 6:# 7:#
-7119 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7120 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7121 : #/#(#
-7122 : Version invalid error!
-7123 : Hurry before the goldfish sees you!
-7124 : % fishes up a large box!
-7126 : Fish No# / Bait No# / Hit# >>> #
-7127 : Point# >>> #
-7128 : %(#) skill#
-7129 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7130 : Im Rnd : # Pz Rnd : #
-7131 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7132 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7133 : skill : # size : # kind : # sch : #
-7134 : time : # mes : # flag : # bonus : #
-7135 : item : # hp : # pow : # swing : #
-7136 : suc : # cons : # weight : # +- : #
-7137 : speed : # +- : # exc : # client : #
-7138 : general : #
-7139 : ro:# rs:# ps:# dt:#
-7140 : ra:# ti:#
-7141 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7142 : You get the distinct sense that your moogle friend frequents this spot...
-7143 : You have a feeling that your moogle friend has been through this way...
-7144 : You suspect that the scenery around here would be to a moogle's liking...
-7145 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7146 : You have a hunch that this area would be favored by moogles...
-7147 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7148 : % catches # %!
-7149 : % obtained %!
-7150 : It appears your chocobo found this item with ease.
-7151 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7152 : FPT # DPT # DoT#
-7153 : FPT # TDPT # h#
-7154 : You cannot fish at this time.
-7155 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7156 : You discover a cache of beastman resources and receive # Imperial Standing!
-7157 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7158 : You receive # bayld!
-7159 : Your chocobo refuses to partake of the %.
-7160 : We've been waiting for you, %.
-7161 : I've got a score to settle with Eald'narche. It's time to put an end to that midget's plan!
-7162 : I am not certain about what he meant by being blessed by the light, but I do know that we need that % you hold to find out.
-7163 : So that's how it works... Well, there's no turning back now. Let's go, Zeid. You too, %.
-7164 : It seems as if we cannot continue on any further.
-7165 : What's going on? Does this mean our power was not accepted by the crystal?
-7166 : Long have I awaited thine arrival...
-7167 : Welcome, mortals, to the Temple of Altana. Eons ago, this temple was destroyed. However, its appearance doth not hinder its function.
-7168 : Thou hast come here to try and stop Eald'narche--to keep him from opening the Gate of the Gods...
-7169 : I am Yve'noile, a servant of the Dawn Goddess. I watch over the path leading to the gate.
-7170 : All the Zilart, including Eald'narche, are still bound by our cursed past.
-7171 : As thou already know, his plan began ten thousand years ago when he came into contact with the five crystals that rest beneath the surface of Vana'diel. The true crystals...
-7172 : The crystals that exist above the earth now are nothing but mere replicas, lacking true power.
-7173 : We Zilart harnessed the five true crystals' power, divided it elementally, and succeeded in containing it in a smaller form.
-7174 : However, during the Meltdown, the energy of these smaller crystals was simultaneously released and spread to the far reaches of Vana'diel.
-7175 : Over centuries, that energy accumulated inside the bodies of the living beings on this planet, causing them to crystallize. Thus, they took the form of the crystals that are found throughout Vana'diel.
-7176 : Mortals are an incomplete species. When Eald'narche's quest for Paradise was thwarted, life on this planet lost its perfection.
-7177 : Particularly, thine inability to communicate with the others of thy race casts a shadow over thy development.
-7178 : This inability became increasingly evident after the Meltdown divided thee into the five races.
-7179 : The arrogance of the Elvaan, the envy of the Mithra, the cowardice of the Tarutaru, the apathy of the Humes, the rage of the Galka... These are the traits thou must carry with thee as thou make thy journeys through life.
-7180 : However, unlike the tales thy legends tell, these traits are not some ancient curse. They are merely an aftereffect of the energy released during the Meltdown.
-7181 : One can understand why Eald'narche would aspire for perfection...
-7182 : However, one can see why others would acknowledge the benefits of imperfection.
-7183 : On the other side of this gate lies the Gate of the Gods, Tu'Lia.
-7184 : I beg of thee. Release Eald'narche, and what remains of the Zilart consciousness, from the crystal's binds. I pray for thy safe journey.
-7185 : But as one bright star shines through the clouds at night...
-7186 : And as one song rings clear above the roar of beasts...
-7187 : We hold to one hope in these darkest of times.
-7188 : May the Goddess of the Dawn protect thee in Her mercy...
-7189 : And someday, that hope will become our dreams...our prayers...
-7191 : There is an oddly shaped depression in the center of the grate. The grate does not seem to be a door, as it is one with the walls around it.
-7192 : EX
-7195 : Press the confirmation button.
-7196 : What song do you want to hear? (1) Next Page. Field Battle (Solo). Field Battle (Party). Dungeon Battle (Solo). Dungeon Battle (Party). Windurst. San d'Oria. Bastok. Chateau d'Oraguille. Metalworks. Heavens Tower. Jeuno. Ru'Lude Gardens. Selbina. Mahura. Ronfaure. Sarutabaruta. Gustaberg. Batallia Downs. Sauromugue Champaign. Rolanberry Fields.
-7197 : What song do you want to hear? (2) Next Page. Northlands. Delkfutt's Tower. Castle Zvahl. Shadow Lord Battle. Shadow Lord Theme. Bravery. Ghelsba. Ferry. Prelude. Mog House. Installation. Game Over, man! Airship. No Hope 1. No Hope 2. Anger. Sadness. Mid-Boss. Sometime, Somewhere. Memories. Uneasy. Theme (2). Theme (3).
-7198 : What song do you want to hear? (3) First Page. 130. 131. 132. 133. 165. 166. 167. 168. 170. Music...stop!
-7199 : What song do you want to hear? (4) Next Page. EX Field Battle! (Party). EX Dungeon Battle (Party). EX Mid-Boss. Eald'narche. Crystal Warriors. Raogrimm's Theme. To Tu'Lia! Athanasium. Grav'iton. Kam'lanaut's Theme. EX Ending. Quest Complete! Quest 1. Quest 2. Quest 3.
-7200 : What song do you want to hear? (5) Previous Page. Yve'noile. Norg. Kazham. Rabao. Jungle Fever. Altepa. Tu'Lia. The Sanctuary of Zi'Tah. Ro'Maeve. The Hall of the Gods. Ve'Lugannon Palace. Chocobo de Go. Wedding Bells.
-7201 : 153 154
-7203 : Use the transporting device? Yes. Not yet.
-7204 : Tallying conquest results...
-7205 : Conquest results tallied.
-7206 : This region is currently under San d'Orian control.
-7207 : This region is currently under Bastokan control.
-7208 : This region is currently under Windurstian control.
-7209 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7210 : This region is currently neutral.
-7211 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7212 : All three nations are tied for first place.
-7213 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7214 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7215 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7216 : All three nations are tied for first place.
-7217 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7218 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7219 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7220 : All three nations are tied for first place.
-7221 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7222 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7223 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7224 : All three nations are tied for first place.
-7225 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7226 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7227 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7228 : Global balance of power: All three nations are tied for first place.
-7229 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7230 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7231 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7232 : All three nations are tied for first place.
-7233 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7234 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7235 : Conquest update: This region is currently neutral.
-7236 : Conquest update: This region is currently under San d'Orian control.
-7237 : Conquest update: This region is currently under Bastokan control.
-7238 : Conquest update: This region is currently under Windurstian control.
-7239 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7240 : All three nations are at a deadlock.
-7241 : The beastmen are on the rise.
-7242 : Regional influence: San d'Oria - Dominant
-7243 : Regional influence: San d'Oria - Major
-7244 : Regional influence: San d'Oria - Minor
-7245 : Regional influence: San d'Oria - Minimal
-7246 : Bastok - Dominant
-7247 : Bastok - Major
-7248 : Bastok - Minor
-7249 : Bastok - Minimal
-7250 : Windurst - Dominant
-7251 : Windurst - Major
-7252 : Windurst - Minor
-7253 : Windurst - Minimal
-7254 : Bastok and Windurst have formed an alliance.
-7255 : San d'Oria and Windurst have formed an alliance.
-7256 : San d'Oria and Bastok have formed an alliance.
-7257 : Bastok and Windurst are currently allies.
-7258 : San d'Oria and Windurst are currently allies.
-7259 : San d'Oria and Bastok are currently allies.
-7260 : # #
-7261 : # % #
-7262 : ITEM_ID:# :#
-7263 : :# :#
-7264 : [//]:[////] :#:#
-7265 : The beastmen are gaining power.
-7266 : San d'Oria's regional control is now 10% closer to the first place country's!
-7267 : Bastok's regional control is now 10% closer to the first place country's!
-7268 : Windurst's regional control are now 10% closer to the first place country's!
-7269 : San d'Oria's region points have increased!
-7270 : Bastok's region points have increased!
-7271 : Windurst's region points have increased!
-7272 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7273 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7274 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7275 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7276 : A Bastokan Expeditionary Force has been dispatched to this area.
-7277 : A Windurstian Expeditionary Force has been dispatched to this area.
-7278 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7279 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7280 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7281 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7282 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7283 : There was a curse on the beastmen's banner!
-7284 : The curse of the beastmen's banner has been lifted!
-7285 : There is a beastmen's banner.
-7361 : # #
+7057 : You receive # deeds for a total of #!
+7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7059 : Word has been received of a Troll threat in Wajaom Woodlands.
+7060 : Word has been received of an undead threat in Bhaflau Thickets.
+7061 : You can't fish here.
+7062 : You can't fish without a rod in your hands.
+7063 : You can't fish without bait on the hook.
+7064 : You can't fish at the moment.
+7065 : You didn't catch anything.
+7066 : % caught a monster!
+7067 : Your line breaks.
+7068 : Your rod breaks.
+7069 : Something caught the hook!
+7070 : You lost your catch.
+7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7072 : You feel there's something here.
+7073 : You feel there's something nearby.
+7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7075 : % caught  %!
+7076 : You dig and you dig, but find nothing.
+7077 : #/%
+7078 : Your rod breaks. Whatever caught the hook was pretty big.
+7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7081 : You lost your catch due to your lack of skill.
+7082 : Number fished : # Original Dice No. ## Result # (0=caught)
+7083 : You didn't catch anything.
+7084 : The paper on your % ripped.
+7085 : A tiny goldfish approaches!
+7086 : A plump, black goldfish approaches!
+7087 : A fat, juicy goldfish approaches!
+7088 : There are no goldfish to be found...
+7089 : % caught %, but cannot carry any more items. % regretfully releases it.
+7090 : The goldfish slipped off your scoop...
+7091 : ch# skill up check.
+7092 : a:#.
+7093 : Time # / Status # / #
+7094 : d:#. e:#. f:#. g:#.
+7095 : h: #. i: #. sr: #.
+7096 : j:#. k:#.
+7097 : You give up and reel in your line.
+7098 : You give up.
+7099 : % obtains # gil.
+7100 : % caught %!
+7101 : You don't know how much longer you can keep this one on the line...
+7102 : You have a good feeling about this one!
+7103 : You have a bad feeling about this one.
+7104 : You have a terrible feeling about this one...
+7105 : You don't know if you have enough skill to reel this one in.
+7106 : You're fairly sure you don't have enough skill to reel this one in.
+7107 : You're positive you don't have enough skill to reel this one in!
+7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7110 : l: #. m: #. n: #. CH: #.
+7111 : Something caught the hook!!!
+7112 : You feel something pulling at your line.
+7113 : Something clamps onto your line ferociously!
+7114 : Your keen angler's senses tell you that this is the pull of %!
+7115 : This strength... You get the sense that you are on the verge of an epic catch!
+7116 : The timer has started. # seconds remaining.
+7117 : #sec.#/#sec.
+7118 : 0:# 1:# 2:# 3:#
+7119 : 4:# 5:# 6:# 7:#
+7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7122 : #/#(#
+7123 : Version invalid error!
+7124 : Hurry before the goldfish sees you!
+7125 : % fishes up a large box!
+7127 : Fish No# / Bait No# / Hit# >>> #
+7128 : Point# >>> #
+7129 : %(#) skill#
+7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7131 : Im Rnd : # Pz Rnd : #
+7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7134 : skill : # size : # kind : # sch : #
+7135 : time : # mes : # flag : # bonus : #
+7136 : item : # hp : # pow : # swing : #
+7137 : suc : # cons : # weight : # +- : #
+7138 : speed : # +- : # exc : # client : #
+7139 : general : #
+7140 : ro:# rs:# ps:# dt:#
+7141 : ra:# ti:#
+7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7143 : You get the distinct sense that your moogle friend frequents this spot...
+7144 : You have a feeling that your moogle friend has been through this way...
+7145 : You suspect that the scenery around here would be to a moogle's liking...
+7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7147 : You have a hunch that this area would be favored by moogles...
+7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7149 : % catches # %!
+7150 : % obtained %!
+7151 : It appears your chocobo found this item with ease.
+7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7153 : FPT # DPT # DoT#
+7154 : FPT # TDPT # h#
+7155 : You cannot fish at this time.
+7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7157 : You discover a cache of beastman resources and receive # Imperial Standing!
+7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7159 : You receive # bayld!
+7160 : Your chocobo refuses to partake of the %.
+7161 : We've been waiting for you, %.
+7162 : I've got a score to settle with Eald'narche. It's time to put an end to that midget's plan!
+7163 : I am not certain about what he meant by being blessed by the light, but I do know that we need that % you hold to find out.
+7164 : So that's how it works... Well, there's no turning back now. Let's go, Zeid. You too, %.
+7165 : It seems as if we cannot continue on any further.
+7166 : What's going on? Does this mean our power was not accepted by the crystal?
+7167 : Long have I awaited thine arrival...
+7168 : Welcome, mortals, to the Temple of Altana. Eons ago, this temple was destroyed. However, its appearance doth not hinder its function.
+7169 : Thou hast come here to try and stop Eald'narche--to keep him from opening the Gate of the Gods...
+7170 : I am Yve'noile, a servant of the Dawn Goddess. I watch over the path leading to the gate.
+7171 : All the Zilart, including Eald'narche, are still bound by our cursed past.
+7172 : As thou already know, his plan began ten thousand years ago when he came into contact with the five crystals that rest beneath the surface of Vana'diel. The true crystals...
+7173 : The crystals that exist above the earth now are nothing but mere replicas, lacking true power.
+7174 : We Zilart harnessed the five true crystals' power, divided it elementally, and succeeded in containing it in a smaller form.
+7175 : However, during the Meltdown, the energy of these smaller crystals was simultaneously released and spread to the far reaches of Vana'diel.
+7176 : Over centuries, that energy accumulated inside the bodies of the living beings on this planet, causing them to crystallize. Thus, they took the form of the crystals that are found throughout Vana'diel.
+7177 : Mortals are an incomplete species. When Eald'narche's quest for Paradise was thwarted, life on this planet lost its perfection.
+7178 : Particularly, thine inability to communicate with the others of thy race casts a shadow over thy development.
+7179 : This inability became increasingly evident after the Meltdown divided thee into the five races.
+7180 : The arrogance of the Elvaan, the envy of the Mithra, the cowardice of the Tarutaru, the apathy of the Humes, the rage of the Galka... These are the traits thou must carry with thee as thou make thy journeys through life.
+7181 : However, unlike the tales thy legends tell, these traits are not some ancient curse. They are merely an aftereffect of the energy released during the Meltdown.
+7182 : One can understand why Eald'narche would aspire for perfection...
+7183 : However, one can see why others would acknowledge the benefits of imperfection.
+7184 : On the other side of this gate lies the Gate of the Gods, Tu'Lia.
+7185 : I beg of thee. Release Eald'narche, and what remains of the Zilart consciousness, from the crystal's binds. I pray for thy safe journey.
+7186 : But as one bright star shines through the clouds at night...
+7187 : And as one song rings clear above the roar of beasts...
+7188 : We hold to one hope in these darkest of times.
+7189 : May the Goddess of the Dawn protect thee in Her mercy...
+7190 : And someday, that hope will become our dreams...our prayers...
+7192 : There is an oddly shaped depression in the center of the grate. The grate does not seem to be a door, as it is one with the walls around it.
+7193 : EX
+7196 : Press the confirmation button.
+7197 : What song do you want to hear? (1) Next Page. Field Battle (Solo). Field Battle (Party). Dungeon Battle (Solo). Dungeon Battle (Party). Windurst. San d'Oria. Bastok. Chateau d'Oraguille. Metalworks. Heavens Tower. Jeuno. Ru'Lude Gardens. Selbina. Mahura. Ronfaure. Sarutabaruta. Gustaberg. Batallia Downs. Sauromugue Champaign. Rolanberry Fields.
+7198 : What song do you want to hear? (2) Next Page. Northlands. Delkfutt's Tower. Castle Zvahl. Shadow Lord Battle. Shadow Lord Theme. Bravery. Ghelsba. Ferry. Prelude. Mog House. Installation. Game Over, man! Airship. No Hope 1. No Hope 2. Anger. Sadness. Mid-Boss. Sometime, Somewhere. Memories. Uneasy. Theme (2). Theme (3).
+7199 : What song do you want to hear? (3) First Page. 130. 131. 132. 133. 165. 166. 167. 168. 170. Music...stop!
+7200 : What song do you want to hear? (4) Next Page. EX Field Battle! (Party). EX Dungeon Battle (Party). EX Mid-Boss. Eald'narche. Crystal Warriors. Raogrimm's Theme. To Tu'Lia! Athanasium. Grav'iton. Kam'lanaut's Theme. EX Ending. Quest Complete! Quest 1. Quest 2. Quest 3.
+7201 : What song do you want to hear? (5) Previous Page. Yve'noile. Norg. Kazham. Rabao. Jungle Fever. Altepa. Tu'Lia. The Sanctuary of Zi'Tah. Ro'Maeve. The Hall of the Gods. Ve'Lugannon Palace. Chocobo de Go. Wedding Bells.
+7202 : 153 154
+7204 : Use the transporting device? Yes. Not yet.
+7205 : Tallying conquest results...
+7206 : Conquest results tallied.
+7207 : This region is currently under San d'Orian control.
+7208 : This region is currently under Bastokan control.
+7209 : This region is currently under Windurstian control.
+7210 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7211 : This region is currently neutral.
+7212 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7213 : All three nations are tied for first place.
+7214 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7215 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7216 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7217 : All three nations are tied for first place.
+7218 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7219 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7220 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7221 : All three nations are tied for first place.
+7222 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7223 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7224 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7225 : All three nations are tied for first place.
+7226 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7227 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7228 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7229 : Global balance of power: All three nations are tied for first place.
+7230 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7231 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7232 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7233 : All three nations are tied for first place.
+7234 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7235 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7236 : Conquest update: This region is currently neutral.
+7237 : Conquest update: This region is currently under San d'Orian control.
+7238 : Conquest update: This region is currently under Bastokan control.
+7239 : Conquest update: This region is currently under Windurstian control.
+7240 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7241 : All three nations are at a deadlock.
+7242 : The beastmen are on the rise.
+7243 : Regional influence: San d'Oria - Dominant
+7244 : Regional influence: San d'Oria - Major
+7245 : Regional influence: San d'Oria - Minor
+7246 : Regional influence: San d'Oria - Minimal
+7247 : Bastok - Dominant
+7248 : Bastok - Major
+7249 : Bastok - Minor
+7250 : Bastok - Minimal
+7251 : Windurst - Dominant
+7252 : Windurst - Major
+7253 : Windurst - Minor
+7254 : Windurst - Minimal
+7255 : Bastok and Windurst have formed an alliance.
+7256 : San d'Oria and Windurst have formed an alliance.
+7257 : San d'Oria and Bastok have formed an alliance.
+7258 : Bastok and Windurst are currently allies.
+7259 : San d'Oria and Windurst are currently allies.
+7260 : San d'Oria and Bastok are currently allies.
+7261 : # #
+7262 : # % #
+7263 : ITEM_ID:# :#
+7264 : :# :#
+7265 : [//]:[////] :#:#
+7266 : The beastmen are gaining power.
+7267 : San d'Oria's regional control is now 10% closer to the first place country's!
+7268 : Bastok's regional control is now 10% closer to the first place country's!
+7269 : Windurst's regional control are now 10% closer to the first place country's!
+7270 : San d'Oria's region points have increased!
+7271 : Bastok's region points have increased!
+7272 : Windurst's region points have increased!
+7273 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7274 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7275 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7276 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7277 : A Bastokan Expeditionary Force has been dispatched to this area.
+7278 : A Windurstian Expeditionary Force has been dispatched to this area.
+7279 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7280 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7281 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7282 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7283 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7284 : There was a curse on the beastmen's banner!
+7285 : The curse of the beastmen's banner has been lifted!
+7286 : There is a beastmen's banner.
 7362 : # #
-7363 : The depression in the center of the grate must be a clue...
-7364 : The % begins to glow.
-7365 : Insert the %? Yes. No.
-7366 : There is nothing out of the ordinary here.
-7367 : You can hear a strange voice... Items, items, la la la la la
-7368 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7369 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7370 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7371 : Now, listen close...
-7372 : Oh... Well, if that's the case, I'm outta here.
-7373 : The Goblin slipped away when you were not looking...
-7374 : You can hear a strange, raspy voice...
-7375 : I travel......hear lots... Hear...stories... Can tell...if...
-7376 : .........listen......
-7377 : Oh...... ...outta here.........
-7378 : Do you want to hear a story? No, thank you. Let's hear one.
-7379 : What story would you like to be told? On second thought, maybe later. The Gate of the Gods(pt.1). The Gate of the Gods(pt.2). Born of Her Nightmares. Death and Rebirth. Emissaries of God. Beneath a Blood-red Sky. Meanwhile, Back on Abyssea. Exploring the Ruins(pt.1). Exploring the Ruins(pt.2). Exploring the Ruins(pt.3). Exploring the Ruins(pt.4). Exploring the Ruins(pt.5). Exploring the Ruins(pt.6). Exploring the Ruins(pt.7). Become Something More(pt.1). Become Something More(pt.2).
-7383 : Emeline! Can you hear me!?
-7384 : What--?  Where... Where am I...?
-7385 : Aldo...? Is that you...?
-7386 : Emeline...could it truly be? After all these years...
-7387 : Aldo... My...brother...
-7388 : No! Emeline!!!
-7389 : No...! Where are they taking me!?  Aldo, help me!
-7390 : (Curses! No...I won't let them take you from me again!)
-7391 : It's no use, Uncle...where she is now, no words can reach her. Mother's dreaming, you see.
-7392 : Lost in a waking dream...just like me.
-7393 : Deep in slumber, freed from the restraints of my physical body... It is here that the voice of the Seed Crystal speaks to me.
-7394 : I awaken, only to remember nothing.
-7395 : It's the same for mother, you see. Only in her dreams does she remember a past too frightening, too painful to face with waking eyes.
-7396 : Only in her dreams does she remember you, Uncle Aldo.
-7397 : Knowing this, would you open her eyes to the light of the world once more?
-7398 : The choice belongs to you alone, Uncle.
-7399 : And the power to save this world from destruction is yours, %.
-7400 : You, and all living beings on Vana'diel. It is your will to live--your deep love for the world you call home--that is the key. Only you can instill the antiphon with the strength to counteract the echo...
-7401 : So what will your choice be, Uncle Aldo? %?
-7402 : Will you silence the echo to save this world from destruction? Even knowing it would mean death for the sister you knew, will you do what must be done?
-7403 : If you have the courage to answer, make way for the Stellar Fulcrum at the peak of Delkfutt's Tower.
-7404 : We'll be waiting for you there.
-7405 : Perhaps...we're all just living inside the crystal's dream.
-7406 : (Emeline...)
-7407 : Arrrg, %. Mighty good o' ye t' oblige me invite t' this out-o'-the-way place, matey.
-7408 : Y'see, we be needin' the...errr, somethin' 'r whats hereabouts. Magenta field or some magnetic feel or some such. The sciency stuff be way off me maps. Here be monsters, yarrr.
-7409 : Last we spoke--last I prrrattled, more like--I ga'e ye me solemn word I'd cork up me ramblin'. An' a pirate's word be as good as the gold he hoards. Arrrg.
-7410 : So it oughta please ye t' know someone else'll do most o' the talkin' today.
-7411 : Who be the special guest, ye ask? Why, none other'n the lil' mistress ye'd shown so much interrrest in, matey. As it happens, the feelin' be mutual, an' she been askin' after ye too.
-7412 : Out ye come now, lil' missy. %'s here an' awaitin' yer pleasurrre.
-7413 : My gratitude for this favor, Gilgamesh.
-7414 : No call fer thanks, now. Hearin' out the whims o' peppy young lasses be as much a hobby o' mine as borin' hapless adventurers t' tears with me inane blatherin'. Arrrg.
-7415 : Greetings, %. My name is Esha'ntarl. Before I begin, please accept my apologies for having to appear before you in this unseemly state.
-7416 : Unlike a chosen few, I do not possess the power to traverse worlds. For this reason, I requested that our meeting take place within the Hall of the Gods, that we might harness the energy that permeates these sacred grounds.
-7417 : Never before had a partial dimensional crossing such as this been attempted. I must express my relief that the experiment is a success, else we might never have had the opportunity to speak.
-7418 : Judging by your expression, I gather we are already acquainted in your world. It would seem fate has had a hand in bringing us together once more.
-7419 : Your wary expression tells me you have yet to cross paths with my counterpart in Vana'diel.
-7420 : Nevertheless, fate has now deemed it fit that we meet.
-7421 : The world of mortals--the collective lives of men--is as a great river, formed of innumerable tributaries converging upon a single, torrential flow.
-7422 : And you, %, are as a single leaf borne on the current...a current that brings together fellow drifters as often as it parts them.
-7423 : Be it distant future or forgotten past, such is your destiny as is writ in the stars.
-7424 : A destiny you share with your counterpart in Abyssea...
-7425 : ...
-7426 : Well do I know of your valor, %, the selfless actions you have taken on our world's behalf. To you I would entrust the truth of Abyssea, a secret I have kept closely guarded for the longest time.
-7427 : The cataclysm that has ravaged the land--it is a thing spawned from the will of Promathia, a primeval divinity who has stirred to wakefulness with the coming of His worldly avatar.
-7428 : Eh? A man-god? I gone me entirrre life thinkin' there be jus' the Goddess. Now ye say there also be a He?
-7429 : Correct. Also known as the Twilight God, Promathia has existed alongside the Dawn Goddess Altana since the beginning of time.
-7430 : The statue erected within this hall, standing opposed to that of the Goddess, is none other than His likeness.
-7431 : Much knowledge pertaining to Promathia's existence has long lain hidden from the prying eyes of mortals.
-7432 : Indeed, that the world was born from the tragedy that befell the two divinities is known only to a select few.
-7433 : Arrrg, this careerrr pirate ain't sure he follows...
-7434 : It was the Age of Gods. The Lord of Chaos, Promathia, desired and succumbed to complete death.
-7435 : In Her grief, Altana bestowed upon the fallen deity the light of the true crystal, and in so doing gave birth to life. Thus was mankind created.
-7436 : The true crystal, drained of its power, shattered into five parts. Bereft of its blessed light, the realm of gods was reduced into the world of mortals, Abyssea.
-7437 : Yet the will of the gods persisted, graven deep within mankind. And with it, the dream that the world be returned to its former state...that Paradise, the realm of gods, be restored.
-7438 : So too did the desire for death live on unfading, a smoldering darkness--an Emptiness--within the souls of mortals.
-7439 : Blimey...
-7440 : I won't lie t' ye, missy. The bulk o' yer tale flew right over me head like a scrrreechin' gull. I think I grasp the meat o' it, though. This Proma...somethin'-or-other be the reason behind Abyssea's wretched state, aye?
-7441 : But what be so terrible 'bout a dead deity bein' restored to life? Wouldn't a livin' god serve better'n a stiff one?
-7442 : That is not the case, I fear, for it was the Twilight God's death that brought forth mankind. His resurrection would therefore spell our demise.
-7443 : By Leviathan's whiskers!
-7444 : The disfiguring metamorphosis of the land is a manifestation of lives being reclaimed by Promathia. Drained of its power for eons, the true crystal, too, has begun to regain its erstwhile form and light.
-7445 : The wheels of the world's rebirth have been set in motion.
-7446 : Arrrg, so this be the culprit behind the reddenin' sky an' the earthquakes, among a host o' other things...
-7447 : Correct. The lattice-shaped breakdown of the land is proof positive of this reversion.
-7448 : %. Gilgamesh. I must beg for your forgiveness.
-7449 : That this event would come to pass had been foretold since ancient times. It was my intent to be fully prepared when the day came--to be ready to avert disaster.
-7450 : But in the end, I was powerless before the unyielding avalanche of fate.
-7451 : That the people now suffer so is due to my impotence. The blame lies with me.
-7452 : What will you say? That's not true! ...
-7453 : %...
-7454 : Arrrg, I wholeheartedly second %. There be no call fer beatin' yerself up on this, lass.
-7455 : Arrrg, there be no call fer beatin' yerself up on this, lass. Bearin' the burden o' this terrible knowledge, ye did what ye could.
-7456 : The rest o' us, on the other hand, we been blissful in our ignorance all our lives, clueless 'bout our origin.
-7457 : By me measure, things wouldn't of turned out so pretty if ye hadn't done the drudgery belowdecks.
-7458 : Ye can be proud o' yer efforts, lil' missy.
-7459 : Abyssea might never be her scenic old self again, but we're still standin' here, alive an' kickin'. The world's rebirth's begun, there be no denyin' that, but it ain't over either.
-7460 : The situation ain't improvin' much, true, but neither has it been deterioratin'. If I ain't mistaken, there be some kind o' anchor keepin' this ship from smashin' into the jagged rocks o' apocalypse.
-7461 : What do you mean?
-7462 : I'd stake me one good peeper them Champions o' Abyssea had somethin' t' do with it.
-7463 : Might be they went an' met their maker--an' in more ways'n one, heh--but that don't mean their efforts were fer naught.
-7464 : So where the hell did they go, an' what the devil did they do?  Now I gots a nose fer treasure an' an eye fer booty, an' they're sayin' if we follow the trail we jus' might hit gold.
-7465 : Gilgamesh...
-7466 : Now, I be jus' a simple sailor, but I pride meself on bein' a good judge o' folk.
-7467 : An' I judge ye well as well gets, lil' missy. I be on this ship with ye t' the bloody end, whether it takes us t' treasures untold, or Davy Jones's locker.
-7468 : An' I know % shares the same sentiments. Ain't that right, matey?
-7469 : Do you have faith in Esha'ntarl? Aye, with all me heart! ...Huh?
-7470 : Harharhar! That be the spirit, matey! Fer one not even o' our world, ye sure be dependable!
-7471 : Crikey, matey! Haven't ye got eyes t' read between the lines? The lil' missy, she be in dire need o' cheer, now!
-7472 : Thank you, Gilgamesh, %. It has done my spirit well to have spoken with the two of you.
-7473 : Your theory in particular, Gilgamesh, bears further investigation. I, too, shall do what I can on this quarter.
-7474 : For now, I take my leave of you. Fare you well.
-7475 : ...An' there ye have it. If I find out anythin', ye'll be the first t' know, matey. Through Joachim, o' course.
-7476 : I mus' say, all o' this gets me buccaneer's blood pumpin'.
-7477 : After all, it ain't everyday ye get t' stick it t' the man! Well, a god in this case...an' one who chooses death, t' boot.
-7478 : There be no guarantees t' be had that a happy endin' awaits us. But it gives me heart, %, knowin' ye're fightin' on our side.
-7479 : Till next time, promise me ye won't go gettin' yerself killed.
-7480 : We been waitin' fer ye, matey.
-7481 : Thank you once again for coming. I apologize that a location more convenient cannot be arranged.
-7482 : My time is limited, as you are already aware, so pray excuse me if I seem curt. Tell me, %. Are you aware of the current state of Abyssea?
-7483 : What's Abyssea's current state? It's...uh, bad? I...have no idea.
-7484 : Arrrg. % an' I, we talked--well, I blathered, more like--'bout that subject some when firs' we met.
-7485 : It be something t' do with objects acrrross dimensions existin' at the same time, aye?
-7486 : You are not wrong, Gilgamesh. Pray allow me to elaborate.
-7487 : Even before the great cataclysm befell, numerous realities had existed side by side. Near, but never encroaching.
-7488 : This tenuous coexistence, however, now threatens to come to an end. Separate dimensions are being merged into one, driven by the will of Promathia.
-7489 : And it is that selfsame will that birthed the multitudinous new species that breathe only to eradicate mankind.
-7490 : Promathia desires the reversion of the mortal realm into Paradise. However, this transformation cannot take place so long as mortals exist.
-7491 : This is the truth behind that which the survivors have come to fear as the Abyssean hordes.
-7492 : Crrrikey! Talk 'bout gettin' yer ship sunk.
-7493 : These creatures are, for all intents and purposes, emissaries of god. For mortals to be taken by them...some might be fain to call it salvation.
-7494 : Pshaw! That ain't no salvation I be signin' up fer--not this lifetime, an' sure as heck not the next, neitherrr!
-7495 : Might be mankind sprung out from the loins o' this man-god, but each o' us've got a mind o' our own. An' me mind says this be nothin' I want no part o'!
-7496 : Eloquently said, Gilgamesh, and truer than you might know. For even as the Twilight God harbors death and Emptiness, so too does the desire for life survive within him. There is no greater proof of this than that mankind--His children--choose to fight for survival.
-7497 : And so it is our destiny to make a stand, even should it mean defying the will of a god.
-7498 : And defy it you did, %, the you and yours of Abyssea.
-7499 : Our destination is the highest plane of existence: the celestial capital Al'Taieu. There is where the final battle between mankind and Promathia was waged.
-7500 : Arrrg, if we already know where t' go, then it oughta be smooth sailin' from here on out. If all dimensions be mergin' into one, then this Al...titude place oughta be somewhere on Abyssea, aye?
-7501 : Even should we determine its location, gaining access will not be a simple affair, I fear. Due to the cataclysm, the precious few gateways that once existed are no more.
-7502 : No more, ye say? They up an' disappearrred someplace?
-7503 : The portal at the Sea of Shu'Meyo, for one, was lost when the great tremor shook the land. Even if it yet exists, perhaps on the sea floor, there is naught to suggest that it can still be reached.
-7504 : Arrrg, the currents an' storms in those there parts been feared fer their treacherousness, even since b'fore the gull dung splattered the sails. An' this pirate'd sooner skipper his ship from atop the deck, not among the fishes an' seaweeds.
-7505 : Just so.
-7506 : Three other gateways were situated one each in La Theine, Konschtat, Tahrongi.
-7507 : Inside 'em crrraggy white things, aye? The one as stood in the plateau ain't there no more, I saw fer meself. Why, it's as if it weren't ever there t' begin with.
-7508 : The crags Holla, Dem, and Mea--all three were gateways to the true crystal, linked to it via the Crystal Line.
-7509 : That they have now disappeared could only mean one thing: the five fragments of the true crystal, too, are beginning to merge into one.
-7510 : Arrrg, I ain't sure I follow. So that fandangle crystal be tryin' t' glue itself togetherrr. But what o' it?
-7511 : That the fragments are merging is past certain. The only question that remains, then, is where the joining will take place.
-7512 : I believe that the answer we seek may be found on Qufim, the island which served as the point of convergence for the Crystal Line.
-7513 : I regret to say, however, that the undersea cave linking Jeuno to the island, too, has been inaccessible since the collapse of Heavens Bridge.
-7514 : Furthermore...
-7515 : What!? Be there no end t' this, woman!? Arrrg, but who be this pirate t' talk? Well, carry on, then.
-7516 : The likelihood is high that the celestial capital Al'Taieu has not in fact descended to Abyssea.
-7517 : Errr...ye've gone an' lost me again, lass.
-7518 : Forgive me, but the workings of apocalypse are seldom simple. I shall endeavor to explain things more plainly. The return of the Keeper of the Apocalypse should have spelled the end of mankind. Yet this has not come to pass.
-7519 : And I credit your hypothesis to be the reason, Gilgamesh: that the Champions of Abyssea have done something to prevent the complete merging of dimensions.
-7520 : There exists a place that has undergone drastic change--a place that is of Abyssea, yet not part of it. And though not small by any measure, it has largely escaped our notice.
-7521 : O' Abyssea, but not part o' it? Large, but escapes notice? Blimey, lil' missy. Could ye dispense with the riddles an' spit it out already?
-7522 : As it please you, Gilgamesh. The place I speak of is none other than the moon.
-7523 : Well, shave me bearrrd an' call me senile!
-7524 : The moon appears to have greatly increased in size. It is obvious, if only one knows to look.
-7525 : Whether it has grown larger in actuality or has simply been drawn nearer to Abyssea cannot be readily determined. All things considered, however, I am compelled to believe it is to there that Al'Taieu has ascended.
-7526 : Assumin' what ye say be truth, how the bloody heck do we get t' the moon? Firrre usselves out o' cannons?
-7527 : The cavernous maws.
-7528 : Ye reckon? The same ones we been usin' all this while?
-7529 : Being portals that connect our world Abyssea to %'s own, it is not beyond imagining that the selfsame maws can take us to Al'Taieu.
-7530 : Our agents report frozen maws scattered across the land. But there seems t' be no way o' rrrousin' them.
-7531 : Those are of no concern to us. For I am convinced the gateway we seek will not be so apparent, but rather hidden beyond mortal reach by a force that loves us not.
-7532 : Loves us not? What gives ye that impression, if I might ask?
-7533 : To explain would require us to revisit the subject of lifeforms. Pray bear with me.
-7534 : Of the heretofore unseen creatures that rose to prominence in the cataclysm's wake, none is shrouded in more mystery and held in greater trepidation than the caturae.
-7535 : Even more striking, however, is the close resemblance they bear to mankind, where others of the Abyssean hordes appear to be naught more than accidents of nature. This similarity, I do not believe is innocent coincidence.
-7536 : Once again I find myself resorting to speculation, but I suspect the caturae's involvement in the greater scheme of things.
-7537 : Crikey, lil' missy. Most o' us can put two an' two together, but the figurrres ye play with be in the tens o' thousands. But seein' as we don't got nothin' else t' go on, I reckon this line o' possibility be as feasible as any.
-7538 : ...So, the caturae, eh? This recalls t' me mind reports o' folk feelin' their emotions bein' rrruled by some unknown force when confrontin' 'em.
-7539 : If ye ask me, there be somethin' hidden within the foul shadows they cast. Ain't that right...%?
-7540 : %. I believe you already know what must be done. You must go forth and defeat the creatures. Yes, every last one.
-7541 : The likelihood that the caturae block our path to salvation can be ill ignored. Even if eliminating them proves fruitless to our greater cause, it would nonetheless be a kindness to the survivors.
-7542 : I am not unmindful of the immeasurable good you have already done for our cause. Yet we must ask for your aid once again.
-7543 : Mankind is forever in your debt, %.
-7544 : Harharrr! Now that be the % I know! Errr, not that we been acquainted fer long, t' be sure.
-7545 : Six subspecies of the caturae have been confirmed to exist. Besides the fact that they display territorial behavior, however, we have managed to learn little else.
-7546 : We know full well we send you into perilous domain. Please take all care.
-7547 : Arrrg. Me hearties an' I be countin' on ye, matey. In the meantime, I be off t' dig us up more o' 'em maws, jus' in case we missed somethin'.
-7548 : Ahoy there, matey! We been waitin' fer ye!
-7549 : %. It gladdens me to see you safely returned.
-7550 : Shortly after the last caturae was dispatched, a new source of dimensional disturbance manifested in your world.
-7551 : As suspected, the twisted creatures are linked to the Twilight God, and theirs had indeed been the presence concealing the gateway to our destination.
-7552 : The disturbance was detected on Qufim Island, by the southern edge of the wall outside Delkfutt's Tower.
-7553 : Arrrg, it seems yer instincts be right on the coin, lil' missy.
-7554 : Granted, much of it may have seemed like guesswork, but there actually is a straightforward explanation for all this.
-7555 : When Al'Taieu ascended to the highest plane, part of it was left behind in the mortal realm. That part was none other than Qufim Island, the point of convergence for the Crystal Line.
-7556 : Whoa, missy, I don't recall rrrequestin' a lectu--
-7557 : The Sea of Shu'Meyo, it would interest you to know, was the terrestrial location of the celestial capital. My words would be made clearer if you examined a pre-cataclysm map of the area.
-7558 : Shiver me timbers! The area around Qufim--it be circular alright, but the scale o' it...it be out o' this world!
-7559 : Yes, and having noted that peculiarity, I made my conjecture: that if another cavernous maw were to exist, there could be no other place for it.
-7560 : This, Gilgamesh, was precisely why I sent you to investigate Qufim's surrounds, ensuring that differences in existential phase were accounted for.
-7561 : Well, I'll be danged. Ye sure know a lot, lil' missy, 'specially fer one who looks young enough t' call me grrrandpappy. I been wonderin' fer some time now, but hadn't had the chance t' voice me thoughts. Who the heck are ye, exactly?
-7562 : Very well. In light of our dire circumstance, I will not keep this from you. I am a survivor of a long lost civilization called the Zilart. It has been my charge to watch over Abyssea from the dark shadows of time.
-7563 : Blimey! Ye be a veritable treasure trove o' surprrrises! Well then, this means a couple o' things. Firs', that all yer claims be based on experience.
-7564 : An' second, that ye be me senior by no small margin. I s'pose it won't cut it no more t' call ye lil' missy. Gahahahaha-arrrg!
-7565 : The Goddess forbid, I am not ungiven to being called such.
-7566 : But let us return to the subject at hand, that of the dimensional disturbance.
-7567 : Although the caturae are eliminated and obstruct our passage no more, the newly formed gateway remains unfit to be traversed by one of Abyssea.
-7568 : Aye, me jolly lil' scoutin' mission found us no maws per se at Qufim, I fear. There be a portal o' sorts, true, but she don't seem t' be fully manifested.
-7569 : T' venture a guess, I'd say this incomplete alignment be the reason why me folk get stripped o' half our strrrength in the crossin'. Much like a sailor gets relieved o' cloth an' coin when he visits a dodgy...errr, establishment.
-7570 : Forgive me yet another hypothesis, %, but your subjugation of the caturae may well be proof that you can enter Al'Taieu without detriment. Whether or not this theory holds water, there is but one way to find out.
-7571 : Pray make all haste for Qufim Island, and thence to the celestial capital, where the Keeper of the Apocalypse abides.
-7572 : There be no guessin' the horrors what await. But fact is, they be the best endowed t' deal with 'em, arrrg.
-7573 : Yes. The hope of our entire world rests upon % and [his/her] comrades.
-7574 : It be a right heavy burden. I pray they don't get crushed by it.
-7575 : That ye stand b'fore us now could only mean one thing: sweet victory! Arrrg!
-7576 : This old pirate's met many an' more folk in his day, but none o' 'em could hold a candle t' ye, matey.
-7577 : Welcome back, %. While it is still fresh in your mind, I would have you recount to us all that transpired.
-7578 : I see... I am elated to learn that Prishe is alive and well.
-7579 : The pain and suffering she has had to endure are beyond even my imagining. It is I, not she, who needs to apologize for being powerless to do more.
-7580 : We Abysseans had stood on the precipice of destruction, every last person all but lost to hope.  But a miracle appeared, instilling us with courage and resolve, ultimately saving us from a fate of certain destruction.
-7581 : That miracle, %, is you. Our boundless gratitude is forever yours.
-7582 : Although the Keeper of the Apocalypse is no more, the scars of tragedy remain graven within the hearts of mortals.
-7583 : Yet time heals all wounds, no matter how deep they might run. And then people will rise again in united purpose and restore Abyssea to her former glory.
-7584 : Even now, the seeds of new lives--of a new and resilient generation--are sprouting, taking root.
-7585 : Takin' root, ye say? Like a tree?
-7586 : ...Yes, Gilgamesh. Like a tree.
-7587 : %. Do this dodderin' old pirate a favor by keepin' an eye on the me o' yer world, will ye? 'Cause if he be anythin' like me, he'll be needin' close supervision. Arrrg.
-7588 : As ye already know, Abyssea'll be long in the recoverin'. So we'd appreciate ye poppin' in from time t' time, t' lend a helpin' hand here an' there.
-7589 : Ye've given us much, %, includin' the precious gift o' life--a chance at livin'. I only wish there be some way fer me an' me hearties t' repay ye.
-7590 : B'fore I go wanderin' off, I feel obliged t' thank ye again fer puttin' up with me nigh endless prattlin'. Ye been a most attentive pair o' ears. Fare ye well, matey, an' may the wind always fill yer sails.
-7591 : %.
-7592 : I know not the future that awaits you, the branches of eventualities that lie along the way.
-7593 : Yet in a world of infinite possibilities, it cannot be ruled out that the cataclysm that befell Abyssea may one day descend upon Vana'diel.
-7594 : You must stay strong and ever ready, %, for the time may come when your uncommon courage and valor will be needed once more.
-7595 : Before I take my leave, I have one last favor to ask of you. It concerns Prishe.
-7596 : For all her carefree demeanor, she has known naught but hardship and suffering her entire life. It would mean much to both Prishe and me if you would pay her visit on occasion, whenever time permits.
-7597 : As your counterpart in Abyssea stood by her, easing the pain that racks her gentle heart, so too would I ask the same of you.
-7598 : Thank you, %, and farewell. May the stars shine their countenance upon you, always.
-7599 : I had an inkling you would be here.
-7600 : You must be taken aback to be reunited with me here, of all places.
-7601 : To think we had prevented the world from ending one way, only to find out it would end another...
-7602 : You are %, correct?
-7603 : Permit me to introduce myself. I am Esha'ntarl, representative of Archduke Kam'lanaut of the Grand Duchy of Jeuno.
-7604 : Ah, but your face belies your surprise at seeing one such as me here. Despite my position, I am given free reign to go where I please.
-7605 : I heard tell of a young woman struggling to save the world from oblivion together with her master...an adventurer. You.
-7606 : I desired but to lay my own two eyes on [his/her] visage.
-7607 : And Iroha? Is she not with you?
-7608 : Please. Apprise me of what you have learned thus far.
-7609 : I understand you have no reason to place your trust in me, but know this--I wish only to shelter this world from harm.
-7610 : Surely you can sense that my words ring true.
-7611 : Please. Apprise me of what you have learned thus far.
-7612 : So Iroha expired and has yet to return to this mortal coil.
-7613 : Revival is in the realm of the gods, and if she has not yet returned, it may be because they do not permit it.
-7614 : Should she be struggling in earnest against this void...this Cloud of Darkness, then it is but a matter of time before they see fit to bring her here once more.
-7615 : Unless... Unless their own powers have begun to wane and they have little time left.
-7616 : Only the ancients--the Zilart--possess the means by which to open these gates.
-7617 : Ah, but you are already in possession of %. I should have expected no less.
-7618 : I shall unbar the way.
-7619 : Long have I awaited thine arrival...
-7620 : Welcome, warriors of light, to the Temple of Altana, a place where knowledge comes to be lost.
-7621 : Lady Yve'noile serves the Goddess of the Dawn in all her incarnations and is the custodian of the Gate by which she can be reached.
-7622 : Lady Esha'ntarl, thy presence doth come as a surprise. To think one such as thyself would come posing questions for me.
-7623 : A young woman has traversed time itself to speak with %.
-7624 : She claimed that an existence which some call the Void--and others call the Cloud of Darkness--has come to claim Vana'diel.
-7625 : The Cloud of Darkness, you say...
-7626 : Alas, I can confess to hearing that name only once before in my lifetime.
-7627 : The prophecies say that the Cloud of Darkness is fated to descend upon this land once the five pieces of the mothercrystal have turned to dust.
-7628 : Were the pieces to be made whole once more, it is perhaps possible to avoid this most gloomy of futures.
-7629 : But that day itself will signal the end of Vana'diel.
-7630 : Yet even the struggles of the vaunted warriors of light would mean naught against the coming purge.
-7631 : Then pray tell--is there aught we can do?
-7632 : If we cannot stop it while mortal...
-7633 : ...then we must walk the path of the gods.
-7634 : You would have % become a god?
-7635 : You mean [he/she] must cast off the bonds of the Emptiness that shackle all who are born and destined to die?
-7636 : Some would say you speak madness, but I cannot deny that if such a ritual succeeded...
-7637 : I shall not lade my words with honey. The idea is so dangerous that failure can end only in death.
-7638 : Yet shouldst thou choose to walk the path of thorns, I shall help clear the way. For only one such as thou can make the journey.
-7639 : Warriors of the Crystal!
-7640 : You, and you alone, have the potential to guide them.
-7641 : But %... If [he/she] wants to become a [god/goddess] of light... Then I shall intervene.
-7642 : What manner of trickery is this!?
-7643 : Yve'noile... ...will have to suffer in this world no longer.
-7644 : I would like to burn this whole place to ashes... But there are more pressing matters to attend to.
-7645 : You vanquished me when my power was approaching its zenith...
-7646 : And attempted to thwart me every step of the way.
-7647 : Yet I know more than any how you will attempt to become a god of light.
-7648 : I have come this far...and by any means possible...I will impede your apotheosis!
-7649 : In this world, there can be no light without darkness.
-7650 : Are you truly so arrogant as to believe this world needs no darkness to thrive?
-7651 : In a world with nothing but light, how will the dead find eternal slumber?
-7652 : Before you act... ...you must think.
-7653 : It is only a matter of time before the Cloud of Darkness swallows all...
-7654 : %? %!?
-7655 : I see. So that masked man is, for lack of a better term, a future you that has succumbed to darkness.
-7656 : A fallen angel, if you will. I sense that your words do not ring false.
-7657 : But let us reflect. If he came to our time to prevent you from becoming a god of light...
-7658 : ...Then the logical conclusion is that you have the capability to do so.
-7659 : So you wish to know a more concrete method for becoming a god of light.
-7660 : Would that I could provide you with answers, but I cannot surmise what Yve'noile had in mind.
-7661 : Perhaps Selh'teus in [Al'Taieu/Paradise] would have the answers we seek.
-7662 : Ah, so you raise an eyebrow at my acquaintance with Selh'teus.
-7663 : Naturally, I have not revealed my position as a representative of the Grand Duchy of Jeuno.
-7664 : However, should I have not made this clear before, you must make many sacrifices in order to discard your mortal form and ascend.
-7665 : You will become more than any person was meant to be, and rise to a plane where you will no longer be able to interact with friends and loved ones.
-7666 : Let there be no doubt: the path is a lonely one.
+7363 : # #
+7364 : The depression in the center of the grate must be a clue...
+7365 : The % begins to glow.
+7366 : Insert the %? Yes. No.
+7367 : There is nothing out of the ordinary here.
+7368 : You can hear a strange voice... Items, items, la la la la la
+7369 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7370 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7371 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7372 : Now, listen close...
+7373 : Oh... Well, if that's the case, I'm outta here.
+7374 : The Goblin slipped away when you were not looking...
+7375 : You can hear a strange, raspy voice...
+7376 : I travel......hear lots... Hear...stories... Can tell...if...
+7377 : .........listen......
+7378 : Oh...... ...outta here.........
+7379 : Do you want to hear a story? No, thank you. Let's hear one.
+7380 : What story would you like to be told? On second thought, maybe later. The Gate of the Gods(pt.1). The Gate of the Gods(pt.2). Born of Her Nightmares. Death and Rebirth. Emissaries of God. Beneath a Blood-red Sky. Meanwhile, Back on Abyssea. Exploring the Ruins(pt.1). Exploring the Ruins(pt.2). Exploring the Ruins(pt.3). Exploring the Ruins(pt.4). Exploring the Ruins(pt.5). Exploring the Ruins(pt.6). Exploring the Ruins(pt.7). Become Something More(pt.1). Become Something More(pt.2).
+7384 : Emeline! Can you hear me!?
+7385 : What--?  Where... Where am I...?
+7386 : Aldo...? Is that you...?
+7387 : Emeline...could it truly be? After all these years...
+7388 : Aldo... My...brother...
+7389 : No! Emeline!!!
+7390 : No...! Where are they taking me!?  Aldo, help me!
+7391 : (Curses! No...I won't let them take you from me again!)
+7392 : It's no use, Uncle...where she is now, no words can reach her. Mother's dreaming, you see.
+7393 : Lost in a waking dream...just like me.
+7394 : Deep in slumber, freed from the restraints of my physical body... It is here that the voice of the Seed Crystal speaks to me.
+7395 : I awaken, only to remember nothing.
+7396 : It's the same for mother, you see. Only in her dreams does she remember a past too frightening, too painful to face with waking eyes.
+7397 : Only in her dreams does she remember you, Uncle Aldo.
+7398 : Knowing this, would you open her eyes to the light of the world once more?
+7399 : The choice belongs to you alone, Uncle.
+7400 : And the power to save this world from destruction is yours, %.
+7401 : You, and all living beings on Vana'diel. It is your will to live--your deep love for the world you call home--that is the key. Only you can instill the antiphon with the strength to counteract the echo...
+7402 : So what will your choice be, Uncle Aldo? %?
+7403 : Will you silence the echo to save this world from destruction? Even knowing it would mean death for the sister you knew, will you do what must be done?
+7404 : If you have the courage to answer, make way for the Stellar Fulcrum at the peak of Delkfutt's Tower.
+7405 : We'll be waiting for you there.
+7406 : Perhaps...we're all just living inside the crystal's dream.
+7407 : (Emeline...)
+7408 : Arrrg, %. Mighty good o' ye t' oblige me invite t' this out-o'-the-way place, matey.
+7409 : Y'see, we be needin' the...errr, somethin' 'r whats hereabouts. Magenta field or some magnetic feel or some such. The sciency stuff be way off me maps. Here be monsters, yarrr.
+7410 : Last we spoke--last I prrrattled, more like--I ga'e ye me solemn word I'd cork up me ramblin'. An' a pirate's word be as good as the gold he hoards. Arrrg.
+7411 : So it oughta please ye t' know someone else'll do most o' the talkin' today.
+7412 : Who be the special guest, ye ask? Why, none other'n the lil' mistress ye'd shown so much interrrest in, matey. As it happens, the feelin' be mutual, an' she been askin' after ye too.
+7413 : Out ye come now, lil' missy. %'s here an' awaitin' yer pleasurrre.
+7414 : My gratitude for this favor, Gilgamesh.
+7415 : No call fer thanks, now. Hearin' out the whims o' peppy young lasses be as much a hobby o' mine as borin' hapless adventurers t' tears with me inane blatherin'. Arrrg.
+7416 : Greetings, %. My name is Esha'ntarl. Before I begin, please accept my apologies for having to appear before you in this unseemly state.
+7417 : Unlike a chosen few, I do not possess the power to traverse worlds. For this reason, I requested that our meeting take place within the Hall of the Gods, that we might harness the energy that permeates these sacred grounds.
+7418 : Never before had a partial dimensional crossing such as this been attempted. I must express my relief that the experiment is a success, else we might never have had the opportunity to speak.
+7419 : Judging by your expression, I gather we are already acquainted in your world. It would seem fate has had a hand in bringing us together once more.
+7420 : Your wary expression tells me you have yet to cross paths with my counterpart in Vana'diel.
+7421 : Nevertheless, fate has now deemed it fit that we meet.
+7422 : The world of mortals--the collective lives of men--is as a great river, formed of innumerable tributaries converging upon a single, torrential flow.
+7423 : And you, %, are as a single leaf borne on the current...a current that brings together fellow drifters as often as it parts them.
+7424 : Be it distant future or forgotten past, such is your destiny as is writ in the stars.
+7425 : A destiny you share with your counterpart in Abyssea...
+7426 : ...
+7427 : Well do I know of your valor, %, the selfless actions you have taken on our world's behalf. To you I would entrust the truth of Abyssea, a secret I have kept closely guarded for the longest time.
+7428 : The cataclysm that has ravaged the land--it is a thing spawned from the will of Promathia, a primeval divinity who has stirred to wakefulness with the coming of His worldly avatar.
+7429 : Eh? A man-god? I gone me entirrre life thinkin' there be jus' the Goddess. Now ye say there also be a He?
+7430 : Correct. Also known as the Twilight God, Promathia has existed alongside the Dawn Goddess Altana since the beginning of time.
+7431 : The statue erected within this hall, standing opposed to that of the Goddess, is none other than His likeness.
+7432 : Much knowledge pertaining to Promathia's existence has long lain hidden from the prying eyes of mortals.
+7433 : Indeed, that the world was born from the tragedy that befell the two divinities is known only to a select few.
+7434 : Arrrg, this careerrr pirate ain't sure he follows...
+7435 : It was the Age of Gods. The Lord of Chaos, Promathia, desired and succumbed to complete death.
+7436 : In Her grief, Altana bestowed upon the fallen deity the light of the true crystal, and in so doing gave birth to life. Thus was mankind created.
+7437 : The true crystal, drained of its power, shattered into five parts. Bereft of its blessed light, the realm of gods was reduced into the world of mortals, Abyssea.
+7438 : Yet the will of the gods persisted, graven deep within mankind. And with it, the dream that the world be returned to its former state...that Paradise, the realm of gods, be restored.
+7439 : So too did the desire for death live on unfading, a smoldering darkness--an Emptiness--within the souls of mortals.
+7440 : Blimey...
+7441 : I won't lie t' ye, missy. The bulk o' yer tale flew right over me head like a scrrreechin' gull. I think I grasp the meat o' it, though. This Proma...somethin'-or-other be the reason behind Abyssea's wretched state, aye?
+7442 : But what be so terrible 'bout a dead deity bein' restored to life? Wouldn't a livin' god serve better'n a stiff one?
+7443 : That is not the case, I fear, for it was the Twilight God's death that brought forth mankind. His resurrection would therefore spell our demise.
+7444 : By Leviathan's whiskers!
+7445 : The disfiguring metamorphosis of the land is a manifestation of lives being reclaimed by Promathia. Drained of its power for eons, the true crystal, too, has begun to regain its erstwhile form and light.
+7446 : The wheels of the world's rebirth have been set in motion.
+7447 : Arrrg, so this be the culprit behind the reddenin' sky an' the earthquakes, among a host o' other things...
+7448 : Correct. The lattice-shaped breakdown of the land is proof positive of this reversion.
+7449 : %. Gilgamesh. I must beg for your forgiveness.
+7450 : That this event would come to pass had been foretold since ancient times. It was my intent to be fully prepared when the day came--to be ready to avert disaster.
+7451 : But in the end, I was powerless before the unyielding avalanche of fate.
+7452 : That the people now suffer so is due to my impotence. The blame lies with me.
+7453 : What will you say? That's not true! ...
+7454 : %...
+7455 : Arrrg, I wholeheartedly second %. There be no call fer beatin' yerself up on this, lass.
+7456 : Arrrg, there be no call fer beatin' yerself up on this, lass. Bearin' the burden o' this terrible knowledge, ye did what ye could.
+7457 : The rest o' us, on the other hand, we been blissful in our ignorance all our lives, clueless 'bout our origin.
+7458 : By me measure, things wouldn't of turned out so pretty if ye hadn't done the drudgery belowdecks.
+7459 : Ye can be proud o' yer efforts, lil' missy.
+7460 : Abyssea might never be her scenic old self again, but we're still standin' here, alive an' kickin'. The world's rebirth's begun, there be no denyin' that, but it ain't over either.
+7461 : The situation ain't improvin' much, true, but neither has it been deterioratin'. If I ain't mistaken, there be some kind o' anchor keepin' this ship from smashin' into the jagged rocks o' apocalypse.
+7462 : What do you mean?
+7463 : I'd stake me one good peeper them Champions o' Abyssea had somethin' t' do with it.
+7464 : Might be they went an' met their maker--an' in more ways'n one, heh--but that don't mean their efforts were fer naught.
+7465 : So where the hell did they go, an' what the devil did they do?  Now I gots a nose fer treasure an' an eye fer booty, an' they're sayin' if we follow the trail we jus' might hit gold.
+7466 : Gilgamesh...
+7467 : Now, I be jus' a simple sailor, but I pride meself on bein' a good judge o' folk.
+7468 : An' I judge ye well as well gets, lil' missy. I be on this ship with ye t' the bloody end, whether it takes us t' treasures untold, or Davy Jones's locker.
+7469 : An' I know % shares the same sentiments. Ain't that right, matey?
+7470 : Do you have faith in Esha'ntarl? Aye, with all me heart! ...Huh?
+7471 : Harharhar! That be the spirit, matey! Fer one not even o' our world, ye sure be dependable!
+7472 : Crikey, matey! Haven't ye got eyes t' read between the lines? The lil' missy, she be in dire need o' cheer, now!
+7473 : Thank you, Gilgamesh, %. It has done my spirit well to have spoken with the two of you.
+7474 : Your theory in particular, Gilgamesh, bears further investigation. I, too, shall do what I can on this quarter.
+7475 : For now, I take my leave of you. Fare you well.
+7476 : ...An' there ye have it. If I find out anythin', ye'll be the first t' know, matey. Through Joachim, o' course.
+7477 : I mus' say, all o' this gets me buccaneer's blood pumpin'.
+7478 : After all, it ain't everyday ye get t' stick it t' the man! Well, a god in this case...an' one who chooses death, t' boot.
+7479 : There be no guarantees t' be had that a happy endin' awaits us. But it gives me heart, %, knowin' ye're fightin' on our side.
+7480 : Till next time, promise me ye won't go gettin' yerself killed.
+7481 : We been waitin' fer ye, matey.
+7482 : Thank you once again for coming. I apologize that a location more convenient cannot be arranged.
+7483 : My time is limited, as you are already aware, so pray excuse me if I seem curt. Tell me, %. Are you aware of the current state of Abyssea?
+7484 : What's Abyssea's current state? It's...uh, bad? I...have no idea.
+7485 : Arrrg. % an' I, we talked--well, I blathered, more like--'bout that subject some when firs' we met.
+7486 : It be something t' do with objects acrrross dimensions existin' at the same time, aye?
+7487 : You are not wrong, Gilgamesh. Pray allow me to elaborate.
+7488 : Even before the great cataclysm befell, numerous realities had existed side by side. Near, but never encroaching.
+7489 : This tenuous coexistence, however, now threatens to come to an end. Separate dimensions are being merged into one, driven by the will of Promathia.
+7490 : And it is that selfsame will that birthed the multitudinous new species that breathe only to eradicate mankind.
+7491 : Promathia desires the reversion of the mortal realm into Paradise. However, this transformation cannot take place so long as mortals exist.
+7492 : This is the truth behind that which the survivors have come to fear as the Abyssean hordes.
+7493 : Crrrikey! Talk 'bout gettin' yer ship sunk.
+7494 : These creatures are, for all intents and purposes, emissaries of god. For mortals to be taken by them...some might be fain to call it salvation.
+7495 : Pshaw! That ain't no salvation I be signin' up fer--not this lifetime, an' sure as heck not the next, neitherrr!
+7496 : Might be mankind sprung out from the loins o' this man-god, but each o' us've got a mind o' our own. An' me mind says this be nothin' I want no part o'!
+7497 : Eloquently said, Gilgamesh, and truer than you might know. For even as the Twilight God harbors death and Emptiness, so too does the desire for life survive within him. There is no greater proof of this than that mankind--His children--choose to fight for survival.
+7498 : And so it is our destiny to make a stand, even should it mean defying the will of a god.
+7499 : And defy it you did, %, the you and yours of Abyssea.
+7500 : Our destination is the highest plane of existence: the celestial capital Al'Taieu. There is where the final battle between mankind and Promathia was waged.
+7501 : Arrrg, if we already know where t' go, then it oughta be smooth sailin' from here on out. If all dimensions be mergin' into one, then this Al...titude place oughta be somewhere on Abyssea, aye?
+7502 : Even should we determine its location, gaining access will not be a simple affair, I fear. Due to the cataclysm, the precious few gateways that once existed are no more.
+7503 : No more, ye say? They up an' disappearrred someplace?
+7504 : The portal at the Sea of Shu'Meyo, for one, was lost when the great tremor shook the land. Even if it yet exists, perhaps on the sea floor, there is naught to suggest that it can still be reached.
+7505 : Arrrg, the currents an' storms in those there parts been feared fer their treacherousness, even since b'fore the gull dung splattered the sails. An' this pirate'd sooner skipper his ship from atop the deck, not among the fishes an' seaweeds.
+7506 : Just so.
+7507 : Three other gateways were situated one each in La Theine, Konschtat, Tahrongi.
+7508 : Inside 'em crrraggy white things, aye? The one as stood in the plateau ain't there no more, I saw fer meself. Why, it's as if it weren't ever there t' begin with.
+7509 : The crags Holla, Dem, and Mea--all three were gateways to the true crystal, linked to it via the Crystal Line.
+7510 : That they have now disappeared could only mean one thing: the five fragments of the true crystal, too, are beginning to merge into one.
+7511 : Arrrg, I ain't sure I follow. So that fandangle crystal be tryin' t' glue itself togetherrr. But what o' it?
+7512 : That the fragments are merging is past certain. The only question that remains, then, is where the joining will take place.
+7513 : I believe that the answer we seek may be found on Qufim, the island which served as the point of convergence for the Crystal Line.
+7514 : I regret to say, however, that the undersea cave linking Jeuno to the island, too, has been inaccessible since the collapse of Heavens Bridge.
+7515 : Furthermore...
+7516 : What!? Be there no end t' this, woman!? Arrrg, but who be this pirate t' talk? Well, carry on, then.
+7517 : The likelihood is high that the celestial capital Al'Taieu has not in fact descended to Abyssea.
+7518 : Errr...ye've gone an' lost me again, lass.
+7519 : Forgive me, but the workings of apocalypse are seldom simple. I shall endeavor to explain things more plainly. The return of the Keeper of the Apocalypse should have spelled the end of mankind. Yet this has not come to pass.
+7520 : And I credit your hypothesis to be the reason, Gilgamesh: that the Champions of Abyssea have done something to prevent the complete merging of dimensions.
+7521 : There exists a place that has undergone drastic change--a place that is of Abyssea, yet not part of it. And though not small by any measure, it has largely escaped our notice.
+7522 : O' Abyssea, but not part o' it? Large, but escapes notice? Blimey, lil' missy. Could ye dispense with the riddles an' spit it out already?
+7523 : As it please you, Gilgamesh. The place I speak of is none other than the moon.
+7524 : Well, shave me bearrrd an' call me senile!
+7525 : The moon appears to have greatly increased in size. It is obvious, if only one knows to look.
+7526 : Whether it has grown larger in actuality or has simply been drawn nearer to Abyssea cannot be readily determined. All things considered, however, I am compelled to believe it is to there that Al'Taieu has ascended.
+7527 : Assumin' what ye say be truth, how the bloody heck do we get t' the moon? Firrre usselves out o' cannons?
+7528 : The cavernous maws.
+7529 : Ye reckon? The same ones we been usin' all this while?
+7530 : Being portals that connect our world Abyssea to %'s own, it is not beyond imagining that the selfsame maws can take us to Al'Taieu.
+7531 : Our agents report frozen maws scattered across the land. But there seems t' be no way o' rrrousin' them.
+7532 : Those are of no concern to us. For I am convinced the gateway we seek will not be so apparent, but rather hidden beyond mortal reach by a force that loves us not.
+7533 : Loves us not? What gives ye that impression, if I might ask?
+7534 : To explain would require us to revisit the subject of lifeforms. Pray bear with me.
+7535 : Of the heretofore unseen creatures that rose to prominence in the cataclysm's wake, none is shrouded in more mystery and held in greater trepidation than the caturae.
+7536 : Even more striking, however, is the close resemblance they bear to mankind, where others of the Abyssean hordes appear to be naught more than accidents of nature. This similarity, I do not believe is innocent coincidence.
+7537 : Once again I find myself resorting to speculation, but I suspect the caturae's involvement in the greater scheme of things.
+7538 : Crikey, lil' missy. Most o' us can put two an' two together, but the figurrres ye play with be in the tens o' thousands. But seein' as we don't got nothin' else t' go on, I reckon this line o' possibility be as feasible as any.
+7539 : ...So, the caturae, eh? This recalls t' me mind reports o' folk feelin' their emotions bein' rrruled by some unknown force when confrontin' 'em.
+7540 : If ye ask me, there be somethin' hidden within the foul shadows they cast. Ain't that right...%?
+7541 : %. I believe you already know what must be done. You must go forth and defeat the creatures. Yes, every last one.
+7542 : The likelihood that the caturae block our path to salvation can be ill ignored. Even if eliminating them proves fruitless to our greater cause, it would nonetheless be a kindness to the survivors.
+7543 : I am not unmindful of the immeasurable good you have already done for our cause. Yet we must ask for your aid once again.
+7544 : Mankind is forever in your debt, %.
+7545 : Harharrr! Now that be the % I know! Errr, not that we been acquainted fer long, t' be sure.
+7546 : Six subspecies of the caturae have been confirmed to exist. Besides the fact that they display territorial behavior, however, we have managed to learn little else.
+7547 : We know full well we send you into perilous domain. Please take all care.
+7548 : Arrrg. Me hearties an' I be countin' on ye, matey. In the meantime, I be off t' dig us up more o' 'em maws, jus' in case we missed somethin'.
+7549 : Ahoy there, matey! We been waitin' fer ye!
+7550 : %. It gladdens me to see you safely returned.
+7551 : Shortly after the last caturae was dispatched, a new source of dimensional disturbance manifested in your world.
+7552 : As suspected, the twisted creatures are linked to the Twilight God, and theirs had indeed been the presence concealing the gateway to our destination.
+7553 : The disturbance was detected on Qufim Island, by the southern edge of the wall outside Delkfutt's Tower.
+7554 : Arrrg, it seems yer instincts be right on the coin, lil' missy.
+7555 : Granted, much of it may have seemed like guesswork, but there actually is a straightforward explanation for all this.
+7556 : When Al'Taieu ascended to the highest plane, part of it was left behind in the mortal realm. That part was none other than Qufim Island, the point of convergence for the Crystal Line.
+7557 : Whoa, missy, I don't recall rrrequestin' a lectu--
+7558 : The Sea of Shu'Meyo, it would interest you to know, was the terrestrial location of the celestial capital. My words would be made clearer if you examined a pre-cataclysm map of the area.
+7559 : Shiver me timbers! The area around Qufim--it be circular alright, but the scale o' it...it be out o' this world!
+7560 : Yes, and having noted that peculiarity, I made my conjecture: that if another cavernous maw were to exist, there could be no other place for it.
+7561 : This, Gilgamesh, was precisely why I sent you to investigate Qufim's surrounds, ensuring that differences in existential phase were accounted for.
+7562 : Well, I'll be danged. Ye sure know a lot, lil' missy, 'specially fer one who looks young enough t' call me grrrandpappy. I been wonderin' fer some time now, but hadn't had the chance t' voice me thoughts. Who the heck are ye, exactly?
+7563 : Very well. In light of our dire circumstance, I will not keep this from you. I am a survivor of a long lost civilization called the Zilart. It has been my charge to watch over Abyssea from the dark shadows of time.
+7564 : Blimey! Ye be a veritable treasure trove o' surprrrises! Well then, this means a couple o' things. Firs', that all yer claims be based on experience.
+7565 : An' second, that ye be me senior by no small margin. I s'pose it won't cut it no more t' call ye lil' missy. Gahahahaha-arrrg!
+7566 : The Goddess forbid, I am not ungiven to being called such.
+7567 : But let us return to the subject at hand, that of the dimensional disturbance.
+7568 : Although the caturae are eliminated and obstruct our passage no more, the newly formed gateway remains unfit to be traversed by one of Abyssea.
+7569 : Aye, me jolly lil' scoutin' mission found us no maws per se at Qufim, I fear. There be a portal o' sorts, true, but she don't seem t' be fully manifested.
+7570 : T' venture a guess, I'd say this incomplete alignment be the reason why me folk get stripped o' half our strrrength in the crossin'. Much like a sailor gets relieved o' cloth an' coin when he visits a dodgy...errr, establishment.
+7571 : Forgive me yet another hypothesis, %, but your subjugation of the caturae may well be proof that you can enter Al'Taieu without detriment. Whether or not this theory holds water, there is but one way to find out.
+7572 : Pray make all haste for Qufim Island, and thence to the celestial capital, where the Keeper of the Apocalypse abides.
+7573 : There be no guessin' the horrors what await. But fact is, they be the best endowed t' deal with 'em, arrrg.
+7574 : Yes. The hope of our entire world rests upon % and [his/her] comrades.
+7575 : It be a right heavy burden. I pray they don't get crushed by it.
+7576 : That ye stand b'fore us now could only mean one thing: sweet victory! Arrrg!
+7577 : This old pirate's met many an' more folk in his day, but none o' 'em could hold a candle t' ye, matey.
+7578 : Welcome back, %. While it is still fresh in your mind, I would have you recount to us all that transpired.
+7579 : I see... I am elated to learn that Prishe is alive and well.
+7580 : The pain and suffering she has had to endure are beyond even my imagining. It is I, not she, who needs to apologize for being powerless to do more.
+7581 : We Abysseans had stood on the precipice of destruction, every last person all but lost to hope.  But a miracle appeared, instilling us with courage and resolve, ultimately saving us from a fate of certain destruction.
+7582 : That miracle, %, is you. Our boundless gratitude is forever yours.
+7583 : Although the Keeper of the Apocalypse is no more, the scars of tragedy remain graven within the hearts of mortals.
+7584 : Yet time heals all wounds, no matter how deep they might run. And then people will rise again in united purpose and restore Abyssea to her former glory.
+7585 : Even now, the seeds of new lives--of a new and resilient generation--are sprouting, taking root.
+7586 : Takin' root, ye say? Like a tree?
+7587 : ...Yes, Gilgamesh. Like a tree.
+7588 : %. Do this dodderin' old pirate a favor by keepin' an eye on the me o' yer world, will ye? 'Cause if he be anythin' like me, he'll be needin' close supervision. Arrrg.
+7589 : As ye already know, Abyssea'll be long in the recoverin'. So we'd appreciate ye poppin' in from time t' time, t' lend a helpin' hand here an' there.
+7590 : Ye've given us much, %, includin' the precious gift o' life--a chance at livin'. I only wish there be some way fer me an' me hearties t' repay ye.
+7591 : B'fore I go wanderin' off, I feel obliged t' thank ye again fer puttin' up with me nigh endless prattlin'. Ye been a most attentive pair o' ears. Fare ye well, matey, an' may the wind always fill yer sails.
+7592 : %.
+7593 : I know not the future that awaits you, the branches of eventualities that lie along the way.
+7594 : Yet in a world of infinite possibilities, it cannot be ruled out that the cataclysm that befell Abyssea may one day descend upon Vana'diel.
+7595 : You must stay strong and ever ready, %, for the time may come when your uncommon courage and valor will be needed once more.
+7596 : Before I take my leave, I have one last favor to ask of you. It concerns Prishe.
+7597 : For all her carefree demeanor, she has known naught but hardship and suffering her entire life. It would mean much to both Prishe and me if you would pay her visit on occasion, whenever time permits.
+7598 : As your counterpart in Abyssea stood by her, easing the pain that racks her gentle heart, so too would I ask the same of you.
+7599 : Thank you, %, and farewell. May the stars shine their countenance upon you, always.
+7600 : I had an inkling you would be here.
+7601 : You must be taken aback to be reunited with me here, of all places.
+7602 : To think we had prevented the world from ending one way, only to find out it would end another...
+7603 : You are %, correct?
+7604 : Permit me to introduce myself. I am Esha'ntarl, representative of Archduke Kam'lanaut of the Grand Duchy of Jeuno.
+7605 : Ah, but your face belies your surprise at seeing one such as me here. Despite my position, I am given free reign to go where I please.
+7606 : I heard tell of a young woman struggling to save the world from oblivion together with her master...an adventurer. You.
+7607 : I desired but to lay my own two eyes on [his/her] visage.
+7608 : And Iroha? Is she not with you?
+7609 : Please. Apprise me of what you have learned thus far.
+7610 : I understand you have no reason to place your trust in me, but know this--I wish only to shelter this world from harm.
+7611 : Surely you can sense that my words ring true.
+7612 : Please. Apprise me of what you have learned thus far.
+7613 : So Iroha expired and has yet to return to this mortal coil.
+7614 : Revival is in the realm of the gods, and if she has not yet returned, it may be because they do not permit it.
+7615 : Should she be struggling in earnest against this void...this Cloud of Darkness, then it is but a matter of time before they see fit to bring her here once more.
+7616 : Unless... Unless their own powers have begun to wane and they have little time left.
+7617 : Only the ancients--the Zilart--possess the means by which to open these gates.
+7618 : Ah, but you are already in possession of %. I should have expected no less.
+7619 : I shall unbar the way.
+7620 : Long have I awaited thine arrival...
+7621 : Welcome, warriors of light, to the Temple of Altana, a place where knowledge comes to be lost.
+7622 : Lady Yve'noile serves the Goddess of the Dawn in all her incarnations and is the custodian of the Gate by which she can be reached.
+7623 : Lady Esha'ntarl, thy presence doth come as a surprise. To think one such as thyself would come posing questions for me.
+7624 : A young woman has traversed time itself to speak with %.
+7625 : She claimed that an existence which some call the Void--and others call the Cloud of Darkness--has come to claim Vana'diel.
+7626 : The Cloud of Darkness, you say...
+7627 : Alas, I can confess to hearing that name only once before in my lifetime.
+7628 : The prophecies say that the Cloud of Darkness is fated to descend upon this land once the five pieces of the mothercrystal have turned to dust.
+7629 : Were the pieces to be made whole once more, it is perhaps possible to avoid this most gloomy of futures.
+7630 : But that day itself will signal the end of Vana'diel.
+7631 : Yet even the struggles of the vaunted warriors of light would mean naught against the coming purge.
+7632 : Then pray tell--is there aught we can do?
+7633 : If we cannot stop it while mortal...
+7634 : ...then we must walk the path of the gods.
+7635 : You would have % become a god?
+7636 : You mean [he/she] must cast off the bonds of the Emptiness that shackle all who are born and destined to die?
+7637 : Some would say you speak madness, but I cannot deny that if such a ritual succeeded...
+7638 : I shall not lade my words with honey. The idea is so dangerous that failure can end only in death.
+7639 : Yet shouldst thou choose to walk the path of thorns, I shall help clear the way. For only one such as thou can make the journey.
+7640 : Warriors of the Crystal!
+7641 : You, and you alone, have the potential to guide them.
+7642 : But %... If [he/she] wants to become a [god/goddess] of light... Then I shall intervene.
+7643 : What manner of trickery is this!?
+7644 : Yve'noile... ...will have to suffer in this world no longer.
+7645 : I would like to burn this whole place to ashes... But there are more pressing matters to attend to.
+7646 : You vanquished me when my power was approaching its zenith...
+7647 : And attempted to thwart me every step of the way.
+7648 : Yet I know more than any how you will attempt to become a god of light.
+7649 : I have come this far...and by any means possible...I will impede your apotheosis!
+7650 : In this world, there can be no light without darkness.
+7651 : Are you truly so arrogant as to believe this world needs no darkness to thrive?
+7652 : In a world with nothing but light, how will the dead find eternal slumber?
+7653 : Before you act... ...you must think.
+7654 : It is only a matter of time before the Cloud of Darkness swallows all...
+7655 : %? %!?
+7656 : I see. So that masked man is, for lack of a better term, a future you that has succumbed to darkness.
+7657 : A fallen angel, if you will. I sense that your words do not ring false.
+7658 : But let us reflect. If he came to our time to prevent you from becoming a god of light...
+7659 : ...Then the logical conclusion is that you have the capability to do so.
+7660 : So you wish to know a more concrete method for becoming a god of light.
+7661 : Would that I could provide you with answers, but I cannot surmise what Yve'noile had in mind.
+7662 : Perhaps Selh'teus in [Al'Taieu/Paradise] would have the answers we seek.
+7663 : Ah, so you raise an eyebrow at my acquaintance with Selh'teus.
+7664 : Naturally, I have not revealed my position as a representative of the Grand Duchy of Jeuno.
+7665 : However, should I have not made this clear before, you must make many sacrifices in order to discard your mortal form and ascend.
+7666 : You will become more than any person was meant to be, and rise to a plane where you will no longer be able to interact with friends and loved ones.
+7667 : Let there be no doubt: the path is a lonely one.

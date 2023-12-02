@@ -6376,7 +6376,7 @@
 6378 : The Adventurer Gratitude Campaign is currently underway! Enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6379 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6380 : You will be able to use the Assist Channel until #/#/# at #:# (JST).
-6381 : In celebration of the UT x FINAL FANTASY Collaboration, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
+6381 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6382 : You cannot obtain the %.
 6383 : You cannot obtain any more.
 6384 : You cannot obtain the %. Come back after sorting your inventory.
@@ -7047,209 +7047,210 @@
 7054 : You have been rewarded % as compensation.
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
-7057 : You can't fish here.
-7058 : You can't fish without a rod in your hands.
-7059 : You can't fish without bait on the hook.
-7060 : You can't fish at the moment.
-7061 : You didn't catch anything.
-7062 : % caught a monster!
-7063 : Your line breaks.
-7064 : Your rod breaks.
-7065 : Something caught the hook!
-7066 : You lost your catch.
-7067 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7068 : You feel there's something here.
-7069 : You feel there's something nearby.
-7070 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7071 : % caught  %!
-7072 : You dig and you dig, but find nothing.
-7073 : #/%
-7074 : Your rod breaks. Whatever caught the hook was pretty big.
-7075 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7076 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7077 : You lost your catch due to your lack of skill.
-7078 : Number fished : # Original Dice No. ## Result # (0=caught)
-7079 : You didn't catch anything.
-7080 : The paper on your % ripped.
-7081 : A tiny goldfish approaches!
-7082 : A plump, black goldfish approaches!
-7083 : A fat, juicy goldfish approaches!
-7084 : There are no goldfish to be found...
-7085 : % caught %, but cannot carry any more items. % regretfully releases it.
-7086 : The goldfish slipped off your scoop...
-7087 : ch# skill up check.
-7088 : a:#.
-7089 : Time # / Status # / #
-7090 : d:#. e:#. f:#. g:#.
-7091 : h: #. i: #. sr: #.
-7092 : j:#. k:#.
-7093 : You give up and reel in your line.
-7094 : You give up.
-7095 : % obtains # gil.
-7096 : % caught %!
-7097 : You don't know how much longer you can keep this one on the line...
-7098 : You have a good feeling about this one!
-7099 : You have a bad feeling about this one.
-7100 : You have a terrible feeling about this one...
-7101 : You don't know if you have enough skill to reel this one in.
-7102 : You're fairly sure you don't have enough skill to reel this one in.
-7103 : You're positive you don't have enough skill to reel this one in!
-7104 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7105 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7106 : l: #. m: #. n: #. CH: #.
-7107 : Something caught the hook!!!
-7108 : You feel something pulling at your line.
-7109 : Something clamps onto your line ferociously!
-7110 : Your keen angler's senses tell you that this is the pull of %!
-7111 : This strength... You get the sense that you are on the verge of an epic catch!
-7112 : The timer has started. # seconds remaining.
-7113 : #sec.#/#sec.
-7114 : 0:# 1:# 2:# 3:#
-7115 : 4:# 5:# 6:# 7:#
-7116 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7117 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7118 : #/#(#
-7119 : Version invalid error!
-7120 : Hurry before the goldfish sees you!
-7121 : % fishes up a large box!
-7123 : Fish No# / Bait No# / Hit# >>> #
-7124 : Point# >>> #
-7125 : %(#) skill#
-7126 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7127 : Im Rnd : # Pz Rnd : #
-7128 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7129 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7130 : skill : # size : # kind : # sch : #
-7131 : time : # mes : # flag : # bonus : #
-7132 : item : # hp : # pow : # swing : #
-7133 : suc : # cons : # weight : # +- : #
-7134 : speed : # +- : # exc : # client : #
-7135 : general : #
-7136 : ro:# rs:# ps:# dt:#
-7137 : ra:# ti:#
-7138 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7139 : You get the distinct sense that your moogle friend frequents this spot...
-7140 : You have a feeling that your moogle friend has been through this way...
-7141 : You suspect that the scenery around here would be to a moogle's liking...
-7142 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7143 : You have a hunch that this area would be favored by moogles...
-7144 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7145 : % catches # %!
-7146 : % obtained %!
-7147 : It appears your chocobo found this item with ease.
-7148 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7149 : FPT # DPT # DoT#
-7150 : FPT # TDPT # h#
-7151 : You cannot fish at this time.
-7152 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7153 : You discover a cache of beastman resources and receive # Imperial Standing!
-7154 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7155 : You receive # bayld!
-7156 : Your chocobo refuses to partake of the %.
-7157 : Tallying conquest results...
-7158 : Conquest results tallied.
-7159 : This region is currently under San d'Orian control.
-7160 : This region is currently under Bastokan control.
-7161 : This region is currently under Windurstian control.
-7162 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7163 : This region is currently neutral.
-7164 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7165 : All three nations are tied for first place.
-7166 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7167 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7169 : All three nations are tied for first place.
-7170 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7172 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7173 : All three nations are tied for first place.
-7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7175 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7176 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7177 : All three nations are tied for first place.
-7178 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7180 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7181 : Global balance of power: All three nations are tied for first place.
-7182 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7183 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7184 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7185 : All three nations are tied for first place.
-7186 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7188 : Conquest update: This region is currently neutral.
-7189 : Conquest update: This region is currently under San d'Orian control.
-7190 : Conquest update: This region is currently under Bastokan control.
-7191 : Conquest update: This region is currently under Windurstian control.
-7192 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7193 : All three nations are at a deadlock.
-7194 : The beastmen are on the rise.
-7195 : Regional influence: San d'Oria - Dominant
-7196 : Regional influence: San d'Oria - Major
-7197 : Regional influence: San d'Oria - Minor
-7198 : Regional influence: San d'Oria - Minimal
-7199 : Bastok - Dominant
-7200 : Bastok - Major
-7201 : Bastok - Minor
-7202 : Bastok - Minimal
-7203 : Windurst - Dominant
-7204 : Windurst - Major
-7205 : Windurst - Minor
-7206 : Windurst - Minimal
-7207 : Bastok and Windurst have formed an alliance.
-7208 : San d'Oria and Windurst have formed an alliance.
-7209 : San d'Oria and Bastok have formed an alliance.
-7210 : Bastok and Windurst are currently allies.
-7211 : San d'Oria and Windurst are currently allies.
-7212 : San d'Oria and Bastok are currently allies.
-7213 : # #
-7214 : # % #
-7215 : ITEM_ID:# :#
-7216 : :# :#
-7217 : [//]:[////] :#:#
-7218 : The beastmen are gaining power.
-7219 : San d'Oria's regional control is now 10% closer to the first place country's!
-7220 : Bastok's regional control is now 10% closer to the first place country's!
-7221 : Windurst's regional control are now 10% closer to the first place country's!
-7222 : San d'Oria's region points have increased!
-7223 : Bastok's region points have increased!
-7224 : Windurst's region points have increased!
-7225 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7226 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7227 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7228 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7229 : A Bastokan Expeditionary Force has been dispatched to this area.
-7230 : A Windurstian Expeditionary Force has been dispatched to this area.
-7231 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7232 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7233 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7234 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7235 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7236 : There was a curse on the beastmen's banner!
-7237 : The curse of the beastmen's banner has been lifted!
-7238 : There is a beastmen's banner.
-7314 : # #
+7057 : You receive # deeds for a total of #!
+7058 : You can't fish here.
+7059 : You can't fish without a rod in your hands.
+7060 : You can't fish without bait on the hook.
+7061 : You can't fish at the moment.
+7062 : You didn't catch anything.
+7063 : % caught a monster!
+7064 : Your line breaks.
+7065 : Your rod breaks.
+7066 : Something caught the hook!
+7067 : You lost your catch.
+7068 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7069 : You feel there's something here.
+7070 : You feel there's something nearby.
+7071 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7072 : % caught  %!
+7073 : You dig and you dig, but find nothing.
+7074 : #/%
+7075 : Your rod breaks. Whatever caught the hook was pretty big.
+7076 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7077 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7078 : You lost your catch due to your lack of skill.
+7079 : Number fished : # Original Dice No. ## Result # (0=caught)
+7080 : You didn't catch anything.
+7081 : The paper on your % ripped.
+7082 : A tiny goldfish approaches!
+7083 : A plump, black goldfish approaches!
+7084 : A fat, juicy goldfish approaches!
+7085 : There are no goldfish to be found...
+7086 : % caught %, but cannot carry any more items. % regretfully releases it.
+7087 : The goldfish slipped off your scoop...
+7088 : ch# skill up check.
+7089 : a:#.
+7090 : Time # / Status # / #
+7091 : d:#. e:#. f:#. g:#.
+7092 : h: #. i: #. sr: #.
+7093 : j:#. k:#.
+7094 : You give up and reel in your line.
+7095 : You give up.
+7096 : % obtains # gil.
+7097 : % caught %!
+7098 : You don't know how much longer you can keep this one on the line...
+7099 : You have a good feeling about this one!
+7100 : You have a bad feeling about this one.
+7101 : You have a terrible feeling about this one...
+7102 : You don't know if you have enough skill to reel this one in.
+7103 : You're fairly sure you don't have enough skill to reel this one in.
+7104 : You're positive you don't have enough skill to reel this one in!
+7105 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7106 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7107 : l: #. m: #. n: #. CH: #.
+7108 : Something caught the hook!!!
+7109 : You feel something pulling at your line.
+7110 : Something clamps onto your line ferociously!
+7111 : Your keen angler's senses tell you that this is the pull of %!
+7112 : This strength... You get the sense that you are on the verge of an epic catch!
+7113 : The timer has started. # seconds remaining.
+7114 : #sec.#/#sec.
+7115 : 0:# 1:# 2:# 3:#
+7116 : 4:# 5:# 6:# 7:#
+7117 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7118 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7119 : #/#(#
+7120 : Version invalid error!
+7121 : Hurry before the goldfish sees you!
+7122 : % fishes up a large box!
+7124 : Fish No# / Bait No# / Hit# >>> #
+7125 : Point# >>> #
+7126 : %(#) skill#
+7127 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7128 : Im Rnd : # Pz Rnd : #
+7129 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7130 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7131 : skill : # size : # kind : # sch : #
+7132 : time : # mes : # flag : # bonus : #
+7133 : item : # hp : # pow : # swing : #
+7134 : suc : # cons : # weight : # +- : #
+7135 : speed : # +- : # exc : # client : #
+7136 : general : #
+7137 : ro:# rs:# ps:# dt:#
+7138 : ra:# ti:#
+7139 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7140 : You get the distinct sense that your moogle friend frequents this spot...
+7141 : You have a feeling that your moogle friend has been through this way...
+7142 : You suspect that the scenery around here would be to a moogle's liking...
+7143 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7144 : You have a hunch that this area would be favored by moogles...
+7145 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7146 : % catches # %!
+7147 : % obtained %!
+7148 : It appears your chocobo found this item with ease.
+7149 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7150 : FPT # DPT # DoT#
+7151 : FPT # TDPT # h#
+7152 : You cannot fish at this time.
+7153 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7154 : You discover a cache of beastman resources and receive # Imperial Standing!
+7155 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7156 : You receive # bayld!
+7157 : Your chocobo refuses to partake of the %.
+7158 : Tallying conquest results...
+7159 : Conquest results tallied.
+7160 : This region is currently under San d'Orian control.
+7161 : This region is currently under Bastokan control.
+7162 : This region is currently under Windurstian control.
+7163 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7164 : This region is currently neutral.
+7165 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7166 : All three nations are tied for first place.
+7167 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7169 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7170 : All three nations are tied for first place.
+7171 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7173 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7174 : All three nations are tied for first place.
+7175 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7177 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7178 : All three nations are tied for first place.
+7179 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7180 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7181 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7182 : Global balance of power: All three nations are tied for first place.
+7183 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7185 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7186 : All three nations are tied for first place.
+7187 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7188 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7189 : Conquest update: This region is currently neutral.
+7190 : Conquest update: This region is currently under San d'Orian control.
+7191 : Conquest update: This region is currently under Bastokan control.
+7192 : Conquest update: This region is currently under Windurstian control.
+7193 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7194 : All three nations are at a deadlock.
+7195 : The beastmen are on the rise.
+7196 : Regional influence: San d'Oria - Dominant
+7197 : Regional influence: San d'Oria - Major
+7198 : Regional influence: San d'Oria - Minor
+7199 : Regional influence: San d'Oria - Minimal
+7200 : Bastok - Dominant
+7201 : Bastok - Major
+7202 : Bastok - Minor
+7203 : Bastok - Minimal
+7204 : Windurst - Dominant
+7205 : Windurst - Major
+7206 : Windurst - Minor
+7207 : Windurst - Minimal
+7208 : Bastok and Windurst have formed an alliance.
+7209 : San d'Oria and Windurst have formed an alliance.
+7210 : San d'Oria and Bastok have formed an alliance.
+7211 : Bastok and Windurst are currently allies.
+7212 : San d'Oria and Windurst are currently allies.
+7213 : San d'Oria and Bastok are currently allies.
+7214 : # #
+7215 : # % #
+7216 : ITEM_ID:# :#
+7217 : :# :#
+7218 : [//]:[////] :#:#
+7219 : The beastmen are gaining power.
+7220 : San d'Oria's regional control is now 10% closer to the first place country's!
+7221 : Bastok's regional control is now 10% closer to the first place country's!
+7222 : Windurst's regional control are now 10% closer to the first place country's!
+7223 : San d'Oria's region points have increased!
+7224 : Bastok's region points have increased!
+7225 : Windurst's region points have increased!
+7226 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7227 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7228 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7229 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7230 : A Bastokan Expeditionary Force has been dispatched to this area.
+7231 : A Windurstian Expeditionary Force has been dispatched to this area.
+7232 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7233 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7234 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7235 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7236 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7237 : There was a curse on the beastmen's banner!
+7238 : The curse of the beastmen's banner has been lifted!
+7239 : There is a beastmen's banner.
 7315 : # #
-7316 : We are on our way to Al Zahbi. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
-7317 : We are now docking in Al Zahbi.
-7318 : We are nearing Al Zahbi.
-7319 : This is the ship route from Nashmau to Al Zahbi.
-7320 : You've picked the best place to shop for your items, guaranteed!
-7321 : We are on our way to Al Zahbi. We will be arriving soon.
-7322 : The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
-7323 : The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
-7324 : The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
-7325 : The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
-7326 : The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
-7327 : The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
-7328 : Al Zahbi is Besieged! Defend the Astral Candescence!
-7329 : Al Zahbi is no longer Besieged.
-7330 : The beastmen have retreated.
-7331 : The Mamool Ja Savages have retreated.
-7332 : The Troll Mercenaries have retreated.
-7333 : The Undead Swarm has retreated.
-7334 : Al Zahbi has recovered the Astral Candescence.
-7335 : The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
-7336 : The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
-7337 : The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
-7338 : The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.
+7316 : # #
+7317 : We are on our way to Al Zahbi. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
+7318 : We are now docking in Al Zahbi.
+7319 : We are nearing Al Zahbi.
+7320 : This is the ship route from Nashmau to Al Zahbi.
+7321 : You've picked the best place to shop for your items, guaranteed!
+7322 : We are on our way to Al Zahbi. We will be arriving soon.
+7323 : The Mamool Ja Savages are on the move. Intercept their forces in the Wajaom Woodlands!
+7324 : The Troll Mercenaries are on the move. Intercept their forces in the Wajaom Woodlands!
+7325 : The Undead Swarm is on the move. Intercept their forces in Bhaflau Thickets!
+7326 : The Mamool Ja Savages have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+7327 : The Troll Mercenaries have breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+7328 : The Undead Swarm has breached the Balrahn Defense Line! Intercept their forces in Al Zahbi's Bastion!
+7329 : Al Zahbi is Besieged! Defend the Astral Candescence!
+7330 : Al Zahbi is no longer Besieged.
+7331 : The beastmen have retreated.
+7332 : The Mamool Ja Savages have retreated.
+7333 : The Troll Mercenaries have retreated.
+7334 : The Undead Swarm has retreated.
+7335 : Al Zahbi has recovered the Astral Candescence.
+7336 : The Hall of Binding has been breached! The beastmen have taken the Astral Candescence.
+7337 : The Hall of Binding has been breached! The Mamool Ja Savages have taken the Astral Candescence.
+7338 : The Hall of Binding has been breached! The Troll Mercenaries have taken the Astral Candescence.
+7339 : The Hall of Binding has been breached! The Undead Swarm has taken the Astral Candescence.

@@ -6460,7 +6460,7 @@
 6537 : The Adventurer Gratitude Campaign is currently underway! Enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6538 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6539 : You will be able to use the Assist Channel until #/#/# at #:# (JST).
-6540 : In celebration of the UT x FINAL FANTASY Collaboration, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
+6540 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6541 : You cannot obtain the %.
 6542 : You cannot obtain any more.
 6543 : You cannot obtain the %. Come back after sorting your inventory.
@@ -7131,179 +7131,180 @@
 7213 : You have been rewarded % as compensation.
 7214 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7215 : Please claim your item before maintenance for the October 2022 version update begins.
-7216 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7217 : Word has been received of a Troll threat in Wajaom Woodlands.
-7218 : Word has been received of an undead threat in Bhaflau Thickets.
-7219 : You can't fish here.
-7220 : You can't fish without a rod in your hands.
-7221 : You can't fish without bait on the hook.
-7222 : You can't fish at the moment.
-7223 : You didn't catch anything.
-7224 : % caught a monster!
-7225 : Your line breaks.
-7226 : Your rod breaks.
-7227 : Something caught the hook!
-7228 : You lost your catch.
-7229 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7230 : You feel there's something here.
-7231 : You feel there's something nearby.
-7232 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7233 : % caught  %!
-7234 : You dig and you dig, but find nothing.
-7235 : #/%
-7236 : Your rod breaks. Whatever caught the hook was pretty big.
-7237 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7238 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7239 : You lost your catch due to your lack of skill.
-7240 : Number fished : # Original Dice No. ## Result # (0=caught)
-7241 : You didn't catch anything.
-7242 : The paper on your % ripped.
-7243 : A tiny goldfish approaches!
-7244 : A plump, black goldfish approaches!
-7245 : A fat, juicy goldfish approaches!
-7246 : There are no goldfish to be found...
-7247 : % caught %, but cannot carry any more items. % regretfully releases it.
-7248 : The goldfish slipped off your scoop...
-7249 : ch# skill up check.
-7250 : a:#.
-7251 : Time # / Status # / #
-7252 : d:#. e:#. f:#. g:#.
-7253 : h: #. i: #. sr: #.
-7254 : j:#. k:#.
-7255 : You give up and reel in your line.
-7256 : You give up.
-7257 : % obtains # gil.
-7258 : % caught %!
-7259 : You don't know how much longer you can keep this one on the line...
-7260 : You have a good feeling about this one!
-7261 : You have a bad feeling about this one.
-7262 : You have a terrible feeling about this one...
-7263 : You don't know if you have enough skill to reel this one in.
-7264 : You're fairly sure you don't have enough skill to reel this one in.
-7265 : You're positive you don't have enough skill to reel this one in!
-7266 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7267 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7268 : l: #. m: #. n: #. CH: #.
-7269 : Something caught the hook!!!
-7270 : You feel something pulling at your line.
-7271 : Something clamps onto your line ferociously!
-7272 : Your keen angler's senses tell you that this is the pull of %!
-7273 : This strength... You get the sense that you are on the verge of an epic catch!
-7274 : The timer has started. # seconds remaining.
-7275 : #sec.#/#sec.
-7276 : 0:# 1:# 2:# 3:#
-7277 : 4:# 5:# 6:# 7:#
-7278 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7279 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7280 : #/#(#
-7281 : Version invalid error!
-7282 : Hurry before the goldfish sees you!
-7283 : % fishes up a large box!
-7285 : Fish No# / Bait No# / Hit# >>> #
-7286 : Point# >>> #
-7287 : %(#) skill#
-7288 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7289 : Im Rnd : # Pz Rnd : #
-7290 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7291 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7292 : skill : # size : # kind : # sch : #
-7293 : time : # mes : # flag : # bonus : #
-7294 : item : # hp : # pow : # swing : #
-7295 : suc : # cons : # weight : # +- : #
-7296 : speed : # +- : # exc : # client : #
-7297 : general : #
-7298 : ro:# rs:# ps:# dt:#
-7299 : ra:# ti:#
-7300 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7301 : You get the distinct sense that your moogle friend frequents this spot...
-7302 : You have a feeling that your moogle friend has been through this way...
-7303 : You suspect that the scenery around here would be to a moogle's liking...
-7304 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7305 : You have a hunch that this area would be favored by moogles...
-7306 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7307 : % catches # %!
-7308 : % obtained %!
-7309 : It appears your chocobo found this item with ease.
-7310 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7311 : FPT # DPT # DoT#
-7312 : FPT # TDPT # h#
-7313 : You cannot fish at this time.
-7314 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7315 : You discover a cache of beastman resources and receive # Imperial Standing!
-7316 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7317 : You receive # bayld!
-7318 : Your chocobo refuses to partake of the %.
-7319 : Hello. Testing client message 1. Testing client message 2.
-7320 : Testing client message.
-7321 : Welcome. We have potions for sale today.
-7322 : Greetings! I've a good stock of potions today.
-7323 : There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
-7324 : I will crush you!
-7325 : Bind here? Yes. No.
-7326 : Done.
-7327 : If you have no business here, go away!
-7328 : Going back to bind spot. Press button.
-7329 : Going to first floor.
-7330 : Going to second floor.
-7331 : Going to third floor.
-7332 : Going to fourth floor.
-7333 : Go to which floor? 1. 2. 3. 4.
-7334 : Elevator --> 1st Floor
-7335 : Elevator --> 2nd Floor
-7336 : Stay on this floor.
-7337 : Indicate 2nd Floor
-7338 : The lever cannot be used while the elevator is in motion.
-7339 : Use the switch to activate the elevator.
-7340 : Elevator in operation.
-7341 : I may not look like much, but I can use magic!
-7342 : Wanna fly to Bastok? No, no! Let's go!
-7343 : Shucks.
-7344 : See ya!
-7345 : Throw the lever? Yes. No.
+7216 : You receive # deeds for a total of #!
+7217 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7218 : Word has been received of a Troll threat in Wajaom Woodlands.
+7219 : Word has been received of an undead threat in Bhaflau Thickets.
+7220 : You can't fish here.
+7221 : You can't fish without a rod in your hands.
+7222 : You can't fish without bait on the hook.
+7223 : You can't fish at the moment.
+7224 : You didn't catch anything.
+7225 : % caught a monster!
+7226 : Your line breaks.
+7227 : Your rod breaks.
+7228 : Something caught the hook!
+7229 : You lost your catch.
+7230 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7231 : You feel there's something here.
+7232 : You feel there's something nearby.
+7233 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7234 : % caught  %!
+7235 : You dig and you dig, but find nothing.
+7236 : #/%
+7237 : Your rod breaks. Whatever caught the hook was pretty big.
+7238 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7239 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7240 : You lost your catch due to your lack of skill.
+7241 : Number fished : # Original Dice No. ## Result # (0=caught)
+7242 : You didn't catch anything.
+7243 : The paper on your % ripped.
+7244 : A tiny goldfish approaches!
+7245 : A plump, black goldfish approaches!
+7246 : A fat, juicy goldfish approaches!
+7247 : There are no goldfish to be found...
+7248 : % caught %, but cannot carry any more items. % regretfully releases it.
+7249 : The goldfish slipped off your scoop...
+7250 : ch# skill up check.
+7251 : a:#.
+7252 : Time # / Status # / #
+7253 : d:#. e:#. f:#. g:#.
+7254 : h: #. i: #. sr: #.
+7255 : j:#. k:#.
+7256 : You give up and reel in your line.
+7257 : You give up.
+7258 : % obtains # gil.
+7259 : % caught %!
+7260 : You don't know how much longer you can keep this one on the line...
+7261 : You have a good feeling about this one!
+7262 : You have a bad feeling about this one.
+7263 : You have a terrible feeling about this one...
+7264 : You don't know if you have enough skill to reel this one in.
+7265 : You're fairly sure you don't have enough skill to reel this one in.
+7266 : You're positive you don't have enough skill to reel this one in!
+7267 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7268 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7269 : l: #. m: #. n: #. CH: #.
+7270 : Something caught the hook!!!
+7271 : You feel something pulling at your line.
+7272 : Something clamps onto your line ferociously!
+7273 : Your keen angler's senses tell you that this is the pull of %!
+7274 : This strength... You get the sense that you are on the verge of an epic catch!
+7275 : The timer has started. # seconds remaining.
+7276 : #sec.#/#sec.
+7277 : 0:# 1:# 2:# 3:#
+7278 : 4:# 5:# 6:# 7:#
+7279 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7280 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7281 : #/#(#
+7282 : Version invalid error!
+7283 : Hurry before the goldfish sees you!
+7284 : % fishes up a large box!
+7286 : Fish No# / Bait No# / Hit# >>> #
+7287 : Point# >>> #
+7288 : %(#) skill#
+7289 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7290 : Im Rnd : # Pz Rnd : #
+7291 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7292 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7293 : skill : # size : # kind : # sch : #
+7294 : time : # mes : # flag : # bonus : #
+7295 : item : # hp : # pow : # swing : #
+7296 : suc : # cons : # weight : # +- : #
+7297 : speed : # +- : # exc : # client : #
+7298 : general : #
+7299 : ro:# rs:# ps:# dt:#
+7300 : ra:# ti:#
+7301 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7302 : You get the distinct sense that your moogle friend frequents this spot...
+7303 : You have a feeling that your moogle friend has been through this way...
+7304 : You suspect that the scenery around here would be to a moogle's liking...
+7305 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7306 : You have a hunch that this area would be favored by moogles...
+7307 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7308 : % catches # %!
+7309 : % obtained %!
+7310 : It appears your chocobo found this item with ease.
+7311 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7312 : FPT # DPT # DoT#
+7313 : FPT # TDPT # h#
+7314 : You cannot fish at this time.
+7315 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7316 : You discover a cache of beastman resources and receive # Imperial Standing!
+7317 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7318 : You receive # bayld!
+7319 : Your chocobo refuses to partake of the %.
+7320 : Hello. Testing client message 1. Testing client message 2.
+7321 : Testing client message.
+7322 : Welcome. We have potions for sale today.
+7323 : Greetings! I've a good stock of potions today.
+7324 : There is a dwarf-cave north of the city. Bandits come out at night, so be careful.
+7325 : I will crush you!
+7326 : Bind here? Yes. No.
+7327 : Done.
+7328 : If you have no business here, go away!
+7329 : Going back to bind spot. Press button.
+7330 : Going to first floor.
+7331 : Going to second floor.
+7332 : Going to third floor.
+7333 : Going to fourth floor.
+7334 : Go to which floor? 1. 2. 3. 4.
+7335 : Elevator --> 1st Floor
+7336 : Elevator --> 2nd Floor
+7337 : Stay on this floor.
+7338 : Indicate 2nd Floor
+7339 : The lever cannot be used while the elevator is in motion.
+7340 : Use the switch to activate the elevator.
+7341 : Elevator in operation.
+7342 : I may not look like much, but I can use magic!
+7343 : Wanna fly to Bastok? No, no! Let's go!
+7344 : Shucks.
+7345 : See ya!
 7346 : Throw the lever? Yes. No.
-7347 : You receive nothing from the moon rabbit...
-7348 : The moon rabbit has brought along a monster!
-7349 : You have to do something about those crazy trees, kupo!
-7350 : You're done fighting trees, kupo?
-7358 : This chest is locked. It can be opened with %.
-7359 : This chest is empty.
-7360 : Your inventory is full. You cannot carry any more items.
-7361 : You must be closer to the chest to open it.
-7362 : % opens the chest and finds %.
-7363 : The item in this chest cannot be handled by the other members of your party. % receives the %.
-7364 : % obtains a key item, %, from the chest.
-7365 : You obtain a key item, %, from the chest.
-7366 : You unlock the chest!
-7367 : % fails to open the chest.
-7368 : The chest was trapped!
-7369 : You cannot open the chest when you are in a weakened state.
-7370 : The chest was a mimic!
-7371 : You cannot open the chest while participating in the moogle event.
-7372 : The chest was but an illusion...
-7373 : The chest appears to be locked. If only you had %, perhaps you could open it...
-7374 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-7375 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-7376 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-7377 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-7378 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
-7379 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-7380 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-7381 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7382 : It will cost # gil to teleport to %. (# gil on hand)
-7383 : All mog tablets have currently been found, so you may teleport to % at no charge.
-7384 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
-7385 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
-7386 : You do not have enough tabs.
-7387 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
-7388 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
-7389 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
-7390 : Accept the reward? Yes, please. No, thanks.
-7391 : You may change the way you select areas listed in Teleportation Assistance.
-7392 : Any changes to make? Keep course. Select by region. Select by content.
-7393 : Area selection will now be made by [region/content].
-7394 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
-7395 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
-7396 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
-7397 : % has been [added to your list of favorites/removed from your list of favorites].
-7398 : Your list of favorites is full. You must remove an existing entry to add new ones.
-7399 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
+7347 : Throw the lever? Yes. No.
+7348 : You receive nothing from the moon rabbit...
+7349 : The moon rabbit has brought along a monster!
+7350 : You have to do something about those crazy trees, kupo!
+7351 : You're done fighting trees, kupo?
+7359 : This chest is locked. It can be opened with %.
+7360 : This chest is empty.
+7361 : Your inventory is full. You cannot carry any more items.
+7362 : You must be closer to the chest to open it.
+7363 : % opens the chest and finds %.
+7364 : The item in this chest cannot be handled by the other members of your party. % receives the %.
+7365 : % obtains a key item, %, from the chest.
+7366 : You obtain a key item, %, from the chest.
+7367 : You unlock the chest!
+7368 : % fails to open the chest.
+7369 : The chest was trapped!
+7370 : You cannot open the chest when you are in a weakened state.
+7371 : The chest was a mimic!
+7372 : You cannot open the chest while participating in the moogle event.
+7373 : The chest was but an illusion...
+7374 : The chest appears to be locked. If only you had %, perhaps you could open it...
+7375 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+7376 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+7377 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+7378 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+7379 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
+7380 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+7381 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+7382 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7383 : It will cost # gil to teleport to %. (# gil on hand)
+7384 : All mog tablets have currently been found, so you may teleport to % at no charge.
+7385 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
+7386 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
+7387 : You do not have enough tabs.
+7388 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
+7389 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
+7390 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
+7391 : Accept the reward? Yes, please. No, thanks.
+7392 : You may change the way you select areas listed in Teleportation Assistance.
+7393 : Any changes to make? Keep course. Select by region. Select by content.
+7394 : Area selection will now be made by [region/content].
+7395 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
+7396 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
+7397 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
+7398 : % has been [added to your list of favorites/removed from your list of favorites].
+7399 : Your list of favorites is full. You must remove an existing entry to add new ones.
+7400 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.

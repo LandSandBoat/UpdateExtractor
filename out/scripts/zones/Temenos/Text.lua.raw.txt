@@ -6376,7 +6376,7 @@
 6378 : The Adventurer Gratitude Campaign is currently underway! Enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6379 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6380 : You will be able to use the Assist Channel until #/#/# at #:# (JST).
-6381 : In celebration of the UT x FINAL FANTASY Collaboration, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
+6381 : As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
 6382 : You cannot obtain the %.
 6383 : You cannot obtain any more.
 6384 : You cannot obtain the %. Come back after sorting your inventory.
@@ -7047,16 +7047,16 @@
 7054 : You have been rewarded % as compensation.
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
-7057 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-7058 : Word has been received of a Troll threat in Wajaom Woodlands.
-7059 : Word has been received of an undead threat in Bhaflau Thickets.
-7060 : Enter Limbus? Yes. No.
-7061 : Exit Limbus? Yes. Not yet.
-7062 : You cannot enter Limbus at present. Please wait a little longer.
+7057 : You receive # deeds for a total of #!
+7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+7059 : Word has been received of a Troll threat in Wajaom Woodlands.
+7060 : Word has been received of an undead threat in Bhaflau Thickets.
+7061 : Enter Limbus? Yes. No.
+7062 : Exit Limbus? Yes. Not yet.
 7063 : You cannot enter Limbus at present. Please wait a little longer.
-7064 : You have already cleared Limbus. You may not enter unless you are assisting a player who has not defeated the boss.
-7065 : You have exceeded the time limit. Exiting Limbus now.
-7066 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
+7064 : You cannot enter Limbus at present. Please wait a little longer.
+7065 : You have already cleared Limbus. You may not enter unless you are assisting a player who has not defeated the boss.
+7066 : You have exceeded the time limit. Exiting Limbus now.
 7067 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7068 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7069 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
@@ -7072,353 +7072,353 @@
 7079 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7080 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
 7081 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
-7082 : You hear a faint hum.
-7083 : You can no longer hear a faint hum.
-7084 : You do not have clearance to enter Limbus. Exiting now.
-7085 : You do not have clearance to enter Limbus.
-7086 : There is no response. You cannot escape!
-7087 : There is a disc here inscribed with strange letters. There are several six-sided indentations and a thin slot in the center.
-7088 : You have not fulfilled the requirements to enter Limbus.
-7098 : _A
-7099 : _B
-7100 : _C
-7101 : _D
-7102 : _E
-7103 : _F
-7104 : _G
-7105 : _H
-7106 : (_A
-7107 : (_B
-7108 : (_C
-7111 : _A
-7112 : _B
-7113 : _C
-7114 : remove1
-7115 : remove2
-7116 : remove3
-7117 : _A
-7118 : _B
-7119 : _C
-7121 : %% %%
-7122 : ID ###### #
-7123 : _A
-7124 : _B
-7125 : _C
-7126 : ID  ID
-7128 : ID
-7129 : _A
-7130 : _B
-7131 : _C
-7134 : _A
-7135 : _B
-7136 : _C
-7137 : pending _A
-7138 : pending _B
-7139 : pending _C
-7140 : _A
-7141 : _B
-7142 : _C
-7143 : _A _A talk
-7144 : _B _B talk
-7145 : _C _C talk
-7146 : _AID_A
-7147 : _BID_B
-7148 : _CID_C
-7149 : _A
+7082 : You have clearance to enter Limbus, but cannot enter while you or a party member is engaged in battle.
+7083 : You hear a faint hum.
+7084 : You can no longer hear a faint hum.
+7085 : You do not have clearance to enter Limbus. Exiting now.
+7086 : You do not have clearance to enter Limbus.
+7087 : There is no response. You cannot escape!
+7088 : There is a disc here inscribed with strange letters. There are several six-sided indentations and a thin slot in the center.
+7089 : You have not fulfilled the requirements to enter Limbus.
+7099 : _A
+7100 : _B
+7101 : _C
+7102 : _D
+7103 : _E
+7104 : _F
+7105 : _G
+7106 : _H
+7107 : (_A
+7108 : (_B
+7109 : (_C
+7112 : _A
+7113 : _B
+7114 : _C
+7115 : remove1
+7116 : remove2
+7117 : remove3
+7118 : _A
+7119 : _B
+7120 : _C
+7122 : %% %%
+7123 : ID ###### #
+7124 : _A
+7125 : _B
+7126 : _C
+7127 : ID  ID
+7129 : ID
+7130 : _A
+7131 : _B
+7132 : _C
+7135 : _A
+7136 : _B
+7137 : _C
+7138 : pending _A
+7139 : pending _B
+7140 : pending _C
+7141 : _A
+7142 : _B
+7143 : _C
+7144 : _A _A talk
+7145 : _B _B talk
+7146 : _C _C talk
+7147 : _AID_A
+7148 : _BID_B
+7149 : _CID_C
 7150 : _A
 7151 : _A
-7152 : _B
+7152 : _A
 7153 : _B
 7154 : _B
-7155 : _C
+7155 : _B
 7156 : _C
 7157 : _C
-7159 : _Apending
-7160 : _Apending  pending
-7161 : _Bpending
-7162 : _Bpending  pending
-7163 : _Cpending
-7164 : _Cpending  pending
-7165 : _Apending
-7166 : _Bpending
-7167 : _Cpending
-7169 : defpcpending
-7170 : _A
-7171 : _B
-7172 : _C
-7173 : _A PC_A
-7174 : _B PC_B
-7175 : _C PC_C
-7176 : _A
-7177 : _B
-7178 : _C
-7179 : _A
-7180 : _B
-7181 : _C
-7182 : _A
-7183 : _B
-7184 : _C
-7185 : (_A)
-7186 : (_B)
-7187 : (_C)
-7189 : ENDPARA
-7190 : _A
-7191 : _B
-7192 : _C
-7193 : BAID
-7194 : CABID
-7195 : (AID)
-7196 : (BID)
-7197 : (CID)
-7198 : (AID)
-7199 : (BID)
-7200 : (CID)
-7201 : (A)
-7202 : (B)
-7203 : (C)
-7207 : _A
-7208 : _B
-7209 : _C
-7210 : _A
-7211 : _B
-7212 : _C
-7213 : _A
-7214 : _B
-7215 : _C
-7219 : %% %%
-7225 : _A
-7226 : _B
-7227 : _C
-7229 : _A
-7230 : _B
-7231 : _C
-7232 : _A
-7233 : _B
-7234 : _C
-7235 : pending
-7236 : _A
-7237 : _B
-7238 : _C
-7240 : _A
-7241 : _B
-7242 : _C
-7243 : _APC
-7244 : _BPC
-7245 : _CPC
-7249 : pending_A
-7250 : pending_B
-7251 : pending_C
-7254 : %% %%
-7255 : ID ###### #
-7256 : ID  ID
-7258 : ID
-7259 : _A
-7260 : _B
-7261 : _C
-7264 : _A
-7265 : _B
-7266 : _C
-7267 : pending _A
-7268 : pending _B
-7269 : pending _C
-7270 : pending _D
-7271 : pending _E
-7272 : pending _F
-7273 : pending _G
-7274 : pending _H
-7275 : _B
-7276 : _C
-7277 : _A _A talk
-7278 : _B _B talk
-7279 : _C _C talk
-7280 : _AID_A
-7281 : _BID_B
-7282 : _CID_C
-7283 : _A
+7158 : _C
+7160 : _Apending
+7161 : _Apending  pending
+7162 : _Bpending
+7163 : _Bpending  pending
+7164 : _Cpending
+7165 : _Cpending  pending
+7166 : _Apending
+7167 : _Bpending
+7168 : _Cpending
+7170 : defpcpending
+7171 : _A
+7172 : _B
+7173 : _C
+7174 : _A PC_A
+7175 : _B PC_B
+7176 : _C PC_C
+7177 : _A
+7178 : _B
+7179 : _C
+7180 : _A
+7181 : _B
+7182 : _C
+7183 : _A
+7184 : _B
+7185 : _C
+7186 : (_A)
+7187 : (_B)
+7188 : (_C)
+7190 : ENDPARA
+7191 : _A
+7192 : _B
+7193 : _C
+7194 : BAID
+7195 : CABID
+7196 : (AID)
+7197 : (BID)
+7198 : (CID)
+7199 : (AID)
+7200 : (BID)
+7201 : (CID)
+7202 : (A)
+7203 : (B)
+7204 : (C)
+7208 : _A
+7209 : _B
+7210 : _C
+7211 : _A
+7212 : _B
+7213 : _C
+7214 : _A
+7215 : _B
+7216 : _C
+7220 : %% %%
+7226 : _A
+7227 : _B
+7228 : _C
+7230 : _A
+7231 : _B
+7232 : _C
+7233 : _A
+7234 : _B
+7235 : _C
+7236 : pending
+7237 : _A
+7238 : _B
+7239 : _C
+7241 : _A
+7242 : _B
+7243 : _C
+7244 : _APC
+7245 : _BPC
+7246 : _CPC
+7250 : pending_A
+7251 : pending_B
+7252 : pending_C
+7255 : %% %%
+7256 : ID ###### #
+7257 : ID  ID
+7259 : ID
+7260 : _A
+7261 : _B
+7262 : _C
+7265 : _A
+7266 : _B
+7267 : _C
+7268 : pending _A
+7269 : pending _B
+7270 : pending _C
+7271 : pending _D
+7272 : pending _E
+7273 : pending _F
+7274 : pending _G
+7275 : pending _H
+7276 : _B
+7277 : _C
+7278 : _A _A talk
+7279 : _B _B talk
+7280 : _C _C talk
+7281 : _AID_A
+7282 : _BID_B
+7283 : _CID_C
 7284 : _A
 7285 : _A
-7286 : _B
+7286 : _A
 7287 : _B
 7288 : _B
-7289 : _C
+7289 : _B
 7290 : _C
 7291 : _C
-7293 : _Apending
-7294 : _Apending  pending
-7295 : _Bpending
-7296 : _Bpending  pending
-7297 : _Cpending
-7298 : _Cpending  pending
-7299 : _Apending
-7300 : _Bpending
-7301 : _Cpending
-7303 : defpcpending
-7304 : _A
-7305 : _B
-7306 : _C
-7307 : _A PC_A
-7308 : _B PC_B
-7309 : _C PC_C
-7310 : _A
-7311 : _B
-7312 : _C
-7313 : _A
-7314 : _B
-7315 : _C
-7316 : _A
-7317 : _B
-7318 : _C
-7319 : (_A)
-7320 : (_B)
-7321 : (_C)
-7323 : ENDPARA
-7324 : _A
-7325 : _B
-7326 : _C
-7327 : BAID
-7328 : CABID
-7329 : (There is no ID for A)
-7330 : (There is no ID for B)
-7331 : (There is no ID for C)
-7332 : (An ID exists for A)
-7333 : (An ID exists for B)
-7334 : (An ID exists for C)
-7335 : (A is already reserved)
-7336 : (B is already reserved)
-7337 : (C is already reserved)
-7338 : (You do not have the proper settings to enter)
-7339 : Currently, # party members in this area have clearance to enter Limbus.
+7292 : _C
+7294 : _Apending
+7295 : _Apending  pending
+7296 : _Bpending
+7297 : _Bpending  pending
+7298 : _Cpending
+7299 : _Cpending  pending
+7300 : _Apending
+7301 : _Bpending
+7302 : _Cpending
+7304 : defpcpending
+7305 : _A
+7306 : _B
+7307 : _C
+7308 : _A PC_A
+7309 : _B PC_B
+7310 : _C PC_C
+7311 : _A
+7312 : _B
+7313 : _C
+7314 : _A
+7315 : _B
+7316 : _C
+7317 : _A
+7318 : _B
+7319 : _C
+7320 : (_A)
+7321 : (_B)
+7322 : (_C)
+7324 : ENDPARA
+7325 : _A
+7326 : _B
+7327 : _C
+7328 : BAID
+7329 : CABID
+7330 : (There is no ID for A)
+7331 : (There is no ID for B)
+7332 : (There is no ID for C)
+7333 : (An ID exists for A)
+7334 : (An ID exists for B)
+7335 : (An ID exists for C)
+7336 : (A is already reserved)
+7337 : (B is already reserved)
+7338 : (C is already reserved)
+7339 : (You do not have the proper settings to enter)
 7340 : Currently, # party members in this area have clearance to enter Limbus.
-7341 : You are the only player with clearance to enter Limbus.
-7342 : ou may stay in Limbus for # [minute/minutes].
-7344 : # #
-7346 : DEBUG1
-7348 : DEBUG
-7349 : # # BOSS_STATUS#
-7350 : # ID#
-7351 : # # BOSS_STATUS# #pending
-7352 : PARTY0# PARTY1#PARTY2#
-7353 : PARTY3# PARTY4#PARTY5#
-7356 : CLI_NUM0 = #
-7357 : CLI_NUM1 = #
-7358 : CLI_NUM2 = #
-7359 : CLI_NUM3 = #
-7360 : CLI_NUM4 = #
-7361 : CLI_NUM5 = #
-7362 : CLI_NUM6 = #
-7363 : CLI_NUM7 = #
-7364 : Skip the event? Yes. No.
-7365 : All party members in Limbus have fallen in battle. Exiting now.
-7366 : All players in Room A have fallen in battle. Exiting now.
-7367 : All players in Room B have fallen in battle. Exiting now.
-7368 : All players in Room C have fallen in battle. Exiting now.
-7369 : All players in Room D have fallen in battle. Exiting now.
-7370 : All players in Room E have fallen in battle. Exiting now.
-7371 : All players in Room F have fallen in battle. Exiting now.
-7372 : All players in Room G have fallen in battle. Exiting now.
-7373 : All players in Room H have fallen in battle. Exiting now.
-7374 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes], # [second/seconds].
-7375 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes].
-7377 : Only # party members have clearance to enter Limbus. The area has reached capacity.
-7378 : You cannot enter. Your settings differ from those who have already entered.
+7341 : Currently, # party members in this area have clearance to enter Limbus.
+7342 : You are the only player with clearance to enter Limbus.
+7343 : ou may stay in Limbus for # [minute/minutes].
+7345 : # #
+7347 : DEBUG1
+7349 : DEBUG
+7350 : # # BOSS_STATUS#
+7351 : # ID#
+7352 : # # BOSS_STATUS# #pending
+7353 : PARTY0# PARTY1#PARTY2#
+7354 : PARTY3# PARTY4#PARTY5#
+7357 : CLI_NUM0 = #
+7358 : CLI_NUM1 = #
+7359 : CLI_NUM2 = #
+7360 : CLI_NUM3 = #
+7361 : CLI_NUM4 = #
+7362 : CLI_NUM5 = #
+7363 : CLI_NUM6 = #
+7364 : CLI_NUM7 = #
+7365 : Skip the event? Yes. No.
+7366 : All party members in Limbus have fallen in battle. Exiting now.
+7367 : All players in Room A have fallen in battle. Exiting now.
+7368 : All players in Room B have fallen in battle. Exiting now.
+7369 : All players in Room C have fallen in battle. Exiting now.
+7370 : All players in Room D have fallen in battle. Exiting now.
+7371 : All players in Room E have fallen in battle. Exiting now.
+7372 : All players in Room F have fallen in battle. Exiting now.
+7373 : All players in Room G have fallen in battle. Exiting now.
+7374 : All players in Room H have fallen in battle. Exiting now.
+7375 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes], # [second/seconds].
+7376 : All party members in Limbus have fallen in battle. Exiting in # [minute/minutes].
+7378 : Only # party members have clearance to enter Limbus. The area has reached capacity.
 7379 : You cannot enter. Your settings differ from those who have already entered.
-7380 : You insert the % polished with % into the slot!
-7381 : The light in the % has grown dim.
-7382 : The % is not responding.
-7383 : our time in Limbus has been extended # [minute/minutes].
-7384 : ou have # [minute/minutes] left in Limbus.
-7385 : ou have # [second/seconds] left in Limbus.
-7386 : Tallying conquest results...
-7387 : Conquest results tallied.
-7388 : This region is currently under San d'Orian control.
-7389 : This region is currently under Bastokan control.
-7390 : This region is currently under Windurstian control.
-7391 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7392 : This region is currently neutral.
-7393 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7394 : All three nations are tied for first place.
-7395 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7396 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7397 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7398 : All three nations are tied for first place.
-7399 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7400 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7401 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7402 : All three nations are tied for first place.
-7403 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7404 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7405 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7406 : All three nations are tied for first place.
-7407 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7408 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7409 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7410 : Global balance of power: All three nations are tied for first place.
-7411 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7412 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7413 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7414 : All three nations are tied for first place.
-7415 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7416 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7417 : Conquest update: This region is currently neutral.
-7418 : Conquest update: This region is currently under San d'Orian control.
-7419 : Conquest update: This region is currently under Bastokan control.
-7420 : Conquest update: This region is currently under Windurstian control.
-7421 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7422 : All three nations are at a deadlock.
-7423 : The beastmen are on the rise.
-7424 : Regional influence: San d'Oria - Dominant
-7425 : Regional influence: San d'Oria - Major
-7426 : Regional influence: San d'Oria - Minor
-7427 : Regional influence: San d'Oria - Minimal
-7428 : Bastok - Dominant
-7429 : Bastok - Major
-7430 : Bastok - Minor
-7431 : Bastok - Minimal
-7432 : Windurst - Dominant
-7433 : Windurst - Major
-7434 : Windurst - Minor
-7435 : Windurst - Minimal
-7436 : Bastok and Windurst have formed an alliance.
-7437 : San d'Oria and Windurst have formed an alliance.
-7438 : San d'Oria and Bastok have formed an alliance.
-7439 : Bastok and Windurst are currently allies.
-7440 : San d'Oria and Windurst are currently allies.
-7441 : San d'Oria and Bastok are currently allies.
-7442 : # #
-7443 : # % #
-7444 : ITEM_ID:# :#
-7445 : :# :#
-7446 : [//]:[////] :#:#
-7447 : The beastmen are gaining power.
-7448 : San d'Oria's regional control is now 10% closer to the first place country's!
-7449 : Bastok's regional control is now 10% closer to the first place country's!
-7450 : Windurst's regional control are now 10% closer to the first place country's!
-7451 : San d'Oria's region points have increased!
-7452 : Bastok's region points have increased!
-7453 : Windurst's region points have increased!
-7454 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7455 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7456 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7457 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7458 : A Bastokan Expeditionary Force has been dispatched to this area.
-7459 : A Windurstian Expeditionary Force has been dispatched to this area.
-7460 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7461 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7462 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7463 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7464 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7465 : There was a curse on the beastmen's banner!
-7466 : The curse of the beastmen's banner has been lifted!
-7467 : There is a beastmen's banner.
-7543 : # #
+7380 : You cannot enter. Your settings differ from those who have already entered.
+7381 : You insert the % polished with % into the slot!
+7382 : The light in the % has grown dim.
+7383 : The % is not responding.
+7384 : our time in Limbus has been extended # [minute/minutes].
+7385 : ou have # [minute/minutes] left in Limbus.
+7386 : ou have # [second/seconds] left in Limbus.
+7387 : Tallying conquest results...
+7388 : Conquest results tallied.
+7389 : This region is currently under San d'Orian control.
+7390 : This region is currently under Bastokan control.
+7391 : This region is currently under Windurstian control.
+7392 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7393 : This region is currently neutral.
+7394 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7395 : All three nations are tied for first place.
+7396 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7397 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7398 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7399 : All three nations are tied for first place.
+7400 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7401 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7402 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7403 : All three nations are tied for first place.
+7404 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7405 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7406 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7407 : All three nations are tied for first place.
+7408 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7409 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7410 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7411 : Global balance of power: All three nations are tied for first place.
+7412 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7413 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7414 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7415 : All three nations are tied for first place.
+7416 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7417 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7418 : Conquest update: This region is currently neutral.
+7419 : Conquest update: This region is currently under San d'Orian control.
+7420 : Conquest update: This region is currently under Bastokan control.
+7421 : Conquest update: This region is currently under Windurstian control.
+7422 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7423 : All three nations are at a deadlock.
+7424 : The beastmen are on the rise.
+7425 : Regional influence: San d'Oria - Dominant
+7426 : Regional influence: San d'Oria - Major
+7427 : Regional influence: San d'Oria - Minor
+7428 : Regional influence: San d'Oria - Minimal
+7429 : Bastok - Dominant
+7430 : Bastok - Major
+7431 : Bastok - Minor
+7432 : Bastok - Minimal
+7433 : Windurst - Dominant
+7434 : Windurst - Major
+7435 : Windurst - Minor
+7436 : Windurst - Minimal
+7437 : Bastok and Windurst have formed an alliance.
+7438 : San d'Oria and Windurst have formed an alliance.
+7439 : San d'Oria and Bastok have formed an alliance.
+7440 : Bastok and Windurst are currently allies.
+7441 : San d'Oria and Windurst are currently allies.
+7442 : San d'Oria and Bastok are currently allies.
+7443 : # #
+7444 : # % #
+7445 : ITEM_ID:# :#
+7446 : :# :#
+7447 : [//]:[////] :#:#
+7448 : The beastmen are gaining power.
+7449 : San d'Oria's regional control is now 10% closer to the first place country's!
+7450 : Bastok's regional control is now 10% closer to the first place country's!
+7451 : Windurst's regional control are now 10% closer to the first place country's!
+7452 : San d'Oria's region points have increased!
+7453 : Bastok's region points have increased!
+7454 : Windurst's region points have increased!
+7455 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7456 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7457 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7458 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7459 : A Bastokan Expeditionary Force has been dispatched to this area.
+7460 : A Windurstian Expeditionary Force has been dispatched to this area.
+7461 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7462 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7463 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7464 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7465 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7466 : There was a curse on the beastmen's banner!
+7467 : The curse of the beastmen's banner has been lifted!
+7468 : There is a beastmen's banner.
 7544 : # #
-7545 : Use the device? Yes. No.
-7546 : DEBUG: Stage clear!
-7547 : DEBUG: Reset...
-7548 : There is no response. You cannot escape!
-7549 : You have entered [Temenos - Northern Tower/Temenos - Eastern Tower/Temenos - Western Tower/Central Temenos - 4th Floor/Central Temenos - 3rd Floor/Central Temenos - 2nd Floor/Central Temenos - 1st Floor/Central Temenos - 1st Basement/Central Temenos - 1st Basement/Central Temenos - 4th Floor].
-7550 : Enter which part of Temenos? None. Temenos - Northern Tower. Temenos - Eastern Tower. Temenos - Western Tower. Central Temenos - 4th Floor. Central Temenos - 3rd Floor. Central Temenos - 2nd Floor. Central Temenos - 1st Floor. Central Temenos - Basement. Ctr. Temenos - Basement II. Ctr. Temenos - 4th Floor II.
-7551 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
+7545 : # #
+7546 : Use the device? Yes. No.
+7547 : DEBUG: Stage clear!
+7548 : DEBUG: Reset...
+7549 : There is no response. You cannot escape!
+7550 : You have entered [Temenos - Northern Tower/Temenos - Eastern Tower/Temenos - Western Tower/Central Temenos - 4th Floor/Central Temenos - 3rd Floor/Central Temenos - 2nd Floor/Central Temenos - 1st Floor/Central Temenos - 1st Basement/Central Temenos - 1st Basement/Central Temenos - 4th Floor].
+7551 : Enter which part of Temenos? None. Temenos - Northern Tower. Temenos - Eastern Tower. Temenos - Western Tower. Central Temenos - 4th Floor. Central Temenos - 3rd Floor. Central Temenos - 2nd Floor. Central Temenos - 1st Floor. Central Temenos - Basement. Ctr. Temenos - Basement II. Ctr. Temenos - 4th Floor II.
 7552 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
 7553 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
 7554 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
@@ -7426,16 +7426,17 @@
 7556 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
 7557 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
 7558 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
-7559 : 30...
-7560 : 20...
-7561 : 10...
-7562 : 5.
-7563 : 4.
-7564 : 3!
-7565 : 2!!
-7566 : 1!!!
-7567 : You cannot open the treasure chest now.
-7568 : he gate opens...
-7569 : Check the status of which area? None. Temenos - Northern Tower. Temenos - Eastern Tower. Temenos - Western Tower. Central Temenos - 4th Floor. Central Temenos - 3rd Floor. Central Temenos - 2nd Floor. Central Temenos - 1st Floor. Central Temenos - 1st Basement.
-7570 : There are currently no alliances in that area.
-7571 : The alliance currently in that area has # [minute/minutes] left in Temenos.
+7559 : Boss Room A: No level restriction. Up to 18 party or alliance members may enter.
+7560 : 30...
+7561 : 20...
+7562 : 10...
+7563 : 5.
+7564 : 4.
+7565 : 3!
+7566 : 2!!
+7567 : 1!!!
+7568 : You cannot open the treasure chest now.
+7569 : he gate opens...
+7570 : Check the status of which area? None. Temenos - Northern Tower. Temenos - Eastern Tower. Temenos - Western Tower. Central Temenos - 4th Floor. Central Temenos - 3rd Floor. Central Temenos - 2nd Floor. Central Temenos - 1st Floor. Central Temenos - 1st Basement.
+7571 : There are currently no alliances in that area.
+7572 : The alliance currently in that area has # [minute/minutes] left in Temenos.
