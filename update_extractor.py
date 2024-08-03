@@ -90,6 +90,9 @@ if not os.path.exists("out/conf/default"):
 if not os.path.exists("out/scripts"):
     os.makedirs("out/scripts")
 
+if not os.path.exists("out/scripts/enum"):
+    os.makedirs("out/scripts/enum")
+
 if not os.path.exists("out/scripts/globals"):
     os.makedirs("out/scripts/globals")
 
