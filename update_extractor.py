@@ -63,6 +63,7 @@ from items import *
 from zone_texts import *
 from entity_ids import *
 from misc import *
+from auto_translate import *
 
 ############################
 # Config
@@ -122,5 +123,6 @@ items()
 zone_texts()
 #entity_ids()
 #misc()
+#auto_translate()
 
 print("Done")
