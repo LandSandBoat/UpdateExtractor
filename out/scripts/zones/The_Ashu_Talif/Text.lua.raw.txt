@@ -7048,496 +7048,499 @@
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
 7057 : You receive # deeds for a total of #!
-7058 : You can't fish here.
-7059 : You can't fish without a rod in your hands.
-7060 : You can't fish without bait on the hook.
-7061 : You can't fish at the moment.
-7062 : You didn't catch anything.
-7063 : % caught a monster!
-7064 : Your line breaks.
-7065 : Your rod breaks.
-7066 : Something caught the hook!
-7067 : You lost your catch.
-7068 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7069 : You feel there's something here.
-7070 : You feel there's something nearby.
-7071 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7072 : % caught  %!
-7073 : You dig and you dig, but find nothing.
-7074 : #/%
-7075 : Your rod breaks. Whatever caught the hook was pretty big.
-7076 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7077 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7078 : You lost your catch due to your lack of skill.
-7079 : Number fished : # Original Dice No. ## Result # (0=caught)
-7080 : You didn't catch anything.
-7081 : The paper on your % ripped.
-7082 : A tiny goldfish approaches!
-7083 : A plump, black goldfish approaches!
-7084 : A fat, juicy goldfish approaches!
-7085 : There are no goldfish to be found...
-7086 : % caught %, but cannot carry any more items. % regretfully releases it.
-7087 : The goldfish slipped off your scoop...
-7088 : ch# skill up check.
-7089 : a:#.
-7090 : Time # / Status # / #
-7091 : d:#. e:#. f:#. g:#.
-7092 : h: #. i: #. sr: #.
-7093 : j:#. k:#.
-7094 : You give up and reel in your line.
-7095 : You give up.
-7096 : % obtains # gil.
-7097 : % caught %!
-7098 : You don't know how much longer you can keep this one on the line...
-7099 : You have a good feeling about this one!
-7100 : You have a bad feeling about this one.
-7101 : You have a terrible feeling about this one...
-7102 : You don't know if you have enough skill to reel this one in.
-7103 : You're fairly sure you don't have enough skill to reel this one in.
-7104 : You're positive you don't have enough skill to reel this one in!
-7105 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7106 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7107 : l: #. m: #. n: #. CH: #.
-7108 : Something caught the hook!!!
-7109 : You feel something pulling at your line.
-7110 : Something clamps onto your line ferociously!
-7111 : Your keen angler's senses tell you that this is the pull of %!
-7112 : This strength... You get the sense that you are on the verge of an epic catch!
-7113 : The timer has started. # seconds remaining.
-7114 : #sec.#/#sec.
-7115 : 0:# 1:# 2:# 3:#
-7116 : 4:# 5:# 6:# 7:#
-7117 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7118 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7119 : #/#(#
-7120 : Version invalid error!
-7121 : Hurry before the goldfish sees you!
-7122 : % fishes up a large box!
-7124 : Fish No# / Bait No# / Hit# >>> #
-7125 : Point# >>> #
-7126 : %(#) skill#
-7127 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7128 : Im Rnd : # Pz Rnd : #
-7129 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7130 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7131 : skill : # size : # kind : # sch : #
-7132 : time : # mes : # flag : # bonus : #
-7133 : item : # hp : # pow : # swing : #
-7134 : suc : # cons : # weight : # +- : #
-7135 : speed : # +- : # exc : # client : #
-7136 : general : #
-7137 : ro:# rs:# ps:# dt:#
-7138 : ra:# ti:#
-7139 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7140 : You get the distinct sense that your moogle friend frequents this spot...
-7141 : You have a feeling that your moogle friend has been through this way...
-7142 : You suspect that the scenery around here would be to a moogle's liking...
-7143 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7144 : You have a hunch that this area would be favored by moogles...
-7145 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7146 : % catches # %!
-7147 : % obtained %!
-7148 : It appears your chocobo found this item with ease.
-7149 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7150 : FPT # DPT # DoT#
-7151 : FPT # TDPT # h#
-7152 : You cannot fish at this time.
-7153 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7154 : You discover a cache of beastman resources and receive # Imperial Standing!
-7155 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7156 : You receive # bayld!
-7157 : Your chocobo refuses to partake of the %.
-7158 : Tallying conquest results...
-7159 : Conquest results tallied.
-7160 : This region is currently under San d'Orian control.
-7161 : This region is currently under Bastokan control.
-7162 : This region is currently under Windurstian control.
-7163 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7164 : This region is currently neutral.
-7165 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7166 : All three nations are tied for first place.
-7167 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7169 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7170 : All three nations are tied for first place.
-7171 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7173 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7174 : All three nations are tied for first place.
-7175 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7177 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7178 : All three nations are tied for first place.
-7179 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7180 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7181 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7182 : Global balance of power: All three nations are tied for first place.
-7183 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7185 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7186 : All three nations are tied for first place.
-7187 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7188 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7189 : Conquest update: This region is currently neutral.
-7190 : Conquest update: This region is currently under San d'Orian control.
-7191 : Conquest update: This region is currently under Bastokan control.
-7192 : Conquest update: This region is currently under Windurstian control.
-7193 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7194 : All three nations are at a deadlock.
-7195 : The beastmen are on the rise.
-7196 : Regional influence: San d'Oria - Dominant
-7197 : Regional influence: San d'Oria - Major
-7198 : Regional influence: San d'Oria - Minor
-7199 : Regional influence: San d'Oria - Minimal
-7200 : Bastok - Dominant
-7201 : Bastok - Major
-7202 : Bastok - Minor
-7203 : Bastok - Minimal
-7204 : Windurst - Dominant
-7205 : Windurst - Major
-7206 : Windurst - Minor
-7207 : Windurst - Minimal
-7208 : Bastok and Windurst have formed an alliance.
-7209 : San d'Oria and Windurst have formed an alliance.
-7210 : San d'Oria and Bastok have formed an alliance.
-7211 : Bastok and Windurst are currently allies.
-7212 : San d'Oria and Windurst are currently allies.
-7213 : San d'Oria and Bastok are currently allies.
-7214 : # #
-7215 : # % #
-7216 : ITEM_ID:# :#
-7217 : :# :#
-7218 : [//]:[////] :#:#
-7219 : The beastmen are gaining power.
-7220 : San d'Oria's regional control is now 10% closer to the first place country's!
-7221 : Bastok's regional control is now 10% closer to the first place country's!
-7222 : Windurst's regional control are now 10% closer to the first place country's!
-7223 : San d'Oria's region points have increased!
-7224 : Bastok's region points have increased!
-7225 : Windurst's region points have increased!
-7226 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7227 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7228 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7229 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7230 : A Bastokan Expeditionary Force has been dispatched to this area.
-7231 : A Windurstian Expeditionary Force has been dispatched to this area.
-7232 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7233 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7234 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7235 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7236 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7237 : There was a curse on the beastmen's banner!
-7238 : The curse of the beastmen's banner has been lifted!
-7239 : There is a beastmen's banner.
-7315 : # #
-7316 : # #
-7317 : The gate is firmly closed...
-7318 : You must move closer.
-7319 : This gate guards an area under Imperial control.
-7320 : Azouph Isle Staging Point.
-7321 : Mamool Ja Staging Point.
-7322 : Halvung Staging Point.
-7323 : Dvucca Isle Staging Point.
-7324 : Ilrusi Atoll Staging Point.
-7325 : Nyzul Isle Staging Point.
-7326 : Enter the gate? Yes. No.
-7327 : Leave through the gate? Yes. No.
-7328 : Use the device? Yes. No.
-7329 : You cannot leave this area while in the possession of %.
-7330 : Attuning yourself to this runic portal will open a path to the Chamber of Passage.
-7331 : % has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
-7332 : % has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
-7333 : % has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
-7334 : % has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
-7335 : % has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
-7336 : % has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
-7337 : This is a restricted area.
-7338 : There is no response...
-7339 : You're a mercenary from Salaheem's Sentinels?
-7340 : This tunnel leads to the Alzadaal Undersea Ruins.
-7341 : Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
-7342 : However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
-7343 : The fee for entering the ruins comes to # %.
-7344 : Very well. You may proceed.
-7345 : Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
-7346 : Leave the ruins? Yes, I'm done here. Not just yet.
-7347 : DEBUG: You return your entry ticket.
-7348 : If you need a map of the ruins, you can purchase one for # %.
-7349 : Here is your %. Keep it in a safe place.
-7350 : You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
-7351 : You have a %? Let me have a closer look at that...
-7352 : Commencing %! Objective: Remove all threats
-7353 : Commencing %! Objective: Discover orichalcum ore
-7354 : Commencing %! Objective: Protect the professor
-7355 : Commencing %! Objective: Protect the vegetation
-7356 : Commencing %! Objective: Buy black sheep
-7357 : Commencing %! Objective: Retrieve the supplies
-7358 : Commencing %! Objective: Become a test subject
-7359 : Commencing %! Objective: Retrieve the OGMA
-7360 : Commencing %! Objective: Defeat Raubahn
-7361 : Commencing %! Objective: Defeat the count
-7362 : Commencing %! Objective: Rescue the agent
-7363 : Commencing %! Objective: Destroy the assassins
-7364 : Commencing %! Objective: Defeat Sagelord Molaal Ja
-7365 : Commencing %! Objective: Steal the supplies
-7366 : Commencing %! Objective: Apprehend the spy
-7367 : Commencing %! Objective: Recover the treasure
-7368 : Commencing %! Objective: Annihilate the enemy
-7369 : Commencing %! Objective: Neutralize the marids
-7370 : Commencing %! Objective: Gather pathological data
-7371 : Commencing %! Objective: Defeat Orochi
-7372 : Commencing %! Objective: Remove the obstructions
-7373 : Commencing %! Objective: Deliver the provisions
-7374 : Commencing %! Objective: Destroy the Troll fugitives
-7375 : Commencing %! Objective: Discover alternate route
-7376 : Commencing %! Objective: Assassinate Borgerlur
-7377 : Commencing %! Objective: Match the apkallu
-7378 : Commencing %! Objective: Remove the threat
-7379 : Commencing %! Objective: Drive out the hunters
-7380 : Commencing %! Objective: Rescue Princess Kadjaya
-7381 : Commencing %! Objective: Defeat Black Shuck
-7382 : Commencing %! Objective: Escort the prisoner
-7383 : Commencing %! Objective: Destroy the undead
-7384 : Commencing %! Objective: Find the survivors
-7385 : Commencing %! Objective: Eliminate the Black Baron
-7386 : Commencing %! Objective: Activate the bridge
-7387 : Commencing %! Objective: Exterminate the chigoes
-7388 : Commencing %! Objective: Clear the mine fields
-7389 : Commencing %! Objective: Locate the generals
-7390 : Commencing %! Objective: Retrieve the Mark-IIs
-7391 : Commencing %! Objective: Assassinate King Goldemar
-7392 : Commencing %! Objective: Find the figurehead
-7393 : Commencing %! Objective: Eliminate Lamia No.13
-7394 : Commencing %! Objective: Exterminate all monsters
-7395 : Commencing %! Objective: Demolish the shipwrecks
-7396 : Commencing %! Objective: Save the Qiqirn divers
-7397 : Commencing %! Objective: Capture the apkallu
-7398 : Commencing %! Objective: Find the ring
-7399 : Commencing %! Objective: Locate the agents
-7400 : Commencing %! Objective: Collect ahtapot
-7401 : Commencing %! Objective: Defeat Khimaira 14X
-7402 : Commencing %! Objective: Complete on-site objectives
-7403 : Commencing %! Objective: Complete on-site objectives
-7404 : Commencing %! Objective: Follow your orders
-7405 : Commencing %! Objective: Follow your orders
-7406 : Commencing %! Objective: Follow your orders
+7058 : Vana'bout Records of Eminence objectives have been updated.
+7059 : Vana'bout No. # has commenced!
+7060 : Vana'bout No. # has concluded.
+7061 : You can't fish here.
+7062 : You can't fish without a rod in your hands.
+7063 : You can't fish without bait on the hook.
+7064 : You can't fish at the moment.
+7065 : You didn't catch anything.
+7066 : % caught a monster!
+7067 : Your line breaks.
+7068 : Your rod breaks.
+7069 : Something caught the hook!
+7070 : You lost your catch.
+7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7072 : You feel there's something here.
+7073 : You feel there's something nearby.
+7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7075 : % caught  %!
+7076 : You dig and you dig, but find nothing.
+7077 : #/%
+7078 : Your rod breaks. Whatever caught the hook was pretty big.
+7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7081 : You lost your catch due to your lack of skill.
+7082 : Number fished : # Original Dice No. ## Result # (0=caught)
+7083 : You didn't catch anything.
+7084 : The paper on your % ripped.
+7085 : A tiny goldfish approaches!
+7086 : A plump, black goldfish approaches!
+7087 : A fat, juicy goldfish approaches!
+7088 : There are no goldfish to be found...
+7089 : % caught %, but cannot carry any more items. % regretfully releases it.
+7090 : The goldfish slipped off your scoop...
+7091 : ch# skill up check.
+7092 : a:#.
+7093 : Time # / Status # / #
+7094 : d:#. e:#. f:#. g:#.
+7095 : h: #. i: #. sr: #.
+7096 : j:#. k:#.
+7097 : You give up and reel in your line.
+7098 : You give up.
+7099 : % obtains # gil.
+7100 : % caught %!
+7101 : You don't know how much longer you can keep this one on the line...
+7102 : You have a good feeling about this one!
+7103 : You have a bad feeling about this one.
+7104 : You have a terrible feeling about this one...
+7105 : You don't know if you have enough skill to reel this one in.
+7106 : You're fairly sure you don't have enough skill to reel this one in.
+7107 : You're positive you don't have enough skill to reel this one in!
+7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7110 : l: #. m: #. n: #. CH: #.
+7111 : Something caught the hook!!!
+7112 : You feel something pulling at your line.
+7113 : Something clamps onto your line ferociously!
+7114 : Your keen angler's senses tell you that this is the pull of %!
+7115 : This strength... You get the sense that you are on the verge of an epic catch!
+7116 : The timer has started. # seconds remaining.
+7117 : #sec.#/#sec.
+7118 : 0:# 1:# 2:# 3:#
+7119 : 4:# 5:# 6:# 7:#
+7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7122 : #/#(#
+7123 : Version invalid error!
+7124 : Hurry before the goldfish sees you!
+7125 : % fishes up a large box!
+7127 : Fish No# / Bait No# / Hit# >>> #
+7128 : Point# >>> #
+7129 : %(#) skill#
+7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7131 : Im Rnd : # Pz Rnd : #
+7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7134 : skill : # size : # kind : # sch : #
+7135 : time : # mes : # flag : # bonus : #
+7136 : item : # hp : # pow : # swing : #
+7137 : suc : # cons : # weight : # +- : #
+7138 : speed : # +- : # exc : # client : #
+7139 : general : #
+7140 : ro:# rs:# ps:# dt:#
+7141 : ra:# ti:#
+7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7143 : You get the distinct sense that your moogle friend frequents this spot...
+7144 : You have a feeling that your moogle friend has been through this way...
+7145 : You suspect that the scenery around here would be to a moogle's liking...
+7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7147 : You have a hunch that this area would be favored by moogles...
+7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7149 : % catches # %!
+7150 : % obtained %!
+7151 : It appears your chocobo found this item with ease.
+7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7153 : FPT # DPT # DoT#
+7154 : FPT # TDPT # h#
+7155 : You cannot fish at this time.
+7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7157 : You discover a cache of beastman resources and receive # Imperial Standing!
+7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7159 : You receive # bayld!
+7160 : Your chocobo refuses to partake of the %.
+7161 : Tallying conquest results...
+7162 : Conquest results tallied.
+7163 : This region is currently under San d'Orian control.
+7164 : This region is currently under Bastokan control.
+7165 : This region is currently under Windurstian control.
+7166 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7167 : This region is currently neutral.
+7168 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7169 : All three nations are tied for first place.
+7170 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7173 : All three nations are tied for first place.
+7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7177 : All three nations are tied for first place.
+7178 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7180 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7181 : All three nations are tied for first place.
+7182 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7183 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7185 : Global balance of power: All three nations are tied for first place.
+7186 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7188 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7189 : All three nations are tied for first place.
+7190 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7191 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7192 : Conquest update: This region is currently neutral.
+7193 : Conquest update: This region is currently under San d'Orian control.
+7194 : Conquest update: This region is currently under Bastokan control.
+7195 : Conquest update: This region is currently under Windurstian control.
+7196 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7197 : All three nations are at a deadlock.
+7198 : The beastmen are on the rise.
+7199 : Regional influence: San d'Oria - Dominant
+7200 : Regional influence: San d'Oria - Major
+7201 : Regional influence: San d'Oria - Minor
+7202 : Regional influence: San d'Oria - Minimal
+7203 : Bastok - Dominant
+7204 : Bastok - Major
+7205 : Bastok - Minor
+7206 : Bastok - Minimal
+7207 : Windurst - Dominant
+7208 : Windurst - Major
+7209 : Windurst - Minor
+7210 : Windurst - Minimal
+7211 : Bastok and Windurst have formed an alliance.
+7212 : San d'Oria and Windurst have formed an alliance.
+7213 : San d'Oria and Bastok have formed an alliance.
+7214 : Bastok and Windurst are currently allies.
+7215 : San d'Oria and Windurst are currently allies.
+7216 : San d'Oria and Bastok are currently allies.
+7217 : # #
+7218 : # % #
+7219 : ITEM_ID:# :#
+7220 : :# :#
+7221 : [//]:[////] :#:#
+7222 : The beastmen are gaining power.
+7223 : San d'Oria's regional control is now 10% closer to the first place country's!
+7224 : Bastok's regional control is now 10% closer to the first place country's!
+7225 : Windurst's regional control are now 10% closer to the first place country's!
+7226 : San d'Oria's region points have increased!
+7227 : Bastok's region points have increased!
+7228 : Windurst's region points have increased!
+7229 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7230 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7231 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7232 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7233 : A Bastokan Expeditionary Force has been dispatched to this area.
+7234 : A Windurstian Expeditionary Force has been dispatched to this area.
+7235 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7236 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7237 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7238 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7239 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7240 : There was a curse on the beastmen's banner!
+7241 : The curse of the beastmen's banner has been lifted!
+7242 : There is a beastmen's banner.
+7318 : # #
+7319 : # #
+7320 : The gate is firmly closed...
+7321 : You must move closer.
+7322 : This gate guards an area under Imperial control.
+7323 : Azouph Isle Staging Point.
+7324 : Mamool Ja Staging Point.
+7325 : Halvung Staging Point.
+7326 : Dvucca Isle Staging Point.
+7327 : Ilrusi Atoll Staging Point.
+7328 : Nyzul Isle Staging Point.
+7329 : Enter the gate? Yes. No.
+7330 : Leave through the gate? Yes. No.
+7331 : Use the device? Yes. No.
+7332 : You cannot leave this area while in the possession of %.
+7333 : Attuning yourself to this runic portal will open a path to the Chamber of Passage.
+7334 : % has attuned [himself/herself] to the runic portal, and opened a path from the Azouph Isle staging point to the Chamber of Passage.
+7335 : % has attuned [himself/herself] to the runic portal, and opened a path from the Mamool Ja staging point to the Chamber of Passage.
+7336 : % has attuned [himself/herself] to the runic portal, and opened a path from the Halvung staging point to the Chamber of Passage.
+7337 : % has attuned [himself/herself] to the runic portal, and opened a path from the Dvucca Isle staging point to the Chamber of Passage.
+7338 : % has attuned [himself/herself] to the runic portal, and opened a path from the Ilrusi Atoll staging point to the Chamber of Passage.
+7339 : % has attuned [himself/herself] to the runic portal, and opened a path from the Nyzul Isle staging point to the Chamber of Passage.
+7340 : This is a restricted area.
+7341 : There is no response...
+7342 : You're a mercenary from Salaheem's Sentinels?
+7343 : This tunnel leads to the Alzadaal Undersea Ruins.
+7344 : Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+7345 : However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+7346 : The fee for entering the ruins comes to # %.
+7347 : Very well. You may proceed.
+7348 : Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+7349 : Leave the ruins? Yes, I'm done here. Not just yet.
+7350 : DEBUG: You return your entry ticket.
+7351 : If you need a map of the ruins, you can purchase one for # %.
+7352 : Here is your %. Keep it in a safe place.
+7353 : You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+7354 : You have a %? Let me have a closer look at that...
+7355 : Commencing %! Objective: Remove all threats
+7356 : Commencing %! Objective: Discover orichalcum ore
+7357 : Commencing %! Objective: Protect the professor
+7358 : Commencing %! Objective: Protect the vegetation
+7359 : Commencing %! Objective: Buy black sheep
+7360 : Commencing %! Objective: Retrieve the supplies
+7361 : Commencing %! Objective: Become a test subject
+7362 : Commencing %! Objective: Retrieve the OGMA
+7363 : Commencing %! Objective: Defeat Raubahn
+7364 : Commencing %! Objective: Defeat the count
+7365 : Commencing %! Objective: Rescue the agent
+7366 : Commencing %! Objective: Destroy the assassins
+7367 : Commencing %! Objective: Defeat Sagelord Molaal Ja
+7368 : Commencing %! Objective: Steal the supplies
+7369 : Commencing %! Objective: Apprehend the spy
+7370 : Commencing %! Objective: Recover the treasure
+7371 : Commencing %! Objective: Annihilate the enemy
+7372 : Commencing %! Objective: Neutralize the marids
+7373 : Commencing %! Objective: Gather pathological data
+7374 : Commencing %! Objective: Defeat Orochi
+7375 : Commencing %! Objective: Remove the obstructions
+7376 : Commencing %! Objective: Deliver the provisions
+7377 : Commencing %! Objective: Destroy the Troll fugitives
+7378 : Commencing %! Objective: Discover alternate route
+7379 : Commencing %! Objective: Assassinate Borgerlur
+7380 : Commencing %! Objective: Match the apkallu
+7381 : Commencing %! Objective: Remove the threat
+7382 : Commencing %! Objective: Drive out the hunters
+7383 : Commencing %! Objective: Rescue Princess Kadjaya
+7384 : Commencing %! Objective: Defeat Black Shuck
+7385 : Commencing %! Objective: Escort the prisoner
+7386 : Commencing %! Objective: Destroy the undead
+7387 : Commencing %! Objective: Find the survivors
+7388 : Commencing %! Objective: Eliminate the Black Baron
+7389 : Commencing %! Objective: Activate the bridge
+7390 : Commencing %! Objective: Exterminate the chigoes
+7391 : Commencing %! Objective: Clear the mine fields
+7392 : Commencing %! Objective: Locate the generals
+7393 : Commencing %! Objective: Retrieve the Mark-IIs
+7394 : Commencing %! Objective: Assassinate King Goldemar
+7395 : Commencing %! Objective: Find the figurehead
+7396 : Commencing %! Objective: Eliminate Lamia No.13
+7397 : Commencing %! Objective: Exterminate all monsters
+7398 : Commencing %! Objective: Demolish the shipwrecks
+7399 : Commencing %! Objective: Save the Qiqirn divers
+7400 : Commencing %! Objective: Capture the apkallu
+7401 : Commencing %! Objective: Find the ring
+7402 : Commencing %! Objective: Locate the agents
+7403 : Commencing %! Objective: Collect ahtapot
+7404 : Commencing %! Objective: Defeat Khimaira 14X
+7405 : Commencing %! Objective: Complete on-site objectives
+7406 : Commencing %! Objective: Complete on-site objectives
 7407 : Commencing %! Objective: Follow your orders
 7408 : Commencing %! Objective: Follow your orders
 7409 : Commencing %! Objective: Follow your orders
 7410 : Commencing %! Objective: Follow your orders
 7411 : Commencing %! Objective: Follow your orders
-7412 : You have # [minute/minutes] (Earth time) to complete this mission.
-7413 : The mission has failed. Leaving area.
-7414 : ission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-#).
-7415 : ission objective completed. Unlocking Rune of Release.
-7416 : You gain # [Assault point/Assault points]!
-7417 : ime remaining: # [minute/minutes] (Earth time).
-7418 : ime remaining: # [second/seconds] (Earth time).
-7419 : The % fades into nothingness...
-7420 : ll party members have fallen in battle. Mission failure in # [minute/minutes].
-7421 : Commencing Heroine's Holdfast!
-7422 : There is no response...
-7423 : Which restriction will you remove? None.  Main/Sub-Weapon. (# left) Head/Neck equipment. (# left) Body equipment. (# left) Hand equipment. (# left) Leg/Foot equipment. (# left) Back/Waist equipment. (# left) Ranged Weapon/Ammo. (# left) Earrings/Rings. (# left) Support Job. (# left) Job Abilities. (# left) Spellcasting. (# left) Strength. (# left) Dexterity. (# left) Vitality. (# left) Agility. (# left) Intelligence. (# left) Mind. (# left) Charisma. (# left) Max HP. (# left) Max MP. (# left)
-7424 : Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? Yes. No.
-7425 : This restriction has already been removed.
-7426 : The restriction could not be removed.
-7427 : Which restriction will you remove? (# left) None.  Main/Sub-Weapon. Head/Neck equipment. Body equipment. Hand equipment. Leg/Foot equipment. Back/Waist equipment. Ranged Weapon/Ammo. Earrings/Rings. Support Job. Job Abilities. Spellcasting. Strength. Dexterity. Vitality. Agility. Intelligence. Mind. Charisma. Max HP. Max MP.
-7428 : Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? Yes. No.
-7429 : % obtains the temporary item: %!
-7430 : Obtained temporary item: %!
-7431 : % obtains %!
-7432 : Main Weapon/Sub-Weapon restriction removed.
-7433 : Head/Neck equipment restriction removed.
-7434 : Body equipment restriction removed.
-7435 : Hands equipment restriction removed.
-7436 : Legs/Feet equipment restriction removed.
-7437 : Back/Waist equipment restriction removed.
-7438 : Ranged Weapon/Ammo restriction removed.
-7439 : Earrings/Rings restriction removed.
-7440 : Support Job restriction removed.
-7441 : Job Abilities restriction removed.
-7442 : Spellcasting restriction removed.
-7443 : STR Down removed.
-7444 : DEX Down removed.
-7445 : VIT Down removed.
-7446 : AGI Down removed.
-7447 : INT Down removed.
-7448 : MND Down removed.
-7449 : CHR Down removed.
-7450 : Max HP Down removed.
-7451 : Max MP Down removed.
-7452 : What do you take? Nothing. % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining)
-7453 : Obtained temporary item: %!
-7454 : You already have that temporary item.
-7455 : You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
-7456 : Travel to the next floor? Not yet. Exit the Assault area. Travel to the next floor. Travel to the floor on the right. Travel to the floor on the left. Travel to Floor #. Travel to Floor ???.
-7457 : loor # objective complete. Rune of Transfer activated.
-7458 : Activate the lamp? Yes. Yes. No.
-7459 : The certification code for all party members is required to activate this lamp. Your certification code has been registered.
-7460 : Your certification code has been registered.
-7461 : This lamp has already been activated.
-7462 : This lamp cannot be activated unless all other lamps are activated at the same time.
-7463 : All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
-7464 : It appears you cannot activate this lamp for some time...
-7465 : Apparently, this lamp must be activated in a specific order...
-7466 : Not all lights have been activated...
-7467 : Confirming operation procedure...
-7468 : The Rune of Transfer has already been activated.
-7469 : Objective: Eliminate enemy leader.
-7470 : Objective: Eliminate enemy leader.
-7471 : Objective: Eliminate specified enemies.
-7472 : Objective: Activate all lamps.
-7473 : Objective: Eliminate specified enemy.
-7474 : Objective: Eliminate all enemies.
-7475 : Avoid discovery by archaic gears!
-7476 : Do not destroy archaic gears!
-7477 : Time limit has been reduced by # [minute/minutes].
-7478 : Security field malfunction.
-7479 : Potential token reward reduced.
-7480 : Job ability restriction has been removed.
-7481 : Job abilities are restricted.
-7482 : Weapon skill restriction has been removed.
-7483 : Weapon skills are restricted.
-7484 : White magic restriction has been removed.
-7485 : White magic is restricted.
-7486 : Black magic restriction has been removed.
-7487 : Black magic is restricted.
-7488 : Song restriction has been removed.
-7489 : Songs are restricted.
-7490 : Ninjutsu restriction has been removed.
-7491 : Ninjutsu is restricted.
-7492 : Summon magic restriction has been removed.
-7493 : Summon magic is restricted.
-7494 : Blue magic restriction has been removed.
-7495 : Blue magic is restricted.
-7496 : Attack Speed Down removed.
-7497 : Afflicted by Attack Speed Down.
-7498 : Casting Speed Down removed.
-7499 : Afflicted by Casting Speed Down.
-7500 : STR Down removed.
-7501 : Afflicted by STR Down.
-7502 : DEX Down removed.
-7503 : Afflicted by DEX Down.
-7504 : VIT Down removed.
-7505 : Afflicted by VIT Down.
-7506 : AGI Down removed.
-7507 : Afflicted by AGI Down.
-7508 : INT Down removed.
-7509 : Afflicted by INT Down.
-7510 : MND Down removed.
-7511 : Afflicted by MND Down.
-7512 : CHR Down removed.
-7513 : Afflicted by CHR Down.
-7514 : Regain removed.
-7515 : Received Regain effect.
-7516 : Regen removed.
-7517 : Received Regen effect.
-7518 : Refresh removed.
-7519 : Received Refresh effect.
-7520 : Flurry removed.
-7521 : Received Flurry effect.
-7522 : Concentration removed.
-7523 : Received Concentration effect.
-7524 : STR Boost removed.
-7525 : Received STR Boost.
-7526 : DEX Boost removed.
-7527 : Received DEX Boost.
-7528 : VIT Boost removed.
-7529 : Received VIT Boost.
-7530 : AGI Boost removed.
-7531 : Received AGI Boost.
-7532 : INT Boost removed.
-7533 : Received INT Boost.
-7534 : MND Boost removed.
-7535 : Received MND Boost.
-7536 : CHR Boost removed.
-7537 : Received CHR Boost.
-7538 : The data on the % will be reset when you complete the objective of the next floor.
-7539 : Do you really want to exit? Yes. No.
-7540 : You now possess # part[/s] of %.
-7541 : You have acquired all necessary parts and completed %.
-7542 : You already possess %. Unable to obtain additional parts.
-7543 : You could not obtain % because you already have one in your possession.
-7544 : Your time limit for this battle has been extended by # minute[/s] (Earth time).
-7545 : You already possess % and cannot obtain another.
-7546 : You are carrying a full load of temporary items and cannot obtain any more.
-7547 : Main Weapon/Sub-Weapon restriction removed for %.
-7548 : Head/Neck equipment restriction removed for %.
-7549 : Body equipment restriction removed for %.
-7550 : Hand equipment restriction removed for %.
-7551 : Leg/Foot equipment restriction removed for %.
-7552 : Back/Waist equipment restriction removed for %.
-7553 : Ranged Weapon/Ammo restriction removed for %.
-7554 : Earrings/Rings restriction removed for %.
-7555 : Support Job restriction removed for %.
-7556 : Job Abilities restriction removed for %.
-7557 : Spellcasting restriction removed for %.
-7558 : STR Down removed for %.
-7559 : DEX Down removed for %.
-7560 : VIT Down removed for %.
-7561 : AGI Down removed for %.
-7562 : INT Down removed for %.
-7563 : MND Down removed for %.
-7564 : CHR Down removed for %.
-7565 : Max HP Down removed for %.
-7566 : Max MP Down removed for %.
-7567 : Ugh...
-7568 : Did you really think a corsair could defeat me? Ludicrous.
-7569 : No need for worry, corsairs... You will be a fitting sacrifice for the Empire!
-7570 : Defeated...by a corsair...?
-7571 : Take this!
-7572 : Time for you to rest beneath the waves!
-7573 : There's nothing you can do to stop us!
-7574 : You will regret for eternity the day you turned against the Empire!
-7575 : A battle on the high seas? My warrior's spirit soars in anticipation!
-7576 : My time is near...
-7577 : And so I fall...
-7578 : Swift as lightning...!
-7579 : Harness the whirlwind...!
-7580 : Feel the sting of my blade!
-7581 : Unnatural curs!
-7582 : You have overpowered my crew...
-7583 : I will test your blades. Prepare to join your ancestors...
-7584 : For the Black Coffin!
-7585 : For Ephramad!
-7586 : Troublesome squabs...
-7587 : Leave the Ashu Talif? Yes. No.
-7588 : bjective complete. You may return on the lifeboat.
-7589 : Objective failed. Leaving the Ashu Talif.
-7590 : Your bag feels heavier...
-7591 : Imperial dogs!
-7592 : You will not escape!
-7593 : Ugh... No point in continuing any farther...
-7594 : Ugh... This is the end...
-7595 : Shall we be off?
-7596 : Can you open this?
-7597 : Phew...
-7598 : So this is what I must draw...
-7599 : This place is giving me the creeps. As soon as I'm finished with my work, we should head back.
-7600 : !?
-7601 : Wh-what is this!?
-7602 : What in Urhguum is happening here!?
-7603 : Make it stop!!!
-7604 : Ugh...
-7605 : Please, stay close to me! I...I've never fought anyone before!
-7606 : Help!
-7607 : How...could this happen...?
-7608 : It's here!
-7609 : Ack!
-7610 : Ouch! You're supposed to be protecting me, you know!
-7611 : I must sketch the cabin. Let's go!
-7612 : Let's go!
-7613 : Oh, I must draw this!
-7614 : I am almost done...
-7615 : Finished! A beautiful sketch, if I do say so myself!
-7616 : All of a sudden, this place doesn't seem so creepy anymore...
-7617 : I didn't realize this would be so difficult... Let's head back now.
-7618 : Thank you for protecting me. I've regained my composure now....
-7619 : It doesn't seem that there are any ghosts left... You defeated them all, didn't you? My, you are incredible!
-7620 : Ah, a treasure chest! Be sure to open it before we head back.
-7621 : A chill runs down your spine!
-7622 : Ugh! What!?
-7623 : Huh? Where did you come from!?
-7624 : Ahahaha... Imperial dogs, you are too naive!
-7625 : Let's tango!
-7626 : You hear a startlingly loud noise coming from the %.
+7412 : Commencing %! Objective: Follow your orders
+7413 : Commencing %! Objective: Follow your orders
+7414 : Commencing %! Objective: Follow your orders
+7415 : You have # [minute/minutes] (Earth time) to complete this mission.
+7416 : The mission has failed. Leaving area.
+7417 : ission objective completed. Unlocking Rune of Release ([A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z]-#).
+7418 : ission objective completed. Unlocking Rune of Release.
+7419 : You gain # [Assault point/Assault points]!
+7420 : ime remaining: # [minute/minutes] (Earth time).
+7421 : ime remaining: # [second/seconds] (Earth time).
+7422 : The % fades into nothingness...
+7423 : ll party members have fallen in battle. Mission failure in # [minute/minutes].
+7424 : Commencing Heroine's Holdfast!
+7425 : There is no response...
+7426 : Which restriction will you remove? None.  Main/Sub-Weapon. (# left) Head/Neck equipment. (# left) Body equipment. (# left) Hand equipment. (# left) Leg/Foot equipment. (# left) Back/Waist equipment. (# left) Ranged Weapon/Ammo. (# left) Earrings/Rings. (# left) Support Job. (# left) Job Abilities. (# left) Spellcasting. (# left) Strength. (# left) Dexterity. (# left) Vitality. (# left) Agility. (# left) Intelligence. (# left) Mind. (# left) Charisma. (# left) Max HP. (# left) Max MP. (# left)
+7427 : Remove the [0/0/weapon/head & neck/body/hand/leg & foot/back & waist/ranged wpn. & ammo/earrings & rings/support job/job abilities/spellcasting/strength/dexterity/vitality/agility/intelligence/mind/charisma/max HP/max MP] restriction? Yes. No.
+7428 : This restriction has already been removed.
+7429 : The restriction could not be removed.
+7430 : Which restriction will you remove? (# left) None.  Main/Sub-Weapon. Head/Neck equipment. Body equipment. Hand equipment. Leg/Foot equipment. Back/Waist equipment. Ranged Weapon/Ammo. Earrings/Rings. Support Job. Job Abilities. Spellcasting. Strength. Dexterity. Vitality. Agility. Intelligence. Mind. Charisma. Max HP. Max MP.
+7431 : Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? Yes. No.
+7432 : % obtains the temporary item: %!
+7433 : Obtained temporary item: %!
+7434 : % obtains %!
+7435 : Main Weapon/Sub-Weapon restriction removed.
+7436 : Head/Neck equipment restriction removed.
+7437 : Body equipment restriction removed.
+7438 : Hands equipment restriction removed.
+7439 : Legs/Feet equipment restriction removed.
+7440 : Back/Waist equipment restriction removed.
+7441 : Ranged Weapon/Ammo restriction removed.
+7442 : Earrings/Rings restriction removed.
+7443 : Support Job restriction removed.
+7444 : Job Abilities restriction removed.
+7445 : Spellcasting restriction removed.
+7446 : STR Down removed.
+7447 : DEX Down removed.
+7448 : VIT Down removed.
+7449 : AGI Down removed.
+7450 : INT Down removed.
+7451 : MND Down removed.
+7452 : CHR Down removed.
+7453 : Max HP Down removed.
+7454 : Max MP Down removed.
+7455 : What do you take? Nothing. % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining) % (# remaining)
+7456 : Obtained temporary item: %!
+7457 : You already have that temporary item.
+7458 : You feel an incredible pressure bearing down on you. This area appears to be blanketed in some sort of intense psionic field...
+7459 : Travel to the next floor? Not yet. Exit the Assault area. Travel to the next floor. Travel to the floor on the right. Travel to the floor on the left. Travel to Floor #. Travel to Floor ???.
+7460 : loor # objective complete. Rune of Transfer activated.
+7461 : Activate the lamp? Yes. Yes. No.
+7462 : The certification code for all party members is required to activate this lamp. Your certification code has been registered.
+7463 : Your certification code has been registered.
+7464 : This lamp has already been activated.
+7465 : This lamp cannot be activated unless all other lamps are activated at the same time.
+7466 : All lamps on this floor are activated, but some other action appears to be necessary in order to activate the Rune of Transfer.
+7467 : It appears you cannot activate this lamp for some time...
+7468 : Apparently, this lamp must be activated in a specific order...
+7469 : Not all lights have been activated...
+7470 : Confirming operation procedure...
+7471 : The Rune of Transfer has already been activated.
+7472 : Objective: Eliminate enemy leader.
+7473 : Objective: Eliminate enemy leader.
+7474 : Objective: Eliminate specified enemies.
+7475 : Objective: Activate all lamps.
+7476 : Objective: Eliminate specified enemy.
+7477 : Objective: Eliminate all enemies.
+7478 : Avoid discovery by archaic gears!
+7479 : Do not destroy archaic gears!
+7480 : Time limit has been reduced by # [minute/minutes].
+7481 : Security field malfunction.
+7482 : Potential token reward reduced.
+7483 : Job ability restriction has been removed.
+7484 : Job abilities are restricted.
+7485 : Weapon skill restriction has been removed.
+7486 : Weapon skills are restricted.
+7487 : White magic restriction has been removed.
+7488 : White magic is restricted.
+7489 : Black magic restriction has been removed.
+7490 : Black magic is restricted.
+7491 : Song restriction has been removed.
+7492 : Songs are restricted.
+7493 : Ninjutsu restriction has been removed.
+7494 : Ninjutsu is restricted.
+7495 : Summon magic restriction has been removed.
+7496 : Summon magic is restricted.
+7497 : Blue magic restriction has been removed.
+7498 : Blue magic is restricted.
+7499 : Attack Speed Down removed.
+7500 : Afflicted by Attack Speed Down.
+7501 : Casting Speed Down removed.
+7502 : Afflicted by Casting Speed Down.
+7503 : STR Down removed.
+7504 : Afflicted by STR Down.
+7505 : DEX Down removed.
+7506 : Afflicted by DEX Down.
+7507 : VIT Down removed.
+7508 : Afflicted by VIT Down.
+7509 : AGI Down removed.
+7510 : Afflicted by AGI Down.
+7511 : INT Down removed.
+7512 : Afflicted by INT Down.
+7513 : MND Down removed.
+7514 : Afflicted by MND Down.
+7515 : CHR Down removed.
+7516 : Afflicted by CHR Down.
+7517 : Regain removed.
+7518 : Received Regain effect.
+7519 : Regen removed.
+7520 : Received Regen effect.
+7521 : Refresh removed.
+7522 : Received Refresh effect.
+7523 : Flurry removed.
+7524 : Received Flurry effect.
+7525 : Concentration removed.
+7526 : Received Concentration effect.
+7527 : STR Boost removed.
+7528 : Received STR Boost.
+7529 : DEX Boost removed.
+7530 : Received DEX Boost.
+7531 : VIT Boost removed.
+7532 : Received VIT Boost.
+7533 : AGI Boost removed.
+7534 : Received AGI Boost.
+7535 : INT Boost removed.
+7536 : Received INT Boost.
+7537 : MND Boost removed.
+7538 : Received MND Boost.
+7539 : CHR Boost removed.
+7540 : Received CHR Boost.
+7541 : The data on the % will be reset when you complete the objective of the next floor.
+7542 : Do you really want to exit? Yes. No.
+7543 : You now possess # part[/s] of %.
+7544 : You have acquired all necessary parts and completed %.
+7545 : You already possess %. Unable to obtain additional parts.
+7546 : You could not obtain % because you already have one in your possession.
+7547 : Your time limit for this battle has been extended by # minute[/s] (Earth time).
+7548 : You already possess % and cannot obtain another.
+7549 : You are carrying a full load of temporary items and cannot obtain any more.
+7550 : Main Weapon/Sub-Weapon restriction removed for %.
+7551 : Head/Neck equipment restriction removed for %.
+7552 : Body equipment restriction removed for %.
+7553 : Hand equipment restriction removed for %.
+7554 : Leg/Foot equipment restriction removed for %.
+7555 : Back/Waist equipment restriction removed for %.
+7556 : Ranged Weapon/Ammo restriction removed for %.
+7557 : Earrings/Rings restriction removed for %.
+7558 : Support Job restriction removed for %.
+7559 : Job Abilities restriction removed for %.
+7560 : Spellcasting restriction removed for %.
+7561 : STR Down removed for %.
+7562 : DEX Down removed for %.
+7563 : VIT Down removed for %.
+7564 : AGI Down removed for %.
+7565 : INT Down removed for %.
+7566 : MND Down removed for %.
+7567 : CHR Down removed for %.
+7568 : Max HP Down removed for %.
+7569 : Max MP Down removed for %.
+7570 : Ugh...
+7571 : Did you really think a corsair could defeat me? Ludicrous.
+7572 : No need for worry, corsairs... You will be a fitting sacrifice for the Empire!
+7573 : Defeated...by a corsair...?
+7574 : Take this!
+7575 : Time for you to rest beneath the waves!
+7576 : There's nothing you can do to stop us!
+7577 : You will regret for eternity the day you turned against the Empire!
+7578 : A battle on the high seas? My warrior's spirit soars in anticipation!
+7579 : My time is near...
+7580 : And so I fall...
+7581 : Swift as lightning...!
+7582 : Harness the whirlwind...!
+7583 : Feel the sting of my blade!
+7584 : Unnatural curs!
+7585 : You have overpowered my crew...
+7586 : I will test your blades. Prepare to join your ancestors...
+7587 : For the Black Coffin!
+7588 : For Ephramad!
+7589 : Troublesome squabs...
+7590 : Leave the Ashu Talif? Yes. No.
+7591 : bjective complete. You may return on the lifeboat.
+7592 : Objective failed. Leaving the Ashu Talif.
+7593 : Your bag feels heavier...
+7594 : Imperial dogs!
+7595 : You will not escape!
+7596 : Ugh... No point in continuing any farther...
+7597 : Ugh... This is the end...
+7598 : Shall we be off?
+7599 : Can you open this?
+7600 : Phew...
+7601 : So this is what I must draw...
+7602 : This place is giving me the creeps. As soon as I'm finished with my work, we should head back.
+7603 : !?
+7604 : Wh-what is this!?
+7605 : What in Urhguum is happening here!?
+7606 : Make it stop!!!
+7607 : Ugh...
+7608 : Please, stay close to me! I...I've never fought anyone before!
+7609 : Help!
+7610 : How...could this happen...?
+7611 : It's here!
+7612 : Ack!
+7613 : Ouch! You're supposed to be protecting me, you know!
+7614 : I must sketch the cabin. Let's go!
+7615 : Let's go!
+7616 : Oh, I must draw this!
+7617 : I am almost done...
+7618 : Finished! A beautiful sketch, if I do say so myself!
+7619 : All of a sudden, this place doesn't seem so creepy anymore...
+7620 : I didn't realize this would be so difficult... Let's head back now.
+7621 : Thank you for protecting me. I've regained my composure now....
+7622 : It doesn't seem that there are any ghosts left... You defeated them all, didn't you? My, you are incredible!
+7623 : Ah, a treasure chest! Be sure to open it before we head back.
+7624 : A chill runs down your spine!
+7625 : Ugh! What!?
+7626 : Huh? Where did you come from!?
+7627 : Ahahaha... Imperial dogs, you are too naive!
+7628 : Let's tango!
+7629 : You hear a startlingly loud noise coming from the %.

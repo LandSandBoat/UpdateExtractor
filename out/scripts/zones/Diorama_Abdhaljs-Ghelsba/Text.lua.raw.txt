@@ -7051,804 +7051,807 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : You can't fish here.
-7062 : You can't fish without a rod in your hands.
-7063 : You can't fish without bait on the hook.
-7064 : You can't fish at the moment.
-7065 : You didn't catch anything.
-7066 : % caught a monster!
-7067 : Your line breaks.
-7068 : Your rod breaks.
-7069 : Something caught the hook!
-7070 : You lost your catch.
-7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7072 : You feel there's something here.
-7073 : You feel there's something nearby.
-7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7075 : % caught  %!
-7076 : You dig and you dig, but find nothing.
-7077 : #/%
-7078 : Your rod breaks. Whatever caught the hook was pretty big.
-7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7081 : You lost your catch due to your lack of skill.
-7082 : Number fished : # Original Dice No. ## Result # (0=caught)
-7083 : You didn't catch anything.
-7084 : The paper on your % ripped.
-7085 : A tiny goldfish approaches!
-7086 : A plump, black goldfish approaches!
-7087 : A fat, juicy goldfish approaches!
-7088 : There are no goldfish to be found...
-7089 : % caught %, but cannot carry any more items. % regretfully releases it.
-7090 : The goldfish slipped off your scoop...
-7091 : ch# skill up check.
-7092 : a:#.
-7093 : Time # / Status # / #
-7094 : d:#. e:#. f:#. g:#.
-7095 : h: #. i: #. sr: #.
-7096 : j:#. k:#.
-7097 : You give up and reel in your line.
-7098 : You give up.
-7099 : % obtains # gil.
-7100 : % caught %!
-7101 : You don't know how much longer you can keep this one on the line...
-7102 : You have a good feeling about this one!
-7103 : You have a bad feeling about this one.
-7104 : You have a terrible feeling about this one...
-7105 : You don't know if you have enough skill to reel this one in.
-7106 : You're fairly sure you don't have enough skill to reel this one in.
-7107 : You're positive you don't have enough skill to reel this one in!
-7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7110 : l: #. m: #. n: #. CH: #.
-7111 : Something caught the hook!!!
-7112 : You feel something pulling at your line.
-7113 : Something clamps onto your line ferociously!
-7114 : Your keen angler's senses tell you that this is the pull of %!
-7115 : This strength... You get the sense that you are on the verge of an epic catch!
-7116 : The timer has started. # seconds remaining.
-7117 : #sec.#/#sec.
-7118 : 0:# 1:# 2:# 3:#
-7119 : 4:# 5:# 6:# 7:#
-7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7122 : #/#(#
-7123 : Version invalid error!
-7124 : Hurry before the goldfish sees you!
-7125 : % fishes up a large box!
-7127 : Fish No# / Bait No# / Hit# >>> #
-7128 : Point# >>> #
-7129 : %(#) skill#
-7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7131 : Im Rnd : # Pz Rnd : #
-7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7134 : skill : # size : # kind : # sch : #
-7135 : time : # mes : # flag : # bonus : #
-7136 : item : # hp : # pow : # swing : #
-7137 : suc : # cons : # weight : # +- : #
-7138 : speed : # +- : # exc : # client : #
-7139 : general : #
-7140 : ro:# rs:# ps:# dt:#
-7141 : ra:# ti:#
-7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7143 : You get the distinct sense that your moogle friend frequents this spot...
-7144 : You have a feeling that your moogle friend has been through this way...
-7145 : You suspect that the scenery around here would be to a moogle's liking...
-7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7147 : You have a hunch that this area would be favored by moogles...
-7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7149 : % catches # %!
-7150 : % obtained %!
-7151 : It appears your chocobo found this item with ease.
-7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7153 : FPT # DPT # DoT#
-7154 : FPT # TDPT # h#
-7155 : You cannot fish at this time.
-7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7157 : You discover a cache of beastman resources and receive # Imperial Standing!
-7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7159 : You receive # bayld!
-7160 : Your chocobo refuses to partake of the %.
-7161 : The IRNC welcomes all adventurers to participate in Ballista! If you think you've got what it takes, report immediately to the Herald in sector XXX!
-7162 : Report immediately to the Herald in sector XXX to take part in Ballista!
-7163 : The next match will feature the forces of Bastok against the forces of San d'Oria.
-7164 : The next match will feature the forces of Bastok against the forces of Windurst.
-7165 : The next match will feature the forces of Windurst against the forces of San d'Oria.
-7166 : The next match will pit the forces of [San d'Oria against Bastok/Bastok against Windurst/Windurst against San d'Oria]. [No level restriction will be set///The level restriction will be set to 30/The level restriction will be set to 40/The level restriction will be set to 50/The level restriction will be set to 60/] and a participation fee of # gil will be required. Match style will be: [All or Nothing * Normal Items Allowed/All or Nothing * Normal Items Restricted/Best of Three * Normal Items Allowed].
-7167 : The entry process will commence on:  (Vana'diel time)  (Earth time)
-7168 : The match will begin on:  (Vana'diel time)  (Earth time)
-7169 : The requirements for the minimum number of players was not met. Today's match has been cancelled. Please speak immediately with the Herald to have your participation fee reimbursed.
-7170 : Today's match was a draw. Please speak immediately with the Herald to have your participation fee reimbursed.
-7171 : Your nation was victorious! Please speak immediately with the Herald to receive your reward.
-7172 : Now accepting San d'Orian entries.
-7173 : Now accepting Bastokan entries.
-7174 : Now accepting Windurstian entries.
-7175 : Due to an influx of participants, further entries into the San d'Orian forces are temporarily restricted.
-7176 : Due to an influx of participants, further entries into the Bastokan forces are temporarily restricted.
-7177 : Due to an influx of participants, further entries into the Windurstian forces are temporarily restricted.
-7178 : We are now accepting temporary entries. Adventurers from any nation can submit an application.
-7179 : The San d'Orian forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
-7180 : The Bastokan forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
-7181 : The Windurstian forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
-7182 : We have also begun accepting guest applications from San d'Orian adventurers.
-7183 : We have also begun accepting guest applications from Bastokan adventurers.
-7184 : We have also begun accepting guest applications from Windurstian adventurers.
-7185 : I have been dispatched by the board of International Resolution through Non-lethal Conflict (IRNC) to preside as Herald over this upcoming event.
-7186 : We believe that the reinstatement of these games will help polish the fighting skills of Vana'diel's adventurers, as well as strengthen the bonds between the citizens of each nation through friendly combat.
-7187 : Also recently, several new rules, as well as the temporary item and Ballista Point systems, have been introduced. Please refer to the official Ballista rulebook for further details on these new features.
-7188 : We are now accepting applications for the Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst]. Currently, the [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
-7189 : The Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst] will commence shortly. Currently, the [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
-7190 : The Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst] is underway. The [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
-7191 : The minimum number of participants for one nation is #. The maximum number is #.
-7192 : # [adventurer has/adventurers have] joined the [San d'Orian/Bastokan/Windurstian] forces, while # [adventurer comprises/adventurers comprise] the forces of [San d'Oria/Bastok/Windurst]. Since these numbers do not meet the minimum requirements of # [member/members] per nation, today's match is cancelled.
-7193 : We apologize for any inconvenience, and hope to see you register for future matches.
-7194 : I can see that you have the spirit of a true fighter. Unfortunately, the IRNC requires that all adventurers must wait a short period before participating in Ballista again.
-7195 : I see that you participated in the previous match. To allow those who did not an equal chance, we ask that you wait until #: before submitting your next entry.
-7196 : Due to the lack of participants for the opposing nation, we are unable to accept your entry at this time.
-7197 : There is little or no difference in the number of participants for each nation's forces. We are not accepting guest entries at this time.
-7198 : I am sorry. Only adventurers who possess % can participate in Ballista.
-7199 : I am sorry. We are unable to accept your entry.
-7200 : The next match will pit the forces of [San d'Oria against Bastok/Bastok against Windurst/Windurst against San d'Oria]. [No level restriction will be set///The level restriction will be set to 30/The level restriction will be set to 40/The level restriction will be set to 50/The level restriction will be set to 60/] and a participation fee of # gil will be required. The match type will be: [All or Nothing/Best of Three] with [a restriction on the use of normal items/no restriction on the use of normal items].
-7201 : The next match will begin on  (Vana'diel time), or  (Earth time).
-7202 : The current score is # to #.
-7203 : The previous Ballista match conducted in this area featured the forces of [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst], with [San d'Oria/Bastok/Windurst] emerging as the victor. The final score was # to #.
-7204 : The previous Ballista match conducted in this area featured the forces of [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst]. The result was a draw.
-7205 : How may I help you today?
-7206 : What do you request? Sign me up! I request a discharge. Send me to my home point. Teleport me. Give me info on coming matches. Show me the rulebook. Are there any special rules? Nothing at the moment.
-7207 : Currently, there are special rules that are scheduled for implementation in the next match.
-7208 : Currently there are no special rules scheduled for implementation in the next match. However, at a recent IRNC conference many of the rules once considered special were decided to be implemented on a full time basis. Please check the official Ballista rulebook for further details.
-7209 : To participate in Ballista, you will be required to pay a fee of # gil. If your nation's forces are victorious, you will receive a reward. If your nation is defeated, you receive nothing.
-7210 : If you cancel your participation before the match begins, your gil will be refunded in full.
-7211 : I am sorry, but it looks as if you do not possess enough money to cover the participation fee. Please return after obtaining # gil.
-7212 : Please note that your character information will be available for viewing from the moment of entry until the end of the match. Accordingly, the /anon command cannot be used during this period.
-7213 : You are currently a member of the [San d'Orian/Bastokan/Windurstian] forces.
-7214 : Your temporary entry application is currently being processed.
-7215 : A discharge would mean you can no longer participate in the match.
-7216 : Also, your participation fee will not be returned, regardless of today's outcome.
-7217 : Do you wish to join the [San d'Orian/Bastokan/Windurstian] forces?
-7218 : Do you wish to join one of the forces as a guest entrant? Remember, you will automatically be placed on the side with the fewest members.
-7219 : Currently we are only accepting temporary entries. Before the match begins, adventurers will automatically be divided into two forces based on their main jobs. Do you wish to proceed?
-7220 : Participate in Ballista? Yes. Only in my home nation's forces. Only in the [San d'Orian/Bastokan/Windurstian] forces. Only in the [San d'Orian/Bastokan/Windurstian] forces. No.
-7221 : Do you wish to leave the [San d'Orian/Bastokan/Windurstian] forces?
-7222 : Do you wish to cancel your temporary entry?
-7223 : Cancel your participation in Ballista? Yes. No.
-7224 : In accordance with the official Ballista rulebook, any participant that has cancelled his or her entry will not be allowed to re-apply until 00:00 Vana'diel time.
-7225 : Are you sure you wish to have your name removed from the list of members?
-7226 : Is this is what you want? Yes. No.
-7227 : Your participation fee of # gil has been accepted. You are now a [/temporary ]member of the [San d'Orian/Bastokan/Windurstian] forces.
-7228 : Your application has been accepted. You are now a [/temporary ]member of the [San d'Orian/Bastokan/Windurstian] forces.
-7229 : Please remember that your current entry is temporary and the forces you belong to are subject to change without notice. Consider this before forming a party.
-7230 : Excellent. We ask that you act as a representative of the [San d'Orian/Bastokan/Windurstian] forces during the opening ceremony. Please prepare an oath of fair play to be read at the onset of the match.
-7231 : As to avoid any problems with crowding, I ask that you wait for the start of the match at a distance.
-7232 : Your participation fee of # gil has been accepted. Welcome to the [San d'Orian/Bastokan/Windurstian] forces.
-7233 : You are no longer a member of the [San d'Orian/Bastokan/Windurstian] forces.
-7234 : You have been discharged from the [San d'Orian/Bastokan/Windurstian] forces and your # gil was refunded.
-7235 : An entry application into the [Wyverns/Griffons] has been canceled.
-7236 : Your request for a discharge was denied.
-7237 : You do not meet the nationality requirements for the next match.
-7238 : You do not possess the #-gil fee required for participation.
-7239 : Do you wish to apply once more?
-7240 : No openings remain in the requested nation's forces. You cannot participate in this match unless someone requests a discharge.
-7241 : No openings remain in either nation's forces. You cannot participate in this match unless someone requests a discharge.
-7242 : I apologize, but your re-entry into the coming match has been restricted until 00:00 Vana'diel time.
-7243 : In accordance with the rules for the next match, we are only allowed to accept applicants that have reached at least level #.
-7244 : You no longer meet the nationality requirements for this match. You have been discharged.
-7245 : There are currently no openings in either nation's forces. Please try again later.
-7246 : There are currently no openings in either nation's forces. If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with % and %.
-7247 : There are currently no openings in the requested nation's forces. If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with %.
-7248 : I am sorry, but due to the overwhelming number of participants in the upcoming, we were unable to find you a position in either nation's forces. However, we hope to see you again in the near future.
-7249 : If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with % and %.
-7250 : If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with %.
-7251 : At #: we will begin accepting temporary applications for open entries. Players of all nations can apply, regardless of allegiance.
-7252 : The entry period has come to a close. Your application was not accepted.
-7253 : You can use your % to warp to your homepoint.
-7254 : You can warp to your homepoint in exchange for # Ballista [Point/Points].
-7255 : Warp to your homepoint? Right away. Not just yet.
-7256 : Use your %? Jugner Forest. Pashhow Marshlands. Meriphataud Mountains. Not just yet.
-7257 : # [second/seconds] remaining until the commencement of today's match.
-7258 : Today's match of Ballista is about to begin! Line up!
-7259 : I will be serving as Herald for today's match. Listen carefully to my orders.
-7260 : [There is no level restriction set today/The level restriction today has been set to 10/The level restriction today has been set to 20/The level restriction today has been set to 30/The level restriction today has been set to 40/The level restriction today has been set to 50/The level restriction today has been set to 60/The level restriction today has been set to 70]. Be sure to prepare the proper equipment before the event begins. Also, beware of roaming monsters, as they will attack up until the starting signal.
-7261 : Finally, all linkshells will be automatically unequipped and replaced with a special communication device developed for Ballista. Use this device to relay messages and information to your fellow allies.
-7262 : Today's match will pit the brave adventurers of [San d'Oria/Bastok/Windurst] against [San d'Oria/Bastok/Windurst]. The final count of participants is # versus #.
-7263 : If [San d'Oria/Bastok/Windurst] is victorious, each member will receive # gil. If [San d'Oria/Bastok/Windurst] is victorious, each member will receive # gil.
-7264 : Due to the differing number of participants, [San d'Oria/Bastok/Windurst] will be rewarded # [point/points] for each Petra scored.
-7265 : There will be no handicap implemented for either nation.
-7266 : For those of you not well-versed in the rules of Ballista, I will give one last explanation. You are to find Petras and throw them into randomly placed Rooks. The nation that scores the most points will be declared the victor. The format of today's match is [All or Nothing/Best of Three] with [restrictions on the use of normal items/no restrictions on the use of normal items].
-7267 : Do not forget that all Petras and the # [Rook/Rooks] are open territory for either group. To win, both nations must remember to defend while staying on the offense.
-7268 : We will now conduct the oath of fair play. Would the representative from [San d'Oria/Bastok/Windurst] please step forward and read their nation's oath?
-7269 : Would the representative from [San d'Oria/Bastok/Windurst] please step forward and read their nation's oath?
-7270 : Remember, Ballista is nothing more than a battle exercise. Experience will neither be lost nor gained. However, the pride and reputation of your nations will be on the line.
-7271 : May the best side win! Salute!
-7272 : All players will now have Invisible and Sneak cast on them. Move into position and wait there until the starting signal.
-7273 : We, the children of Altana, have gathered here to fight--not as enemies, but as comrades. And so we pledge on the blood we shed today.
-7274 : Let the games begin! The side that successfully throws the most Petras into the Rooks will be declared the victor.
-7275 : The requirements for the minimum number of players was not met. Today's match has been cancelled. Please speak with the Herald to have your participation fee reimbursed.
-7276 : # [hour/hours], # [minute/minutes] expired. # [hour/hours], # [minute/minutes] remaining (Vana'diel time).
-7277 : # [hour/hours], # [minute/minutes] remaining (Vana'diel time).
-7278 : The current match will conclude in # [minute/minutes] and # [second/seconds] (# Earth time).
-7279 : The current match will conclude in # [second/seconds].
-7280 : The time is  (Earth time). Match # in the best of three series will begin in # [minute/minutes] and # [second/seconds] ( Earth time).
-7281 : Match # in the best of three series will begin in # [second/seconds].
-7282 : The time is  (Earth time). Match # in the best of three series will conclude in # [minute/minutes] and # [second/seconds] ( Earth time).
-7283 : Match # in the best of three series will conclude in # [second/seconds].
-7284 : The match is a draw! One match point has been awarded to the side with the high scorer!
-7285 : The match is a draw! One match point has been awarded to the dominant forces!
-7286 : The Griffons have no registered members! One match point has been awarded to the Wyverns!
-7287 : The Wyverns have no registered members! One match point has been awarded to the Griffons!
-7288 : Neither side has any registered members! No match points are rewarded!
-7289 : San d'Oria is victorious!
-7290 : Bastok is victorious!
-7291 : Windurst is victorious!
-7292 : The Wyverns are victorious!
-7293 : The Griffons are victorious!
-7294 : The forces of [San d'Oria/Bastok/Windurst] have defeated the forces of [San d'Oria/Bastok/Windurst]! Final score # to #!
-7295 : The [Wyverns/Griffons] have defeated the [Wyverns/Griffons]! Final score # to #!
-7296 : The forces of [San d'Oria/Bastok/Windurst] have been defeated by the forces of [San d'Oria/Bastok/Windurst]... Final score # to #.
-7297 : The [Wyverns/Griffons] have been defeated by the [Wyverns/Griffons]... Final score # to #.
-7298 : This match is a draw!
-7299 : You have obtained a Petra. You can no longer use Sprint. Scout can be used to locate the nearest Rook.
-7300 : You do not possess a Petra. You cannot use Scout. Sprint can be used to temporarily increase movement speed.
-7301 : Use the Quarry command to find the buried Petras!
-7302 : Take out an opponent and achieve Gate Breach status!
-7303 : Throw your Petras into a Rook to score!
-7304 : The [/currently open ]Rooks will move in # [second/seconds].
-7305 : The [/currently open ]Rooks have moved!
-7306 : Well done! [San d'Oria/Bastok/Windurst] receives # [point/points]. You have scored # [Petra/Petras] today! (Current high scorer = #)
-7307 : Well done! The [Wyverns/Griffons] receive # [point/points]. You have scored # [Petra/Petras] today! (Current high scorer = #)
-7308 : [Wyverns/Griffons] receive # [point/points]: Wyverns # vs # Griffons
-7309 : The current high scorer = # ([San d'Oria/Bastok/Windurst])
-7310 : The current high scorer = # ([Wyverns/Griffons])
-7311 : Current scores: Wyverns # vs # Griffons
-7312 : Well done! [San d'Oria/Bastok/Windurst] receives # [point/points] (handicap included). You have scored # [Petra/Petras] today! (Current high scorer = #)
-7313 : Disengaging Gate Breach status.
-7314 : Your Gate Breach will last approximately # [minute/minutes].
-7315 : Automatically disengaging your Gate Breach status in # [second/seconds].
-7316 : You must wait before you can attempt to score again.
-7317 : You cannot throw Petras at this time.
-7318 : You cannot carry any more Petras.
-7319 : You do not possess any Petras.
-7320 : You obtain # [Petra/Petras]. You now possess #.
-7321 : You find and use %.
-7322 : You find nothing.
-7323 : You cannot quarry for Petras at this time.
-7324 : The Rook's gate has opened!
-7325 : The Rook's gate has closed!
-7326 : You must defeat a member of the opposition to achieve Gate Breach status. You cannot score a Petra at this time.
-7327 : This Rook is used in the military exercise known as Ballista.
-7328 : You were unable to complete your throw.
-7329 : Current point totals: [San d'Oria/Bastok/Windurst]: # [point/points] [San d'Oria/Bastok/Windurst]: # [point/points]
-7330 : Time has expired!
-7331 : Would the members of both forces please line up!
-7332 : Salute!
-7333 : Let [San d'Oria/Bastok/Windurst] give out a triumphant cry of victory!
-7334 : Let [San d'Oria/Bastok/Windurst] give out a triumphant cry of victory!
-7335 : And let [San d'Oria/Bastok/Windurst] ponder over what caused their defeat.
-7336 : While both sides fought valiantly, a victor did not emerge.
-7337 : Reflect over your failed strategies and strive to improve, for the next battle is near.
-7338 : Though today you competed on opposing sides, do not forget that we are all children of the Goddess Altana; this simple game of Ballista has succeeded in bringing us closer together. Let not the battles fought today break the bonds that we share.
-7339 : Now return to your nations and rest. And remember, we always welcome you for another match. Dismissed!
-7340 : Because today's match has been cancelled, speak with me and I shall reimburse your participation fee and present you with your parting gift.
-7341 : Because today's match was a draw, speak with me and I shall reimburse your participation fee and present you with your parting gift.
-7342 : The members of the winning forces, come forth to accept your reward. All others, speak with me to receive your parting gift.
-7343 : All participants, speak with me to receive your parting gift.
-7344 : The members of the San d'Orian forces should speak with me to receive their reward.
-7345 : The members of the Bastokan forces should speak with me to receive their reward.
-7346 : The members of the Windurstian forces should speak with me to receive their reward.
-7347 : The entry period for today's match will be ending shortly.
-7348 : Congratulations! Here is your reward. Use it wisely!
-7349 : I wish you better luck during the next match. Here is your parting gift.
-7350 : Your nation was victorious! You obtain # gil.
-7351 : Let me return your participation fee.
-7352 : Due to the cancellation of today's match, your participation fee of # gil was returned.
-7353 : Both nations fought well. Let me return your participation fee.
-7354 : Due to the outcome of today's match, your participation fee of # gil was returned.
-7355 : Congratulations on your victory! Here is your reward.
-7356 : I wish you better luck during the next match. Here is your parting gift.
-7357 : Both nations fought well. Please accept this parting gift.
-7358 : I apologize that today's match was cancelled. Please accept this gift.
-7359 : Remember, you can only carry one of each of the following items: % and %.
-7360 : Also, EXP bonuses are being rewarded to all those adventurers who fought well during today's match.
-7361 : Ah yes, our records show that the time has come for you to return the % that you currently possess. However, I am positive that it will not be long before you wear another on your arm!
-7362 : The requested action cannot be performed.
-7363 : Contributing a total of # [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %!
-7364 : Contributing a total of # [Petra/Petras] for the [Wyverns/Griffons], today's high scorer is %!
-7365 : You scored # [Petra/Petras] (# [Ballista point/Ballista points]).
-7366 : You scored # [Petra/Petras].
-7367 : Today's high scorer contributed a total of # [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces (however, is currently not within this area).
-7368 : Today's high scorer contributed a total of # [Petra/Petras] to the [Wyverns/Griffons] (however, is currently not within this area).
-7369 : Let game # in the best of three series begin!
-7370 : The score of match # in the best of three series was # to #. [The San d'Orian forces/The Bastokan forces/The Windurstian forces] receive one match point.
-7371 : The score of match # in the best of three series was # to #. [The Wyverns/The Griffons] receive one match point.
-7372 : The score of match # in the best of three series was # to #. [The San d'Orian forces/The Bastokan forces/The Windurstian forces] receive two match points for the victory and for having the high scorer.
-7373 : The score of match # in the best of three series was # to #. [The Wyverns/The Griffons] receive two match points for the victory and for having the high scorer.
-7374 : The score of match # in the best of three series was a draw, (# to #). Neither nation receives a match point.
-7375 : The current match point total in today's best of three series is: [San d'Oria/Bastok/Windurst]: # [San d'Oria/Bastok/Windurst]: #.
-7376 : The current match point total in today's best of three series is: [Wyverns/Griffons]: # [Wyverns/Griffons]: #.
-7377 : The final match point result for today's best of three series is: [San d'Oria/Bastok/Windurst]: # [San d'Oria/Bastok/Windurst]: #.
-7378 : This is our force's camp. Returning to the camp after falling in battle will allow for a quicker return to the battlefield. It can also help you escape an enemy that may be waiting for your recovery.
-7379 : This is the camp of the [San d'Orian/Bastokan/Windurstian] forces. There is no rule preventing members of the opposition from entering this area. However, such actions may reflect on the sportsmanship of the adventurers that do so.
-7380 : I am the assigned Pursuivant of the [San d'Orian/Bastokan/Windurstian] forces. It is my duty to remain at this camp and aid players when necessary.
-7381 : If the rules still seem a bit difficult, I could provide you with %. This will give you useful advice while participating, as well as provide you with information on upcoming matches.
-7382 : Would you like one? Yes. No.
-7383 : This device works like a linkshell and will allow you to hear my advice during the course of the match. All you have to do is follow what I say, and you'll have no problems.
-7384 : Well, if you ever change your mind, please let me know.
-7385 : Are you still using the %? If not, I ask that you return it. There are many novice adventurers that could use one, and we are in short supply.
-7386 : Would you like to return it? Yes. No.
-7387 : Ha ha! Now that you think you've got what it takes, get out there on the battlefield and create some havoc!
-7388 : I see. Well, I can't force you to return it... Good luck, citizen!
-7389 : You return the %.
-7390 : The results of the last match were: San d'Oria --> Win     Bastok --> Lose
-7391 : The results of the last match were: San d'Oria --> Lose     Bastok --> Win
-7392 : The results of the last match were: San d'Oria --> Draw     Bastok --> Draw
-7393 : The results of the last match were: Bastok --> Win       Windurst --> Lose
-7394 : The results of the last match were: Bastok --> Lose       Windurst --> Win
-7395 : The results of the last match were: Bastok --> Draw       Windurst --> Draw
-7396 : The results of the last match were: San d'Oria --> Win   Windurst --> Lose
-7397 : The results of the last match were: San d'Oria --> Lose   Windurst --> Win
-7398 : The results of the last match were: San d'Oria --> Draw   Windurst --> Draw
-7399 : Trial Adventurers cannot participate in Conflict.
-7400 : You gain the effect of Invisible. It will wear off at the start of the match.
-7401 : You gain the effect of Sneak. It will wear off at the start of the match.
-7402 : Your Invisible effect wears off.
-7403 : Your Sneak effect wears off.
-7404 : of the opposing forces has obtained # [Petra/Petras]! Now is the time to attack!
-7405 : Your ally, , has obtained # [Petra/Petras]! You must not let the opposition get to them!
-7406 : You find the temporary item: %!
-7407 : You find %, but you cannot carry any more temporary items.
-7408 : You find %, but you cannot carry more than one of that temporary item.
-7409 : You find a Petra! Keep it. Throw it away.
-7410 : You throw away the Petra.
-7411 : What do you do? Keep the item. Exchange the item. Use the item. Throw the item away.
-7412 : Exchange with which item? %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Return.
-7413 : You obtain the temporary item: %! [/(You cannot carry any more.)]
-7414 : You throw away the %.
-7415 : You throw away % and replace it with the %.
-7416 : You find %, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
-7417 : You exchange # [voucher/vouchers] for # [temporary item/temporary items].
-7418 : You have been presented with # temporary item[/s]!
-7419 : Two adventurers with the same main job have been detected within the Wyverns' ranks. The latter entry has been dishonorably discharged.
-7420 : Two adventurers with the same main job have been detected within the Griffons' ranks. The latter entry has been dishonorably discharged.
-7421 : Due to the difference in the number of participants, we are still accepting entry applications.
-7422 : A new participant has joined the [San d'Orian/Bastokan/Windurstian] side.
-7423 : Temporarily unable to equip linkshell items.
-7424 : Able to equip linkshell items.
-7425 : [1/2/3/5/6.1/6.2/4/7/24]#pt
-7426 : 60#/## [/A/B]#
-7427 : #/# ITEM##
-7428 : ITEM% #+# INFO#
-7429 : [/][/]
-7433 : I have been dispatched by the IRNC to handle all affairs dealing with Ballista Points and Ballista Point Ranking. My records show that you scored # Ballista [Point/Points] in your previous match, bringing your cumulative total to #.
-7434 : You have obtained the maximum number of Ballista Points (#). Please note that you cannot earn any more until you have used the ones you possess.
-7435 : What would you like to do? Exchange points for items. View the previous match MVPs. Sign up for B.P. Ranking. View the B.P. Ranking. Learn more about Ballista Points. Learn more about ranking. Nothing at the moment.
-7436 : You currently possess # Ballista [Point/Points] and # temporary item [voucher/vouchers]. Remember, you can carry a maximum of # [voucher/vouchers] at a time, but no more than one of each type.
-7437 : You currently possess # Ballista [Point/Points] and # temporary item [voucher/vouchers]. Remember, you can carry a maximum of # [voucher/vouchers] at a time, but no more than one of each type.
-7438 : Exchange points for... Previous page. % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) Next page. Nothing.
-7439 : I see that you are wearing %. Ballista point exchange authorization has been granted.
-7440 : I am sorry. You have not earned the right to exchange your points for that item.
-7441 : The following is the item that will be automatically presented to you at the start of the Ballista match in exchange for the %:
-7442 : Obtain this item for # [point/points]? Yes. Return. No.
-7443 : You do not have enough Ballista Points to purchase that item.
-7444 : You already possess %. Remember, you cannot hold more than one of each type of temporary item voucher.
-7445 : You exchange # [point/points] for %.
-7446 : Adventurers are only allowed to possess a maximum of # temporary item [voucher/vouchers]. I am sorry, but I cannot proceed with the transaction.
-7447 : Understood. Let me read to you the official Ballista rulebook chapter on Ballista Points.
-7448 : Is there anything else I can do for you?
-7449 : Understood. Let me read to you the official Ballista rulebook chapter on Ballista Point Ranking.
-7450 : Is there anything else I can do for you?
-7451 : The MVPs of the previous match were: 1st: % -> # [pt./pts.] 2nd: % -> # [pt./pts.] 3rd: % -> # [pt./pts.]
-7452 : The high scorer was: % (# [Petra/Petras])
-7453 : There were no MVPs or high scorers recorded for the previous Ballista match.
-7454 : Well done, %! You are right on track to become the next Ballistar!
-7455 : Ballista Point Ranking registration [/for the Jugner Forest match/for the Pashhow Marshlands match/for the Meriphataud Mountains match] has concluded. Please do not forget to register your Ballista Points immediately after each match to avoid any confusion.
-7456 : You did not obtain any Ballista Points in the previous match; thus, I cannot register you.
-7457 : Please participate in a future match to qualify once again for Ballista Point Ranking. The next exercise is scheduled to take place [soon/in the Jugner Forest/in the Pashhow Marshlands/in the Meriphataud Mountains].
-7458 : Your current job does not coincide with the data we have recorded for the previous match. You must return to your residence and change jobs before I can register you for Ballista Point Ranking.
-7459 : According to the [/Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] match records for #, you earned # Ballista [Point/Points].
-7460 : Shall I register your statistics? (This may take a few moments.)
-7461 : Register? Yes. No.
-7462 : Which ranking do you wish to view? Jugner Forest. Pashhow Marshlands. Meriphataud Mountains. None of the above.
-7463 : It may take a few moments for me to find the ranking list.
-7464 : Do you still wish to see it? Yes. No.
-7465 : Your points have been registered. Congratulations! You currently rank in the top ten!
-7466 : Your points have been registered. Congratulations! You are currently ranked as the top [/warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner/blue mage/corsair/puppetmaster]! (Total [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mages/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] registered: #)
-7467 : We ask that you check the rankings on the following date: Vana'diel: # Earth: #
-7468 : If, at that time, you still remain in the top ten, you will be rewarded with a special prize.
-7469 : If, at this time, you still remain in first place, you will be recognized as the match MVP.
-7470 : However, all records of the match will be destroyed on  (Vana'diel) or  (Earth).
-7471 : If you do not speak with a Marshal by that date, you will lose the opportunity to claim that prize.
-7472 : If you do not speak with a Marshal by that date, you forfeit all benefits that accompany MVP status.
-7473 : You currently possess %. Ballista regulations allow you to wear that chevron until  (Vana'diel), or  (Earth).
-7474 : Our records show that you have previously been presented the following rewards: Gold chevron: # [time/times] Mythril chevron: # [time/times] Silver chevron: # [time/times] Bronze chevron: # [time/times] Job-specific chevron: # [time/times]
-7475 : The ranking information given by Marshals in Jeuno may be slightly older than the current data. For the most up-to-date numbers, we suggest that you speak with the officials stationed in each partcipating Ballista area.
-7476 : Please note that because the point registration period for the previous match has not yet ended, your ranking may change. We ask that you check back later for the final results.
-7477 : Your performance in the last match earned you a place in the overall ranking. However, because you did not check with a Herald before the records were destroyed, you have lost the opportunity to claim your prize.
-7478 : Your points have been registered. Congratulations! You are currently in first place!
-7479 : Congratulations! Ballista Point Ranking registration for the previous match has come to a close, and your final overall rank is #! You shall be presented with % and a new title.
-7480 : Good show! Ballista Point Ranking registration for the previous match has come to a close, and your final rank among participating [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mage/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] (# total) is first! You shall be presented with % and a new title.
-7481 : Well done! Ballista Point Ranking registration for the previous match has come to a close, and your final overall rank is #! In addition, your final rank among participating [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mage/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] (# total) is first! You shall be presented with % or %, as well as a new title.
-7482 : While our records will clearly indicate that you were rewarded both chevrons, Ballista regulations only allow participants to wear one at a time. Therefore, you must choose which one you wish to receive at this time.
-7483 : Please select one... %. %.
-7484 : You are currently wearing %. If you wish to accept the chevron you earned this match, you must return the one you currently possess.
-7485 : Accept the %? Yes. No.
-7486 : Are you sure you wish to exchange your % for %?
-7487 : Are you sure you do not wish to accept the %? Remember that even if you do not accept the chevron, a record of your award will be kept.
-7488 : Well? I'm sure. No.
-7489 : As long as you are in possession of the %, you will bear the aforementioned title while participating in Ballista.
-7490 : Upon the chance another contestant checks you during a match, not only will he be able to see your title, but also the total number of chevrons you have accumulated in your battles.
-7491 : Finally, the official rules of Ballista state that after a set period of time, you are required to return any chevrons received. When that time has come, a Herald will collect your chevrons at the time of entry into a new match.
-7492 : Congratulations! Ballista Point Ranking registration for the previous match has come to a close, and you have once again been deemed the most valuable player! You are a fine example to Conflict participants across Vana'diel! Keep up the fine work, %!
-7493 : You have already confirmed your data for the [/Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] match. We look forward to your participation in future matches!
-7494 : You have been rewarded with %!
-7495 : You have been rewarded with %!
-7496 : You have previously been presented the following chevrons: Gold: # [time/times] Mythril: # [time/times] Silver: # [time/times] Bronze: # [time/times]
-7497 : Job-specific: # [time/times]
-7498 : Your data did not make the final ranking list.
-7499 : I have finished registering your data. Your final Ballista Point Ranking for the previous match is: #.
-7500 : I registered your point total; however, it seems you did not make the final list. But do not fret. You will have many chances to redeem yourself in future matches. Good luck, %!
-7501 : Your final Ballista Point Ranking for the previous match is: #. (Rank among [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mages/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers]: #) However, a little more practice, and the champion's throne is yours for the taking!
-7502 : I am sorry, but we are no longer accepting Ballista Point Ranking registrations for the match in which you previously participated.
-7503 : For future reference, please note that the registration period is exactly four hours (Vana'diel time) from the close of each Ballista match.
-7504 : I apologize, but it seems that I am having a bit of trouble trying to find the ranking list. Please come back later.
-7505 : I apologize, but it seems that I am having a bit of trouble registering your data. Please come back in a few moments.
-7506 : You have already registered your Ballista Points for the previous match. Your current rank is #.
-7507 : :#:# :#:# :#:# BP:#TIME:#
-7509 : endpara=#
-7510 : What do you wish to know about? Basic rules. About the Petra. About Sprint. About Scout. About Gate Breach. About area-specific rules. About returning to battle. About special rules. Nothing at the moment.
-7511 : Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word ballista means to throw a stone, and the game has been a part of Vana'dielian military history for centuries.
-7512 : The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
-7513 : Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
-7514 : These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
-7515 : Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
-7516 : Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
-7517 : Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
-7518 : Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
-7519 : But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
-7520 : As one can see, careful planning and impeccable timing are the keys to victory.
-7521 : All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
-7522 : However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
-7523 : The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
-7524 : Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
-7525 : Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
-7526 : So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
-7527 : There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
-7528 : To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
-7529 : But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
-7530 : This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
-7531 : Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
-7532 : The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
-7533 : Best of Three series rules are as follows: Winning a match will earn a nation one match point. The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for come-from-behind victories.
-7534 : Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
-7535 : Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
-7536 : When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
-7537 : For more information on temporary items, refer to the special rules.
-7538 : After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
-7539 : If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
-7540 : Please note that many of the rules previously considered special have been fully implemented. Also, several new special rules have been added.
-7541 : Learn about which special rules? Temporary items. Ballista Points. Scoring restrictions. Gate Breach radius expansion. Resistance to Sleep. Open entries. Minimum level restrictions. Re-entry restrictions. Participant & Rook numbers. Experience Points. Return.
-7542 : Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
-7543 : Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
-7544 : If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
-7545 : Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
-7546 : Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
-7547 : Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is #.
-7548 : While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
-7549 : Ballista Points can be traded for special vouchers, which may be exchanged for free temporary items at the start of new matches.
-7550 : However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
-7551 : Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
-7552 : All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
-7553 : Players' resistance to sleep will be increased.
-7554 : During the entry period, from #:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
-7555 : In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 130
-7556 : Level 40 matches: 3140 Level 50 matches: 4150 Level 60 matches: 5160 Unrestricted matches: 61
-7557 : Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
-7558 : When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
-7559 : Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
-7560 : Read which chapter on B.P. Ranking? Basic Information. Registering Points. Rewards. Chevron & Title List. None.
-7561 : Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
-7562 : Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
-7563 : After the registration period ends, players can compare their record with those of the previous nine matches.
-7564 : If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
-7565 : There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as two different types awarded for outstanding performances by players of each of the twenty-two jobs.
-7566 : Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
-7567 : Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
-7568 : However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
-7569 : Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
-7570 : View which chevron/title? 1st (overall). 2nd (overall). 3rd (overall). 4th-10th (overall). 1st (warrior). 1st (monk). 1st (white mage). 1st (black mage). 1st (red mage). 1st (thief). 1st (paladin). 1st (dark knight). 1st (beastmaster). 1st (bard). 1st (ranger). 1st (samurai). 1st (ninja). 1st (dragoon). 1st (summoner). 1st (blue mage). 1st (corsair). 1st (puppetmaster). 1st (dancer). 1st (scholar). 1st (geomancer). 1st (rune fencer). Return.
-7571 : Key Item: % Title: Gold Ballistar
-7572 : Key Item: % Title: Mythril Ballistar
-7573 : Key Item: % Title: Silver Ballistar
-7574 : Key Item: % Title: Bronze Ballistar
-7575 : Key Item: % Title: SearingStar
-7576 : Key Item: % Title: StrikingStar
-7577 : Key Item: % Title: SoothingStar
-7578 : Key Item: % Title: SableStar
-7579 : Key Item: % Title: ScarletStar
-7580 : Key Item: % Title: SonicStar
-7581 : Key Item: % Title: SaintlyStar
-7582 : Key Item: % Title: ShadowyStar
-7583 : Key Item: % Title: SavageStar
-7584 : Key Item: % Title: SingingStar
-7585 : Key Item: % Title: SnipingStar
-7586 : Key Item: % Title: SlicingStar
-7587 : Key Item: % Title: SneakingStar
-7588 : Key Item: % Title: SpearingStar
-7589 : Key Item: % Title: SummoningStar
-7590 : Key Item: % Title: SapphireStar
-7591 : Key Item: % Title: SurgingStar
-7592 : Key Item: % Title: SwayingStar
-7593 : Key Item: % Title: SprightlyStar
-7594 : Key Item: % Title: SagaciousStar
-7595 : Key Item: % Title: SpiritualStar
-7596 : Key Item: % Title: StipplingStar
-7597 : You use # Ballista [Point/Points]!
-7598 : You hand over the key item: %.
-7599 : Matches are only played on even days (Vana'diel time).
-7600 : Areas where Ballista matches will be held are: 2, 8, 14, 20, 26  -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
-7601 : Level restrictions are: 2, 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50 20, 22, 24 -> Lv. 60 26, 28, 30 -> None
-7602 : And finally, participation fees are: Lv. 30 matches: # gil Lv. 40 matches: # gil Lv. 50 matches: # gil Lv. 60 matches: # gil Unrestricted matches: # gil
-7603 : Participating nations are selected in the following manner...
-7604 : Matches for the 1st4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
-7605 : Matches for the 5th8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
-7606 : Matches for the 9th12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
-7607 : Learn about which match: View previous month. #/#/2  Lv.30  Jugner #/#/4  Lv.30  Pashhow #/#/6  Lv.30  Meriphataud #/#/8  Lv.40  Jugner #/#/10  Lv.40  Pashhow #/#/12  Lv.40  Meriphataud #/#/14  Lv.50  Jugner #/#/16  Lv.50  Pashhow #/#/18  Lv.50  Meriphataud #/#/20  Lv.60  Jugner #/#/22  Lv.60  Pashhow #/#/24  Lv.60  Meriphataud #/#/26  Lv.  Jugner #/#/28  Lv.  Pashhow #/#/30  Lv.  Meriphataud View next month. Quit.
-7608 : Learn about which match: View previous month. #/2/#  Lv.30  Jugner #/4/#  Lv.30  Pashhow #/6/#  Lv.30  Meriphataud #/8/#  Lv.40  Jugner #/10/#  Lv.40  Pashhow #/12/#  Lv.40  Meriphataud #/14/#  Lv.50  Jugner #/16/#  Lv.50  Pashhow #/18/#  Lv.50  Meriphataud #/20/#  Lv.60  Jugner #/22/#  Lv.60  Pashhow #/24/#  Lv.60  Meriphataud #/26/#  Lv.  Jugner #/28/#  Lv.  Pashhow #/30/#  Lv.  Meriphataud View next month. Quit.
-7609 : Learn about which match: View previous month. 2/#/#  Lv.30  Jugner 4/#/#  Lv.30  Pashhow 6/#/#  Lv.30  Meriphataud 8/#/#  Lv.40  Jugner 10/#/#  Lv.40  Pashhow 12/#/#  Lv.40  Meriphataud 14/#/#  Lv.50  Jugner 16/#/#  Lv.50  Pashhow 18/#/#  Lv.50  Meriphataud 20/#/#  Lv.60  Jugner 22/#/#  Lv.60  Pashhow 24/#/#  Lv.60  Meriphataud 26/#/#  Lv.  Jugner 28/#/#  Lv.  Pashhow 30/#/#  Lv.  Meriphataud View next month. Quit.
-7610 : Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: # gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
-7611 : Entry period begins: Vana'diel: # Earth: #
-7612 : Match begins: Vana'diel: # Earth: #
-7613 : Tallying conquest results...
-7614 : Conquest results tallied.
-7615 : This region is currently under San d'Orian control.
-7616 : This region is currently under Bastokan control.
-7617 : This region is currently under Windurstian control.
-7618 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7619 : This region is currently neutral.
-7620 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7621 : All three nations are tied for first place.
-7622 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7623 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7624 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7625 : All three nations are tied for first place.
-7626 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7627 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7628 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7629 : All three nations are tied for first place.
-7630 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7631 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7632 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7633 : All three nations are tied for first place.
-7634 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7635 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7636 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7637 : Global balance of power: All three nations are tied for first place.
-7638 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7639 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7640 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7641 : All three nations are tied for first place.
-7642 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7643 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7644 : Conquest update: This region is currently neutral.
-7645 : Conquest update: This region is currently under San d'Orian control.
-7646 : Conquest update: This region is currently under Bastokan control.
-7647 : Conquest update: This region is currently under Windurstian control.
-7648 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7649 : All three nations are at a deadlock.
-7650 : The beastmen are on the rise.
-7651 : Regional influence: San d'Oria - Dominant
-7652 : Regional influence: San d'Oria - Major
-7653 : Regional influence: San d'Oria - Minor
-7654 : Regional influence: San d'Oria - Minimal
-7655 : Bastok - Dominant
-7656 : Bastok - Major
-7657 : Bastok - Minor
-7658 : Bastok - Minimal
-7659 : Windurst - Dominant
-7660 : Windurst - Major
-7661 : Windurst - Minor
-7662 : Windurst - Minimal
-7663 : Bastok and Windurst have formed an alliance.
-7664 : San d'Oria and Windurst have formed an alliance.
-7665 : San d'Oria and Bastok have formed an alliance.
-7666 : Bastok and Windurst are currently allies.
-7667 : San d'Oria and Windurst are currently allies.
-7668 : San d'Oria and Bastok are currently allies.
-7669 : # #
-7670 : # % #
-7671 : ITEM_ID:# :#
-7672 : :# :#
-7673 : [//]:[////] :#:#
-7674 : The beastmen are gaining power.
-7675 : San d'Oria's regional control is now 10% closer to the first place country's!
-7676 : Bastok's regional control is now 10% closer to the first place country's!
-7677 : Windurst's regional control are now 10% closer to the first place country's!
-7678 : San d'Oria's region points have increased!
-7679 : Bastok's region points have increased!
-7680 : Windurst's region points have increased!
-7681 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7682 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7683 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7684 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7685 : A Bastokan Expeditionary Force has been dispatched to this area.
-7686 : A Windurstian Expeditionary Force has been dispatched to this area.
-7687 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7688 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7689 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7690 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7691 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7692 : There was a curse on the beastmen's banner!
-7693 : The curse of the beastmen's banner has been lifted!
-7694 : There is a beastmen's banner.
-7770 : # #
-7771 : # #
-7773 : Which will it be? % % % % % % No thanks.
-7774 : 60 50 40 30 20 10
-7775 : Welcome to Diorama Abdhaljs-Ghelsba!  I have been dispatched by the board of International Resolution through Non-lethal Conflict (IRNC) to preside as Herald over all upcoming events.
-7776 : However, unlike the matches held in the Jugner Forest, Pashhow Marshlands, and Meriphataud Mountains, I will not be in charge of the rules or proceedings. All final decisions regarding these issues shall be handled by the appointed Master of Ceremonies (MC).
-7777 : The participant list states that you are the MC of today's event.
-7778 : The MC presiding over today's event is %. % will shortly be giving orders on the proceedings of today's match.
-7779 : The MC has yet to arrive in the Diorama. Let us wait a little longer.
-7780 : The MC for today's event has failed to show. I am now accepting applications for a substitute.
-7781 : If you wish to apply for the position of MC, please show me % or %.
-7782 : [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended].
-7783 : The Wyverns have # [member/members] registered. The Griffons have #.
-7784 : The current score is: Wyverns (# [member/members]) -> # Griffons (# [member/members]) -> #
-7785 : The [/Wyverns are victorious!/Griffons are victorious!/match is a draw!] The final score is: Wyverns (# [member/members]) -> # Griffons (# [member/members]) -> #
-7786 : The victors have earned the right to proceed to the next match. Please wait for orders from the Master of Ceremonies.
-7787 : While I realize you must be disappointed with your defeat, you must not let it bring you down. Let your experience here today guide you to newer heights. I look forward to the day I can once again witness the noble fire in your eyes.
-7788 : You are[/ temporarily] registered as a member of the [Wyverns/Griffons].
-7789 : You have yet to register with either of the forces competing today.[/ If you wish to partake in the upcoming matches, present me with your proof of participation.]
-7790 : Remember, this area has been reserved until #.
-7791 : Today's match is scheduled to begin on # and finish on .
-7792 : On # to .
-7793 : You are recognized as the MC for today's [un/level 60-/level 50-/level 40-/level 30-/level 20-/level 10-]restricted match. I can now help you set the various Ballista rules.
-7794 : What would you like to do? Nothing. Use Ballista Royale rules. Set entry type ([free/open/auto/shuffle]). Set entry cancel ([not allowed/allowed]). Set mid-match entry ([none/OK]). Set level minimum ([none/10/20/30/40/50/60/75]). Set support job ([none/OK]). Set match location (Rook total=#). . . . . Set briefing time ([1 min/3 min/5 min]). Set match length ([10 min/15 min/20 min/30 min/45 min/1 Vana'diel day/60 min]). Set match style ([all or nothing/best of 3]). Next page.
-7795 : What would you like to do? Previous page. Set item usage ([none/OK]). Set temp. item capacity ([10/15/20]). Set temp. item selection ([none/OK]). Set temp. item distribution ([none/OK]). Set voucher exchange ([none/OK]). Set Petra selection ([none/OK]). Set quarry holes ([all full/some empty]). Set scoring limit ([1/2/3/4/5/10/15/none]). Set called game dif. ([none/10/20/30/40/50/60/70/80/90/100]). Clear entries. Reset to default settings. Finish & commence entry period. Quit.
-7796 : What would you like to do? Nothing. Start the match. Close entries & return to settings. Cancel own entry. Auto-balance temp. entries. Shuffle temp. entries. View setting menu.
-7797 : What would you like to do? Nothing. Stop match. Cancel match & return to entry. Cancel own entry. View settings menu.
-7798 : What would you like to do? Nothing. Prepare for the next match. View settings menu.
-7799 : This is a list of the current rules set by the presiding Master of Ceremonies. Please select the area you wish to view.
-7800 : View... Entry information. Level/job restrictions. Match location. Match length/type. Item restrictions. Petras & scoring. Return.
-7801 : I am now accepting applications for participation in today's match. The current entry type is [free/open/auto-balance/random shuffle].
-7802 : Please note that in the event both sides reach their maximum capacity, your application may not be accepted.
-7803 : Please note that depending on the number of players registered, you may not always be admitted to the side you choose.
-7804 : Please remember that this type of entry is only temporary. Your final team is subject to change at the discretion of the acting MC.
-7805 : Submit application? For either side. For the Wyverns. For the Griffons. No.
-7806 : Your[ / temporary ]application for entry into the [Wyverns/Griffons] has been accepted.
-7807 : You are already a[ / temporary ]member of the [Wyverns/Griffons].
-7808 : I am sorry. Your application for entry into the [Wyverns/Griffons] has been denied.
-7809 : I'm sorry. Would you please reconfirm the time inscribed on the bottom of your %?
-7810 : The [Wyverns/Griffons] are currently not accepting any more entries at this time.
-7811 : Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve in the same forces.
-7812 : I am not accepting entries for either team at this time.
-7813 : Participant totals for both teams have reached the set limit. I'm sorry, but I cannot accept your application for entry.
-7814 : The minimum level requirement is currently set at #. I'm sorry, but your entry is denied.
-7815 : Your entry could not be processed. Would you speak with me once again?
-7816 : Request a discharge? Yes. No.
-7817 : By canceling your entry, you will not be allowed to return to the match.
-7818 : Are you sure you want a discharge? Yes! No, wait...
-7819 : You are no longer a member of the [Wyverns/Griffons].
-7820 : Your request for a discharge was denied.
-7821 : You cannot apply for entry with that %.
-7822 : I'm sorry. Your application has been denied. Would you please reconfirm the time inscribed on the bottom of your %?
-7823 : The MC has authorized the automatic balancing of all temporary entries.
-7824 : The MC has authorized the random shuffle of all temporary entries.
-7825 : Save all settings and begin the entry period?
-7826 : Save and commence? Yes. No.
-7827 : Setting match to follow Ballista Royale rules. Please note that several settings, such as the entry type and level restrictions, will not be affected.
-7828 : Set match to Ballista Royale rules? Yes. No.
-7829 : Please select the entry type: Free. Open. Auto-balance. Random shuffle. Information. Return.
-7830 : Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
-7831 : Open Players can join the team of their choice only if the side they have chosen has the same or fewer members than the other. If the side chosen has more members, players will automatically be moved to the team with fewer.
-7832 : Auto-Balance After players have completed a temporary entry into one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
-7833 : Random Shuffle After players have completed a temporary entry into one of the two sides, the MC can choose to randomly shuffle all players between the teams.
-7834 : Allow re-entry? No. Yes. Information. Return.
-7835 : If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match.
-7836 : Allow mid-match entry? No. Yes. Information. Return.
-7837 : If mid-match entry is allowed, players not affiliated with either side may join one of the teams while the match is in progress.
-7838 : Set the minimum level restriction. None. 10. 20. 30. 40. 50. 60. 75. Information. Return.
-7839 : When a minimum level restriction is set, any player under that level will not be allowed to participate in the matches.
-7840 : Please note that the minimum level restriction must be equal to or lower than the maximum level restriction (set in Jeuno at the time of reservation).
-7841 : Set length of briefing period. 1 minute. 3 minutes. 5 minutes. Information. Return.
-7842 : The briefing period is the time set aside before a match to allow the two sides to talk over their battle strategies.
-7843 : Set the single match length. 10 minutes. 15 minutes. 20 minutes. 30 minutes. 45 minutes. 1 Vana'diel day. 60 minutes. Information. Return.
-7844 : One Vana'diel day is approximately 57 minutes and 36 seconds. A match will be cancelled in the event a party's Diorama access time expires before the match has completed.
-7845 : Select the match style: All or nothing. Best of three. Information. Return.
-7846 : The interval between best of three matches varies with the match length. Also, best of three matches are not allowed when the called game feature is in effect.
-7847 : Best of three matches are not allowed when the called game feature is in effect.
-7848 : Allow normal item use? No. Yes. Information. Return.
-7849 : When normal item use is not allowed, players will not be able to use items acquired before the match. (This does not include items such as arrows and projectiles.)
-7850 : Set temporary item capacity. 10. 15. 20. Information. Return.
-7851 : Sets the maximum number of temporary items (items found when quarrying) that can be stored in a player's inventory.
-7852 : Allow temporary item selection? No. Yes. Information. Return.
-7853 : By allowing temporary item selection, players will have the choice to keep or discard an item after quarrying it.
-7854 : When not allowed, temporary items will be automatically discarded when a player's inventory exceeds the maximum capacity set by the MC.
-7855 : Allow voucher exchange? No. Yes. Information. Return.
-7856 : When allowed, all vouchers a player carries at the beginning of the match will be exchanged for the corresponding temporary items.
-7857 : Distribute temporary items? No. Yes. Information. Return.
-7858 : When allowed, five random items will be distributed to all participants at the beginning of each match (or set of matches).
-7859 : Allow 1st Petra selection: No. Yes. Information. Return.
-7860 : When allowed, players will have the opportunity to throw away the first Petra that they find (in order to maintain use of the /sprint command).
-7861 : Fill all Petra holes? Yes. No. Information. Return.
-7862 : When all Petra holes are filled, players will always find either Petras or temporary items when quarrying.
-7863 : Set the one-time scoring limit. 1 Petra. 2 Petras. 3 Petras. 4 Petras. 5 Petras. 10 Petras. 15 Petras. No limit. Information. Return.
-7864 : This setting determines the number of Petras a player can score at one time (per Gate Breach).
-7865 : Allow support jobs? No. Yes. Information. Return.
-7866 : When not allowed, players' support jobs will be automatically removed at the start of a match.
-7867 : Set called game difference. None. 10 Petras. 20 Petras. 30 Petras. 40 Petras. 50 Petras. 60 Petras. 70 Petras. 80 Petras. 90 Petras. 100 Petras. Information. Return.
-7868 : When the called game function is turned on, a game will automatically come to an end when the lead of one team reaches the number set by the MC. This function can only be used when the match type is all or nothing.
-7869 : The called game function can only be used when the match type is all or nothing.
-7870 : Turn on sudden death mode? No. Yes. Return.
-7871 : Open the duel arena? No. Yes. Return.
-7872 : By clearing the entries, all players will be required to re-apply to participate in today's event.
-7873 : Clear all entries? Yes. No.
-7874 : All entries have been cleared by the MC. Please wait for further instructions regarding re-application.
-7875 : Reset all rules to the default settings?
-7876 : Proceed? Yes. No.
-7877 : The MC has reset all match rules to the default settings.
-7878 : The MC has cleared the results from the previous match.
-7879 : The MC is currently setting the rules for the next match.
-7880 : The Herald is now accepting applications for participation in the next match.
-7881 : The MC has given the order for the next match to begin. The opening ceremony will commence shortly.
-7882 : The MC has ordered the current match to come to a close.
-7883 : I'm sorry. Gallery member participation is not authorized.
-7884 : The MC has adjusted the position of the Herald. A Pursuivant will teleport you to the new location.
-7885 : By returning to the rule settings menu, the entry process will temporarily come to a close.
-7886 : Return to the rule settings menu? Yes. No.
-7887 : Auto-balance temporary entries? Yes. No.
-7888 : Randomly shuffle temporary entries? Yes. No.
-7889 : That request could not be performed. Not enough players have submitted entry applications.
-7890 : The entry period will now come to a close and the match briefing will begin. When the briefing period has concluded, the match will commence. Once you have confirmed that all those who wish to participate in today's event have completed the application process, you may give the signal to start the briefing.
-7891 : It seems that I have not received your application for entry yet. Were you going to participate in today's match?
-7892 : Your reservation of the Diorama will end before the projected conclusion of the scheduled match.
-7893 : Do you wish to start the match? Yes. No.
-7894 : The entry process has not been carried out properly. The match cannot commence.
-7895 : The level restriction has not been set properly. The match cannot commence.
-7896 : Conclude the current match and tally the final results? (Registration information will remain unchanged.)
-7897 : Conclude match? Yes. No.
-7898 : Cancel the match in progress and return to the entry process? (Match data will be lost, but registration information will remain unchanged.)
-7899 : Cancel match? Yes. No.
-7900 : Clear all data from the previous match and begin preparations for the next? (Registration information will remain unchanged.)
-7901 : Begin preparations for next match? Yes. No.
-7902 : The current area settings are as follows:
-7903 : What would you like to change? Herald location ([A/B/C/D/E]). Wyvern camp location ([A/B/C/D/E/F/G/H]). Griffon camp location ([A/B/C/D/E/F/G/H]). Rook A ([Off/On]). Rook B ([Off/On]). Rook C ([Off/On]). Rook D ([Off/On]). Default setting 1. Default setting 2. Default setting 3. Default setting 4. Return.
-7904 : Please choose a location from the following:
-7905 : Move the Herald to... A. B. C. D. Current position.
-7906 : Are you sure you want me to move to this location?
-7907 : Are you sure? Yes. No.
-7908 : Understood. Please have a Pursuivant teleport you to my new location.
-7909 : Move the Wyvern camp to... A. B. C. D. E. F. G. H. Current position.
-7910 : Move the Griffon camp to... A. B. C. D. E. F. G. H. Current position.
-7911 : Utilize Rook [A/B/C/D/E]? No. Yes. Return.
-7912 : You must utilize at least one rook per match.
-7913 : The camps have been placed according to the starting position of Rook [A/B/C/D].
-7914 : Does this meet with your approval? Yes. No.
-7915 : Entry Type: [Free/Open/Auto Balance/Random Shuffle] Entry Cancel: [Prohibited/Allowed] Mid-Match Entry: [Prohibited/Allowed]
-7916 : Level Restriction: [None/10/20/30/40/50/60] Minimum Level: [None/10/20/30/40/50/60/75] Support Jobs: [Prohibited/Allowed]
-7917 : The rooks will appear in random locations between the two camps, and this area will become the designated battle zone. If at any time all members of the leading forces leave the battle zone, all players on the opposing forces will automatically be granted Gate Breach status.
-7918 : Pre-Match Briefing: [1 min/3 min/5 min] Match Length: [10 min/15 min/20 min/30 min/45 min/1 Vana'diel day/60 min/] Match Type: [All or Nothing/Best of Three/]
-7919 : Normal Item Usage: [Prohibited/Allowed] T.Item Capacity: [10/15/20] Voucher Exchange: [Off/On] T.Item Distribution: [No/Yes]
-7920 : Petra Holes: [All full/Some Empty] Scoring Limit: [1/2/3/4/5/10/15/None] Called Game: [None/10-Petra Lead/20-Petra Lead/30-Petra Lead/40-Petra Lead/50-Petra Lead/60-Petra Lead/70-Petra Lead/80-Petra Lead/90-Petra Lead/100-Petra Lead]
-7921 : The Ballista Royale is underway! [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended].
-7922 : We have been waiting for you, %. Let us begin the entry application process.
-7923 : Your match will begin on # and end on .
-7924 : Join the [Wyverns/Griffons]? Right away. Not yet.
-7925 : I will now show you the settings and rules to be used during the tournament.
-7926 : Welcome to the Ballista Royale--a tournament of tournaments to determine the finest Ballistites in all Vana'diel!
-7927 : Match type is [ /All or Nothing/ /Best of Three] with single match length being set at [10 minutes/15 minutes/20 minutes/30 minutes/45 minutes/1 Vana'diel day (57 minutes and 36 seconds)/60 minutes/]. In addition, the use of normal items [is strictly prohibited/will be allowed]. Please speak with me again to review all other rules.
-7928 : The match will begin on # and end on . The Wyverns currently have # [member/members]. The Griffons have #.
-7929 : The results of the previous match have been tallied and... [The Wyverns are victorious!/The Griffons are victorious!/The match is a draw!] Wyverns: #  -  Griffons: #
-7930 : I hope you all had a wonderful time and look forward to seeing you again in the near future!
-7931 : The victors will now move on to the next round of the tournament. I wish you all the best of luck!
-7932 : Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Between Matches]
-7933 : Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Between Matches] Herald Location: [G-6/F-7/G-10/I-11] [/Now accepting applications for a substitute Master of Ceremonies]
-7934 : ***Ballista Royale*** Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Inbetween Matches] Herald Location: [G-6/F-7/G-10/I-11]
-7935 : Diorama access will end shortly.
-7936 : You have entered the battle zone.
-7937 : You have left the battle zone. If all members of the leading forces leave the battle zone, the opposing team will automatically be granted Gate Breach status.
-7938 : [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended]. The Herald can be found at [G-6/F-7/G-10/I-11].
-7939 : What can I do for you? Teleport to the Herald. Teleport back to Jeuno. Nothing at this time.
-7940 : Understood. I will have you there right away.
-7941 : Are you sure? Yes. No.
-7942 : Understood. Please hold on to your [wallet/purse].
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : You can't fish here.
+7065 : You can't fish without a rod in your hands.
+7066 : You can't fish without bait on the hook.
+7067 : You can't fish at the moment.
+7068 : You didn't catch anything.
+7069 : % caught a monster!
+7070 : Your line breaks.
+7071 : Your rod breaks.
+7072 : Something caught the hook!
+7073 : You lost your catch.
+7074 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7075 : You feel there's something here.
+7076 : You feel there's something nearby.
+7077 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7078 : % caught  %!
+7079 : You dig and you dig, but find nothing.
+7080 : #/%
+7081 : Your rod breaks. Whatever caught the hook was pretty big.
+7082 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7083 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7084 : You lost your catch due to your lack of skill.
+7085 : Number fished : # Original Dice No. ## Result # (0=caught)
+7086 : You didn't catch anything.
+7087 : The paper on your % ripped.
+7088 : A tiny goldfish approaches!
+7089 : A plump, black goldfish approaches!
+7090 : A fat, juicy goldfish approaches!
+7091 : There are no goldfish to be found...
+7092 : % caught %, but cannot carry any more items. % regretfully releases it.
+7093 : The goldfish slipped off your scoop...
+7094 : ch# skill up check.
+7095 : a:#.
+7096 : Time # / Status # / #
+7097 : d:#. e:#. f:#. g:#.
+7098 : h: #. i: #. sr: #.
+7099 : j:#. k:#.
+7100 : You give up and reel in your line.
+7101 : You give up.
+7102 : % obtains # gil.
+7103 : % caught %!
+7104 : You don't know how much longer you can keep this one on the line...
+7105 : You have a good feeling about this one!
+7106 : You have a bad feeling about this one.
+7107 : You have a terrible feeling about this one...
+7108 : You don't know if you have enough skill to reel this one in.
+7109 : You're fairly sure you don't have enough skill to reel this one in.
+7110 : You're positive you don't have enough skill to reel this one in!
+7111 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7112 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7113 : l: #. m: #. n: #. CH: #.
+7114 : Something caught the hook!!!
+7115 : You feel something pulling at your line.
+7116 : Something clamps onto your line ferociously!
+7117 : Your keen angler's senses tell you that this is the pull of %!
+7118 : This strength... You get the sense that you are on the verge of an epic catch!
+7119 : The timer has started. # seconds remaining.
+7120 : #sec.#/#sec.
+7121 : 0:# 1:# 2:# 3:#
+7122 : 4:# 5:# 6:# 7:#
+7123 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7124 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7125 : #/#(#
+7126 : Version invalid error!
+7127 : Hurry before the goldfish sees you!
+7128 : % fishes up a large box!
+7130 : Fish No# / Bait No# / Hit# >>> #
+7131 : Point# >>> #
+7132 : %(#) skill#
+7133 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7134 : Im Rnd : # Pz Rnd : #
+7135 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7136 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7137 : skill : # size : # kind : # sch : #
+7138 : time : # mes : # flag : # bonus : #
+7139 : item : # hp : # pow : # swing : #
+7140 : suc : # cons : # weight : # +- : #
+7141 : speed : # +- : # exc : # client : #
+7142 : general : #
+7143 : ro:# rs:# ps:# dt:#
+7144 : ra:# ti:#
+7145 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7146 : You get the distinct sense that your moogle friend frequents this spot...
+7147 : You have a feeling that your moogle friend has been through this way...
+7148 : You suspect that the scenery around here would be to a moogle's liking...
+7149 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7150 : You have a hunch that this area would be favored by moogles...
+7151 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7152 : % catches # %!
+7153 : % obtained %!
+7154 : It appears your chocobo found this item with ease.
+7155 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7156 : FPT # DPT # DoT#
+7157 : FPT # TDPT # h#
+7158 : You cannot fish at this time.
+7159 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7160 : You discover a cache of beastman resources and receive # Imperial Standing!
+7161 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7162 : You receive # bayld!
+7163 : Your chocobo refuses to partake of the %.
+7164 : The IRNC welcomes all adventurers to participate in Ballista! If you think you've got what it takes, report immediately to the Herald in sector XXX!
+7165 : Report immediately to the Herald in sector XXX to take part in Ballista!
+7166 : The next match will feature the forces of Bastok against the forces of San d'Oria.
+7167 : The next match will feature the forces of Bastok against the forces of Windurst.
+7168 : The next match will feature the forces of Windurst against the forces of San d'Oria.
+7169 : The next match will pit the forces of [San d'Oria against Bastok/Bastok against Windurst/Windurst against San d'Oria]. [No level restriction will be set///The level restriction will be set to 30/The level restriction will be set to 40/The level restriction will be set to 50/The level restriction will be set to 60/] and a participation fee of # gil will be required. Match style will be: [All or Nothing * Normal Items Allowed/All or Nothing * Normal Items Restricted/Best of Three * Normal Items Allowed].
+7170 : The entry process will commence on:  (Vana'diel time)  (Earth time)
+7171 : The match will begin on:  (Vana'diel time)  (Earth time)
+7172 : The requirements for the minimum number of players was not met. Today's match has been cancelled. Please speak immediately with the Herald to have your participation fee reimbursed.
+7173 : Today's match was a draw. Please speak immediately with the Herald to have your participation fee reimbursed.
+7174 : Your nation was victorious! Please speak immediately with the Herald to receive your reward.
+7175 : Now accepting San d'Orian entries.
+7176 : Now accepting Bastokan entries.
+7177 : Now accepting Windurstian entries.
+7178 : Due to an influx of participants, further entries into the San d'Orian forces are temporarily restricted.
+7179 : Due to an influx of participants, further entries into the Bastokan forces are temporarily restricted.
+7180 : Due to an influx of participants, further entries into the Windurstian forces are temporarily restricted.
+7181 : We are now accepting temporary entries. Adventurers from any nation can submit an application.
+7182 : The San d'Orian forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
+7183 : The Bastokan forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
+7184 : The Windurstian forces have reached the maximum number of participants for this match. Further entries by the nation are temporarily restricted.
+7185 : We have also begun accepting guest applications from San d'Orian adventurers.
+7186 : We have also begun accepting guest applications from Bastokan adventurers.
+7187 : We have also begun accepting guest applications from Windurstian adventurers.
+7188 : I have been dispatched by the board of International Resolution through Non-lethal Conflict (IRNC) to preside as Herald over this upcoming event.
+7189 : We believe that the reinstatement of these games will help polish the fighting skills of Vana'diel's adventurers, as well as strengthen the bonds between the citizens of each nation through friendly combat.
+7190 : Also recently, several new rules, as well as the temporary item and Ballista Point systems, have been introduced. Please refer to the official Ballista rulebook for further details on these new features.
+7191 : We are now accepting applications for the Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst]. Currently, the [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
+7192 : The Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst] will commence shortly. Currently, the [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
+7193 : The Ballista match between [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst] is underway. The [San d'Orian/Bastokan/Windurstian] forces number # [adventurer/adventurers]. The [San d'Orian/Bastokan/Windurstian] forces number #.
+7194 : The minimum number of participants for one nation is #. The maximum number is #.
+7195 : # [adventurer has/adventurers have] joined the [San d'Orian/Bastokan/Windurstian] forces, while # [adventurer comprises/adventurers comprise] the forces of [San d'Oria/Bastok/Windurst]. Since these numbers do not meet the minimum requirements of # [member/members] per nation, today's match is cancelled.
+7196 : We apologize for any inconvenience, and hope to see you register for future matches.
+7197 : I can see that you have the spirit of a true fighter. Unfortunately, the IRNC requires that all adventurers must wait a short period before participating in Ballista again.
+7198 : I see that you participated in the previous match. To allow those who did not an equal chance, we ask that you wait until #: before submitting your next entry.
+7199 : Due to the lack of participants for the opposing nation, we are unable to accept your entry at this time.
+7200 : There is little or no difference in the number of participants for each nation's forces. We are not accepting guest entries at this time.
+7201 : I am sorry. Only adventurers who possess % can participate in Ballista.
+7202 : I am sorry. We are unable to accept your entry.
+7203 : The next match will pit the forces of [San d'Oria against Bastok/Bastok against Windurst/Windurst against San d'Oria]. [No level restriction will be set///The level restriction will be set to 30/The level restriction will be set to 40/The level restriction will be set to 50/The level restriction will be set to 60/] and a participation fee of # gil will be required. The match type will be: [All or Nothing/Best of Three] with [a restriction on the use of normal items/no restriction on the use of normal items].
+7204 : The next match will begin on  (Vana'diel time), or  (Earth time).
+7205 : The current score is # to #.
+7206 : The previous Ballista match conducted in this area featured the forces of [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst], with [San d'Oria/Bastok/Windurst] emerging as the victor. The final score was # to #.
+7207 : The previous Ballista match conducted in this area featured the forces of [San d'Oria/Bastok/Windurst] and [San d'Oria/Bastok/Windurst]. The result was a draw.
+7208 : How may I help you today?
+7209 : What do you request? Sign me up! I request a discharge. Send me to my home point. Teleport me. Give me info on coming matches. Show me the rulebook. Are there any special rules? Nothing at the moment.
+7210 : Currently, there are special rules that are scheduled for implementation in the next match.
+7211 : Currently there are no special rules scheduled for implementation in the next match. However, at a recent IRNC conference many of the rules once considered special were decided to be implemented on a full time basis. Please check the official Ballista rulebook for further details.
+7212 : To participate in Ballista, you will be required to pay a fee of # gil. If your nation's forces are victorious, you will receive a reward. If your nation is defeated, you receive nothing.
+7213 : If you cancel your participation before the match begins, your gil will be refunded in full.
+7214 : I am sorry, but it looks as if you do not possess enough money to cover the participation fee. Please return after obtaining # gil.
+7215 : Please note that your character information will be available for viewing from the moment of entry until the end of the match. Accordingly, the /anon command cannot be used during this period.
+7216 : You are currently a member of the [San d'Orian/Bastokan/Windurstian] forces.
+7217 : Your temporary entry application is currently being processed.
+7218 : A discharge would mean you can no longer participate in the match.
+7219 : Also, your participation fee will not be returned, regardless of today's outcome.
+7220 : Do you wish to join the [San d'Orian/Bastokan/Windurstian] forces?
+7221 : Do you wish to join one of the forces as a guest entrant? Remember, you will automatically be placed on the side with the fewest members.
+7222 : Currently we are only accepting temporary entries. Before the match begins, adventurers will automatically be divided into two forces based on their main jobs. Do you wish to proceed?
+7223 : Participate in Ballista? Yes. Only in my home nation's forces. Only in the [San d'Orian/Bastokan/Windurstian] forces. Only in the [San d'Orian/Bastokan/Windurstian] forces. No.
+7224 : Do you wish to leave the [San d'Orian/Bastokan/Windurstian] forces?
+7225 : Do you wish to cancel your temporary entry?
+7226 : Cancel your participation in Ballista? Yes. No.
+7227 : In accordance with the official Ballista rulebook, any participant that has cancelled his or her entry will not be allowed to re-apply until 00:00 Vana'diel time.
+7228 : Are you sure you wish to have your name removed from the list of members?
+7229 : Is this is what you want? Yes. No.
+7230 : Your participation fee of # gil has been accepted. You are now a [/temporary ]member of the [San d'Orian/Bastokan/Windurstian] forces.
+7231 : Your application has been accepted. You are now a [/temporary ]member of the [San d'Orian/Bastokan/Windurstian] forces.
+7232 : Please remember that your current entry is temporary and the forces you belong to are subject to change without notice. Consider this before forming a party.
+7233 : Excellent. We ask that you act as a representative of the [San d'Orian/Bastokan/Windurstian] forces during the opening ceremony. Please prepare an oath of fair play to be read at the onset of the match.
+7234 : As to avoid any problems with crowding, I ask that you wait for the start of the match at a distance.
+7235 : Your participation fee of # gil has been accepted. Welcome to the [San d'Orian/Bastokan/Windurstian] forces.
+7236 : You are no longer a member of the [San d'Orian/Bastokan/Windurstian] forces.
+7237 : You have been discharged from the [San d'Orian/Bastokan/Windurstian] forces and your # gil was refunded.
+7238 : An entry application into the [Wyverns/Griffons] has been canceled.
+7239 : Your request for a discharge was denied.
+7240 : You do not meet the nationality requirements for the next match.
+7241 : You do not possess the #-gil fee required for participation.
+7242 : Do you wish to apply once more?
+7243 : No openings remain in the requested nation's forces. You cannot participate in this match unless someone requests a discharge.
+7244 : No openings remain in either nation's forces. You cannot participate in this match unless someone requests a discharge.
+7245 : I apologize, but your re-entry into the coming match has been restricted until 00:00 Vana'diel time.
+7246 : In accordance with the rules for the next match, we are only allowed to accept applicants that have reached at least level #.
+7247 : You no longer meet the nationality requirements for this match. You have been discharged.
+7248 : There are currently no openings in either nation's forces. Please try again later.
+7249 : There are currently no openings in either nation's forces. If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with % and %.
+7250 : There are currently no openings in the requested nation's forces. If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with %.
+7251 : I am sorry, but due to the overwhelming number of participants in the upcoming, we were unable to find you a position in either nation's forces. However, we hope to see you again in the near future.
+7252 : If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with % and %.
+7253 : If there are still no positions available by the end of the entry period, please speak with me once more. I will present you with %.
+7254 : At #: we will begin accepting temporary applications for open entries. Players of all nations can apply, regardless of allegiance.
+7255 : The entry period has come to a close. Your application was not accepted.
+7256 : You can use your % to warp to your homepoint.
+7257 : You can warp to your homepoint in exchange for # Ballista [Point/Points].
+7258 : Warp to your homepoint? Right away. Not just yet.
+7259 : Use your %? Jugner Forest. Pashhow Marshlands. Meriphataud Mountains. Not just yet.
+7260 : # [second/seconds] remaining until the commencement of today's match.
+7261 : Today's match of Ballista is about to begin! Line up!
+7262 : I will be serving as Herald for today's match. Listen carefully to my orders.
+7263 : [There is no level restriction set today/The level restriction today has been set to 10/The level restriction today has been set to 20/The level restriction today has been set to 30/The level restriction today has been set to 40/The level restriction today has been set to 50/The level restriction today has been set to 60/The level restriction today has been set to 70]. Be sure to prepare the proper equipment before the event begins. Also, beware of roaming monsters, as they will attack up until the starting signal.
+7264 : Finally, all linkshells will be automatically unequipped and replaced with a special communication device developed for Ballista. Use this device to relay messages and information to your fellow allies.
+7265 : Today's match will pit the brave adventurers of [San d'Oria/Bastok/Windurst] against [San d'Oria/Bastok/Windurst]. The final count of participants is # versus #.
+7266 : If [San d'Oria/Bastok/Windurst] is victorious, each member will receive # gil. If [San d'Oria/Bastok/Windurst] is victorious, each member will receive # gil.
+7267 : Due to the differing number of participants, [San d'Oria/Bastok/Windurst] will be rewarded # [point/points] for each Petra scored.
+7268 : There will be no handicap implemented for either nation.
+7269 : For those of you not well-versed in the rules of Ballista, I will give one last explanation. You are to find Petras and throw them into randomly placed Rooks. The nation that scores the most points will be declared the victor. The format of today's match is [All or Nothing/Best of Three] with [restrictions on the use of normal items/no restrictions on the use of normal items].
+7270 : Do not forget that all Petras and the # [Rook/Rooks] are open territory for either group. To win, both nations must remember to defend while staying on the offense.
+7271 : We will now conduct the oath of fair play. Would the representative from [San d'Oria/Bastok/Windurst] please step forward and read their nation's oath?
+7272 : Would the representative from [San d'Oria/Bastok/Windurst] please step forward and read their nation's oath?
+7273 : Remember, Ballista is nothing more than a battle exercise. Experience will neither be lost nor gained. However, the pride and reputation of your nations will be on the line.
+7274 : May the best side win! Salute!
+7275 : All players will now have Invisible and Sneak cast on them. Move into position and wait there until the starting signal.
+7276 : We, the children of Altana, have gathered here to fight--not as enemies, but as comrades. And so we pledge on the blood we shed today.
+7277 : Let the games begin! The side that successfully throws the most Petras into the Rooks will be declared the victor.
+7278 : The requirements for the minimum number of players was not met. Today's match has been cancelled. Please speak with the Herald to have your participation fee reimbursed.
+7279 : # [hour/hours], # [minute/minutes] expired. # [hour/hours], # [minute/minutes] remaining (Vana'diel time).
+7280 : # [hour/hours], # [minute/minutes] remaining (Vana'diel time).
+7281 : The current match will conclude in # [minute/minutes] and # [second/seconds] (# Earth time).
+7282 : The current match will conclude in # [second/seconds].
+7283 : The time is  (Earth time). Match # in the best of three series will begin in # [minute/minutes] and # [second/seconds] ( Earth time).
+7284 : Match # in the best of three series will begin in # [second/seconds].
+7285 : The time is  (Earth time). Match # in the best of three series will conclude in # [minute/minutes] and # [second/seconds] ( Earth time).
+7286 : Match # in the best of three series will conclude in # [second/seconds].
+7287 : The match is a draw! One match point has been awarded to the side with the high scorer!
+7288 : The match is a draw! One match point has been awarded to the dominant forces!
+7289 : The Griffons have no registered members! One match point has been awarded to the Wyverns!
+7290 : The Wyverns have no registered members! One match point has been awarded to the Griffons!
+7291 : Neither side has any registered members! No match points are rewarded!
+7292 : San d'Oria is victorious!
+7293 : Bastok is victorious!
+7294 : Windurst is victorious!
+7295 : The Wyverns are victorious!
+7296 : The Griffons are victorious!
+7297 : The forces of [San d'Oria/Bastok/Windurst] have defeated the forces of [San d'Oria/Bastok/Windurst]! Final score # to #!
+7298 : The [Wyverns/Griffons] have defeated the [Wyverns/Griffons]! Final score # to #!
+7299 : The forces of [San d'Oria/Bastok/Windurst] have been defeated by the forces of [San d'Oria/Bastok/Windurst]... Final score # to #.
+7300 : The [Wyverns/Griffons] have been defeated by the [Wyverns/Griffons]... Final score # to #.
+7301 : This match is a draw!
+7302 : You have obtained a Petra. You can no longer use Sprint. Scout can be used to locate the nearest Rook.
+7303 : You do not possess a Petra. You cannot use Scout. Sprint can be used to temporarily increase movement speed.
+7304 : Use the Quarry command to find the buried Petras!
+7305 : Take out an opponent and achieve Gate Breach status!
+7306 : Throw your Petras into a Rook to score!
+7307 : The [/currently open ]Rooks will move in # [second/seconds].
+7308 : The [/currently open ]Rooks have moved!
+7309 : Well done! [San d'Oria/Bastok/Windurst] receives # [point/points]. You have scored # [Petra/Petras] today! (Current high scorer = #)
+7310 : Well done! The [Wyverns/Griffons] receive # [point/points]. You have scored # [Petra/Petras] today! (Current high scorer = #)
+7311 : [Wyverns/Griffons] receive # [point/points]: Wyverns # vs # Griffons
+7312 : The current high scorer = # ([San d'Oria/Bastok/Windurst])
+7313 : The current high scorer = # ([Wyverns/Griffons])
+7314 : Current scores: Wyverns # vs # Griffons
+7315 : Well done! [San d'Oria/Bastok/Windurst] receives # [point/points] (handicap included). You have scored # [Petra/Petras] today! (Current high scorer = #)
+7316 : Disengaging Gate Breach status.
+7317 : Your Gate Breach will last approximately # [minute/minutes].
+7318 : Automatically disengaging your Gate Breach status in # [second/seconds].
+7319 : You must wait before you can attempt to score again.
+7320 : You cannot throw Petras at this time.
+7321 : You cannot carry any more Petras.
+7322 : You do not possess any Petras.
+7323 : You obtain # [Petra/Petras]. You now possess #.
+7324 : You find and use %.
+7325 : You find nothing.
+7326 : You cannot quarry for Petras at this time.
+7327 : The Rook's gate has opened!
+7328 : The Rook's gate has closed!
+7329 : You must defeat a member of the opposition to achieve Gate Breach status. You cannot score a Petra at this time.
+7330 : This Rook is used in the military exercise known as Ballista.
+7331 : You were unable to complete your throw.
+7332 : Current point totals: [San d'Oria/Bastok/Windurst]: # [point/points] [San d'Oria/Bastok/Windurst]: # [point/points]
+7333 : Time has expired!
+7334 : Would the members of both forces please line up!
+7335 : Salute!
+7336 : Let [San d'Oria/Bastok/Windurst] give out a triumphant cry of victory!
+7337 : Let [San d'Oria/Bastok/Windurst] give out a triumphant cry of victory!
+7338 : And let [San d'Oria/Bastok/Windurst] ponder over what caused their defeat.
+7339 : While both sides fought valiantly, a victor did not emerge.
+7340 : Reflect over your failed strategies and strive to improve, for the next battle is near.
+7341 : Though today you competed on opposing sides, do not forget that we are all children of the Goddess Altana; this simple game of Ballista has succeeded in bringing us closer together. Let not the battles fought today break the bonds that we share.
+7342 : Now return to your nations and rest. And remember, we always welcome you for another match. Dismissed!
+7343 : Because today's match has been cancelled, speak with me and I shall reimburse your participation fee and present you with your parting gift.
+7344 : Because today's match was a draw, speak with me and I shall reimburse your participation fee and present you with your parting gift.
+7345 : The members of the winning forces, come forth to accept your reward. All others, speak with me to receive your parting gift.
+7346 : All participants, speak with me to receive your parting gift.
+7347 : The members of the San d'Orian forces should speak with me to receive their reward.
+7348 : The members of the Bastokan forces should speak with me to receive their reward.
+7349 : The members of the Windurstian forces should speak with me to receive their reward.
+7350 : The entry period for today's match will be ending shortly.
+7351 : Congratulations! Here is your reward. Use it wisely!
+7352 : I wish you better luck during the next match. Here is your parting gift.
+7353 : Your nation was victorious! You obtain # gil.
+7354 : Let me return your participation fee.
+7355 : Due to the cancellation of today's match, your participation fee of # gil was returned.
+7356 : Both nations fought well. Let me return your participation fee.
+7357 : Due to the outcome of today's match, your participation fee of # gil was returned.
+7358 : Congratulations on your victory! Here is your reward.
+7359 : I wish you better luck during the next match. Here is your parting gift.
+7360 : Both nations fought well. Please accept this parting gift.
+7361 : I apologize that today's match was cancelled. Please accept this gift.
+7362 : Remember, you can only carry one of each of the following items: % and %.
+7363 : Also, EXP bonuses are being rewarded to all those adventurers who fought well during today's match.
+7364 : Ah yes, our records show that the time has come for you to return the % that you currently possess. However, I am positive that it will not be long before you wear another on your arm!
+7365 : The requested action cannot be performed.
+7366 : Contributing a total of # [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %!
+7367 : Contributing a total of # [Petra/Petras] for the [Wyverns/Griffons], today's high scorer is %!
+7368 : You scored # [Petra/Petras] (# [Ballista point/Ballista points]).
+7369 : You scored # [Petra/Petras].
+7370 : Today's high scorer contributed a total of # [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces (however, is currently not within this area).
+7371 : Today's high scorer contributed a total of # [Petra/Petras] to the [Wyverns/Griffons] (however, is currently not within this area).
+7372 : Let game # in the best of three series begin!
+7373 : The score of match # in the best of three series was # to #. [The San d'Orian forces/The Bastokan forces/The Windurstian forces] receive one match point.
+7374 : The score of match # in the best of three series was # to #. [The Wyverns/The Griffons] receive one match point.
+7375 : The score of match # in the best of three series was # to #. [The San d'Orian forces/The Bastokan forces/The Windurstian forces] receive two match points for the victory and for having the high scorer.
+7376 : The score of match # in the best of three series was # to #. [The Wyverns/The Griffons] receive two match points for the victory and for having the high scorer.
+7377 : The score of match # in the best of three series was a draw, (# to #). Neither nation receives a match point.
+7378 : The current match point total in today's best of three series is: [San d'Oria/Bastok/Windurst]: # [San d'Oria/Bastok/Windurst]: #.
+7379 : The current match point total in today's best of three series is: [Wyverns/Griffons]: # [Wyverns/Griffons]: #.
+7380 : The final match point result for today's best of three series is: [San d'Oria/Bastok/Windurst]: # [San d'Oria/Bastok/Windurst]: #.
+7381 : This is our force's camp. Returning to the camp after falling in battle will allow for a quicker return to the battlefield. It can also help you escape an enemy that may be waiting for your recovery.
+7382 : This is the camp of the [San d'Orian/Bastokan/Windurstian] forces. There is no rule preventing members of the opposition from entering this area. However, such actions may reflect on the sportsmanship of the adventurers that do so.
+7383 : I am the assigned Pursuivant of the [San d'Orian/Bastokan/Windurstian] forces. It is my duty to remain at this camp and aid players when necessary.
+7384 : If the rules still seem a bit difficult, I could provide you with %. This will give you useful advice while participating, as well as provide you with information on upcoming matches.
+7385 : Would you like one? Yes. No.
+7386 : This device works like a linkshell and will allow you to hear my advice during the course of the match. All you have to do is follow what I say, and you'll have no problems.
+7387 : Well, if you ever change your mind, please let me know.
+7388 : Are you still using the %? If not, I ask that you return it. There are many novice adventurers that could use one, and we are in short supply.
+7389 : Would you like to return it? Yes. No.
+7390 : Ha ha! Now that you think you've got what it takes, get out there on the battlefield and create some havoc!
+7391 : I see. Well, I can't force you to return it... Good luck, citizen!
+7392 : You return the %.
+7393 : The results of the last match were: San d'Oria --> Win     Bastok --> Lose
+7394 : The results of the last match were: San d'Oria --> Lose     Bastok --> Win
+7395 : The results of the last match were: San d'Oria --> Draw     Bastok --> Draw
+7396 : The results of the last match were: Bastok --> Win       Windurst --> Lose
+7397 : The results of the last match were: Bastok --> Lose       Windurst --> Win
+7398 : The results of the last match were: Bastok --> Draw       Windurst --> Draw
+7399 : The results of the last match were: San d'Oria --> Win   Windurst --> Lose
+7400 : The results of the last match were: San d'Oria --> Lose   Windurst --> Win
+7401 : The results of the last match were: San d'Oria --> Draw   Windurst --> Draw
+7402 : Trial Adventurers cannot participate in Conflict.
+7403 : You gain the effect of Invisible. It will wear off at the start of the match.
+7404 : You gain the effect of Sneak. It will wear off at the start of the match.
+7405 : Your Invisible effect wears off.
+7406 : Your Sneak effect wears off.
+7407 : of the opposing forces has obtained # [Petra/Petras]! Now is the time to attack!
+7408 : Your ally, , has obtained # [Petra/Petras]! You must not let the opposition get to them!
+7409 : You find the temporary item: %!
+7410 : You find %, but you cannot carry any more temporary items.
+7411 : You find %, but you cannot carry more than one of that temporary item.
+7412 : You find a Petra! Keep it. Throw it away.
+7413 : You throw away the Petra.
+7414 : What do you do? Keep the item. Exchange the item. Use the item. Throw the item away.
+7415 : Exchange with which item? %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Return.
+7416 : You obtain the temporary item: %! [/(You cannot carry any more.)]
+7417 : You throw away the %.
+7418 : You throw away % and replace it with the %.
+7419 : You find %, but [ /you cannot carry any more temporary items/you cannot carry more than one of each temporary item] so you throw it away.
+7420 : You exchange # [voucher/vouchers] for # [temporary item/temporary items].
+7421 : You have been presented with # temporary item[/s]!
+7422 : Two adventurers with the same main job have been detected within the Wyverns' ranks. The latter entry has been dishonorably discharged.
+7423 : Two adventurers with the same main job have been detected within the Griffons' ranks. The latter entry has been dishonorably discharged.
+7424 : Due to the difference in the number of participants, we are still accepting entry applications.
+7425 : A new participant has joined the [San d'Orian/Bastokan/Windurstian] side.
+7426 : Temporarily unable to equip linkshell items.
+7427 : Able to equip linkshell items.
+7428 : [1/2/3/5/6.1/6.2/4/7/24]#pt
+7429 : 60#/## [/A/B]#
+7430 : #/# ITEM##
+7431 : ITEM% #+# INFO#
+7432 : [/][/]
+7436 : I have been dispatched by the IRNC to handle all affairs dealing with Ballista Points and Ballista Point Ranking. My records show that you scored # Ballista [Point/Points] in your previous match, bringing your cumulative total to #.
+7437 : You have obtained the maximum number of Ballista Points (#). Please note that you cannot earn any more until you have used the ones you possess.
+7438 : What would you like to do? Exchange points for items. View the previous match MVPs. Sign up for B.P. Ranking. View the B.P. Ranking. Learn more about Ballista Points. Learn more about ranking. Nothing at the moment.
+7439 : You currently possess # Ballista [Point/Points] and # temporary item [voucher/vouchers]. Remember, you can carry a maximum of # [voucher/vouchers] at a time, but no more than one of each type.
+7440 : You currently possess # Ballista [Point/Points] and # temporary item [voucher/vouchers]. Remember, you can carry a maximum of # [voucher/vouchers] at a time, but no more than one of each type.
+7441 : Exchange points for... Previous page. % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) % (# [pt./pts.]) Next page. Nothing.
+7442 : I see that you are wearing %. Ballista point exchange authorization has been granted.
+7443 : I am sorry. You have not earned the right to exchange your points for that item.
+7444 : The following is the item that will be automatically presented to you at the start of the Ballista match in exchange for the %:
+7445 : Obtain this item for # [point/points]? Yes. Return. No.
+7446 : You do not have enough Ballista Points to purchase that item.
+7447 : You already possess %. Remember, you cannot hold more than one of each type of temporary item voucher.
+7448 : You exchange # [point/points] for %.
+7449 : Adventurers are only allowed to possess a maximum of # temporary item [voucher/vouchers]. I am sorry, but I cannot proceed with the transaction.
+7450 : Understood. Let me read to you the official Ballista rulebook chapter on Ballista Points.
+7451 : Is there anything else I can do for you?
+7452 : Understood. Let me read to you the official Ballista rulebook chapter on Ballista Point Ranking.
+7453 : Is there anything else I can do for you?
+7454 : The MVPs of the previous match were: 1st: % -> # [pt./pts.] 2nd: % -> # [pt./pts.] 3rd: % -> # [pt./pts.]
+7455 : The high scorer was: % (# [Petra/Petras])
+7456 : There were no MVPs or high scorers recorded for the previous Ballista match.
+7457 : Well done, %! You are right on track to become the next Ballistar!
+7458 : Ballista Point Ranking registration [/for the Jugner Forest match/for the Pashhow Marshlands match/for the Meriphataud Mountains match] has concluded. Please do not forget to register your Ballista Points immediately after each match to avoid any confusion.
+7459 : You did not obtain any Ballista Points in the previous match; thus, I cannot register you.
+7460 : Please participate in a future match to qualify once again for Ballista Point Ranking. The next exercise is scheduled to take place [soon/in the Jugner Forest/in the Pashhow Marshlands/in the Meriphataud Mountains].
+7461 : Your current job does not coincide with the data we have recorded for the previous match. You must return to your residence and change jobs before I can register you for Ballista Point Ranking.
+7462 : According to the [/Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] match records for #, you earned # Ballista [Point/Points].
+7463 : Shall I register your statistics? (This may take a few moments.)
+7464 : Register? Yes. No.
+7465 : Which ranking do you wish to view? Jugner Forest. Pashhow Marshlands. Meriphataud Mountains. None of the above.
+7466 : It may take a few moments for me to find the ranking list.
+7467 : Do you still wish to see it? Yes. No.
+7468 : Your points have been registered. Congratulations! You currently rank in the top ten!
+7469 : Your points have been registered. Congratulations! You are currently ranked as the top [/warrior/monk/white mage/black mage/red mage/thief/paladin/dark knight/beastmaster/bard/ranger/samurai/ninja/dragoon/summoner/blue mage/corsair/puppetmaster]! (Total [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mages/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] registered: #)
+7470 : We ask that you check the rankings on the following date: Vana'diel: # Earth: #
+7471 : If, at that time, you still remain in the top ten, you will be rewarded with a special prize.
+7472 : If, at this time, you still remain in first place, you will be recognized as the match MVP.
+7473 : However, all records of the match will be destroyed on  (Vana'diel) or  (Earth).
+7474 : If you do not speak with a Marshal by that date, you will lose the opportunity to claim that prize.
+7475 : If you do not speak with a Marshal by that date, you forfeit all benefits that accompany MVP status.
+7476 : You currently possess %. Ballista regulations allow you to wear that chevron until  (Vana'diel), or  (Earth).
+7477 : Our records show that you have previously been presented the following rewards: Gold chevron: # [time/times] Mythril chevron: # [time/times] Silver chevron: # [time/times] Bronze chevron: # [time/times] Job-specific chevron: # [time/times]
+7478 : The ranking information given by Marshals in Jeuno may be slightly older than the current data. For the most up-to-date numbers, we suggest that you speak with the officials stationed in each partcipating Ballista area.
+7479 : Please note that because the point registration period for the previous match has not yet ended, your ranking may change. We ask that you check back later for the final results.
+7480 : Your performance in the last match earned you a place in the overall ranking. However, because you did not check with a Herald before the records were destroyed, you have lost the opportunity to claim your prize.
+7481 : Your points have been registered. Congratulations! You are currently in first place!
+7482 : Congratulations! Ballista Point Ranking registration for the previous match has come to a close, and your final overall rank is #! You shall be presented with % and a new title.
+7483 : Good show! Ballista Point Ranking registration for the previous match has come to a close, and your final rank among participating [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mage/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] (# total) is first! You shall be presented with % and a new title.
+7484 : Well done! Ballista Point Ranking registration for the previous match has come to a close, and your final overall rank is #! In addition, your final rank among participating [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mage/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers] (# total) is first! You shall be presented with % or %, as well as a new title.
+7485 : While our records will clearly indicate that you were rewarded both chevrons, Ballista regulations only allow participants to wear one at a time. Therefore, you must choose which one you wish to receive at this time.
+7486 : Please select one... %. %.
+7487 : You are currently wearing %. If you wish to accept the chevron you earned this match, you must return the one you currently possess.
+7488 : Accept the %? Yes. No.
+7489 : Are you sure you wish to exchange your % for %?
+7490 : Are you sure you do not wish to accept the %? Remember that even if you do not accept the chevron, a record of your award will be kept.
+7491 : Well? I'm sure. No.
+7492 : As long as you are in possession of the %, you will bear the aforementioned title while participating in Ballista.
+7493 : Upon the chance another contestant checks you during a match, not only will he be able to see your title, but also the total number of chevrons you have accumulated in your battles.
+7494 : Finally, the official rules of Ballista state that after a set period of time, you are required to return any chevrons received. When that time has come, a Herald will collect your chevrons at the time of entry into a new match.
+7495 : Congratulations! Ballista Point Ranking registration for the previous match has come to a close, and you have once again been deemed the most valuable player! You are a fine example to Conflict participants across Vana'diel! Keep up the fine work, %!
+7496 : You have already confirmed your data for the [/Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] match. We look forward to your participation in future matches!
+7497 : You have been rewarded with %!
+7498 : You have been rewarded with %!
+7499 : You have previously been presented the following chevrons: Gold: # [time/times] Mythril: # [time/times] Silver: # [time/times] Bronze: # [time/times]
+7500 : Job-specific: # [time/times]
+7501 : Your data did not make the final ranking list.
+7502 : I have finished registering your data. Your final Ballista Point Ranking for the previous match is: #.
+7503 : I registered your point total; however, it seems you did not make the final list. But do not fret. You will have many chances to redeem yourself in future matches. Good luck, %!
+7504 : Your final Ballista Point Ranking for the previous match is: #. (Rank among [/warriors/monks/white mages/black mages/red mages/thieves/paladins/dark knights/beastmasters/bards/rangers/samurais/ninjas/dragoons/summoners/blue mages/corsairs/puppetmasters/dancers/scholars/geomancers/rune fencers]: #) However, a little more practice, and the champion's throne is yours for the taking!
+7505 : I am sorry, but we are no longer accepting Ballista Point Ranking registrations for the match in which you previously participated.
+7506 : For future reference, please note that the registration period is exactly four hours (Vana'diel time) from the close of each Ballista match.
+7507 : I apologize, but it seems that I am having a bit of trouble trying to find the ranking list. Please come back later.
+7508 : I apologize, but it seems that I am having a bit of trouble registering your data. Please come back in a few moments.
+7509 : You have already registered your Ballista Points for the previous match. Your current rank is #.
+7510 : :#:# :#:# :#:# BP:#TIME:#
+7512 : endpara=#
+7513 : What do you wish to know about? Basic rules. About the Petra. About Sprint. About Scout. About Gate Breach. About area-specific rules. About returning to battle. About special rules. Nothing at the moment.
+7514 : Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word ballista means to throw a stone, and the game has been a part of Vana'dielian military history for centuries.
+7515 : The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
+7516 : Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
+7517 : These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
+7518 : Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
+7519 : Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
+7520 : Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
+7521 : Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
+7522 : But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
+7523 : As one can see, careful planning and impeccable timing are the keys to victory.
+7524 : All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
+7525 : However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
+7526 : The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
+7527 : Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
+7528 : Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
+7529 : So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
+7530 : There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
+7531 : To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
+7532 : But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
+7533 : This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
+7534 : Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
+7535 : The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
+7536 : Best of Three series rules are as follows: Winning a match will earn a nation one match point. The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for come-from-behind victories.
+7537 : Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
+7538 : Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
+7539 : When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
+7540 : For more information on temporary items, refer to the special rules.
+7541 : After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
+7542 : If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
+7543 : Please note that many of the rules previously considered special have been fully implemented. Also, several new special rules have been added.
+7544 : Learn about which special rules? Temporary items. Ballista Points. Scoring restrictions. Gate Breach radius expansion. Resistance to Sleep. Open entries. Minimum level restrictions. Re-entry restrictions. Participant & Rook numbers. Experience Points. Return.
+7545 : Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
+7546 : Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
+7547 : If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
+7548 : Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
+7549 : Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
+7550 : Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is #.
+7551 : While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
+7552 : Ballista Points can be traded for special vouchers, which may be exchanged for free temporary items at the start of new matches.
+7553 : However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
+7554 : Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
+7555 : All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
+7556 : Players' resistance to sleep will be increased.
+7557 : During the entry period, from #:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
+7558 : In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 130
+7559 : Level 40 matches: 3140 Level 50 matches: 4150 Level 60 matches: 5160 Unrestricted matches: 61
+7560 : Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
+7561 : When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
+7562 : Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
+7563 : Read which chapter on B.P. Ranking? Basic Information. Registering Points. Rewards. Chevron & Title List. None.
+7564 : Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
+7565 : Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
+7566 : After the registration period ends, players can compare their record with those of the previous nine matches.
+7567 : If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
+7568 : There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as two different types awarded for outstanding performances by players of each of the twenty-two jobs.
+7569 : Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
+7570 : Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
+7571 : However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
+7572 : Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
+7573 : View which chevron/title? 1st (overall). 2nd (overall). 3rd (overall). 4th-10th (overall). 1st (warrior). 1st (monk). 1st (white mage). 1st (black mage). 1st (red mage). 1st (thief). 1st (paladin). 1st (dark knight). 1st (beastmaster). 1st (bard). 1st (ranger). 1st (samurai). 1st (ninja). 1st (dragoon). 1st (summoner). 1st (blue mage). 1st (corsair). 1st (puppetmaster). 1st (dancer). 1st (scholar). 1st (geomancer). 1st (rune fencer). Return.
+7574 : Key Item: % Title: Gold Ballistar
+7575 : Key Item: % Title: Mythril Ballistar
+7576 : Key Item: % Title: Silver Ballistar
+7577 : Key Item: % Title: Bronze Ballistar
+7578 : Key Item: % Title: SearingStar
+7579 : Key Item: % Title: StrikingStar
+7580 : Key Item: % Title: SoothingStar
+7581 : Key Item: % Title: SableStar
+7582 : Key Item: % Title: ScarletStar
+7583 : Key Item: % Title: SonicStar
+7584 : Key Item: % Title: SaintlyStar
+7585 : Key Item: % Title: ShadowyStar
+7586 : Key Item: % Title: SavageStar
+7587 : Key Item: % Title: SingingStar
+7588 : Key Item: % Title: SnipingStar
+7589 : Key Item: % Title: SlicingStar
+7590 : Key Item: % Title: SneakingStar
+7591 : Key Item: % Title: SpearingStar
+7592 : Key Item: % Title: SummoningStar
+7593 : Key Item: % Title: SapphireStar
+7594 : Key Item: % Title: SurgingStar
+7595 : Key Item: % Title: SwayingStar
+7596 : Key Item: % Title: SprightlyStar
+7597 : Key Item: % Title: SagaciousStar
+7598 : Key Item: % Title: SpiritualStar
+7599 : Key Item: % Title: StipplingStar
+7600 : You use # Ballista [Point/Points]!
+7601 : You hand over the key item: %.
+7602 : Matches are only played on even days (Vana'diel time).
+7603 : Areas where Ballista matches will be held are: 2, 8, 14, 20, 26  -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
+7604 : Level restrictions are: 2, 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50 20, 22, 24 -> Lv. 60 26, 28, 30 -> None
+7605 : And finally, participation fees are: Lv. 30 matches: # gil Lv. 40 matches: # gil Lv. 50 matches: # gil Lv. 60 matches: # gil Unrestricted matches: # gil
+7606 : Participating nations are selected in the following manner...
+7607 : Matches for the 1st4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
+7608 : Matches for the 5th8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
+7609 : Matches for the 9th12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
+7610 : Learn about which match: View previous month. #/#/2  Lv.30  Jugner #/#/4  Lv.30  Pashhow #/#/6  Lv.30  Meriphataud #/#/8  Lv.40  Jugner #/#/10  Lv.40  Pashhow #/#/12  Lv.40  Meriphataud #/#/14  Lv.50  Jugner #/#/16  Lv.50  Pashhow #/#/18  Lv.50  Meriphataud #/#/20  Lv.60  Jugner #/#/22  Lv.60  Pashhow #/#/24  Lv.60  Meriphataud #/#/26  Lv.  Jugner #/#/28  Lv.  Pashhow #/#/30  Lv.  Meriphataud View next month. Quit.
+7611 : Learn about which match: View previous month. #/2/#  Lv.30  Jugner #/4/#  Lv.30  Pashhow #/6/#  Lv.30  Meriphataud #/8/#  Lv.40  Jugner #/10/#  Lv.40  Pashhow #/12/#  Lv.40  Meriphataud #/14/#  Lv.50  Jugner #/16/#  Lv.50  Pashhow #/18/#  Lv.50  Meriphataud #/20/#  Lv.60  Jugner #/22/#  Lv.60  Pashhow #/24/#  Lv.60  Meriphataud #/26/#  Lv.  Jugner #/28/#  Lv.  Pashhow #/30/#  Lv.  Meriphataud View next month. Quit.
+7612 : Learn about which match: View previous month. 2/#/#  Lv.30  Jugner 4/#/#  Lv.30  Pashhow 6/#/#  Lv.30  Meriphataud 8/#/#  Lv.40  Jugner 10/#/#  Lv.40  Pashhow 12/#/#  Lv.40  Meriphataud 14/#/#  Lv.50  Jugner 16/#/#  Lv.50  Pashhow 18/#/#  Lv.50  Meriphataud 20/#/#  Lv.60  Jugner 22/#/#  Lv.60  Pashhow 24/#/#  Lv.60  Meriphataud 26/#/#  Lv.  Jugner 28/#/#  Lv.  Pashhow 30/#/#  Lv.  Meriphataud View next month. Quit.
+7613 : Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: # gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
+7614 : Entry period begins: Vana'diel: # Earth: #
+7615 : Match begins: Vana'diel: # Earth: #
+7616 : Tallying conquest results...
+7617 : Conquest results tallied.
+7618 : This region is currently under San d'Orian control.
+7619 : This region is currently under Bastokan control.
+7620 : This region is currently under Windurstian control.
+7621 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7622 : This region is currently neutral.
+7623 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7624 : All three nations are tied for first place.
+7625 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7626 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7627 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7628 : All three nations are tied for first place.
+7629 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7630 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7631 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7632 : All three nations are tied for first place.
+7633 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7634 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7635 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7636 : All three nations are tied for first place.
+7637 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7638 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7639 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7640 : Global balance of power: All three nations are tied for first place.
+7641 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7642 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7643 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7644 : All three nations are tied for first place.
+7645 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7646 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7647 : Conquest update: This region is currently neutral.
+7648 : Conquest update: This region is currently under San d'Orian control.
+7649 : Conquest update: This region is currently under Bastokan control.
+7650 : Conquest update: This region is currently under Windurstian control.
+7651 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7652 : All three nations are at a deadlock.
+7653 : The beastmen are on the rise.
+7654 : Regional influence: San d'Oria - Dominant
+7655 : Regional influence: San d'Oria - Major
+7656 : Regional influence: San d'Oria - Minor
+7657 : Regional influence: San d'Oria - Minimal
+7658 : Bastok - Dominant
+7659 : Bastok - Major
+7660 : Bastok - Minor
+7661 : Bastok - Minimal
+7662 : Windurst - Dominant
+7663 : Windurst - Major
+7664 : Windurst - Minor
+7665 : Windurst - Minimal
+7666 : Bastok and Windurst have formed an alliance.
+7667 : San d'Oria and Windurst have formed an alliance.
+7668 : San d'Oria and Bastok have formed an alliance.
+7669 : Bastok and Windurst are currently allies.
+7670 : San d'Oria and Windurst are currently allies.
+7671 : San d'Oria and Bastok are currently allies.
+7672 : # #
+7673 : # % #
+7674 : ITEM_ID:# :#
+7675 : :# :#
+7676 : [//]:[////] :#:#
+7677 : The beastmen are gaining power.
+7678 : San d'Oria's regional control is now 10% closer to the first place country's!
+7679 : Bastok's regional control is now 10% closer to the first place country's!
+7680 : Windurst's regional control are now 10% closer to the first place country's!
+7681 : San d'Oria's region points have increased!
+7682 : Bastok's region points have increased!
+7683 : Windurst's region points have increased!
+7684 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7685 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7686 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7687 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7688 : A Bastokan Expeditionary Force has been dispatched to this area.
+7689 : A Windurstian Expeditionary Force has been dispatched to this area.
+7690 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7691 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7692 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7693 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7694 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7695 : There was a curse on the beastmen's banner!
+7696 : The curse of the beastmen's banner has been lifted!
+7697 : There is a beastmen's banner.
+7773 : # #
+7774 : # #
+7776 : Which will it be? % % % % % % No thanks.
+7777 : 60 50 40 30 20 10
+7778 : Welcome to Diorama Abdhaljs-Ghelsba!  I have been dispatched by the board of International Resolution through Non-lethal Conflict (IRNC) to preside as Herald over all upcoming events.
+7779 : However, unlike the matches held in the Jugner Forest, Pashhow Marshlands, and Meriphataud Mountains, I will not be in charge of the rules or proceedings. All final decisions regarding these issues shall be handled by the appointed Master of Ceremonies (MC).
+7780 : The participant list states that you are the MC of today's event.
+7781 : The MC presiding over today's event is %. % will shortly be giving orders on the proceedings of today's match.
+7782 : The MC has yet to arrive in the Diorama. Let us wait a little longer.
+7783 : The MC for today's event has failed to show. I am now accepting applications for a substitute.
+7784 : If you wish to apply for the position of MC, please show me % or %.
+7785 : [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended].
+7786 : The Wyverns have # [member/members] registered. The Griffons have #.
+7787 : The current score is: Wyverns (# [member/members]) -> # Griffons (# [member/members]) -> #
+7788 : The [/Wyverns are victorious!/Griffons are victorious!/match is a draw!] The final score is: Wyverns (# [member/members]) -> # Griffons (# [member/members]) -> #
+7789 : The victors have earned the right to proceed to the next match. Please wait for orders from the Master of Ceremonies.
+7790 : While I realize you must be disappointed with your defeat, you must not let it bring you down. Let your experience here today guide you to newer heights. I look forward to the day I can once again witness the noble fire in your eyes.
+7791 : You are[/ temporarily] registered as a member of the [Wyverns/Griffons].
+7792 : You have yet to register with either of the forces competing today.[/ If you wish to partake in the upcoming matches, present me with your proof of participation.]
+7793 : Remember, this area has been reserved until #.
+7794 : Today's match is scheduled to begin on # and finish on .
+7795 : On # to .
+7796 : You are recognized as the MC for today's [un/level 60-/level 50-/level 40-/level 30-/level 20-/level 10-]restricted match. I can now help you set the various Ballista rules.
+7797 : What would you like to do? Nothing. Use Ballista Royale rules. Set entry type ([free/open/auto/shuffle]). Set entry cancel ([not allowed/allowed]). Set mid-match entry ([none/OK]). Set level minimum ([none/10/20/30/40/50/60/75]). Set support job ([none/OK]). Set match location (Rook total=#). . . . . Set briefing time ([1 min/3 min/5 min]). Set match length ([10 min/15 min/20 min/30 min/45 min/1 Vana'diel day/60 min]). Set match style ([all or nothing/best of 3]). Next page.
+7798 : What would you like to do? Previous page. Set item usage ([none/OK]). Set temp. item capacity ([10/15/20]). Set temp. item selection ([none/OK]). Set temp. item distribution ([none/OK]). Set voucher exchange ([none/OK]). Set Petra selection ([none/OK]). Set quarry holes ([all full/some empty]). Set scoring limit ([1/2/3/4/5/10/15/none]). Set called game dif. ([none/10/20/30/40/50/60/70/80/90/100]). Clear entries. Reset to default settings. Finish & commence entry period. Quit.
+7799 : What would you like to do? Nothing. Start the match. Close entries & return to settings. Cancel own entry. Auto-balance temp. entries. Shuffle temp. entries. View setting menu.
+7800 : What would you like to do? Nothing. Stop match. Cancel match & return to entry. Cancel own entry. View settings menu.
+7801 : What would you like to do? Nothing. Prepare for the next match. View settings menu.
+7802 : This is a list of the current rules set by the presiding Master of Ceremonies. Please select the area you wish to view.
+7803 : View... Entry information. Level/job restrictions. Match location. Match length/type. Item restrictions. Petras & scoring. Return.
+7804 : I am now accepting applications for participation in today's match. The current entry type is [free/open/auto-balance/random shuffle].
+7805 : Please note that in the event both sides reach their maximum capacity, your application may not be accepted.
+7806 : Please note that depending on the number of players registered, you may not always be admitted to the side you choose.
+7807 : Please remember that this type of entry is only temporary. Your final team is subject to change at the discretion of the acting MC.
+7808 : Submit application? For either side. For the Wyverns. For the Griffons. No.
+7809 : Your[ / temporary ]application for entry into the [Wyverns/Griffons] has been accepted.
+7810 : You are already a[ / temporary ]member of the [Wyverns/Griffons].
+7811 : I am sorry. Your application for entry into the [Wyverns/Griffons] has been denied.
+7812 : I'm sorry. Would you please reconfirm the time inscribed on the bottom of your %?
+7813 : The [Wyverns/Griffons] are currently not accepting any more entries at this time.
+7814 : Someone with the same main job as you has already joined that side. I'm sorry, but the current rules do not allow multiple players with the same job to serve in the same forces.
+7815 : I am not accepting entries for either team at this time.
+7816 : Participant totals for both teams have reached the set limit. I'm sorry, but I cannot accept your application for entry.
+7817 : The minimum level requirement is currently set at #. I'm sorry, but your entry is denied.
+7818 : Your entry could not be processed. Would you speak with me once again?
+7819 : Request a discharge? Yes. No.
+7820 : By canceling your entry, you will not be allowed to return to the match.
+7821 : Are you sure you want a discharge? Yes! No, wait...
+7822 : You are no longer a member of the [Wyverns/Griffons].
+7823 : Your request for a discharge was denied.
+7824 : You cannot apply for entry with that %.
+7825 : I'm sorry. Your application has been denied. Would you please reconfirm the time inscribed on the bottom of your %?
+7826 : The MC has authorized the automatic balancing of all temporary entries.
+7827 : The MC has authorized the random shuffle of all temporary entries.
+7828 : Save all settings and begin the entry period?
+7829 : Save and commence? Yes. No.
+7830 : Setting match to follow Ballista Royale rules. Please note that several settings, such as the entry type and level restrictions, will not be affected.
+7831 : Set match to Ballista Royale rules? Yes. No.
+7832 : Please select the entry type: Free. Open. Auto-balance. Random shuffle. Information. Return.
+7833 : Free Players are allowed to select the team in which they wish to participate. However, if one side grows too large, further applications may be denied until the number of members on the other side has increased.
+7834 : Open Players can join the team of their choice only if the side they have chosen has the same or fewer members than the other. If the side chosen has more members, players will automatically be moved to the team with fewer.
+7835 : Auto-Balance After players have completed a temporary entry into one of the two sides, the MC can choose to redistribute the players (by main job) evenly among the teams.
+7836 : Random Shuffle After players have completed a temporary entry into one of the two sides, the MC can choose to randomly shuffle all players between the teams.
+7837 : Allow re-entry? No. Yes. Information. Return.
+7838 : If re-entry is not allowed, a player will not be able to reapply for match participation in the event he or she requests a discharge before or during a match.
+7839 : Allow mid-match entry? No. Yes. Information. Return.
+7840 : If mid-match entry is allowed, players not affiliated with either side may join one of the teams while the match is in progress.
+7841 : Set the minimum level restriction. None. 10. 20. 30. 40. 50. 60. 75. Information. Return.
+7842 : When a minimum level restriction is set, any player under that level will not be allowed to participate in the matches.
+7843 : Please note that the minimum level restriction must be equal to or lower than the maximum level restriction (set in Jeuno at the time of reservation).
+7844 : Set length of briefing period. 1 minute. 3 minutes. 5 minutes. Information. Return.
+7845 : The briefing period is the time set aside before a match to allow the two sides to talk over their battle strategies.
+7846 : Set the single match length. 10 minutes. 15 minutes. 20 minutes. 30 minutes. 45 minutes. 1 Vana'diel day. 60 minutes. Information. Return.
+7847 : One Vana'diel day is approximately 57 minutes and 36 seconds. A match will be cancelled in the event a party's Diorama access time expires before the match has completed.
+7848 : Select the match style: All or nothing. Best of three. Information. Return.
+7849 : The interval between best of three matches varies with the match length. Also, best of three matches are not allowed when the called game feature is in effect.
+7850 : Best of three matches are not allowed when the called game feature is in effect.
+7851 : Allow normal item use? No. Yes. Information. Return.
+7852 : When normal item use is not allowed, players will not be able to use items acquired before the match. (This does not include items such as arrows and projectiles.)
+7853 : Set temporary item capacity. 10. 15. 20. Information. Return.
+7854 : Sets the maximum number of temporary items (items found when quarrying) that can be stored in a player's inventory.
+7855 : Allow temporary item selection? No. Yes. Information. Return.
+7856 : By allowing temporary item selection, players will have the choice to keep or discard an item after quarrying it.
+7857 : When not allowed, temporary items will be automatically discarded when a player's inventory exceeds the maximum capacity set by the MC.
+7858 : Allow voucher exchange? No. Yes. Information. Return.
+7859 : When allowed, all vouchers a player carries at the beginning of the match will be exchanged for the corresponding temporary items.
+7860 : Distribute temporary items? No. Yes. Information. Return.
+7861 : When allowed, five random items will be distributed to all participants at the beginning of each match (or set of matches).
+7862 : Allow 1st Petra selection: No. Yes. Information. Return.
+7863 : When allowed, players will have the opportunity to throw away the first Petra that they find (in order to maintain use of the /sprint command).
+7864 : Fill all Petra holes? Yes. No. Information. Return.
+7865 : When all Petra holes are filled, players will always find either Petras or temporary items when quarrying.
+7866 : Set the one-time scoring limit. 1 Petra. 2 Petras. 3 Petras. 4 Petras. 5 Petras. 10 Petras. 15 Petras. No limit. Information. Return.
+7867 : This setting determines the number of Petras a player can score at one time (per Gate Breach).
+7868 : Allow support jobs? No. Yes. Information. Return.
+7869 : When not allowed, players' support jobs will be automatically removed at the start of a match.
+7870 : Set called game difference. None. 10 Petras. 20 Petras. 30 Petras. 40 Petras. 50 Petras. 60 Petras. 70 Petras. 80 Petras. 90 Petras. 100 Petras. Information. Return.
+7871 : When the called game function is turned on, a game will automatically come to an end when the lead of one team reaches the number set by the MC. This function can only be used when the match type is all or nothing.
+7872 : The called game function can only be used when the match type is all or nothing.
+7873 : Turn on sudden death mode? No. Yes. Return.
+7874 : Open the duel arena? No. Yes. Return.
+7875 : By clearing the entries, all players will be required to re-apply to participate in today's event.
+7876 : Clear all entries? Yes. No.
+7877 : All entries have been cleared by the MC. Please wait for further instructions regarding re-application.
+7878 : Reset all rules to the default settings?
+7879 : Proceed? Yes. No.
+7880 : The MC has reset all match rules to the default settings.
+7881 : The MC has cleared the results from the previous match.
+7882 : The MC is currently setting the rules for the next match.
+7883 : The Herald is now accepting applications for participation in the next match.
+7884 : The MC has given the order for the next match to begin. The opening ceremony will commence shortly.
+7885 : The MC has ordered the current match to come to a close.
+7886 : I'm sorry. Gallery member participation is not authorized.
+7887 : The MC has adjusted the position of the Herald. A Pursuivant will teleport you to the new location.
+7888 : By returning to the rule settings menu, the entry process will temporarily come to a close.
+7889 : Return to the rule settings menu? Yes. No.
+7890 : Auto-balance temporary entries? Yes. No.
+7891 : Randomly shuffle temporary entries? Yes. No.
+7892 : That request could not be performed. Not enough players have submitted entry applications.
+7893 : The entry period will now come to a close and the match briefing will begin. When the briefing period has concluded, the match will commence. Once you have confirmed that all those who wish to participate in today's event have completed the application process, you may give the signal to start the briefing.
+7894 : It seems that I have not received your application for entry yet. Were you going to participate in today's match?
+7895 : Your reservation of the Diorama will end before the projected conclusion of the scheduled match.
+7896 : Do you wish to start the match? Yes. No.
+7897 : The entry process has not been carried out properly. The match cannot commence.
+7898 : The level restriction has not been set properly. The match cannot commence.
+7899 : Conclude the current match and tally the final results? (Registration information will remain unchanged.)
+7900 : Conclude match? Yes. No.
+7901 : Cancel the match in progress and return to the entry process? (Match data will be lost, but registration information will remain unchanged.)
+7902 : Cancel match? Yes. No.
+7903 : Clear all data from the previous match and begin preparations for the next? (Registration information will remain unchanged.)
+7904 : Begin preparations for next match? Yes. No.
+7905 : The current area settings are as follows:
+7906 : What would you like to change? Herald location ([A/B/C/D/E]). Wyvern camp location ([A/B/C/D/E/F/G/H]). Griffon camp location ([A/B/C/D/E/F/G/H]). Rook A ([Off/On]). Rook B ([Off/On]). Rook C ([Off/On]). Rook D ([Off/On]). Default setting 1. Default setting 2. Default setting 3. Default setting 4. Return.
+7907 : Please choose a location from the following:
+7908 : Move the Herald to... A. B. C. D. Current position.
+7909 : Are you sure you want me to move to this location?
+7910 : Are you sure? Yes. No.
+7911 : Understood. Please have a Pursuivant teleport you to my new location.
+7912 : Move the Wyvern camp to... A. B. C. D. E. F. G. H. Current position.
+7913 : Move the Griffon camp to... A. B. C. D. E. F. G. H. Current position.
+7914 : Utilize Rook [A/B/C/D/E]? No. Yes. Return.
+7915 : You must utilize at least one rook per match.
+7916 : The camps have been placed according to the starting position of Rook [A/B/C/D].
+7917 : Does this meet with your approval? Yes. No.
+7918 : Entry Type: [Free/Open/Auto Balance/Random Shuffle] Entry Cancel: [Prohibited/Allowed] Mid-Match Entry: [Prohibited/Allowed]
+7919 : Level Restriction: [None/10/20/30/40/50/60] Minimum Level: [None/10/20/30/40/50/60/75] Support Jobs: [Prohibited/Allowed]
+7920 : The rooks will appear in random locations between the two camps, and this area will become the designated battle zone. If at any time all members of the leading forces leave the battle zone, all players on the opposing forces will automatically be granted Gate Breach status.
+7921 : Pre-Match Briefing: [1 min/3 min/5 min] Match Length: [10 min/15 min/20 min/30 min/45 min/1 Vana'diel day/60 min/] Match Type: [All or Nothing/Best of Three/]
+7922 : Normal Item Usage: [Prohibited/Allowed] T.Item Capacity: [10/15/20] Voucher Exchange: [Off/On] T.Item Distribution: [No/Yes]
+7923 : Petra Holes: [All full/Some Empty] Scoring Limit: [1/2/3/4/5/10/15/None] Called Game: [None/10-Petra Lead/20-Petra Lead/30-Petra Lead/40-Petra Lead/50-Petra Lead/60-Petra Lead/70-Petra Lead/80-Petra Lead/90-Petra Lead/100-Petra Lead]
+7924 : The Ballista Royale is underway! [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended].
+7925 : We have been waiting for you, %. Let us begin the entry application process.
+7926 : Your match will begin on # and end on .
+7927 : Join the [Wyverns/Griffons]? Right away. Not yet.
+7928 : I will now show you the settings and rules to be used during the tournament.
+7929 : Welcome to the Ballista Royale--a tournament of tournaments to determine the finest Ballistites in all Vana'diel!
+7930 : Match type is [ /All or Nothing/ /Best of Three] with single match length being set at [10 minutes/15 minutes/20 minutes/30 minutes/45 minutes/1 Vana'diel day (57 minutes and 36 seconds)/60 minutes/]. In addition, the use of normal items [is strictly prohibited/will be allowed]. Please speak with me again to review all other rules.
+7931 : The match will begin on # and end on . The Wyverns currently have # [member/members]. The Griffons have #.
+7932 : The results of the previous match have been tallied and... [The Wyverns are victorious!/The Griffons are victorious!/The match is a draw!] Wyverns: #  -  Griffons: #
+7933 : I hope you all had a wonderful time and look forward to seeing you again in the near future!
+7934 : The victors will now move on to the next round of the tournament. I wish you all the best of luck!
+7935 : Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Between Matches]
+7936 : Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Between Matches] Herald Location: [G-6/F-7/G-10/I-11] [/Now accepting applications for a substitute Master of Ceremonies]
+7937 : ***Ballista Royale*** Current Area Status: [ /Match Settings Underway/Accepting Entries/Briefing Period/Match in Progress/Match Cancelled/Inbetween Matches] Herald Location: [G-6/F-7/G-10/I-11]
+7938 : Diorama access will end shortly.
+7939 : You have entered the battle zone.
+7940 : You have left the battle zone. If all members of the leading forces leave the battle zone, the opposing team will automatically be granted Gate Breach status.
+7941 : [ /Currently, match rules are being set/Currently, I am accepting match entries/Currently, we are in the briefing period for the next match/Currently, a match is in progress/The next match has been cancelled due to a lack of participants/Currently, a match has just ended]. The Herald can be found at [G-6/F-7/G-10/I-11].
+7942 : What can I do for you? Teleport to the Herald. Teleport back to Jeuno. Nothing at this time.
+7943 : Understood. I will have you there right away.
+7944 : Are you sure? Yes. No.
+7945 : Understood. Please hold on to your [wallet/purse].

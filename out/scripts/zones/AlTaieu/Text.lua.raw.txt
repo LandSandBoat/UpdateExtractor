@@ -7051,458 +7051,461 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : You can't fish here.
-7062 : You can't fish without a rod in your hands.
-7063 : You can't fish without bait on the hook.
-7064 : You can't fish at the moment.
-7065 : You didn't catch anything.
-7066 : % caught a monster!
-7067 : Your line breaks.
-7068 : Your rod breaks.
-7069 : Something caught the hook!
-7070 : You lost your catch.
-7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7072 : You feel there's something here.
-7073 : You feel there's something nearby.
-7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7075 : % caught  %!
-7076 : You dig and you dig, but find nothing.
-7077 : #/%
-7078 : Your rod breaks. Whatever caught the hook was pretty big.
-7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7081 : You lost your catch due to your lack of skill.
-7082 : Number fished : # Original Dice No. ## Result # (0=caught)
-7083 : You didn't catch anything.
-7084 : The paper on your % ripped.
-7085 : A tiny goldfish approaches!
-7086 : A plump, black goldfish approaches!
-7087 : A fat, juicy goldfish approaches!
-7088 : There are no goldfish to be found...
-7089 : % caught %, but cannot carry any more items. % regretfully releases it.
-7090 : The goldfish slipped off your scoop...
-7091 : ch# skill up check.
-7092 : a:#.
-7093 : Time # / Status # / #
-7094 : d:#. e:#. f:#. g:#.
-7095 : h: #. i: #. sr: #.
-7096 : j:#. k:#.
-7097 : You give up and reel in your line.
-7098 : You give up.
-7099 : % obtains # gil.
-7100 : % caught %!
-7101 : You don't know how much longer you can keep this one on the line...
-7102 : You have a good feeling about this one!
-7103 : You have a bad feeling about this one.
-7104 : You have a terrible feeling about this one...
-7105 : You don't know if you have enough skill to reel this one in.
-7106 : You're fairly sure you don't have enough skill to reel this one in.
-7107 : You're positive you don't have enough skill to reel this one in!
-7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7110 : l: #. m: #. n: #. CH: #.
-7111 : Something caught the hook!!!
-7112 : You feel something pulling at your line.
-7113 : Something clamps onto your line ferociously!
-7114 : Your keen angler's senses tell you that this is the pull of %!
-7115 : This strength... You get the sense that you are on the verge of an epic catch!
-7116 : The timer has started. # seconds remaining.
-7117 : #sec.#/#sec.
-7118 : 0:# 1:# 2:# 3:#
-7119 : 4:# 5:# 6:# 7:#
-7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7122 : #/#(#
-7123 : Version invalid error!
-7124 : Hurry before the goldfish sees you!
-7125 : % fishes up a large box!
-7127 : Fish No# / Bait No# / Hit# >>> #
-7128 : Point# >>> #
-7129 : %(#) skill#
-7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7131 : Im Rnd : # Pz Rnd : #
-7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7134 : skill : # size : # kind : # sch : #
-7135 : time : # mes : # flag : # bonus : #
-7136 : item : # hp : # pow : # swing : #
-7137 : suc : # cons : # weight : # +- : #
-7138 : speed : # +- : # exc : # client : #
-7139 : general : #
-7140 : ro:# rs:# ps:# dt:#
-7141 : ra:# ti:#
-7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7143 : You get the distinct sense that your moogle friend frequents this spot...
-7144 : You have a feeling that your moogle friend has been through this way...
-7145 : You suspect that the scenery around here would be to a moogle's liking...
-7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7147 : You have a hunch that this area would be favored by moogles...
-7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7149 : % catches # %!
-7150 : % obtained %!
-7151 : It appears your chocobo found this item with ease.
-7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7153 : FPT # DPT # DoT#
-7154 : FPT # TDPT # h#
-7155 : You cannot fish at this time.
-7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7157 : You discover a cache of beastman resources and receive # Imperial Standing!
-7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7159 : You receive # bayld!
-7160 : Your chocobo refuses to partake of the %.
-7161 : Tallying conquest results...
-7162 : Conquest results tallied.
-7163 : This region is currently under San d'Orian control.
-7164 : This region is currently under Bastokan control.
-7165 : This region is currently under Windurstian control.
-7166 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7167 : This region is currently neutral.
-7168 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7169 : All three nations are tied for first place.
-7170 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7173 : All three nations are tied for first place.
-7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7177 : All three nations are tied for first place.
-7178 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7180 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7181 : All three nations are tied for first place.
-7182 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7183 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7185 : Global balance of power: All three nations are tied for first place.
-7186 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7188 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7189 : All three nations are tied for first place.
-7190 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7191 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7192 : Conquest update: This region is currently neutral.
-7193 : Conquest update: This region is currently under San d'Orian control.
-7194 : Conquest update: This region is currently under Bastokan control.
-7195 : Conquest update: This region is currently under Windurstian control.
-7196 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7197 : All three nations are at a deadlock.
-7198 : The beastmen are on the rise.
-7199 : Regional influence: San d'Oria - Dominant
-7200 : Regional influence: San d'Oria - Major
-7201 : Regional influence: San d'Oria - Minor
-7202 : Regional influence: San d'Oria - Minimal
-7203 : Bastok - Dominant
-7204 : Bastok - Major
-7205 : Bastok - Minor
-7206 : Bastok - Minimal
-7207 : Windurst - Dominant
-7208 : Windurst - Major
-7209 : Windurst - Minor
-7210 : Windurst - Minimal
-7211 : Bastok and Windurst have formed an alliance.
-7212 : San d'Oria and Windurst have formed an alliance.
-7213 : San d'Oria and Bastok have formed an alliance.
-7214 : Bastok and Windurst are currently allies.
-7215 : San d'Oria and Windurst are currently allies.
-7216 : San d'Oria and Bastok are currently allies.
-7217 : # #
-7218 : # % #
-7219 : ITEM_ID:# :#
-7220 : :# :#
-7221 : [//]:[////] :#:#
-7222 : The beastmen are gaining power.
-7223 : San d'Oria's regional control is now 10% closer to the first place country's!
-7224 : Bastok's regional control is now 10% closer to the first place country's!
-7225 : Windurst's regional control are now 10% closer to the first place country's!
-7226 : San d'Oria's region points have increased!
-7227 : Bastok's region points have increased!
-7228 : Windurst's region points have increased!
-7229 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7230 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7231 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7232 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7233 : A Bastokan Expeditionary Force has been dispatched to this area.
-7234 : A Windurstian Expeditionary Force has been dispatched to this area.
-7235 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7236 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7237 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7238 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7239 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7240 : There was a curse on the beastmen's banner!
-7241 : The curse of the beastmen's banner has been lifted!
-7242 : There is a beastmen's banner.
-7318 : # #
-7319 : # #
-7320 : Pass through the gate? Yes. No.
-7321 : Enter the bottomless void? Yes. No.
-7322 : Return to the Sealion's Den? Yes. No.
-7323 : Return to the palace entrance? Yes. No.
-7324 : Return to the Crag of Holla? Yes. No.
-7325 : Return to the Crag of Dem? Yes. No.
-7326 : Return to the Crag of Mea? Yes. No.
-7327 : What happened...?
-7328 : This place...!
-7329 : This is...the...fifth...?
-7330 : But why does only this crystal glow with such a strange incandescence...?
-7331 : The air here is so chilly. The other crystals exuded such a sense of warmth and peace...
-7332 : (This crystal is not a part of Vana'diel.)
-7333 : (This crystal was submerged beneath the city of Al'Taieu ten thousand years ago.)
-7334 : (When the celestial capital was torn from our world, the crystal was also lost.)
-7335 : (But it was not a complete separation.)
-7336 : (After the Crystal Line was reactivated, energy was siphoned from the fifth mothercrystal...)
-7337 : (Drawing it and the city of Al'Taieu back to Vana'diel.)
-7338 : In other words, the crystal was losing the power it needed to sustain Al'Taieu in the other dimension.
-7339 : Sustain Al'Taieu?
-7340 : This is the crystal that the Wyrmking spoke of?
-7341 : Yep. The weakened state of this overgrown quartz is the reason that the Keeper of the Apocalypse is threatening to descend upon Vana'diel.
-7342 : So if...the power...of the crystal...is restored...!
-7343 : The return of Al'Taieu and the arrival of the keeper will be prevented.
-7344 : This solution was discovered by the boy Selh'teus--and by Phoenix, the fiery bird of rebirth.
-7345 : That is why he has visited each of the remaining crystals in turn: To relieve them of their light and power...
-7346 : And to pour that energy into the crystal that lies before us.
-7347 : (However, I am a child of darkness. I could never be the bearer of light.)
-7348 : (I needed a worthy receptacle for that power. I needed you.)
-7349 : I'm sure you've noticed it by now, %. Your ability to hear the whisper of the soul...
-7350 : Passed through the medium of the amulet, the light gathered from the four crystals has changed you.
-7351 : Phoenix referred to you as the Vessel of Light.
-7352 : Fated to be smashed open before the fifth mothercrystal...
-7353 : !?
-7354 : (Your journey has been for the sake of the crystal.)
-7355 : (Your adventure is now at an end.)
-7356 : (Return, %. Return to the light of the crystal.)
-7357 : (Your death is the only way to save both Vana'diel and her people...)
-7358 : Like hell!
-7359 : Selh'teus! If you mean to save both the world and everyone in it, then someone inhuman like you or me should be sacrificed!
-7360 : And you, Tenzen! Phoenix, the avatar of rebirth, can't have led you this far just to snuff out %'s life!
-7361 : Surely she meant to resurrect the shattered pieces of %'s spirit using her own lifeforce!
-7362 : I was the Keeper of the Apocalypse once. I know only too well the fear and horror that await us.
-7363 : But you gotta listen to me, Selh'teus! Pour the energy of the fifth mothercrystal into %!
-7364 : [His/Her] victories against the Emptiness and everything else we've faced have not been won through the power of the four crystals alone.
-7365 : % has an inner strength. A spirit that loves this world and those who dwell upon it.
-7366 : That's why I believe [he/she] will prevail against the keeper!
-7367 : Selh'teus! Open the way to Al'Taieu!
-7368 : I, too, wish for the way to be opened.
-7369 : Nag'molada!?
-7370 : Didn't you once say the same thing, Selh'teus?
-7371 : I will prevail against the deity that dwells beyond the Gate of the Gods. Open the way to Al'Taieu. Weren't those the words you used?
-7372 : Do you not find it unfair that only [she/he] should bear the sins of people?
-7373 : We ancients are all responsible for these events. I shall shoulder my part of the burden.
-7374 : And the power that comes with it...
-7375 : Nag'molada! No...!
-7376 : I...don't know... I don't know anything...
-7377 : This is Al'Taieu. The celestial capital overflowing with the blessings of Altana.
-7378 : I am pleased to meet you. How unusual. I find it difficult to hear your soul's whisper.
-7379 : I say! We have a visitor. You must forgive me; it's been so long since we've had occasion to entertain.
-7380 : My master is currently sequestered within the palace for prayers.
-7381 : My master does not return, but I am unconcerned. I know that he is unharmed.
-7382 : The structure you see before you is the Grand Palace of Hu'Xzoi. It was constructed by the Zilartian royal family to safely house the mothercrystal.
-7383 : I... What was I doing? I am sure I was doing something...
-7384 : Please be at ease. The Grand Palace of Hu'Xzoi is protected by the celestial defense mechanism.
-7385 : The timely activation of the celestial defense mechanism was responsible for saving the city from an attack by Bahamut.
-7386 : The tower you see in the distance is the control center for the city's defenses. The sole function of the tower is the protection of Al'Taieu.
-7387 : Please be on your guard. Unusual creatures roam through the celestial capital, on the hunt for biological entities.
-7388 : Even if the scenery is altered, the images we see remain the same. Nothing has changed here for thousands of years.
-7389 : Time is a hazy concept in this place. I wonder how long we have resided here.
-7390 : Many lifetimes have passed here in Al'Taieu. What now appears to be an empty city was once a beautiful garden.
-7391 : We are unable to enter the Grand Palace of Hu'Xzoi. Beings of our nature are not permitted inside.
-7392 : You wish to open the gate to the Grand Palace of Hu'Xzoi? Then you must first visit the outer towers.
-7393 : You seem to be of a race unlike that of my master. I am unable to place your origin.
-7394 : You seem to harbor barbaric tendencies. I suggest you visit a physician at your earliest convenience.
-7395 : Is this red luminance the light of the mothercrystal? Has a fissure erupted in the energy conduit below?
-7396 : I stand in defense of this land until the day my master returns. I hope that day will come before my self-awareness fades.
-7397 : You seem unfamiliar with the city of Al'Taieu. Perhaps this may assist you in your travels.
-7398 : It all began with a stone...
-7399 : In ages past, the five crystals existed as one enormous jewel that bathed the world in holy light.
-7400 : This mystical light banished the Emptiness and brought forth mighty gods...
-7401 : These gods cultivated their power and concentrated their energies.
-7402 : They created a balance between the eight elements of the world without, and a harmony for the myriad senses of the world within.
-7403 : And so, an eternal paradise blessed in all ways was born...
-7404 : But this paradise did not last forever.
-7405 : The enormous jewel was split into five parts, and this perfect realm degraded into an incomplete world...
-7406 : We were reduced from the superior life forms of a higher plane into these flawed and insignificant forms.
-7407 : Thus, we must gather and focus the energy of the crystals into opening a gate to that lost dimension.
-7408 : We are both well aware of this predicament.
-7409 : And yet, there is one thing I simply cannot understand:
-7410 : How did this tragedy occur in the first place?
-7411 : Why was the original stone shattered into five parts? Who is responsible for this incomprehensible act?
-7412 : The people of this world have evolved into five unique species, each harboring a distinctive darkness.
-7413 : Crystal warriors. Thou wert created to destroy those evils.
-7414 : Yet even thy strength canst not prevail against this darkness.
-7415 : Emptiness. 'Tis the ever-present shadow of blessed light.
-7416 : If this phenomenon represents complete death, then one could argue its presence was inevitable in a complete world.
-7417 : Thus thou split the crystal for thy children's sake...
-7418 : Is this not so, Great Goddess Altana...?
-7419 : Incredible...
-7420 : Al'Taieu... You were meant to be impossible to find...
-7421 : Ahahaha! Who would have thought the plan to open the Gate of the Gods would succeed?
-7422 : Al'Taieu! Long have I yearned to behold your magnificent spires!
-7423 : Why...? Why can't I hear the voices?
-7424 : Why do I not hear the whispers of the Zilartian people or the Dawn Maiden?
-7425 : Silence!
-7426 : Your unruly thoughts are clouding my mind!
-7427 : !?
-7428 : So, the rest of you were drawn into this world as well. How inconvenient...
-7429 : A visit to the Grand Palace of Hu'Xzoi should bring some interesting encounters. Perhaps the Dawn Maiden is there...
-7430 : %!
-7431 : You were brought to this peculiar realm as well?
-7432 : Are you injured? You have been treated terribly...
-7433 : I hear a voice calling to me...
-7434 : It seems...to be coming...from beyond...the gate...
-7435 : The portal appears to be locked. If we are to believe the talk of those beings, this path leads to the palace of the Zilartian king.
-7436 : One of the inhabitants here spoke of a girl matching Prishe's description heading this way. If we can gain an audience with the king, we should learn exactly what's going on here.
-7437 : !? This place lies beyond the Gate of the Gods? Did the ancients truly cross that legendary border!?
-7438 : Let us not be so hasty in our assumptions. This is indeed a beautiful land...
-7439 : However, I cannot believe this is the Paradise of peace and love spoken of in legend. We have already been set upon by vicious beasts.
-7440 : And if what Bahamut says is true, the Keeper of the Apocalypse lurks somewhere in this rrrealm.
-7441 : If Prishe was so intent on gaining entry to the palace, then the keeper will most likely be found inside...
-7442 : Nag'molada...has also...entered the...palace... We have...no choice...but...to proceed...
-7443 : This...gate...must have...an opening...mechanism... We...should...look around...
-7444 : Only...
-7445 : I worry that the Keeper of the Apocalypse will be beyond our ability.
-7446 : What...do you mean...?
-7447 : %. The four sources of light you acquired...
-7448 : Were they not all taken from you by that blackheart, Nag'molada?
-7449 : Was the light taken from you? Yes, it is gone. No, the light remains.
-7450 : Are you certain? I feel that the light has not abandoned us.
-7451 : If we all stand together in body and spirit, there may still be a chance...
-7452 : You mean to say that the light has not left us completely?
-7453 : Then if we all stand together in body and spirit, perhaps there is a way...
-7454 : I have...no intention...of joining forces...with Nag'molada...
-7455 : And I would prefer to keep some distance from Lord Tenzen. Do you not agree, [Sir/Lady] %?
-7456 : ...
-7457 : First we have to find a way to open this gate. Let's get moving.
-7458 : An impervious field of energy blocks your path...
-7459 : You! Have you come to punish us!?
-7460 : Mete out some punishment? Time for payback... Let's be civilized...
-7461 : H-h-hold on a second! Time out! Time out!
-7462 : It's not our fault! Lord Tenzen lied to us!
-7463 : And if you don't follow your samurai master's orders, you have to commit ritual suicide. It's true! I read it in a book somewhere!
-7464 : So...
-7465 : I suppose you want to get into the palace, huh?
-7466 : Well, we want to get in there, too. This voice in my head is driving me crazy!
-7467 : Let's let bygones be bygones and work together, okay? We've ditched the samurai life, anyway.
-7468 : Getting past that gate is more complicated than just releasing the lock on this [southern/eastern/western] tower.
-7469 : If you really want to know how to open the gate, you better take a look at the other towers as well.
-7470 : Well done!
-7471 : Makki told me all about our deal! You wanna get in to see the king, right?
-7472 : Just so's you know, the positions of princes and princess have already been filled!
-7473 : Didn't you know? The Zilartian king used to have two sons and a daughter.
-7474 : They've been out of the picture for ten thousand years now, so he must be feeling pretty lonely.
-7475 : After all that time, he's probably a few jewels short of a crown, too, if you know what I mean. I doubt the king'll notice if we're a little shorter than he remembers.
-7476 : We might even take you on as a servant if you're lucky! C'mon, time's a wastin'! Off to the [southern/eastern/western] tower!
-7477 : Mind your manners around the future princess!
-7478 : I thought minced Tarutaru was back on the menu for a second there...
-7479 : You have our royal gratitude.
-7480 : Prince Kukki has informed me of the situation, and I commend you on your wise decision.
-7481 : We shall be sure to put in a good word for you with His Majesty.
-7482 : I have my brothers on standby. Once I give the word, we'll hit all the buttons at the same time!
-7483 : Did we do it!?
-7484 : Is it open!?
-7485 : I think it opened!
-7486 : Here we come, Royal Daddy!
-7487 : There is nothing of interest here.
-7488 : An ominous shadow falls over you...
-7489 : Press a button to continue.
-7490 : There is nothing out of the ordinary here.
-7491 : You can hear a strange voice... Items, items, la la la la la
-7492 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7493 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7494 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7495 : Now, listen close...
-7496 : Oh... Well, if that's the case, I'm outta here.
-7497 : The Goblin slipped away when you were not looking...
-7498 : You can hear a strange, raspy voice...
-7499 : I travel......hear lots... Hear...stories... Can tell...if...
-7500 : .........listen......
-7501 : Oh...... ...outta here.........
-7502 : Do you want to hear a story? No, thank you. Let's hear one.
-7503 : What story would you like to be told? On second thought, maybe later. The Warrior's Path(pt.1). The Warrior's Path(pt.2). Garden of Antiquity(pt.1). Garden of Antiquity(pt.2). Garden of Antiquity(pt.3). Garden of Antiquity(pt.4). Garden of Antiquity(pt.5). Dawn(pt.1). Dawn(pt.2). Dawn(pt.3).
-7504 : Dummy
-7505 : Dummy
-7506 : Dummy
-7509 : The % held by % has shattered...
-7510 : The % was stolen by Nag'molada...
-7511 : You obtain the %, only to have it stolen by Nag'molada...
-7512 : Hey, did you guys see where Promathia went!?
-7513 : All have become one...
-7514 : My master, his lady, their friends, everyone...
-7515 : All have coalesced into a single deity...
-7516 : There! I can see him!
-7517 : Canst thou hear me, Goddess? Thou who hast sheltered my very existence.
-7518 : I will be reborn. It is time to surrender to thine abhorred death, to the embrace of perpetual darkness.
-7519 : An eternity of silence awaits.
-7520 : Our farewell this time shall be forever.
-7521 : The Goddess...is crying?
-7522 : The apocalypse is at hand!
-7523 : Wait! Take us with you!
-7524 : Take us with you to Vana'diel!
-7525 : What was that!? The dusty old divinity is headed for Vana'diel!?
-7526 : That's right!
-7527 : The great Promathia realized why his children have not come to greet him!
-7528 : He's gonna break the fifth mothercrystal and bring this entire city crashing down on the world!
-7529 : They are calling you! Your children are calling you home!
-7530 : Dammit... This is because of Nag'molada.
-7531 : When Naggy was absorbed, all of his knowledge poured straight into the mind of the Twilight God!
-7532 : %, I'm gonna need the amulet back.
-7533 : We gotta go! He's in the lowest level of the palace!
-7534 : C'mon, %! It's time to put the hurt on the Twilight God!
-7535 : You return the % to Prishe.
-7536 : Nothing happens.
-7537 : A distant voice emanates from the depths of your soul.
-7538 : Knoweth...thou?
-7539 : Firs...irtue...
-7540 : Deed...tranqu...ser...ity...
-7541 : ...receptac...from phua...
-7542 : ...I...cannot...deciph...them...
-7543 : A distant voice emanates from the depths of your soul.
-7544 : Desssireth...thou?
-7545 : Ssseco...irtue...
-7546 : Deed...ressstraint...willpo...er...
-7547 : ...from...fallen...Xzom...
-7548 : ...cannot...derssstand...them...
-7549 : A distant voice emanates from the depths of your soul.
-7550 : Seeketh...thou?
-7551 : Thir...irtue...
-7552 : Deed...rationa...
-7553 : ...receptac...from Hpem...
-7554 : ...cannot...omprehend...them...
-7555 : A distant voice emanates from the depths of your soul.
-7556 : Now...I...know...
-7557 : Fourt...irtue...
-7558 : Fif...irtue...
-7559 : Sssix...irtue...
-7560 : I...desssire...
-7561 : At lassst the time has come...
-7562 : The ssscattered fragments of my thoughtsss once again mine. Long forgotten memoriesss filling me once more...
-7563 : However...these memories generate sssuffering... These thoughtsss...bring remorssse...
-7564 : Tell me...for what sssearcheth thou, to travel this far? Show me...by what principlesss art thou driven?
-7565 : By thy principlesss...I have been freed from the chainsss placed upon me since time immemorial.
-7566 : Thy path...extends to the far reaches of time and ssspace... But sssomeday...thou shalt reach...thy destin......
-7567 : Absolute Virtue uses Hundred Fists.
-7568 : Absolute Virtue uses Mijin Gakure.
-7571 : DEATH
-7572 : The monster fades before your eyes, a look of disappointment on its face.
-7573 : Something is buried beneath the surface...
-7574 : You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
-7575 : Set this as current home point? Yes. No.
-7576 : Home point set!
-7577 : A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
-7578 : What will you do? Travel to another home point. Set this as your home point. Other settings. On second thought, never mind.
-7579 : You have registered a new home point! You are now able to teleport here from any other home point.
-7580 : You may teleport from here to any other home point you have registered.
-7581 : Teleport where? Never mind. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7582 : Teleport where?% Nowhere. Home Point #1[/ (M)/ (A)/ (E)]. Home Point #2[/ (M)/ (A)/ (E)]. Home Point #3[/ (M)/ (A)/ (E)]. Home Point #4[/ (M)/ (A)/ (E)]. Home Point #5[/ (M)/ (A)/ (E)].
-7583 : You have not yet registered any other home points, and thus are unable to teleport.
-7584 : It costs # gil to teleport to Home Point ## in %.
-7585 : There is no fee for teleporting to Home Point ## in %.
-7586 : Teleport? (Current gil: #) [Add to favorites/Remove from favorites]. Yes, please. No, thank you.
-7587 : Teleport to which region? On second thought, none. Select from favorites. Current region. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
-7588 : Teleport where? None of these. A favorited location. An original area. A Rise of the Zilart area. A Chains of Promathia area. A Treasures of Aht Urhgan area. A Wings of the Goddess area. A Seekers of Adoulin area.
-7589 : You may change the method of selecting the area of your desired home point to teleport to.
-7590 : Which setting would you like? My current setting. Select by region. Select by expansion.
-7591 : You are now selecting by [region/expansion].
-7592 : Teleport where? None of these. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. [Add to favorites/Remove from favorites].
-7593 : Home Point ## in % has been [registered to/removed from] your list of favorite locations.
-7594 : Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
-7595 : Delete which? None of these. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##.
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : You can't fish here.
+7065 : You can't fish without a rod in your hands.
+7066 : You can't fish without bait on the hook.
+7067 : You can't fish at the moment.
+7068 : You didn't catch anything.
+7069 : % caught a monster!
+7070 : Your line breaks.
+7071 : Your rod breaks.
+7072 : Something caught the hook!
+7073 : You lost your catch.
+7074 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7075 : You feel there's something here.
+7076 : You feel there's something nearby.
+7077 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7078 : % caught  %!
+7079 : You dig and you dig, but find nothing.
+7080 : #/%
+7081 : Your rod breaks. Whatever caught the hook was pretty big.
+7082 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7083 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7084 : You lost your catch due to your lack of skill.
+7085 : Number fished : # Original Dice No. ## Result # (0=caught)
+7086 : You didn't catch anything.
+7087 : The paper on your % ripped.
+7088 : A tiny goldfish approaches!
+7089 : A plump, black goldfish approaches!
+7090 : A fat, juicy goldfish approaches!
+7091 : There are no goldfish to be found...
+7092 : % caught %, but cannot carry any more items. % regretfully releases it.
+7093 : The goldfish slipped off your scoop...
+7094 : ch# skill up check.
+7095 : a:#.
+7096 : Time # / Status # / #
+7097 : d:#. e:#. f:#. g:#.
+7098 : h: #. i: #. sr: #.
+7099 : j:#. k:#.
+7100 : You give up and reel in your line.
+7101 : You give up.
+7102 : % obtains # gil.
+7103 : % caught %!
+7104 : You don't know how much longer you can keep this one on the line...
+7105 : You have a good feeling about this one!
+7106 : You have a bad feeling about this one.
+7107 : You have a terrible feeling about this one...
+7108 : You don't know if you have enough skill to reel this one in.
+7109 : You're fairly sure you don't have enough skill to reel this one in.
+7110 : You're positive you don't have enough skill to reel this one in!
+7111 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7112 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7113 : l: #. m: #. n: #. CH: #.
+7114 : Something caught the hook!!!
+7115 : You feel something pulling at your line.
+7116 : Something clamps onto your line ferociously!
+7117 : Your keen angler's senses tell you that this is the pull of %!
+7118 : This strength... You get the sense that you are on the verge of an epic catch!
+7119 : The timer has started. # seconds remaining.
+7120 : #sec.#/#sec.
+7121 : 0:# 1:# 2:# 3:#
+7122 : 4:# 5:# 6:# 7:#
+7123 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7124 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7125 : #/#(#
+7126 : Version invalid error!
+7127 : Hurry before the goldfish sees you!
+7128 : % fishes up a large box!
+7130 : Fish No# / Bait No# / Hit# >>> #
+7131 : Point# >>> #
+7132 : %(#) skill#
+7133 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7134 : Im Rnd : # Pz Rnd : #
+7135 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7136 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7137 : skill : # size : # kind : # sch : #
+7138 : time : # mes : # flag : # bonus : #
+7139 : item : # hp : # pow : # swing : #
+7140 : suc : # cons : # weight : # +- : #
+7141 : speed : # +- : # exc : # client : #
+7142 : general : #
+7143 : ro:# rs:# ps:# dt:#
+7144 : ra:# ti:#
+7145 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7146 : You get the distinct sense that your moogle friend frequents this spot...
+7147 : You have a feeling that your moogle friend has been through this way...
+7148 : You suspect that the scenery around here would be to a moogle's liking...
+7149 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7150 : You have a hunch that this area would be favored by moogles...
+7151 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7152 : % catches # %!
+7153 : % obtained %!
+7154 : It appears your chocobo found this item with ease.
+7155 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7156 : FPT # DPT # DoT#
+7157 : FPT # TDPT # h#
+7158 : You cannot fish at this time.
+7159 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7160 : You discover a cache of beastman resources and receive # Imperial Standing!
+7161 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7162 : You receive # bayld!
+7163 : Your chocobo refuses to partake of the %.
+7164 : Tallying conquest results...
+7165 : Conquest results tallied.
+7166 : This region is currently under San d'Orian control.
+7167 : This region is currently under Bastokan control.
+7168 : This region is currently under Windurstian control.
+7169 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7170 : This region is currently neutral.
+7171 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7172 : All three nations are tied for first place.
+7173 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7174 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7176 : All three nations are tied for first place.
+7177 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7178 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7180 : All three nations are tied for first place.
+7181 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7182 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7183 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7184 : All three nations are tied for first place.
+7185 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7186 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7188 : Global balance of power: All three nations are tied for first place.
+7189 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7190 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7191 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7192 : All three nations are tied for first place.
+7193 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7194 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7195 : Conquest update: This region is currently neutral.
+7196 : Conquest update: This region is currently under San d'Orian control.
+7197 : Conquest update: This region is currently under Bastokan control.
+7198 : Conquest update: This region is currently under Windurstian control.
+7199 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7200 : All three nations are at a deadlock.
+7201 : The beastmen are on the rise.
+7202 : Regional influence: San d'Oria - Dominant
+7203 : Regional influence: San d'Oria - Major
+7204 : Regional influence: San d'Oria - Minor
+7205 : Regional influence: San d'Oria - Minimal
+7206 : Bastok - Dominant
+7207 : Bastok - Major
+7208 : Bastok - Minor
+7209 : Bastok - Minimal
+7210 : Windurst - Dominant
+7211 : Windurst - Major
+7212 : Windurst - Minor
+7213 : Windurst - Minimal
+7214 : Bastok and Windurst have formed an alliance.
+7215 : San d'Oria and Windurst have formed an alliance.
+7216 : San d'Oria and Bastok have formed an alliance.
+7217 : Bastok and Windurst are currently allies.
+7218 : San d'Oria and Windurst are currently allies.
+7219 : San d'Oria and Bastok are currently allies.
+7220 : # #
+7221 : # % #
+7222 : ITEM_ID:# :#
+7223 : :# :#
+7224 : [//]:[////] :#:#
+7225 : The beastmen are gaining power.
+7226 : San d'Oria's regional control is now 10% closer to the first place country's!
+7227 : Bastok's regional control is now 10% closer to the first place country's!
+7228 : Windurst's regional control are now 10% closer to the first place country's!
+7229 : San d'Oria's region points have increased!
+7230 : Bastok's region points have increased!
+7231 : Windurst's region points have increased!
+7232 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7233 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7234 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7235 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7236 : A Bastokan Expeditionary Force has been dispatched to this area.
+7237 : A Windurstian Expeditionary Force has been dispatched to this area.
+7238 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7239 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7240 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7241 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7242 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7243 : There was a curse on the beastmen's banner!
+7244 : The curse of the beastmen's banner has been lifted!
+7245 : There is a beastmen's banner.
+7321 : # #
+7322 : # #
+7323 : Pass through the gate? Yes. No.
+7324 : Enter the bottomless void? Yes. No.
+7325 : Return to the Sealion's Den? Yes. No.
+7326 : Return to the palace entrance? Yes. No.
+7327 : Return to the Crag of Holla? Yes. No.
+7328 : Return to the Crag of Dem? Yes. No.
+7329 : Return to the Crag of Mea? Yes. No.
+7330 : What happened...?
+7331 : This place...!
+7332 : This is...the...fifth...?
+7333 : But why does only this crystal glow with such a strange incandescence...?
+7334 : The air here is so chilly. The other crystals exuded such a sense of warmth and peace...
+7335 : (This crystal is not a part of Vana'diel.)
+7336 : (This crystal was submerged beneath the city of Al'Taieu ten thousand years ago.)
+7337 : (When the celestial capital was torn from our world, the crystal was also lost.)
+7338 : (But it was not a complete separation.)
+7339 : (After the Crystal Line was reactivated, energy was siphoned from the fifth mothercrystal...)
+7340 : (Drawing it and the city of Al'Taieu back to Vana'diel.)
+7341 : In other words, the crystal was losing the power it needed to sustain Al'Taieu in the other dimension.
+7342 : Sustain Al'Taieu?
+7343 : This is the crystal that the Wyrmking spoke of?
+7344 : Yep. The weakened state of this overgrown quartz is the reason that the Keeper of the Apocalypse is threatening to descend upon Vana'diel.
+7345 : So if...the power...of the crystal...is restored...!
+7346 : The return of Al'Taieu and the arrival of the keeper will be prevented.
+7347 : This solution was discovered by the boy Selh'teus--and by Phoenix, the fiery bird of rebirth.
+7348 : That is why he has visited each of the remaining crystals in turn: To relieve them of their light and power...
+7349 : And to pour that energy into the crystal that lies before us.
+7350 : (However, I am a child of darkness. I could never be the bearer of light.)
+7351 : (I needed a worthy receptacle for that power. I needed you.)
+7352 : I'm sure you've noticed it by now, %. Your ability to hear the whisper of the soul...
+7353 : Passed through the medium of the amulet, the light gathered from the four crystals has changed you.
+7354 : Phoenix referred to you as the Vessel of Light.
+7355 : Fated to be smashed open before the fifth mothercrystal...
+7356 : !?
+7357 : (Your journey has been for the sake of the crystal.)
+7358 : (Your adventure is now at an end.)
+7359 : (Return, %. Return to the light of the crystal.)
+7360 : (Your death is the only way to save both Vana'diel and her people...)
+7361 : Like hell!
+7362 : Selh'teus! If you mean to save both the world and everyone in it, then someone inhuman like you or me should be sacrificed!
+7363 : And you, Tenzen! Phoenix, the avatar of rebirth, can't have led you this far just to snuff out %'s life!
+7364 : Surely she meant to resurrect the shattered pieces of %'s spirit using her own lifeforce!
+7365 : I was the Keeper of the Apocalypse once. I know only too well the fear and horror that await us.
+7366 : But you gotta listen to me, Selh'teus! Pour the energy of the fifth mothercrystal into %!
+7367 : [His/Her] victories against the Emptiness and everything else we've faced have not been won through the power of the four crystals alone.
+7368 : % has an inner strength. A spirit that loves this world and those who dwell upon it.
+7369 : That's why I believe [he/she] will prevail against the keeper!
+7370 : Selh'teus! Open the way to Al'Taieu!
+7371 : I, too, wish for the way to be opened.
+7372 : Nag'molada!?
+7373 : Didn't you once say the same thing, Selh'teus?
+7374 : I will prevail against the deity that dwells beyond the Gate of the Gods. Open the way to Al'Taieu. Weren't those the words you used?
+7375 : Do you not find it unfair that only [she/he] should bear the sins of people?
+7376 : We ancients are all responsible for these events. I shall shoulder my part of the burden.
+7377 : And the power that comes with it...
+7378 : Nag'molada! No...!
+7379 : I...don't know... I don't know anything...
+7380 : This is Al'Taieu. The celestial capital overflowing with the blessings of Altana.
+7381 : I am pleased to meet you. How unusual. I find it difficult to hear your soul's whisper.
+7382 : I say! We have a visitor. You must forgive me; it's been so long since we've had occasion to entertain.
+7383 : My master is currently sequestered within the palace for prayers.
+7384 : My master does not return, but I am unconcerned. I know that he is unharmed.
+7385 : The structure you see before you is the Grand Palace of Hu'Xzoi. It was constructed by the Zilartian royal family to safely house the mothercrystal.
+7386 : I... What was I doing? I am sure I was doing something...
+7387 : Please be at ease. The Grand Palace of Hu'Xzoi is protected by the celestial defense mechanism.
+7388 : The timely activation of the celestial defense mechanism was responsible for saving the city from an attack by Bahamut.
+7389 : The tower you see in the distance is the control center for the city's defenses. The sole function of the tower is the protection of Al'Taieu.
+7390 : Please be on your guard. Unusual creatures roam through the celestial capital, on the hunt for biological entities.
+7391 : Even if the scenery is altered, the images we see remain the same. Nothing has changed here for thousands of years.
+7392 : Time is a hazy concept in this place. I wonder how long we have resided here.
+7393 : Many lifetimes have passed here in Al'Taieu. What now appears to be an empty city was once a beautiful garden.
+7394 : We are unable to enter the Grand Palace of Hu'Xzoi. Beings of our nature are not permitted inside.
+7395 : You wish to open the gate to the Grand Palace of Hu'Xzoi? Then you must first visit the outer towers.
+7396 : You seem to be of a race unlike that of my master. I am unable to place your origin.
+7397 : You seem to harbor barbaric tendencies. I suggest you visit a physician at your earliest convenience.
+7398 : Is this red luminance the light of the mothercrystal? Has a fissure erupted in the energy conduit below?
+7399 : I stand in defense of this land until the day my master returns. I hope that day will come before my self-awareness fades.
+7400 : You seem unfamiliar with the city of Al'Taieu. Perhaps this may assist you in your travels.
+7401 : It all began with a stone...
+7402 : In ages past, the five crystals existed as one enormous jewel that bathed the world in holy light.
+7403 : This mystical light banished the Emptiness and brought forth mighty gods...
+7404 : These gods cultivated their power and concentrated their energies.
+7405 : They created a balance between the eight elements of the world without, and a harmony for the myriad senses of the world within.
+7406 : And so, an eternal paradise blessed in all ways was born...
+7407 : But this paradise did not last forever.
+7408 : The enormous jewel was split into five parts, and this perfect realm degraded into an incomplete world...
+7409 : We were reduced from the superior life forms of a higher plane into these flawed and insignificant forms.
+7410 : Thus, we must gather and focus the energy of the crystals into opening a gate to that lost dimension.
+7411 : We are both well aware of this predicament.
+7412 : And yet, there is one thing I simply cannot understand:
+7413 : How did this tragedy occur in the first place?
+7414 : Why was the original stone shattered into five parts? Who is responsible for this incomprehensible act?
+7415 : The people of this world have evolved into five unique species, each harboring a distinctive darkness.
+7416 : Crystal warriors. Thou wert created to destroy those evils.
+7417 : Yet even thy strength canst not prevail against this darkness.
+7418 : Emptiness. 'Tis the ever-present shadow of blessed light.
+7419 : If this phenomenon represents complete death, then one could argue its presence was inevitable in a complete world.
+7420 : Thus thou split the crystal for thy children's sake...
+7421 : Is this not so, Great Goddess Altana...?
+7422 : Incredible...
+7423 : Al'Taieu... You were meant to be impossible to find...
+7424 : Ahahaha! Who would have thought the plan to open the Gate of the Gods would succeed?
+7425 : Al'Taieu! Long have I yearned to behold your magnificent spires!
+7426 : Why...? Why can't I hear the voices?
+7427 : Why do I not hear the whispers of the Zilartian people or the Dawn Maiden?
+7428 : Silence!
+7429 : Your unruly thoughts are clouding my mind!
+7430 : !?
+7431 : So, the rest of you were drawn into this world as well. How inconvenient...
+7432 : A visit to the Grand Palace of Hu'Xzoi should bring some interesting encounters. Perhaps the Dawn Maiden is there...
+7433 : %!
+7434 : You were brought to this peculiar realm as well?
+7435 : Are you injured? You have been treated terribly...
+7436 : I hear a voice calling to me...
+7437 : It seems...to be coming...from beyond...the gate...
+7438 : The portal appears to be locked. If we are to believe the talk of those beings, this path leads to the palace of the Zilartian king.
+7439 : One of the inhabitants here spoke of a girl matching Prishe's description heading this way. If we can gain an audience with the king, we should learn exactly what's going on here.
+7440 : !? This place lies beyond the Gate of the Gods? Did the ancients truly cross that legendary border!?
+7441 : Let us not be so hasty in our assumptions. This is indeed a beautiful land...
+7442 : However, I cannot believe this is the Paradise of peace and love spoken of in legend. We have already been set upon by vicious beasts.
+7443 : And if what Bahamut says is true, the Keeper of the Apocalypse lurks somewhere in this rrrealm.
+7444 : If Prishe was so intent on gaining entry to the palace, then the keeper will most likely be found inside...
+7445 : Nag'molada...has also...entered the...palace... We have...no choice...but...to proceed...
+7446 : This...gate...must have...an opening...mechanism... We...should...look around...
+7447 : Only...
+7448 : I worry that the Keeper of the Apocalypse will be beyond our ability.
+7449 : What...do you mean...?
+7450 : %. The four sources of light you acquired...
+7451 : Were they not all taken from you by that blackheart, Nag'molada?
+7452 : Was the light taken from you? Yes, it is gone. No, the light remains.
+7453 : Are you certain? I feel that the light has not abandoned us.
+7454 : If we all stand together in body and spirit, there may still be a chance...
+7455 : You mean to say that the light has not left us completely?
+7456 : Then if we all stand together in body and spirit, perhaps there is a way...
+7457 : I have...no intention...of joining forces...with Nag'molada...
+7458 : And I would prefer to keep some distance from Lord Tenzen. Do you not agree, [Sir/Lady] %?
+7459 : ...
+7460 : First we have to find a way to open this gate. Let's get moving.
+7461 : An impervious field of energy blocks your path...
+7462 : You! Have you come to punish us!?
+7463 : Mete out some punishment? Time for payback... Let's be civilized...
+7464 : H-h-hold on a second! Time out! Time out!
+7465 : It's not our fault! Lord Tenzen lied to us!
+7466 : And if you don't follow your samurai master's orders, you have to commit ritual suicide. It's true! I read it in a book somewhere!
+7467 : So...
+7468 : I suppose you want to get into the palace, huh?
+7469 : Well, we want to get in there, too. This voice in my head is driving me crazy!
+7470 : Let's let bygones be bygones and work together, okay? We've ditched the samurai life, anyway.
+7471 : Getting past that gate is more complicated than just releasing the lock on this [southern/eastern/western] tower.
+7472 : If you really want to know how to open the gate, you better take a look at the other towers as well.
+7473 : Well done!
+7474 : Makki told me all about our deal! You wanna get in to see the king, right?
+7475 : Just so's you know, the positions of princes and princess have already been filled!
+7476 : Didn't you know? The Zilartian king used to have two sons and a daughter.
+7477 : They've been out of the picture for ten thousand years now, so he must be feeling pretty lonely.
+7478 : After all that time, he's probably a few jewels short of a crown, too, if you know what I mean. I doubt the king'll notice if we're a little shorter than he remembers.
+7479 : We might even take you on as a servant if you're lucky! C'mon, time's a wastin'! Off to the [southern/eastern/western] tower!
+7480 : Mind your manners around the future princess!
+7481 : I thought minced Tarutaru was back on the menu for a second there...
+7482 : You have our royal gratitude.
+7483 : Prince Kukki has informed me of the situation, and I commend you on your wise decision.
+7484 : We shall be sure to put in a good word for you with His Majesty.
+7485 : I have my brothers on standby. Once I give the word, we'll hit all the buttons at the same time!
+7486 : Did we do it!?
+7487 : Is it open!?
+7488 : I think it opened!
+7489 : Here we come, Royal Daddy!
+7490 : There is nothing of interest here.
+7491 : An ominous shadow falls over you...
+7492 : Press a button to continue.
+7493 : There is nothing out of the ordinary here.
+7494 : You can hear a strange voice... Items, items, la la la la la
+7495 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7496 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7497 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7498 : Now, listen close...
+7499 : Oh... Well, if that's the case, I'm outta here.
+7500 : The Goblin slipped away when you were not looking...
+7501 : You can hear a strange, raspy voice...
+7502 : I travel......hear lots... Hear...stories... Can tell...if...
+7503 : .........listen......
+7504 : Oh...... ...outta here.........
+7505 : Do you want to hear a story? No, thank you. Let's hear one.
+7506 : What story would you like to be told? On second thought, maybe later. The Warrior's Path(pt.1). The Warrior's Path(pt.2). Garden of Antiquity(pt.1). Garden of Antiquity(pt.2). Garden of Antiquity(pt.3). Garden of Antiquity(pt.4). Garden of Antiquity(pt.5). Dawn(pt.1). Dawn(pt.2). Dawn(pt.3).
+7507 : Dummy
+7508 : Dummy
+7509 : Dummy
+7512 : The % held by % has shattered...
+7513 : The % was stolen by Nag'molada...
+7514 : You obtain the %, only to have it stolen by Nag'molada...
+7515 : Hey, did you guys see where Promathia went!?
+7516 : All have become one...
+7517 : My master, his lady, their friends, everyone...
+7518 : All have coalesced into a single deity...
+7519 : There! I can see him!
+7520 : Canst thou hear me, Goddess? Thou who hast sheltered my very existence.
+7521 : I will be reborn. It is time to surrender to thine abhorred death, to the embrace of perpetual darkness.
+7522 : An eternity of silence awaits.
+7523 : Our farewell this time shall be forever.
+7524 : The Goddess...is crying?
+7525 : The apocalypse is at hand!
+7526 : Wait! Take us with you!
+7527 : Take us with you to Vana'diel!
+7528 : What was that!? The dusty old divinity is headed for Vana'diel!?
+7529 : That's right!
+7530 : The great Promathia realized why his children have not come to greet him!
+7531 : He's gonna break the fifth mothercrystal and bring this entire city crashing down on the world!
+7532 : They are calling you! Your children are calling you home!
+7533 : Dammit... This is because of Nag'molada.
+7534 : When Naggy was absorbed, all of his knowledge poured straight into the mind of the Twilight God!
+7535 : %, I'm gonna need the amulet back.
+7536 : We gotta go! He's in the lowest level of the palace!
+7537 : C'mon, %! It's time to put the hurt on the Twilight God!
+7538 : You return the % to Prishe.
+7539 : Nothing happens.
+7540 : A distant voice emanates from the depths of your soul.
+7541 : Knoweth...thou?
+7542 : Firs...irtue...
+7543 : Deed...tranqu...ser...ity...
+7544 : ...receptac...from phua...
+7545 : ...I...cannot...deciph...them...
+7546 : A distant voice emanates from the depths of your soul.
+7547 : Desssireth...thou?
+7548 : Ssseco...irtue...
+7549 : Deed...ressstraint...willpo...er...
+7550 : ...from...fallen...Xzom...
+7551 : ...cannot...derssstand...them...
+7552 : A distant voice emanates from the depths of your soul.
+7553 : Seeketh...thou?
+7554 : Thir...irtue...
+7555 : Deed...rationa...
+7556 : ...receptac...from Hpem...
+7557 : ...cannot...omprehend...them...
+7558 : A distant voice emanates from the depths of your soul.
+7559 : Now...I...know...
+7560 : Fourt...irtue...
+7561 : Fif...irtue...
+7562 : Sssix...irtue...
+7563 : I...desssire...
+7564 : At lassst the time has come...
+7565 : The ssscattered fragments of my thoughtsss once again mine. Long forgotten memoriesss filling me once more...
+7566 : However...these memories generate sssuffering... These thoughtsss...bring remorssse...
+7567 : Tell me...for what sssearcheth thou, to travel this far? Show me...by what principlesss art thou driven?
+7568 : By thy principlesss...I have been freed from the chainsss placed upon me since time immemorial.
+7569 : Thy path...extends to the far reaches of time and ssspace... But sssomeday...thou shalt reach...thy destin......
+7570 : Absolute Virtue uses Hundred Fists.
+7571 : Absolute Virtue uses Mijin Gakure.
+7574 : DEATH
+7575 : The monster fades before your eyes, a look of disappointment on its face.
+7576 : Something is buried beneath the surface...
+7577 : You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+7578 : Set this as current home point? Yes. No.
+7579 : Home point set!
+7580 : A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+7581 : What will you do? Travel to another home point. Set this as your home point. Other settings. On second thought, never mind.
+7582 : You have registered a new home point! You are now able to teleport here from any other home point.
+7583 : You may teleport from here to any other home point you have registered.
+7584 : Teleport where? Never mind. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7585 : Teleport where?% Nowhere. Home Point #1[/ (M)/ (A)/ (E)]. Home Point #2[/ (M)/ (A)/ (E)]. Home Point #3[/ (M)/ (A)/ (E)]. Home Point #4[/ (M)/ (A)/ (E)]. Home Point #5[/ (M)/ (A)/ (E)].
+7586 : You have not yet registered any other home points, and thus are unable to teleport.
+7587 : It costs # gil to teleport to Home Point ## in %.
+7588 : There is no fee for teleporting to Home Point ## in %.
+7589 : Teleport? (Current gil: #) [Add to favorites/Remove from favorites]. Yes, please. No, thank you.
+7590 : Teleport to which region? On second thought, none. Select from favorites. Current region. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
+7591 : Teleport where? None of these. A favorited location. An original area. A Rise of the Zilart area. A Chains of Promathia area. A Treasures of Aht Urhgan area. A Wings of the Goddess area. A Seekers of Adoulin area.
+7592 : You may change the method of selecting the area of your desired home point to teleport to.
+7593 : Which setting would you like? My current setting. Select by region. Select by expansion.
+7594 : You are now selecting by [region/expansion].
+7595 : Teleport where? None of these. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. [Add to favorites/Remove from favorites].
+7596 : Home Point ## in % has been [registered to/removed from] your list of favorite locations.
+7597 : Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+7598 : Delete which? None of these. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##. % ##.

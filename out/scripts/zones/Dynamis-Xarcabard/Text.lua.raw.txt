@@ -7051,692 +7051,695 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : he designation on the % has been canceled.
-7062 : connection error has occurred.
-7063 : he maximum number of people has been exceeded.
-7064 : There are signs that something fell here.
-7065 : ---== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in # [second/seconds].
-7066 : our clearance to remain in Dynamis has been restored. You will no longer be transported.
-7067 : Tallying conquest results...
-7068 : Conquest results tallied.
-7069 : This region is currently under San d'Orian control.
-7070 : This region is currently under Bastokan control.
-7071 : This region is currently under Windurstian control.
-7072 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7073 : This region is currently neutral.
-7074 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7075 : All three nations are tied for first place.
-7076 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7077 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7078 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7079 : All three nations are tied for first place.
-7080 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7081 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7082 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7083 : All three nations are tied for first place.
-7084 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7085 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7086 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7087 : All three nations are tied for first place.
-7088 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7089 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7090 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7091 : Global balance of power: All three nations are tied for first place.
-7092 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7093 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7094 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7095 : All three nations are tied for first place.
-7096 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7097 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7098 : Conquest update: This region is currently neutral.
-7099 : Conquest update: This region is currently under San d'Orian control.
-7100 : Conquest update: This region is currently under Bastokan control.
-7101 : Conquest update: This region is currently under Windurstian control.
-7102 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7103 : All three nations are at a deadlock.
-7104 : The beastmen are on the rise.
-7105 : Regional influence: San d'Oria - Dominant
-7106 : Regional influence: San d'Oria - Major
-7107 : Regional influence: San d'Oria - Minor
-7108 : Regional influence: San d'Oria - Minimal
-7109 : Bastok - Dominant
-7110 : Bastok - Major
-7111 : Bastok - Minor
-7112 : Bastok - Minimal
-7113 : Windurst - Dominant
-7114 : Windurst - Major
-7115 : Windurst - Minor
-7116 : Windurst - Minimal
-7117 : Bastok and Windurst have formed an alliance.
-7118 : San d'Oria and Windurst have formed an alliance.
-7119 : San d'Oria and Bastok have formed an alliance.
-7120 : Bastok and Windurst are currently allies.
-7121 : San d'Oria and Windurst are currently allies.
-7122 : San d'Oria and Bastok are currently allies.
-7123 : # #
-7124 : # % #
-7125 : ITEM_ID:# :#
-7126 : :# :#
-7127 : [//]:[////] :#:#
-7128 : The beastmen are gaining power.
-7129 : San d'Oria's regional control is now 10% closer to the first place country's!
-7130 : Bastok's regional control is now 10% closer to the first place country's!
-7131 : Windurst's regional control are now 10% closer to the first place country's!
-7132 : San d'Oria's region points have increased!
-7133 : Bastok's region points have increased!
-7134 : Windurst's region points have increased!
-7135 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7136 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7137 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7138 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7139 : A Bastokan Expeditionary Force has been dispatched to this area.
-7140 : A Windurstian Expeditionary Force has been dispatched to this area.
-7141 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7142 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7143 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7144 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7145 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7146 : There was a curse on the beastmen's banner!
-7147 : The curse of the beastmen's banner has been lifted!
-7148 : There is a beastmen's banner.
-7224 : # #
-7225 : # #
-7226 : The sands of the % have begun to fall. You have # minutes (Earth time) remaining in Dynamis.
-7227 : our stay in Dynamis has been extended by # minute[/s].
-7228 : ou will be expelled from Dynamis in # [second/minute] (Earth time).
-7229 : ou will be expelled from Dynamis in # [seconds/minutes] (Earth time).
-7230 : You have exceeded your allotted time. Now exiting Dynamis.
-7231 : The sands of the hourglass have emptied...
-7232 : You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
-7233 : What will you do? Leave Dynamis. Unlock support jobs. Nothing.
-7234 : Proceed out of Dynamis? Yes, leave. No, remain.
-7235 : Proceed in unlocking support jobs? Yes, unlock. No, retain.
-7236 : Memories of skills long forgotten come flooding back to you...
-7237 : You sense an aura of boundless rage...
-7238 : %...
-7239 : Or perhaps...
-7240 : You sense that something might happen if you possessed one of these...
-7241 : Or perhaps...
-7242 : %'s attack staggers the fiend!
-7243 : You feel an ominous presence, as if something might happen if you possessed %.
-7244 : Your allotted time is # minute[/s].
-7245 : The monster fades before your eyes, a look of disappointment on its face.
-7246 : DEBUG: Expulsion will occur at #.
-7247 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
-7248 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
-7249 : You have returned to the field of battle.
-7250 : You have # [minute/minutes] (Earth time) to complete the battle.
-7251 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
-7252 : You have only # [second/seconds] (Earth time) remaining.
-7253 : Your time for this Confrontation is up...
-7254 : The monster fades before your eyes, a look of disappointment on its face.
-7255 : (Test message.)
-7256 : Enter the garrison? Yes. No.
-7257 : The % is ripped violently to pieces!
-7258 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
-7259 : Hark! Our foe lurks thither. How wouldst thou proceed?
-7260 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
-7261 : Our foe advances...may thine aim be true!
-7262 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
-7263 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
-7264 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
-7265 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
-7266 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
-7267 : Beaucedine Glacier: [////] Xarcabard: [////]
-7268 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
-7269 : Greetings, traveler! How dost thou fare in thine adventures?
-7270 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
-7271 : Dost thou find this enchantment to thy liking?
-7272 : Accept the item? Accept. Refuse. (# times remaining)
-7273 : Splendid! May it serve thee well.
-7274 : % obtained %!
-7275 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
-7276 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
-7277 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
-7278 : Though it may fall short of thy expectations, pray accept it.
-7279 : Otherwise, we shall have no choice but to dispose of it.
-7280 : Many thanks for thine assistance!
-7281 : Pray accept this % as but a humble token of our gratitude.
-7285 : Writhing worms... Look at you crawl before me. I will end your meaningless existence...
-7286 : I will grind your feeble flesh. Your worthless lives will be torn from your bodies...
-7287 : Vain... All in vain. My soul will rise once more...
-7288 : Pitiful slugs. Pathetic wretches. I will build a mountain with your corpses. A river of blood shall flow...
-7289 : Greedy souls... You thirst for my blood. Will you take your fill from my wounds?
-7290 : Hah, hah... You cling to life so stubbornly... Troublesome fools...
-7291 : My...my blood you have spilled. You swarm my legs like a nest of maggots...
-7292 : Come forth, wyrms of light and shadow! My undying servants, your master calls you!
-7293 : Immortal drakes, defeated by these insignificant beings? How amusing.
-7294 : You fight in vain. Victory has always been beyond your reach.
-7295 : This insult... I will scour it away with your blood.
-7296 : Sightless grubs, how you struggle towards the light you cannot see. Give up your painful strivings. Give in to the darkness of oblivion.
-7297 : Frail mortals. I will tear your flesh and crush your bones...
-7298 : Quail before my might. Fear my terrible power. Your funeral dirge has begun. Its mournful notes sing of your demise.
-7299 : Fools...  Your deaths will serve to teach you the true nature of Dynamis...
-7300 : We are the dragons of light and shadow, guards of the Lord of Dynamis. No child of Altana shall pass.
-7301 : As long as we stand our vigil, you will proceed no further.
-7302 : Drake of Light! Return breath to my corporal shell...
-7303 : Drake of Shadow! Bring life into my veins once more...
-7304 : This is not possible, Drake of Light... Lord, we have failed you...
-7305 : Forgive me, Drake of Shadow, too late... Lord, we have fallen...
-7306 : Grasp the shrouded soul... Be reborn, Drake of Light!
-7307 : Devour the shrouded soul... Be reborn, Drake of Shadow!
-7308 : Hahahahaha... We are of one flesh and one soul. Our lord has granted us immortality.
-7309 : Hahahaha... We are of one flesh and one soul. Our lord has granted us immortality.
-7310 : I am known as the Fists of Mystics. Come, show me your fighting spirit.
-7311 : Impressive, you have beaten me...
-7312 : You do not understand at all, do you?
-7313 : The Animated Knuckles appear to be absolutely furious.
-7314 : Is this the best you can do?
-7315 : The Animated Knuckles appear to be extremely agitated.
-7316 : Come, come now.
-7317 : The Animated Knuckles appear to be angry.
-7318 : What was that supposed to be?
-7319 : The Animated Knuckles appear to be slightly irritated.
-7320 : What...?
-7321 : The Animated Knuckles appear to be disgusted.
-7322 : You're more skilled than I expected.
-7323 : The Animated Knuckles appear to be impressed.
-7324 : Pathetic.
-7325 : The Animated Knuckles appear to be bored.
-7326 : Not bad.
-7327 : The Animated Knuckles appear to be amused.
-7328 : What will you come up with next?
-7329 : The Animated Knuckles appear to be intrigued.
-7330 : That's it?
-7331 : The Animated Knuckles appear to be disappointed.
-7332 : I seem to have overestimated you. Farewell....
-7333 : The Animated Knuckles appear to have completely lost interest.
-7334 : I've almost had enough of this.
-7335 : The Animated Knuckles appear to be growing extremely impatient.
-7336 : I think I may just leave.
-7337 : The Animated Knuckles appear to be losing patience.
-7338 : I grow tired of this.
-7339 : The Animated Knuckles appear to be steadily losing interest.
-7340 : This is beginning to bore me...
-7341 : The Animated Knuckles appear to be losing interest.
-7342 : I am called the Ornate Blade. Now, show me your strength.
-7343 : You are the one to be my...
-7344 : You have not the slightest inkling, do you?
-7345 : The Animated Dagger appears to be absolutely furious.
-7346 : Your efforts leave me concerned for the future...
-7347 : The Animated Dagger appears to be extremely agitated.
-7348 : This is what makes you merely mortal.
-7349 : The Animated Dagger appears to be angry.
-7350 : This is all you can do?
-7351 : The Animated Dagger appears to be slightly irritated.
-7352 : Oh please.
-7353 : The Animated Dagger appears to be disgusted.
-7354 : You fight well.
-7355 : The Animated Dagger appears to be impressed.
-7356 : How dull.
-7357 : The Animated Dagger appears to be bored.
-7358 : Interesting technique.
-7359 : The Animated Dagger appears to be amused.
-7360 : This could be interesting.
-7361 : The Animated Dagger appears to be intrigued.
-7362 : You've let me down.
-7363 : The Animated Dagger appears to be disappointed.
-7364 : I'm sorry, but you do not meet my standards...
-7365 : The Animated Dagger appears to have completely lost interest.
-7366 : I have better things to do...
-7367 : The Animated Dagger appears to be growing extremely impatient.
-7368 : I think I will take my leave.
-7369 : The Animated Dagger appears to be losing patience.
-7370 : Shall we give up on this altogether?
-7371 : The Animated Dagger appears to be steadily losing interest.
-7372 : This is not as absorbing as I expected.
-7373 : The Animated Dagger appears to be losing interest.
-7374 : People have named me the Holy Blade. I will try thy resolution.
-7375 : Thou hast shown me thine unwavering will...
-7376 : Dost thou not realize thy error?
-7377 : The Animated Longsword appears to be absolutely furious.
-7378 : Foolishness.
-7379 : The Animated Longsword appears to be extremely agitated.
-7380 : No, this is not the way.
-7381 : The Animated Longsword appears to be angry.
-7382 : Dost thou not understand?
-7383 : The Animated Longsword appears to be slightly irritated.
-7384 : This is unbelievable.
-7385 : The Animated Longsword appears to be disgusted.
-7386 : Oho...
-7387 : The Animated Longsword appears to be impressed.
-7388 : What is this flippancy?
-7389 : The Animated Longsword appears to be bored.
-7390 : Thy technique is most fascinating.
-7391 : The Animated Longsword appears to be amused.
-7392 : Thou hast my attention...
-7393 : The Animated Longsword appears to be intrigued.
-7394 : Was I wrong to expect more of thee?
-7395 : The Animated Longsword appears to be disappointed.
-7396 : I am disappointed in thee.
-7397 : The Animated Longsword appears to have completely lost interest.
-7398 : Mayhap my faith in thee was misplaced...
-7399 : The Animated Longsword appears to be growing extremely impatient.
-7400 : Were my expectations too high?
-7401 : The Animated Longsword appears to be losing patience.
-7402 : Shall we end this?
-7403 : The Animated Longsword appears to be steadily losing interest.
-7404 : This grows tiresome.
-7405 : The Animated Longsword appears to be losing interest.
-7406 : I am the Intricate Blade. Show me the depths of your fury!
-7407 : Your rage is known to me...
-7408 : Is it death you seek?
-7409 : The Animated Claymore appears to be absolutely furious.
-7410 : Is this trial beyond you?
-7411 : The Animated Claymore appears to be extremely agitated.
-7412 : And that was...?
-7413 : The Animated Claymore appears to be angry.
-7414 : Come, you can do better.
-7415 : The Animated Claymore appears to be slightly irritated.
-7416 : Pathetic.
-7417 : The Animated Claymore appears to be disgusted.
-7418 : Now your fury has surfaced!
-7419 : The Animated Claymore appears to be impressed.
-7420 : This is not what I expected from you.
-7421 : The Animated Claymore appears to be bored.
-7422 : You are a spectacle, indeed.
-7423 : The Animated Claymore appears to be amused.
-7424 : What have you prepared for me?
-7425 : The Animated Claymore appears to be intrigued.
-7426 : Is that all?
-7427 : The Animated Claymore appears to be disappointed.
-7428 : Is this the extent of your anger?
-7429 : The Animated Claymore appears to have completely lost interest.
-7430 : There is nothing more you can show me.
-7431 : The Animated Claymore appears to be growing extremely impatient.
-7432 : I have seen all you have to give.
-7433 : The Animated Claymore appears to be losing patience.
-7434 : I grow weary of your presence.
-7435 : The Animated Claymore appears to be steadily losing patience.
-7436 : Is this all you the rage you can muster?
-7437 : The Animated Claymore appears to be losing interest.
-7438 : Me, axe. Runaeic, Axe. You, die?
-7439 : Me, hunger... My, hunger...lost...
-7440 : You, die?
-7441 : The Animated Tabar appears to be absolutely furious.
-7442 : Useless!
-7443 : The Animated Tabar appears to be extremely agitated.
-7444 : Come, fight!
-7445 : The Animated Tabar appears to be angry.
-7446 : Hrmmm....
-7447 : The Animated Tabar appears to be slightly irritated.
-7448 : Me, hunger...
-7449 : The Animated Tabar appears to be disgusted.
-7450 : You, fight, well.
-7451 : The Animated Tabar appears to be impressed.
-7452 : ...
-7453 : The Animated Tabar appears to be bored.
-7454 : Good! Fight!
-7455 : The Animated Tabar appears to be amused.
-7456 : Taste, good?
-7457 : The Animated Tabar appears to be intrigued.
-7458 : Taste, awful.
-7459 : The Animated Tabar appears to be disappointed.
-7460 : You, hopeless... Me, go, now...
-7461 : The Animated Tabar appears to have completely lost interest.
-7462 : You, hunger... Me, leave? Yes, leave...
-7463 : The Animated Tabar appears to be growing extremely impatient.
-7464 : You, dull. Me, hunger. Leave?
-7465 : The Animated Tabar appears to be losing patience.
-7466 : You, boring. Me, hunger.
-7467 : The Animated Tabar appears to be steadily losing patience.
-7468 : You, dull.
-7469 : The Animated Tabar appears to be losing interest.
-7470 : I have been given the title of Seraphic Axe. Will you attempt to survive my love?
-7471 : Your love has reached me...
-7472 : Use your head!
-7473 : The Animated Great Axe appears to be absolutely furious.
-7474 : I do not want simple fury.
-7475 : The Animated Great Axe appears to be extremely agitated.
-7476 : That is not what I seek.
-7477 : The Animated Great Axe appears to be angry.
-7478 : You wound me...
-7479 : The Animated Great Axe appears to be slightly irritated.
-7480 : Are you truly committed?
-7481 : The Animated Great Axe appears to be disgusted.
-7482 : Incredible.
-7483 : The Animated Great Axe appears to be impressed.
-7484 : Your attacks lack style...
-7485 : The Animated Great Axe appears to be bored.
-7486 : That's what I'm looking for!
-7487 : The Animated Great Axe appears to be amused.
-7488 : What could this be...? Looks impressive.
-7489 : The Animated Great Axe appears to be intrigued.
-7490 : I must have imagined it...
-7491 : The Animated Great Axe appears to be disappointed.
-7492 : I seem to have overpriced your value. Farewell...
-7493 : The Animated Great Axe appears to have completely lost interest.
-7494 : I give up trying to understand you!
-7495 : The Animated Great Axe appears to be growing extremely impatient.
-7496 : I don't think you're my type...
-7497 : The Animated Great Axe appears to be losing patience.
-7498 : Is it time to leave yet?
-7499 : The Animated Great Axe appears to be steadily losing patience.
-7500 : I have grown weary of your antics.
-7501 : The Animated Great Axe appears to be losing interest.
-7502 : I am the Stellar Spear. It is time to test your courage.
-7503 : You have proven your courage. Events have taken an interesting course...
-7504 : How you struggle...
-7505 : The Animated Spear appears to be absolutely furious.
-7506 : You disappoint me.
-7507 : The Animated Spear appears to be extremely agitated.
-7508 : Do not make me regret my actions.
-7509 : The Animated Spear appears to be angry.
-7510 : Can you not grasp the idea?
-7511 : The Animated Spear appears to be slightly irritated.
-7512 : Incompetence.
-7513 : The Animated Spear appears to be disgusted.
-7514 : Now you show promise.
-7515 : The Animated Spear appears to be impressed.
-7516 : I waste my time.
-7517 : The Animated Spear appears to be bored.
-7518 : Impressive move.
-7519 : The Animated Spear appears to be amused.
-7520 : Perhaps you do hold some potential...
-7521 : The Animated Spear appears to be intrigued.
-7522 : Was I reading too much into your ability?
-7523 : The Animated Spear appears to be disappointed.
-7524 : My time with you has been for naught.
-7525 : The Animated Spear appears to have completely lost interest.
-7526 : Shall I offer this opportunity to another?
-7527 : The Animated Spear appears to be growing extremely impatient.
-7528 : Shall I finish you off now?
-7529 : The Animated Spear appears to be losing patience.
-7530 : Has this battle become a pointless exercise?
-7531 : The Animated Spear appears to be steadily losing patience.
-7532 : I grow weary of your features.
-7533 : The Animated Spear appears to be losing interest.
-7534 : I am known as the Tenebrous Scythe. Overwhelm me with your greed for power.
-7535 : Hahahahaha... Your avarice has overcome me...
-7536 : This is your response?
-7537 : The Animated Scythe appears to be absolutely furious.
-7538 : You act without reason.
-7539 : The Animated Scythe appears to be extremely agitated.
-7540 : This is pointless.
-7541 : The Animated Scythe appears to be angry.
-7542 : Think before you act.
-7543 : The Animated Scythe appears to be slightly irritated.
-7544 : Childish.
-7545 : The Animated Scythe appears to be disgusted.
-7546 : Now your desire is real!
-7547 : The Animated Scythe appears to be impressed.
-7548 : I can't stop yawning...
-7549 : The Animated Scythe appears to be bored.
-7550 : Yes, let the greed consume you!
-7551 : The Animated Scythe appears to be amused.
-7552 : What are you scheming...?
-7553 : The Animated Scythe appears to be intrigued.
-7554 : Nothing special, it would seem.
-7555 : The Animated Scythe appears to be disappointed.
-7556 : Your lust for power is too limited...
-7557 : The Animated Scythe appears to have completely lost interest.
-7558 : Enough. Away with you.
-7559 : The Animated Scythe appears to be growing extremely impatient.
-7560 : Is this the depth of your desire?
-7561 : The Animated Scythe appears to be losing patience.
-7562 : I had thought this would prove far more amusing.
-7563 : The Animated Scythe appears to be steadily losing patience.
-7564 : If we could start the real fight sometime soon...?
-7565 : The Animated Scythe appears to be losing interest.
-7566 : I am called the Demoniac Blade. Allow me to witness your technique.
-7567 : Your impressive technique has won my admiration...
-7568 : Are you focused on this battle?
-7569 : The Animated Kunai appears to be absolutely furious.
-7570 : Pay attention.
-7571 : The Animated Kunai appears to be extremely agitated.
-7572 : Plan your strategy more completely...
-7573 : The Animated Kunai appears to be angry.
-7574 : Your tactics are childish...
-7575 : The Animated Kunai appears to be slightly irritated.
-7576 : You are reckless.
-7577 : The Animated Kunai appears to be disgusted.
-7578 : An excellent technique.
-7579 : The Animated Kunai appears to be impressed.
-7580 : This is no challenge...
-7581 : The Animated Kunai appears to be bored.
-7582 : You fight like a demon...
-7583 : The Animated Kunai appears to be amused.
-7584 : What strategy are you hatching?
-7585 : The Animated Kunai appears to be intrigued.
-7586 : You have led me into false anticipation.
-7587 : The Animated Kunai appears to be disappointed.
-7588 : I am sorry...
-7589 : The Animated Kunai appears to have completely lost interest.
-7590 : Where can my true master be found?
-7591 : The Animated Kunai appears to be growing extremely impatient.
-7592 : I must soon withdraw from this battle...
-7593 : The Animated Kunai appears to be losing patience.
-7594 : Perhaps you attempt this too early in your training...?
-7595 : The Animated Kunai appears to be steadily losing patience.
-7596 : Am I beyond your ability?
-7597 : The Animated Kunai appears to be losing interest.
-7598 : I am the Divine Blade. I demand a test of your will.
-7599 : You have proven the strength of your will...
-7600 : I have no time for amateurs.
-7601 : The Animated Tachi appears to be absolutely furious.
-7602 : Do your eyes truly see?
-7603 : The Animated Tachi appears to be extremely agitated.
-7604 : Use your intelligence.
-7605 : The Animated Tachi appears to be angry.
-7606 : Your reason lacks direction.
-7607 : The Animated Tachi appears to be slightly irritated.
-7608 : Simpleton.
-7609 : The Animated Tachi appears to be disgusted.
-7610 : A wise move.
-7611 : The Animated Tachi appears to be impressed.
-7612 : How tedious...
-7613 : The Animated Tachi appears to be bored.
-7614 : Most enjoyable...
-7615 : The Animated Tachi appears to be amused.
-7616 : I wonder what you intend...?
-7617 : The Animated Tachi appears to be intrigued.
-7618 : Is that all?
-7619 : The Animated Tachi appears to be disappointed.
-7620 : Come back when you are ready...
-7621 : The Animated Tachi appears to have completely lost interest.
-7622 : This is the extent of your ability?
-7623 : The Animated Tachi appears to be growing extremely impatient.
-7624 : You have shown me nothing of substance.
-7625 : The Animated Tachi appears to be losing patience.
-7626 : Will you persist in this endeavor?
-7627 : The Animated Tachi appears to be steadily losing patience.
-7628 : Shall we end this duel?
-7629 : The Animated Tachi appears to be losing interest.
-7630 : People have named me the Heavenly Hammer. I will test your might to its very limits.
-7631 : You have gained my favor. I have never seen a mortal resemble my true master so completely...
-7632 : Do you mean to infuriate me?
-7633 : The Animated Hammer appears to be absolutely furious.
-7634 : Think about the situation at hand...
-7635 : The Animated Hammer appears to be extremely agitated.
-7636 : This is your feeble retaliation?
-7637 : The Animated Hammer appears to be angry.
-7638 : Have you no sense of what transpires here?
-7639 : The Animated Hammer appears to be slightly irritated.
-7640 : Are you truly serious about this?
-7641 : The Animated Hammer appears to be disgusted.
-7642 : Your might commands respect.
-7643 : The Animated Hammer appears to be impressed.
-7644 : You disgust me.
-7645 : The Animated Hammer appears to be bored.
-7646 : Your blows carry some weight!
-7647 : The Animated Hammer appears to be amused.
-7648 : Are you holding something back?
-7649 : The Animated Hammer appears to be intrigued.
-7650 : Or was there nothing there in the first place?
-7651 : The Animated Hammer appears to be disappointed.
-7652 : Farewell...
-7653 : The Animated Hammer appears to have completely lost interest.
-7654 : I have overestimated your might...
-7655 : The Animated Hammer appears to be growing extremely impatient.
-7656 : My power would shatter your mortal frame.
-7657 : The Animated Hammer appears to be losing patience.
-7658 : My strength would be beyond your capability to control.
-7659 : The Animated Hammer appears to be steadily losing patience.
-7660 : Come, give me more sport than this...
-7661 : The Animated Hammer appears to be losing interest.
-7662 : I am called the Celestial Staff. I will glimpse into your mind's eye...
-7663 : You have impressed me. Let us meet again...
-7664 : Ignorant fool.
-7665 : The Animated Staff appears to be absolutely furious.
-7666 : Juvenile...
-7667 : The Animated Staff appears to be extremely agitated.
-7668 : Make use of your intelligence!
-7669 : The Animated Staff appears to be angry.
-7670 : Your inexperience betrays you...
-7671 : The Animated Staff appears to be slightly irritated.
-7672 : Puerile...
-7673 : The Animated Staff appears to be disgusted.
-7674 : That was a well-conceived attack...
-7675 : The Animated Staff appears to be impressed.
-7676 : Are you trying to lull me to sleep?
-7677 : The Animated Staff appears to be bored.
-7678 : Oho, an interesting play.
-7679 : The Animated Staff appears to be amused.
-7680 : You are calculating some new approach...
-7681 : The Animated Staff appears to be intrigued.
-7682 : Or were you just staring blankly...?
-7683 : The Animated Staff appears to be disappointed.
-7684 : Such a shame. But I have no time to humor the likes of you...
-7685 : The Animated Staff appears to have completely lost interest.
-7686 : You have disappointed me...
-7687 : The Animated Staff appears to be growing extremely impatient.
-7688 : I had thought your intellect more engaging...
-7689 : The Animated Staff appears to be losing patience.
-7690 : Is this the extent of your repertoire?
-7691 : The Animated Staff appears to be steadily losing patience.
-7692 : I will give you a little more of my time...
-7693 : The Animated Staff appears to be losing interest.
-7694 : I am known as the Snarled Bow. I will measure the limits of your determination.
-7695 : Your aim was impeccable...
-7696 : You have strength and little else.
-7697 : The Animated Longbow appears to be absolutely furious.
-7698 : You seek to overwhelm me with force?
-7699 : The Animated Longbow appears to be extremely agitated.
-7700 : Your aim is true, but you still miss the point...
-7701 : The Animated Longbow appears to be angry.
-7702 : Do you believe just hitting the target will suffice...?
-7703 : The Animated Longbow appears to be slightly irritated.
-7704 : You make no progress.
-7705 : The Animated Longbow appears to be disgusted.
-7706 : Your skill is beyond compare.
-7707 : The Animated Longbow appears to be impressed.
-7708 : This match has little flair...
-7709 : The Animated Longbow appears to be bored.
-7710 : Feel the stinging wind of arrows!
-7711 : The Animated Longbow appears to be amused.
-7712 : Your eyes have taken on a hawk's demeanor...
-7713 : The Animated Longbow appears to be intrigued.
-7714 : Have I mistaken your intensity?
-7715 : The Animated Longbow appears to be disappointed.
-7716 : I take my leave of you now...
-7717 : The Animated Longbow appears to have completely lost interest.
-7718 : This has dragged on overlong...
-7719 : The Animated Longbow appears to be growing extremely impatient.
-7720 : The battle has lost its spark...
-7721 : The Animated Longbow appears to be losing patience.
-7722 : Have you no other tricks in your quiver?
-7723 : The Animated Longbow appears to be steadily losing patience.
-7724 : I presently grow weary of this.
-7725 : The Animated Longbow appears to be losing interest.
-7726 : I am known as the Ethereal Rifle. Do you realize my incredible value?
-7727 : With your steady hand, any gun will be yours to master...
-7728 : Trigger happy...
-7729 : The Animated Gun appears to be absolutely furious.
-7730 : Like a cannon in the dark...
-7731 : The Animated Gun appears to be extremely agitated.
-7732 : You think hitting the target is enough?
-7733 : The Animated Gun appears to be angry.
-7734 : Adjust your aim.
-7735 : The Animated Gun appears to be slightly irritated.
-7736 : Do not waste ammunition.
-7737 : The Animated Gun appears to be disgusted.
-7738 : Well fired.
-7739 : The Animated Gun appears to be impressed.
-7740 : I miss the real wars...
-7741 : The Animated Gun appears to be bored.
-7742 : Now the battle lines have been drawn!
-7743 : The Animated Gun appears to be amused.
-7744 : What does that gleam in your eye forebode?
-7745 : The Animated Gun appears to be intrigued.
-7746 : Nothing more than that?
-7747 : The Animated Gun appears to be disappointed.
-7748 : I take my leave of the battlefield...
-7749 : The Animated Gun appears to have completely lost interest.
-7750 : The time to put up arms draws near...
-7751 : The Animated Gun appears to be growing extremely impatient.
-7752 : Perhaps I should find a new target...?
-7753 : The Animated Gun appears to be losing patience.
-7754 : What tedious sport...
-7755 : The Animated Gun appears to be steadily losing patience.
-7756 : This target has lost its appeal.
-7757 : The Animated Gun appears to be losing interest.
-7758 : I am called the Mysterial Horn. Show me your true intentions.
-7759 : I have seen the symphony in your heart...
-7760 : Those clashing notes offend my sensibilities.
-7761 : The Animated Horn appears to be absolutely furious.
-7762 : That is merely cacophonous drivel.
-7763 : The Animated Horn appears to be extremely agitated.
-7764 : You spout nothing but noise.
-7765 : The Animated Horn appears to be angry.
-7766 : What note are you striving for?
-7767 : The Animated Horn appears to be slightly irritated.
-7768 : Is that your true timbre?
-7769 : The Animated Horn appears to be disgusted.
-7770 : Your attacks follow a splendid melody.
-7771 : The Animated Horn appears to be impressed.
-7772 : What a monotonous ode.
-7773 : The Animated Horn appears to be bored.
-7774 : A pretty tune, indeed.
-7775 : The Animated Horn appears to be amused.
-7776 : What do you have in store for your next number?
-7777 : The Animated Horn appears to be intrigued.
-7778 : This sound has little to offer.
-7779 : The Animated Horn appears to be disappointed.
-7780 : Thank you for listening to the last.
-7781 : The Animated Horn appears to have completely lost interest.
-7782 : Enough, I have heard all I need to hear.
-7783 : The Animated Horn appears to be growing extremely impatient.
-7784 : Will there be hope for an encore?
-7785 : The Animated Horn appears to be losing patience.
-7786 : It is time to bring this to an end.
-7787 : The Animated Horn appears to be steadily losing patience.
-7788 : This performance is drawing to a close.
-7789 : The Animated Horn appears to be losing interest.
-7790 : I am Aegis, the impervious shield of everlasting.
-7791 : Incredible... Perhaps you are the one to inherit the Supernal Shield...
-7792 : Enough! Your visage sickens me. Take your leave!
-7793 : The Animated Shield appears to be absolutely furious.
-7794 : Do you mock me!?
-7795 : The Animated Shield appears to be extremely agitated.
-7796 : Why are you here? Do you truly believe you have the power to penetrate my defense?
-7797 : The Animated Shield appears to be angry.
-7798 : You waste my time!
-7799 : The Animated Shield appears to be slightly irritated.
-7800 : I had such high expectations...
-7801 : The Animated Shield appears to be disgusted.
-7802 : You show some promise!
-7803 : The Animated Shield appears to be impressed.
-7804 : Tiresome... You may as well strike me with a feather...
-7805 : The Animated Shield appears to be bored.
-7806 : Ahahaha! Glorious! What will you try next?
-7807 : The Animated Shield appears to be amused.
-7808 : Well, well. I may find some amusement here after all.
-7809 : The Animated Shield appears to be intrigued.
-7810 : I have no more patience for you...
-7811 : The Animated Shield appears to be disappointed.
-7812 : It is time I took my leave. Farewell...
-7813 : The Animated Shield appears to have completely lost interest.
-7814 : I grow tired of your antics. Are there none to meet my challenge...?
-7815 : The Animated Shield appears to be growing extremely impatient.
-7816 : Have you no other techniques?
-7817 : The Animated Shield appears to be losing patience.
-7818 : Your blows lack substance...
-7819 : The Animated Shield appears to be steadily losing patience.
-7820 : I can hardly stifle a yawn...
-7821 : The Animated Shield appears to be losing interest.
-7822 : e prison of souls has set free its captive spirits!
-7823 : Wretched filth, dregs of the earth... Return to the feculent soil that birthed you.
-7824 : You maggots dare to return before me... I will rend the sallow flesh from your bones.
-7825 : I will not fade...I will not...perish... Shadow will enshroud this world...for...ever...more...
-7826 : This day, the rivers run red with your foul blood. Such is the fate of maggots who oppose my rightful rule...
-7827 : It seems you do not have enough of the soul fragments that Raebrimm requested.
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : he designation on the % has been canceled.
+7065 : connection error has occurred.
+7066 : he maximum number of people has been exceeded.
+7067 : There are signs that something fell here.
+7068 : ---== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in # [second/seconds].
+7069 : our clearance to remain in Dynamis has been restored. You will no longer be transported.
+7070 : Tallying conquest results...
+7071 : Conquest results tallied.
+7072 : This region is currently under San d'Orian control.
+7073 : This region is currently under Bastokan control.
+7074 : This region is currently under Windurstian control.
+7075 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7076 : This region is currently neutral.
+7077 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7078 : All three nations are tied for first place.
+7079 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7080 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7081 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7082 : All three nations are tied for first place.
+7083 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7084 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7085 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7086 : All three nations are tied for first place.
+7087 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7088 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7089 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7090 : All three nations are tied for first place.
+7091 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7092 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7093 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7094 : Global balance of power: All three nations are tied for first place.
+7095 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7096 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7097 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7098 : All three nations are tied for first place.
+7099 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7100 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7101 : Conquest update: This region is currently neutral.
+7102 : Conquest update: This region is currently under San d'Orian control.
+7103 : Conquest update: This region is currently under Bastokan control.
+7104 : Conquest update: This region is currently under Windurstian control.
+7105 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7106 : All three nations are at a deadlock.
+7107 : The beastmen are on the rise.
+7108 : Regional influence: San d'Oria - Dominant
+7109 : Regional influence: San d'Oria - Major
+7110 : Regional influence: San d'Oria - Minor
+7111 : Regional influence: San d'Oria - Minimal
+7112 : Bastok - Dominant
+7113 : Bastok - Major
+7114 : Bastok - Minor
+7115 : Bastok - Minimal
+7116 : Windurst - Dominant
+7117 : Windurst - Major
+7118 : Windurst - Minor
+7119 : Windurst - Minimal
+7120 : Bastok and Windurst have formed an alliance.
+7121 : San d'Oria and Windurst have formed an alliance.
+7122 : San d'Oria and Bastok have formed an alliance.
+7123 : Bastok and Windurst are currently allies.
+7124 : San d'Oria and Windurst are currently allies.
+7125 : San d'Oria and Bastok are currently allies.
+7126 : # #
+7127 : # % #
+7128 : ITEM_ID:# :#
+7129 : :# :#
+7130 : [//]:[////] :#:#
+7131 : The beastmen are gaining power.
+7132 : San d'Oria's regional control is now 10% closer to the first place country's!
+7133 : Bastok's regional control is now 10% closer to the first place country's!
+7134 : Windurst's regional control are now 10% closer to the first place country's!
+7135 : San d'Oria's region points have increased!
+7136 : Bastok's region points have increased!
+7137 : Windurst's region points have increased!
+7138 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7139 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7140 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7141 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7142 : A Bastokan Expeditionary Force has been dispatched to this area.
+7143 : A Windurstian Expeditionary Force has been dispatched to this area.
+7144 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7145 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7146 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7147 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7148 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7149 : There was a curse on the beastmen's banner!
+7150 : The curse of the beastmen's banner has been lifted!
+7151 : There is a beastmen's banner.
+7227 : # #
+7228 : # #
+7229 : The sands of the % have begun to fall. You have # minutes (Earth time) remaining in Dynamis.
+7230 : our stay in Dynamis has been extended by # minute[/s].
+7231 : ou will be expelled from Dynamis in # [second/minute] (Earth time).
+7232 : ou will be expelled from Dynamis in # [seconds/minutes] (Earth time).
+7233 : You have exceeded your allotted time. Now exiting Dynamis.
+7234 : The sands of the hourglass have emptied...
+7235 : You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
+7236 : What will you do? Leave Dynamis. Unlock support jobs. Nothing.
+7237 : Proceed out of Dynamis? Yes, leave. No, remain.
+7238 : Proceed in unlocking support jobs? Yes, unlock. No, retain.
+7239 : Memories of skills long forgotten come flooding back to you...
+7240 : You sense an aura of boundless rage...
+7241 : %...
+7242 : Or perhaps...
+7243 : You sense that something might happen if you possessed one of these...
+7244 : Or perhaps...
+7245 : %'s attack staggers the fiend!
+7246 : You feel an ominous presence, as if something might happen if you possessed %.
+7247 : Your allotted time is # minute[/s].
+7248 : The monster fades before your eyes, a look of disappointment on its face.
+7249 : DEBUG: Expulsion will occur at #.
+7250 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+7251 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
+7252 : You have returned to the field of battle.
+7253 : You have # [minute/minutes] (Earth time) to complete the battle.
+7254 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
+7255 : You have only # [second/seconds] (Earth time) remaining.
+7256 : Your time for this Confrontation is up...
+7257 : The monster fades before your eyes, a look of disappointment on its face.
+7258 : (Test message.)
+7259 : Enter the garrison? Yes. No.
+7260 : The % is ripped violently to pieces!
+7261 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+7262 : Hark! Our foe lurks thither. How wouldst thou proceed?
+7263 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
+7264 : Our foe advances...may thine aim be true!
+7265 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+7266 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+7267 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
+7268 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
+7269 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
+7270 : Beaucedine Glacier: [////] Xarcabard: [////]
+7271 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+7272 : Greetings, traveler! How dost thou fare in thine adventures?
+7273 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+7274 : Dost thou find this enchantment to thy liking?
+7275 : Accept the item? Accept. Refuse. (# times remaining)
+7276 : Splendid! May it serve thee well.
+7277 : % obtained %!
+7278 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+7279 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+7280 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
+7281 : Though it may fall short of thy expectations, pray accept it.
+7282 : Otherwise, we shall have no choice but to dispose of it.
+7283 : Many thanks for thine assistance!
+7284 : Pray accept this % as but a humble token of our gratitude.
+7288 : Writhing worms... Look at you crawl before me. I will end your meaningless existence...
+7289 : I will grind your feeble flesh. Your worthless lives will be torn from your bodies...
+7290 : Vain... All in vain. My soul will rise once more...
+7291 : Pitiful slugs. Pathetic wretches. I will build a mountain with your corpses. A river of blood shall flow...
+7292 : Greedy souls... You thirst for my blood. Will you take your fill from my wounds?
+7293 : Hah, hah... You cling to life so stubbornly... Troublesome fools...
+7294 : My...my blood you have spilled. You swarm my legs like a nest of maggots...
+7295 : Come forth, wyrms of light and shadow! My undying servants, your master calls you!
+7296 : Immortal drakes, defeated by these insignificant beings? How amusing.
+7297 : You fight in vain. Victory has always been beyond your reach.
+7298 : This insult... I will scour it away with your blood.
+7299 : Sightless grubs, how you struggle towards the light you cannot see. Give up your painful strivings. Give in to the darkness of oblivion.
+7300 : Frail mortals. I will tear your flesh and crush your bones...
+7301 : Quail before my might. Fear my terrible power. Your funeral dirge has begun. Its mournful notes sing of your demise.
+7302 : Fools...  Your deaths will serve to teach you the true nature of Dynamis...
+7303 : We are the dragons of light and shadow, guards of the Lord of Dynamis. No child of Altana shall pass.
+7304 : As long as we stand our vigil, you will proceed no further.
+7305 : Drake of Light! Return breath to my corporal shell...
+7306 : Drake of Shadow! Bring life into my veins once more...
+7307 : This is not possible, Drake of Light... Lord, we have failed you...
+7308 : Forgive me, Drake of Shadow, too late... Lord, we have fallen...
+7309 : Grasp the shrouded soul... Be reborn, Drake of Light!
+7310 : Devour the shrouded soul... Be reborn, Drake of Shadow!
+7311 : Hahahahaha... We are of one flesh and one soul. Our lord has granted us immortality.
+7312 : Hahahaha... We are of one flesh and one soul. Our lord has granted us immortality.
+7313 : I am known as the Fists of Mystics. Come, show me your fighting spirit.
+7314 : Impressive, you have beaten me...
+7315 : You do not understand at all, do you?
+7316 : The Animated Knuckles appear to be absolutely furious.
+7317 : Is this the best you can do?
+7318 : The Animated Knuckles appear to be extremely agitated.
+7319 : Come, come now.
+7320 : The Animated Knuckles appear to be angry.
+7321 : What was that supposed to be?
+7322 : The Animated Knuckles appear to be slightly irritated.
+7323 : What...?
+7324 : The Animated Knuckles appear to be disgusted.
+7325 : You're more skilled than I expected.
+7326 : The Animated Knuckles appear to be impressed.
+7327 : Pathetic.
+7328 : The Animated Knuckles appear to be bored.
+7329 : Not bad.
+7330 : The Animated Knuckles appear to be amused.
+7331 : What will you come up with next?
+7332 : The Animated Knuckles appear to be intrigued.
+7333 : That's it?
+7334 : The Animated Knuckles appear to be disappointed.
+7335 : I seem to have overestimated you. Farewell....
+7336 : The Animated Knuckles appear to have completely lost interest.
+7337 : I've almost had enough of this.
+7338 : The Animated Knuckles appear to be growing extremely impatient.
+7339 : I think I may just leave.
+7340 : The Animated Knuckles appear to be losing patience.
+7341 : I grow tired of this.
+7342 : The Animated Knuckles appear to be steadily losing interest.
+7343 : This is beginning to bore me...
+7344 : The Animated Knuckles appear to be losing interest.
+7345 : I am called the Ornate Blade. Now, show me your strength.
+7346 : You are the one to be my...
+7347 : You have not the slightest inkling, do you?
+7348 : The Animated Dagger appears to be absolutely furious.
+7349 : Your efforts leave me concerned for the future...
+7350 : The Animated Dagger appears to be extremely agitated.
+7351 : This is what makes you merely mortal.
+7352 : The Animated Dagger appears to be angry.
+7353 : This is all you can do?
+7354 : The Animated Dagger appears to be slightly irritated.
+7355 : Oh please.
+7356 : The Animated Dagger appears to be disgusted.
+7357 : You fight well.
+7358 : The Animated Dagger appears to be impressed.
+7359 : How dull.
+7360 : The Animated Dagger appears to be bored.
+7361 : Interesting technique.
+7362 : The Animated Dagger appears to be amused.
+7363 : This could be interesting.
+7364 : The Animated Dagger appears to be intrigued.
+7365 : You've let me down.
+7366 : The Animated Dagger appears to be disappointed.
+7367 : I'm sorry, but you do not meet my standards...
+7368 : The Animated Dagger appears to have completely lost interest.
+7369 : I have better things to do...
+7370 : The Animated Dagger appears to be growing extremely impatient.
+7371 : I think I will take my leave.
+7372 : The Animated Dagger appears to be losing patience.
+7373 : Shall we give up on this altogether?
+7374 : The Animated Dagger appears to be steadily losing interest.
+7375 : This is not as absorbing as I expected.
+7376 : The Animated Dagger appears to be losing interest.
+7377 : People have named me the Holy Blade. I will try thy resolution.
+7378 : Thou hast shown me thine unwavering will...
+7379 : Dost thou not realize thy error?
+7380 : The Animated Longsword appears to be absolutely furious.
+7381 : Foolishness.
+7382 : The Animated Longsword appears to be extremely agitated.
+7383 : No, this is not the way.
+7384 : The Animated Longsword appears to be angry.
+7385 : Dost thou not understand?
+7386 : The Animated Longsword appears to be slightly irritated.
+7387 : This is unbelievable.
+7388 : The Animated Longsword appears to be disgusted.
+7389 : Oho...
+7390 : The Animated Longsword appears to be impressed.
+7391 : What is this flippancy?
+7392 : The Animated Longsword appears to be bored.
+7393 : Thy technique is most fascinating.
+7394 : The Animated Longsword appears to be amused.
+7395 : Thou hast my attention...
+7396 : The Animated Longsword appears to be intrigued.
+7397 : Was I wrong to expect more of thee?
+7398 : The Animated Longsword appears to be disappointed.
+7399 : I am disappointed in thee.
+7400 : The Animated Longsword appears to have completely lost interest.
+7401 : Mayhap my faith in thee was misplaced...
+7402 : The Animated Longsword appears to be growing extremely impatient.
+7403 : Were my expectations too high?
+7404 : The Animated Longsword appears to be losing patience.
+7405 : Shall we end this?
+7406 : The Animated Longsword appears to be steadily losing interest.
+7407 : This grows tiresome.
+7408 : The Animated Longsword appears to be losing interest.
+7409 : I am the Intricate Blade. Show me the depths of your fury!
+7410 : Your rage is known to me...
+7411 : Is it death you seek?
+7412 : The Animated Claymore appears to be absolutely furious.
+7413 : Is this trial beyond you?
+7414 : The Animated Claymore appears to be extremely agitated.
+7415 : And that was...?
+7416 : The Animated Claymore appears to be angry.
+7417 : Come, you can do better.
+7418 : The Animated Claymore appears to be slightly irritated.
+7419 : Pathetic.
+7420 : The Animated Claymore appears to be disgusted.
+7421 : Now your fury has surfaced!
+7422 : The Animated Claymore appears to be impressed.
+7423 : This is not what I expected from you.
+7424 : The Animated Claymore appears to be bored.
+7425 : You are a spectacle, indeed.
+7426 : The Animated Claymore appears to be amused.
+7427 : What have you prepared for me?
+7428 : The Animated Claymore appears to be intrigued.
+7429 : Is that all?
+7430 : The Animated Claymore appears to be disappointed.
+7431 : Is this the extent of your anger?
+7432 : The Animated Claymore appears to have completely lost interest.
+7433 : There is nothing more you can show me.
+7434 : The Animated Claymore appears to be growing extremely impatient.
+7435 : I have seen all you have to give.
+7436 : The Animated Claymore appears to be losing patience.
+7437 : I grow weary of your presence.
+7438 : The Animated Claymore appears to be steadily losing patience.
+7439 : Is this all you the rage you can muster?
+7440 : The Animated Claymore appears to be losing interest.
+7441 : Me, axe. Runaeic, Axe. You, die?
+7442 : Me, hunger... My, hunger...lost...
+7443 : You, die?
+7444 : The Animated Tabar appears to be absolutely furious.
+7445 : Useless!
+7446 : The Animated Tabar appears to be extremely agitated.
+7447 : Come, fight!
+7448 : The Animated Tabar appears to be angry.
+7449 : Hrmmm....
+7450 : The Animated Tabar appears to be slightly irritated.
+7451 : Me, hunger...
+7452 : The Animated Tabar appears to be disgusted.
+7453 : You, fight, well.
+7454 : The Animated Tabar appears to be impressed.
+7455 : ...
+7456 : The Animated Tabar appears to be bored.
+7457 : Good! Fight!
+7458 : The Animated Tabar appears to be amused.
+7459 : Taste, good?
+7460 : The Animated Tabar appears to be intrigued.
+7461 : Taste, awful.
+7462 : The Animated Tabar appears to be disappointed.
+7463 : You, hopeless... Me, go, now...
+7464 : The Animated Tabar appears to have completely lost interest.
+7465 : You, hunger... Me, leave? Yes, leave...
+7466 : The Animated Tabar appears to be growing extremely impatient.
+7467 : You, dull. Me, hunger. Leave?
+7468 : The Animated Tabar appears to be losing patience.
+7469 : You, boring. Me, hunger.
+7470 : The Animated Tabar appears to be steadily losing patience.
+7471 : You, dull.
+7472 : The Animated Tabar appears to be losing interest.
+7473 : I have been given the title of Seraphic Axe. Will you attempt to survive my love?
+7474 : Your love has reached me...
+7475 : Use your head!
+7476 : The Animated Great Axe appears to be absolutely furious.
+7477 : I do not want simple fury.
+7478 : The Animated Great Axe appears to be extremely agitated.
+7479 : That is not what I seek.
+7480 : The Animated Great Axe appears to be angry.
+7481 : You wound me...
+7482 : The Animated Great Axe appears to be slightly irritated.
+7483 : Are you truly committed?
+7484 : The Animated Great Axe appears to be disgusted.
+7485 : Incredible.
+7486 : The Animated Great Axe appears to be impressed.
+7487 : Your attacks lack style...
+7488 : The Animated Great Axe appears to be bored.
+7489 : That's what I'm looking for!
+7490 : The Animated Great Axe appears to be amused.
+7491 : What could this be...? Looks impressive.
+7492 : The Animated Great Axe appears to be intrigued.
+7493 : I must have imagined it...
+7494 : The Animated Great Axe appears to be disappointed.
+7495 : I seem to have overpriced your value. Farewell...
+7496 : The Animated Great Axe appears to have completely lost interest.
+7497 : I give up trying to understand you!
+7498 : The Animated Great Axe appears to be growing extremely impatient.
+7499 : I don't think you're my type...
+7500 : The Animated Great Axe appears to be losing patience.
+7501 : Is it time to leave yet?
+7502 : The Animated Great Axe appears to be steadily losing patience.
+7503 : I have grown weary of your antics.
+7504 : The Animated Great Axe appears to be losing interest.
+7505 : I am the Stellar Spear. It is time to test your courage.
+7506 : You have proven your courage. Events have taken an interesting course...
+7507 : How you struggle...
+7508 : The Animated Spear appears to be absolutely furious.
+7509 : You disappoint me.
+7510 : The Animated Spear appears to be extremely agitated.
+7511 : Do not make me regret my actions.
+7512 : The Animated Spear appears to be angry.
+7513 : Can you not grasp the idea?
+7514 : The Animated Spear appears to be slightly irritated.
+7515 : Incompetence.
+7516 : The Animated Spear appears to be disgusted.
+7517 : Now you show promise.
+7518 : The Animated Spear appears to be impressed.
+7519 : I waste my time.
+7520 : The Animated Spear appears to be bored.
+7521 : Impressive move.
+7522 : The Animated Spear appears to be amused.
+7523 : Perhaps you do hold some potential...
+7524 : The Animated Spear appears to be intrigued.
+7525 : Was I reading too much into your ability?
+7526 : The Animated Spear appears to be disappointed.
+7527 : My time with you has been for naught.
+7528 : The Animated Spear appears to have completely lost interest.
+7529 : Shall I offer this opportunity to another?
+7530 : The Animated Spear appears to be growing extremely impatient.
+7531 : Shall I finish you off now?
+7532 : The Animated Spear appears to be losing patience.
+7533 : Has this battle become a pointless exercise?
+7534 : The Animated Spear appears to be steadily losing patience.
+7535 : I grow weary of your features.
+7536 : The Animated Spear appears to be losing interest.
+7537 : I am known as the Tenebrous Scythe. Overwhelm me with your greed for power.
+7538 : Hahahahaha... Your avarice has overcome me...
+7539 : This is your response?
+7540 : The Animated Scythe appears to be absolutely furious.
+7541 : You act without reason.
+7542 : The Animated Scythe appears to be extremely agitated.
+7543 : This is pointless.
+7544 : The Animated Scythe appears to be angry.
+7545 : Think before you act.
+7546 : The Animated Scythe appears to be slightly irritated.
+7547 : Childish.
+7548 : The Animated Scythe appears to be disgusted.
+7549 : Now your desire is real!
+7550 : The Animated Scythe appears to be impressed.
+7551 : I can't stop yawning...
+7552 : The Animated Scythe appears to be bored.
+7553 : Yes, let the greed consume you!
+7554 : The Animated Scythe appears to be amused.
+7555 : What are you scheming...?
+7556 : The Animated Scythe appears to be intrigued.
+7557 : Nothing special, it would seem.
+7558 : The Animated Scythe appears to be disappointed.
+7559 : Your lust for power is too limited...
+7560 : The Animated Scythe appears to have completely lost interest.
+7561 : Enough. Away with you.
+7562 : The Animated Scythe appears to be growing extremely impatient.
+7563 : Is this the depth of your desire?
+7564 : The Animated Scythe appears to be losing patience.
+7565 : I had thought this would prove far more amusing.
+7566 : The Animated Scythe appears to be steadily losing patience.
+7567 : If we could start the real fight sometime soon...?
+7568 : The Animated Scythe appears to be losing interest.
+7569 : I am called the Demoniac Blade. Allow me to witness your technique.
+7570 : Your impressive technique has won my admiration...
+7571 : Are you focused on this battle?
+7572 : The Animated Kunai appears to be absolutely furious.
+7573 : Pay attention.
+7574 : The Animated Kunai appears to be extremely agitated.
+7575 : Plan your strategy more completely...
+7576 : The Animated Kunai appears to be angry.
+7577 : Your tactics are childish...
+7578 : The Animated Kunai appears to be slightly irritated.
+7579 : You are reckless.
+7580 : The Animated Kunai appears to be disgusted.
+7581 : An excellent technique.
+7582 : The Animated Kunai appears to be impressed.
+7583 : This is no challenge...
+7584 : The Animated Kunai appears to be bored.
+7585 : You fight like a demon...
+7586 : The Animated Kunai appears to be amused.
+7587 : What strategy are you hatching?
+7588 : The Animated Kunai appears to be intrigued.
+7589 : You have led me into false anticipation.
+7590 : The Animated Kunai appears to be disappointed.
+7591 : I am sorry...
+7592 : The Animated Kunai appears to have completely lost interest.
+7593 : Where can my true master be found?
+7594 : The Animated Kunai appears to be growing extremely impatient.
+7595 : I must soon withdraw from this battle...
+7596 : The Animated Kunai appears to be losing patience.
+7597 : Perhaps you attempt this too early in your training...?
+7598 : The Animated Kunai appears to be steadily losing patience.
+7599 : Am I beyond your ability?
+7600 : The Animated Kunai appears to be losing interest.
+7601 : I am the Divine Blade. I demand a test of your will.
+7602 : You have proven the strength of your will...
+7603 : I have no time for amateurs.
+7604 : The Animated Tachi appears to be absolutely furious.
+7605 : Do your eyes truly see?
+7606 : The Animated Tachi appears to be extremely agitated.
+7607 : Use your intelligence.
+7608 : The Animated Tachi appears to be angry.
+7609 : Your reason lacks direction.
+7610 : The Animated Tachi appears to be slightly irritated.
+7611 : Simpleton.
+7612 : The Animated Tachi appears to be disgusted.
+7613 : A wise move.
+7614 : The Animated Tachi appears to be impressed.
+7615 : How tedious...
+7616 : The Animated Tachi appears to be bored.
+7617 : Most enjoyable...
+7618 : The Animated Tachi appears to be amused.
+7619 : I wonder what you intend...?
+7620 : The Animated Tachi appears to be intrigued.
+7621 : Is that all?
+7622 : The Animated Tachi appears to be disappointed.
+7623 : Come back when you are ready...
+7624 : The Animated Tachi appears to have completely lost interest.
+7625 : This is the extent of your ability?
+7626 : The Animated Tachi appears to be growing extremely impatient.
+7627 : You have shown me nothing of substance.
+7628 : The Animated Tachi appears to be losing patience.
+7629 : Will you persist in this endeavor?
+7630 : The Animated Tachi appears to be steadily losing patience.
+7631 : Shall we end this duel?
+7632 : The Animated Tachi appears to be losing interest.
+7633 : People have named me the Heavenly Hammer. I will test your might to its very limits.
+7634 : You have gained my favor. I have never seen a mortal resemble my true master so completely...
+7635 : Do you mean to infuriate me?
+7636 : The Animated Hammer appears to be absolutely furious.
+7637 : Think about the situation at hand...
+7638 : The Animated Hammer appears to be extremely agitated.
+7639 : This is your feeble retaliation?
+7640 : The Animated Hammer appears to be angry.
+7641 : Have you no sense of what transpires here?
+7642 : The Animated Hammer appears to be slightly irritated.
+7643 : Are you truly serious about this?
+7644 : The Animated Hammer appears to be disgusted.
+7645 : Your might commands respect.
+7646 : The Animated Hammer appears to be impressed.
+7647 : You disgust me.
+7648 : The Animated Hammer appears to be bored.
+7649 : Your blows carry some weight!
+7650 : The Animated Hammer appears to be amused.
+7651 : Are you holding something back?
+7652 : The Animated Hammer appears to be intrigued.
+7653 : Or was there nothing there in the first place?
+7654 : The Animated Hammer appears to be disappointed.
+7655 : Farewell...
+7656 : The Animated Hammer appears to have completely lost interest.
+7657 : I have overestimated your might...
+7658 : The Animated Hammer appears to be growing extremely impatient.
+7659 : My power would shatter your mortal frame.
+7660 : The Animated Hammer appears to be losing patience.
+7661 : My strength would be beyond your capability to control.
+7662 : The Animated Hammer appears to be steadily losing patience.
+7663 : Come, give me more sport than this...
+7664 : The Animated Hammer appears to be losing interest.
+7665 : I am called the Celestial Staff. I will glimpse into your mind's eye...
+7666 : You have impressed me. Let us meet again...
+7667 : Ignorant fool.
+7668 : The Animated Staff appears to be absolutely furious.
+7669 : Juvenile...
+7670 : The Animated Staff appears to be extremely agitated.
+7671 : Make use of your intelligence!
+7672 : The Animated Staff appears to be angry.
+7673 : Your inexperience betrays you...
+7674 : The Animated Staff appears to be slightly irritated.
+7675 : Puerile...
+7676 : The Animated Staff appears to be disgusted.
+7677 : That was a well-conceived attack...
+7678 : The Animated Staff appears to be impressed.
+7679 : Are you trying to lull me to sleep?
+7680 : The Animated Staff appears to be bored.
+7681 : Oho, an interesting play.
+7682 : The Animated Staff appears to be amused.
+7683 : You are calculating some new approach...
+7684 : The Animated Staff appears to be intrigued.
+7685 : Or were you just staring blankly...?
+7686 : The Animated Staff appears to be disappointed.
+7687 : Such a shame. But I have no time to humor the likes of you...
+7688 : The Animated Staff appears to have completely lost interest.
+7689 : You have disappointed me...
+7690 : The Animated Staff appears to be growing extremely impatient.
+7691 : I had thought your intellect more engaging...
+7692 : The Animated Staff appears to be losing patience.
+7693 : Is this the extent of your repertoire?
+7694 : The Animated Staff appears to be steadily losing patience.
+7695 : I will give you a little more of my time...
+7696 : The Animated Staff appears to be losing interest.
+7697 : I am known as the Snarled Bow. I will measure the limits of your determination.
+7698 : Your aim was impeccable...
+7699 : You have strength and little else.
+7700 : The Animated Longbow appears to be absolutely furious.
+7701 : You seek to overwhelm me with force?
+7702 : The Animated Longbow appears to be extremely agitated.
+7703 : Your aim is true, but you still miss the point...
+7704 : The Animated Longbow appears to be angry.
+7705 : Do you believe just hitting the target will suffice...?
+7706 : The Animated Longbow appears to be slightly irritated.
+7707 : You make no progress.
+7708 : The Animated Longbow appears to be disgusted.
+7709 : Your skill is beyond compare.
+7710 : The Animated Longbow appears to be impressed.
+7711 : This match has little flair...
+7712 : The Animated Longbow appears to be bored.
+7713 : Feel the stinging wind of arrows!
+7714 : The Animated Longbow appears to be amused.
+7715 : Your eyes have taken on a hawk's demeanor...
+7716 : The Animated Longbow appears to be intrigued.
+7717 : Have I mistaken your intensity?
+7718 : The Animated Longbow appears to be disappointed.
+7719 : I take my leave of you now...
+7720 : The Animated Longbow appears to have completely lost interest.
+7721 : This has dragged on overlong...
+7722 : The Animated Longbow appears to be growing extremely impatient.
+7723 : The battle has lost its spark...
+7724 : The Animated Longbow appears to be losing patience.
+7725 : Have you no other tricks in your quiver?
+7726 : The Animated Longbow appears to be steadily losing patience.
+7727 : I presently grow weary of this.
+7728 : The Animated Longbow appears to be losing interest.
+7729 : I am known as the Ethereal Rifle. Do you realize my incredible value?
+7730 : With your steady hand, any gun will be yours to master...
+7731 : Trigger happy...
+7732 : The Animated Gun appears to be absolutely furious.
+7733 : Like a cannon in the dark...
+7734 : The Animated Gun appears to be extremely agitated.
+7735 : You think hitting the target is enough?
+7736 : The Animated Gun appears to be angry.
+7737 : Adjust your aim.
+7738 : The Animated Gun appears to be slightly irritated.
+7739 : Do not waste ammunition.
+7740 : The Animated Gun appears to be disgusted.
+7741 : Well fired.
+7742 : The Animated Gun appears to be impressed.
+7743 : I miss the real wars...
+7744 : The Animated Gun appears to be bored.
+7745 : Now the battle lines have been drawn!
+7746 : The Animated Gun appears to be amused.
+7747 : What does that gleam in your eye forebode?
+7748 : The Animated Gun appears to be intrigued.
+7749 : Nothing more than that?
+7750 : The Animated Gun appears to be disappointed.
+7751 : I take my leave of the battlefield...
+7752 : The Animated Gun appears to have completely lost interest.
+7753 : The time to put up arms draws near...
+7754 : The Animated Gun appears to be growing extremely impatient.
+7755 : Perhaps I should find a new target...?
+7756 : The Animated Gun appears to be losing patience.
+7757 : What tedious sport...
+7758 : The Animated Gun appears to be steadily losing patience.
+7759 : This target has lost its appeal.
+7760 : The Animated Gun appears to be losing interest.
+7761 : I am called the Mysterial Horn. Show me your true intentions.
+7762 : I have seen the symphony in your heart...
+7763 : Those clashing notes offend my sensibilities.
+7764 : The Animated Horn appears to be absolutely furious.
+7765 : That is merely cacophonous drivel.
+7766 : The Animated Horn appears to be extremely agitated.
+7767 : You spout nothing but noise.
+7768 : The Animated Horn appears to be angry.
+7769 : What note are you striving for?
+7770 : The Animated Horn appears to be slightly irritated.
+7771 : Is that your true timbre?
+7772 : The Animated Horn appears to be disgusted.
+7773 : Your attacks follow a splendid melody.
+7774 : The Animated Horn appears to be impressed.
+7775 : What a monotonous ode.
+7776 : The Animated Horn appears to be bored.
+7777 : A pretty tune, indeed.
+7778 : The Animated Horn appears to be amused.
+7779 : What do you have in store for your next number?
+7780 : The Animated Horn appears to be intrigued.
+7781 : This sound has little to offer.
+7782 : The Animated Horn appears to be disappointed.
+7783 : Thank you for listening to the last.
+7784 : The Animated Horn appears to have completely lost interest.
+7785 : Enough, I have heard all I need to hear.
+7786 : The Animated Horn appears to be growing extremely impatient.
+7787 : Will there be hope for an encore?
+7788 : The Animated Horn appears to be losing patience.
+7789 : It is time to bring this to an end.
+7790 : The Animated Horn appears to be steadily losing patience.
+7791 : This performance is drawing to a close.
+7792 : The Animated Horn appears to be losing interest.
+7793 : I am Aegis, the impervious shield of everlasting.
+7794 : Incredible... Perhaps you are the one to inherit the Supernal Shield...
+7795 : Enough! Your visage sickens me. Take your leave!
+7796 : The Animated Shield appears to be absolutely furious.
+7797 : Do you mock me!?
+7798 : The Animated Shield appears to be extremely agitated.
+7799 : Why are you here? Do you truly believe you have the power to penetrate my defense?
+7800 : The Animated Shield appears to be angry.
+7801 : You waste my time!
+7802 : The Animated Shield appears to be slightly irritated.
+7803 : I had such high expectations...
+7804 : The Animated Shield appears to be disgusted.
+7805 : You show some promise!
+7806 : The Animated Shield appears to be impressed.
+7807 : Tiresome... You may as well strike me with a feather...
+7808 : The Animated Shield appears to be bored.
+7809 : Ahahaha! Glorious! What will you try next?
+7810 : The Animated Shield appears to be amused.
+7811 : Well, well. I may find some amusement here after all.
+7812 : The Animated Shield appears to be intrigued.
+7813 : I have no more patience for you...
+7814 : The Animated Shield appears to be disappointed.
+7815 : It is time I took my leave. Farewell...
+7816 : The Animated Shield appears to have completely lost interest.
+7817 : I grow tired of your antics. Are there none to meet my challenge...?
+7818 : The Animated Shield appears to be growing extremely impatient.
+7819 : Have you no other techniques?
+7820 : The Animated Shield appears to be losing patience.
+7821 : Your blows lack substance...
+7822 : The Animated Shield appears to be steadily losing patience.
+7823 : I can hardly stifle a yawn...
+7824 : The Animated Shield appears to be losing interest.
+7825 : e prison of souls has set free its captive spirits!
+7826 : Wretched filth, dregs of the earth... Return to the feculent soil that birthed you.
+7827 : You maggots dare to return before me... I will rend the sallow flesh from your bones.
+7828 : I will not fade...I will not...perish... Shadow will enshroud this world...for...ever...more...
+7829 : This day, the rivers run red with your foul blood. Such is the fate of maggots who oppose my rightful rule...
+7830 : It seems you do not have enough of the soul fragments that Raebrimm requested.

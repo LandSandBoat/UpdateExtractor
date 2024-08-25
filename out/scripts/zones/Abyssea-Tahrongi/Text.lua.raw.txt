@@ -7051,1050 +7051,1053 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : You can't fish here.
-7062 : You can't fish without a rod in your hands.
-7063 : You can't fish without bait on the hook.
-7064 : You can't fish at the moment.
-7065 : You didn't catch anything.
-7066 : % caught a monster!
-7067 : Your line breaks.
-7068 : Your rod breaks.
-7069 : Something caught the hook!
-7070 : You lost your catch.
-7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7072 : You feel there's something here.
-7073 : You feel there's something nearby.
-7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7075 : % caught  %!
-7076 : You dig and you dig, but find nothing.
-7077 : #/%
-7078 : Your rod breaks. Whatever caught the hook was pretty big.
-7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7081 : You lost your catch due to your lack of skill.
-7082 : Number fished : # Original Dice No. ## Result # (0=caught)
-7083 : You didn't catch anything.
-7084 : The paper on your % ripped.
-7085 : A tiny goldfish approaches!
-7086 : A plump, black goldfish approaches!
-7087 : A fat, juicy goldfish approaches!
-7088 : There are no goldfish to be found...
-7089 : % caught %, but cannot carry any more items. % regretfully releases it.
-7090 : The goldfish slipped off your scoop...
-7091 : ch# skill up check.
-7092 : a:#.
-7093 : Time # / Status # / #
-7094 : d:#. e:#. f:#. g:#.
-7095 : h: #. i: #. sr: #.
-7096 : j:#. k:#.
-7097 : You give up and reel in your line.
-7098 : You give up.
-7099 : % obtains # gil.
-7100 : % caught %!
-7101 : You don't know how much longer you can keep this one on the line...
-7102 : You have a good feeling about this one!
-7103 : You have a bad feeling about this one.
-7104 : You have a terrible feeling about this one...
-7105 : You don't know if you have enough skill to reel this one in.
-7106 : You're fairly sure you don't have enough skill to reel this one in.
-7107 : You're positive you don't have enough skill to reel this one in!
-7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7110 : l: #. m: #. n: #. CH: #.
-7111 : Something caught the hook!!!
-7112 : You feel something pulling at your line.
-7113 : Something clamps onto your line ferociously!
-7114 : Your keen angler's senses tell you that this is the pull of %!
-7115 : This strength... You get the sense that you are on the verge of an epic catch!
-7116 : The timer has started. # seconds remaining.
-7117 : #sec.#/#sec.
-7118 : 0:# 1:# 2:# 3:#
-7119 : 4:# 5:# 6:# 7:#
-7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7122 : #/#(#
-7123 : Version invalid error!
-7124 : Hurry before the goldfish sees you!
-7125 : % fishes up a large box!
-7127 : Fish No# / Bait No# / Hit# >>> #
-7128 : Point# >>> #
-7129 : %(#) skill#
-7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7131 : Im Rnd : # Pz Rnd : #
-7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7134 : skill : # size : # kind : # sch : #
-7135 : time : # mes : # flag : # bonus : #
-7136 : item : # hp : # pow : # swing : #
-7137 : suc : # cons : # weight : # +- : #
-7138 : speed : # +- : # exc : # client : #
-7139 : general : #
-7140 : ro:# rs:# ps:# dt:#
-7141 : ra:# ti:#
-7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7143 : You get the distinct sense that your moogle friend frequents this spot...
-7144 : You have a feeling that your moogle friend has been through this way...
-7145 : You suspect that the scenery around here would be to a moogle's liking...
-7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7147 : You have a hunch that this area would be favored by moogles...
-7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7149 : % catches # %!
-7150 : % obtained %!
-7151 : It appears your chocobo found this item with ease.
-7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7153 : FPT # DPT # DoT#
-7154 : FPT # TDPT # h#
-7155 : You cannot fish at this time.
-7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7157 : You discover a cache of beastman resources and receive # Imperial Standing!
-7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7159 : You receive # bayld!
-7160 : Your chocobo refuses to partake of the %.
-7161 : Tallying conquest results...
-7162 : Conquest results tallied.
-7163 : This region is currently under San d'Orian control.
-7164 : This region is currently under Bastokan control.
-7165 : This region is currently under Windurstian control.
-7166 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7167 : This region is currently neutral.
-7168 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7169 : All three nations are tied for first place.
-7170 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7173 : All three nations are tied for first place.
-7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7177 : All three nations are tied for first place.
-7178 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7180 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7181 : All three nations are tied for first place.
-7182 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7183 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7185 : Global balance of power: All three nations are tied for first place.
-7186 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7188 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7189 : All three nations are tied for first place.
-7190 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7191 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7192 : Conquest update: This region is currently neutral.
-7193 : Conquest update: This region is currently under San d'Orian control.
-7194 : Conquest update: This region is currently under Bastokan control.
-7195 : Conquest update: This region is currently under Windurstian control.
-7196 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7197 : All three nations are at a deadlock.
-7198 : The beastmen are on the rise.
-7199 : Regional influence: San d'Oria - Dominant
-7200 : Regional influence: San d'Oria - Major
-7201 : Regional influence: San d'Oria - Minor
-7202 : Regional influence: San d'Oria - Minimal
-7203 : Bastok - Dominant
-7204 : Bastok - Major
-7205 : Bastok - Minor
-7206 : Bastok - Minimal
-7207 : Windurst - Dominant
-7208 : Windurst - Major
-7209 : Windurst - Minor
-7210 : Windurst - Minimal
-7211 : Bastok and Windurst have formed an alliance.
-7212 : San d'Oria and Windurst have formed an alliance.
-7213 : San d'Oria and Bastok have formed an alliance.
-7214 : Bastok and Windurst are currently allies.
-7215 : San d'Oria and Windurst are currently allies.
-7216 : San d'Oria and Bastok are currently allies.
-7217 : # #
-7218 : # % #
-7219 : ITEM_ID:# :#
-7220 : :# :#
-7221 : [//]:[////] :#:#
-7222 : The beastmen are gaining power.
-7223 : San d'Oria's regional control is now 10% closer to the first place country's!
-7224 : Bastok's regional control is now 10% closer to the first place country's!
-7225 : Windurst's regional control are now 10% closer to the first place country's!
-7226 : San d'Oria's region points have increased!
-7227 : Bastok's region points have increased!
-7228 : Windurst's region points have increased!
-7229 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7230 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7231 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7232 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7233 : A Bastokan Expeditionary Force has been dispatched to this area.
-7234 : A Windurstian Expeditionary Force has been dispatched to this area.
-7235 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7236 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7237 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7238 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7239 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7240 : There was a curse on the beastmen's banner!
-7241 : The curse of the beastmen's banner has been lifted!
-7242 : There is a beastmen's banner.
-7318 : # #
-7319 : # #
-7320 : You do not have visitant status.
-7321 : % obtained the key item: %!
-7322 : % obtained the temporary item: %!
-7323 : % already possesses % and could not obtain another.
-7324 : % attains level #!
-7325 : % earns a merit point! (Total: #)
-7326 : Visitant Light Intensity Pearlescent: # / Ebon: # Golden: # / Silvery: #
-7327 : Azure: # / Ruby: # / Amber: #
-7328 : %'s attack staggers the fiend!
-7329 : The fiend is unable to cast magic.
-7330 : The fiend is unable to use special attacks.
-7331 : The fiend is frozen in its tracks.
-7332 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental magic!
-7333 : The fiend appears vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship] weapon skills!
-7334 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental weapon skills!
-7335 : Your visitant status will wear off in # [second/minute].
-7336 : Your visitant status will wear off in # [seconds/minutes].
-7337 : Your visitant status has worn off.
-7338 : Your visitant status has been extended by # [minute/minutes].
-7339 : Exiting in # [minute/minutes].
-7340 : Those without visitant status will be ejected from the area in # [minute/minutes]. To learn about this status, please consult a Conflux Surveyor.
-7341 : Exiting in # [second/minute].
-7342 : Exiting in # [seconds/minutes].
-7343 : Exiting now.
-7344 : Returning to the Searing Ward in # [second/seconds].
-7345 : You do not have visitant status. Returning to the Searing Ward in # [second/seconds].
-7346 : Returning to the Searing Ward in # [second/seconds].
-7347 : Returning to the Searing Ward now.
-7348 : If you wish to journey within Abyssea, bring me % and I will grant you visitant status.
-7349 : What would you like to do? Nothing. Learn about visitant status. Request visitant status. Extend visitant status.
-7350 : All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with %.
-7351 : Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, % is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
-7352 : Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
-7353 : A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
-7354 : Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional noise.
-7355 : When requesting visitant status, please indicate the number of % you wish to process. A greater number will allow you a longer stay.
-7356 : It is also possible to extend your visitant status by bringing me more %.
-7357 : To obtain %, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
-7358 : Lastly, I will explain in detail the myriad effects granted by the visitant status.
-7359 : Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
-7360 : Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
-7361 : All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
-7362 : That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
-7363 : I see you have # [minute/minutes] of visitant status remaining from your previous visit.
-7364 : Use how many %? None for now. Set to remaining time: # min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min.
-7365 : The ancient abyssite in your possession will grant you an additional # [minute/minutes] of visitant status.
-7366 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
-7367 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
-7368 : Total time obtained for this stay: # min. Confirm. Cancel.
-7369 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
-7370 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
-7371 : % expended: 0. Your visitant status has been set to # [minute/minutes].
-7372 : You could not extend your visitant status.
-7373 : Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
-7374 : What will you do? (Cruor balance: #) Nothing. Learn about cruor. Exchange for items. Exchange for temporary items. Exchange for key items. Exchange for enhancement effects. Dispose of abyssite.
-7375 : Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
-7376 : Known by some as blood gold, these red granules are highly prized and see use as both energy source and construction material.
-7377 : It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
-7378 : Chief among them being ancient abyssite, a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
-7379 : Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
-7380 : The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
-7381 : I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
-7382 : Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
-7383 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7384 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7385 : Select key item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7386 : Select enhancement. (Cruor: #) Nothing for now. Reraise: #. Protect: #. Shell: #. Regen: #. Refresh: #. HP boost: #. MP boost: #. STR-DEX boost: #. VIT-AGI boost: #. INT-MND-CHR boost: #. All enhancements: #.
-7387 : Discard which one? None for now. %. %. %. %. %. %. %. %. %. %. %.
-7388 : Trade for %?
-7389 : Trade for %?
-7390 : Trade for %? Yes. No.
-7391 : Trade for %? Yes. No.
-7392 : Trade for %? Yes. No.
-7393 : [//////HP/MP/STRDEX/VITAGI/INTMNDCHR/] Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]? Yes. No.
-7394 : Discard the %? Yes. No.
-7395 : You obtain % in exchange for # cruor!
-7396 : You obtain the temporary item: % in exchange for # cruor!
-7397 : You obtain the key item: % in exchange for # cruor!
-7398 : You receive [/the effect of Reraise/the effect of Protect/the effect of Shell/the effect of Regen/the effect of Refresh/a HP boost/a MP boost/a STR-DEX boost/a VIT-AGI boost/an INT-MND-CHR boost/all available enhancements] in exchange for # cruor!
-7399 : Very well. I shall dispose of this % in your stead.
-7400 : You relinquish the %.
-7401 : You do not have enough cruor.
-7402 : It appears you already possess that temporary item.
-7403 : It appears you already possess that key item.
-7404 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
-7405 : This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
-7406 : This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
-7407 : This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
-7408 : This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
-7409 : This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
-7410 : This ancient abyssite resonates with the ground beneath you, allowing you to obtain more %.
-7411 : This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
-7412 : This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
-7413 : This is a map of Abyssea - La Theine. Don't leave home without it!
-7414 : This is a map of Abyssea - Konschtat. Don't leave home without it!
-7415 : This is a map of Abyssea - Tahrongi. Don't leave home without it!
-7416 : This is a map of Abyssea - Attohwa. Don't leave home without it!
-7417 : This is a map of Abyssea - Misareaux. Don't leave home without it!
-7418 : This is a map of Abyssea - Vunkerl. Don't leave home without it!
-7419 : Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
-7420 : Trade for how many? (Cruor balance: #) None for now. # (# cruor). # (# cruor). ## cruor). ## cruor). # (# cruor).
-7421 : Trade for # of the item? Yes. No.
-7422 : You receive # ) in exchange for # cruor.
-7423 : Well met, wayfarer. I am an Atma Infusionist, and from my title I trust you can glean my field of expertise. Those who possess % may come to me to have atma infused.
-7424 : How might I serve you? You may not. Tell me about atma. Infuse me with atma. Examine infused atma. Purge atma. Reinfuse previous atma set. Select from recent history.
-7425 : Atma is most accurately described as the crystalline agglomeration of an Abyssean creature's soul. Through painstaking research, we infusionists have discovered a way to imbue ordinary people such as yourself with its power.
-7426 : Infusion makes possible the augmentation of individuals, granting them powers particular to the creature from which the atma is sourced.
-7427 : The infusion process requires three objects: an atma, %, and cruor.
-7428 : % is a rare variety of ancient abyssite that can only be procured with great difficulty. And it won't please you to know that atma is rarer still.
-7429 : For only the most savage creatures, you see, are known to yield atma. And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.
-7430 : Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.
-7431 : Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.
-7432 : The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.
-7433 : For instance, there are monsters known to be weak against magic-based weapon skills. Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.
-7434 : All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change. Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.
-7435 : Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.
-7436 : But should fortune smile upon you and you find yourself in possession of atma, bring it here. I will see that it serves you well.
-7437 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7438 : # cruor is required to infuse the %.
-7439 : Have % infused? Confirm. Cancel.
-7440 : You do not have enough cruor.
-7441 : You have already been infused with that atma.
-7442 : You cannot be infused with more than # atma at any given time. Please have an existing atma purged if you wish to replace it with another.
-7443 : Examine which atma? None for now. %. %. %.
-7444 : Purge which atma? None for now. %. %. %. Purge all.
-7445 : Purge %? Yes. No.
-7446 : Purge all atma? Yes. No.
-7447 : % expends # cruor and is now infused with %!
-7448 : % has been purged of the %.
-7449 : % has been purged of all infused atma.
-7450 : You have not been cleared for atma infusion.
-7451 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
-7452 : Reinfuse the following atma? On second thought, no. %. %. %. Make it so.
-7453 : # cruor will be required to reinfuse your previous atma configuration.
-7454 : Proceed with the infusion? Yes. No.
-7455 : % expends # cruor and [his/her] previous atma configuration is restored!
-7456 : It would seem you've already been infused with that atma configuration. Perhaps you meant to ask me to infuse some new atma instead?
-7457 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. %. %.
-7458 : Infuse the following atma? Cancel. %. %. %. Select new atma. Proceed.
-7459 : Replace currently infused atma? Yes, replace. No, cancel.
-7460 : # cruor is required to infuse the selected atma.
-7461 : Have the selected atma infused? Confirm. Cancel.
-7462 : % expends # cruor and is now infused with [his/her] chosen atma set!
-7463 : Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
-7464 : Ask for something? No thanks. Synthetic atma? My memories? Show me the atma.
-7465 : As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
-7466 : The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
-7467 : After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
-7468 : We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
-7469 : Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
-7470 : If you possess such memories, then I can bring forth the latent power that resides within you as well.
-7471 : Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
-7472 : Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
-7473 : But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
-7474 : Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
-7475 : We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
-7476 : Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
-7477 : Very well. We shall see what latent powers you possess. Stand still and clear your mind...
-7478 : Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
-7479 : Yes, I see within you # [memory/memories] that I could process into atma. Which shall I extract?
-7480 : ...And yet, I see nothing tangible enough for me to process. I am sorry.
-7481 : Synthesize atma? (Cruor balance: #) None for now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
-7482 : Expend # cruor? Yes. No.
-7483 : Very well. Let us begin the extraction.
-7484 : Still your heart, and empty your mind...
-7485 : The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
-7486 : Behold, the physical manifestation of the innermost power of your soul!
-7487 : The monster was concealing a treasure chest!
-7488 : The treasure chest will disappear in # [second/seconds].
-7489 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
-7490 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %. Add to lottable spoils. Destroy treasure chest.
-7491 : Which key item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
-7492 : Obtain the %? Yes. No.
-7493 : Obtain the %? Yes. No.
-7494 : Obtain the %? Yes. No.
-7495 : Obtain this temporary item?
-7496 : Obtain this item?
-7497 : % obtains the temporary item: %!
-7498 : % obtains the item: %!
-7499 : % obtains the key item: %!
-7500 : % transferred the contents of the pyxis to the cache of lottable spoils.
-7501 : You already possess that temporary item.
-7502 : You already possess that key item.
-7503 : That temporary item had already disappeared.
-7504 : That key item had already disappeared.
-7505 : That item had already disappeared.
-7506 : The treasure chest had already disappeared.
-7507 : % obtained # cruor.
-7508 : % obtains several temporary items!
-7509 : %'s body emits [a faint/a mild/a strong] pearlescent light!
-7510 : %'s body emits [a faint/a mild/a strong] golden light!
-7511 : %'s body emits [a faint/a mild/a strong] silvery light!
-7512 : %'s body emits [a faint/a mild/a strong] ebon light!
-7513 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] azure light!
-7514 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] ruby light!
-7515 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] amber light!
-7516 : You cannot open that treasure chest.
-7517 : % has claim over that treasure chest.
-7518 : Your party does not have claim over that treasure chest.
-7519 : %'s time limit has been reduced by # [minute/minutes].
-7520 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
-7521 : The treasure chest has disappeared.
-7522 : What will you do? Attempt to unlock it. Examine lock. Peer between the crack. Leave it be. Destroy the chest.
-7523 : Examine which temporary item? None of them. %. %. %. %. %. %. %. %.
-7524 : Examine which item? None of them. %. %. %. %. %. %. %. %.
-7525 : Key item: %.
-7526 : Key item: %. Key item: %.
-7527 : Key item: %. Key item: %. Key item: %.
-7528 : Key item: %. Key item: %. Key item: %. Key item: %.
-7529 : [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
-7530 : The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
-7531 : [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
-7532 : The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
-7533 : The treasure chest appears to be laden with numerous temporary items.
-7534 : The treasure chest appears to contain a strangely familiar stone fragment.
-7535 : The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
-7536 : The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
-7537 : Temporary item confirmed.
-7538 : Item confirmed.
-7539 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
-7540 : Unlocking this treasure chest requires # correct [guess/guesses]. It will disappear after # failed [attempt/attempts]. Current progress: # correct [guess/guesses].
-7541 : Previous: # (Success: # / Failure: #) Do nothing. Twist number dial up. Twist number dial down.
-7542 : Your selection has been rendered void. Another party member has already made a selection.
-7543 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
-7544 : This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
-7545 : Unlocking this treasure chest requires you to adjust air pressure to fall within ##. The allotted number of attempts is #. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: #
-7546 : Pressure: # / Target: ## / Tries left: # Do nothing. Pull lever down one notch. Pull lever down two notches. Pull lever down three notches.  Push lever up one notch. Push lever up two notches. Push lever up three notches.
-7547 : % [reduced/increased] the air pressure by # units. Current air pressure: #[/ (minimum)/ (maximum)]
-7548 : Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
-7549 : You have a hunch that the lock's combination is between ##. The allotted number of attempts is #.
-7550 : Attempts remaining: # Do nothing. Input combination.
-7551 : Please input a two-digit combination between ##.
-7552 : % inputs the number #[, but nothing happens./, successfully unlocking the chest!]
-7553 : You have a hunch that the lock's combination is [greater/less] than #.
-7554 : You have a hunch that the [second/first] digit is [even/odd].
-7555 : You have a hunch that the [second/first] digit is #.
-7556 : You have a hunch that the [second/first] digit is #, #, or #.
-7557 : You have a hunch that one of the digits is #.
-7558 : You have a hunch that the sum of the two digits is #.
-7559 : % succeeded in opening the lock!
-7560 : % failed to open the lock.
-7561 : % uses % and opens the lock!
-7562 : What will you do? (Cruor balance: #) Nothing. Activate Conflux #0# (#). Do not use. Warp to Conflux #01: #. Warp to Conflux #02: #. Warp to Conflux #03: #. Warp to Conflux #04: #. Warp to Conflux #05: #. Warp to Conflux #06: #. Warp to Conflux #07: #. Warp to Conflux #08: #. Warp to Conflux #00: #.
-7563 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
-7564 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? Yes. No.
-7565 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
-7566 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? Yes. No.
-7567 : You used # cruor.
-7568 : You do not have enough cruor.
-7569 : Veridical Conflux #0[1/2/3/4/5/6/7/8/0] has been activated for %!
-7570 : What will you do? (Energy level: #) Nothing for now. Recover HP: #. Recover MP: #. Recover from status ailments: #. Prepare to replenish martello. Prepare to upgrade martello. Replenish from the [east/southeast/south/southwest/west/northwest/north/northeast]. Upgrade from the [east/southeast/south/southwest/west/northwest/north/northeast]. Cease replenishing this martello. Cease upgrading this martello. Cease replenishing other martello. Cease upgrading other martello.
-7571 : [Recover HP/Recover MP/Recover from status ailments]? Yes. No.
-7572 : The martello does not have enough energy.
-7573 : Recovery was unnecessary.
-7574 : Prepare to [replenish/upgrade] this martello? Yes. No.
-7575 : This martello does not need to be [replenished/upgraded].
-7576 : To [replenish/upgrade] the martello, please examine it from the [east/southeast/south/southwest/west/northwest/north/northeast]. Please be aware that your positioning directly impacts the efficiency of the process. You can [replenish/upgrade] only one martello at any given time. To commence work on another, you must either wait for the process to be completed, or cancel it.
-7577 : [Replenish/Upgrade] from this direction? Yes. No.
-7578 : The martello's [energy/energy capacity] has [recovered/increased] by #! The [replenishment/upgrading] effort was [successful./a great success./a tremendous success!/an unparalleled success!]
-7579 : Please note that martello recast time is # [minute/minutes].
-7580 : You must wait another # [minute/minutes] to use the martello.
-7581 : You cannot use the martello at this time.
-7582 : Cease [replenishing/upgrading] this martello? Yes. No.
-7583 : You have canceled [replenishing/upgrading] [this/the other] martello.
-7584 : You sense an aura of boundless rage...
-7585 : Your keen senses tell you that something may happen if only you had [this item/these items].
-7586 : %...
-7587 : %...
-7588 : Use the [key item/key items]? Yes. No.
-7589 : "Triple Attack"+: Major Physical damage taken -: Minor Lightning elemental attack +: Major
-7590 : STR+: Major Attack+: Superior Ranged Attack+: Major
-7591 : Defense+: Major "Magic Def. Bonus"+: Minor Enhances "Resist Charm" effect: Minor
-7592 : MP+: Superior MND+: Major Enmity-: Major
-7593 : Enmity critical hit rate -: Minor Enhances "Resist Slow" effect: Major Enhances "Resist Curse" effect: Major
-7594 : Magic Accuracy+: Major Physical damage taken -: Minor Enhances "Resist Paralysis" Effect: Major
-7595 : Attack+: Major "Magic Atk. Bonus": Major
-7596 : HP+: Superior Enh. "Resist Sleep" effect: Superior
-7597 : Damage taken -: Minor Enhances "Resist Silence" effect: Major
-7598 : AGI+: Major "Double Attack"+: Major
-7599 : STR+: Superior "Double Attack"+: Major "Regain": Major
-7600 : Accuracy+: Major Evasion+: Major Enh. resistance against "Death": Minor
-7601 : Wind elemental accuracy +: Major Lightning elemental accuracy +: Major "Refresh": Minor
-7602 : "Subtle Blow"+: Major Water damage attack +: Major Enhances "Resist Poison" effect: Major
-7603 : Defense+: Major "Magic Def. Bonus": Minor "Regen": Major
-7604 : "Magic Atk. Bonus": Major Ice elemental attack +: Major Light elemental attack +: Major
-7605 : VIT+: Major Breath damage taken -: Major
-7606 : Wind elemental attack +: Major Wind elemental accuracy +: Major
-7607 : CHR+: Major Critical hit rate +: Minor
-7608 : Ranged Attack+: Major Ranged Accuracy+: Major
-7609 : Attack+: Major Defense+: Major "Regen": Major
-7610 : STR+: Major "Double Attack"+: Major Enhances "Resist Sleep" effect: Major
-7611 : Enh. "Drain" and "Aspir" effects: Major "Store TP"+: Minor Enhances "Resist Slow" effect: Major
-7612 : Darkness elemental attack +: Major Enhances "Resist Amnesia" effect: Major Enhances "Resist Silence" effect: Major
-7613 : Attack+: Major Evasion+: Major Enh. "Resist Paralysis" effect: Major
-7614 : "Double Attack"+: Major Enhances "Resist Bind" effect: Major Enhances "Resist Blind" effect: Major
-7615 : VIT+: Minor Defense+: Major
-7616 : Enhances "Resist Slow" effect: Major Enhances "Resist Blind" effect: Major
-7617 : Earth elemental attack +: Major Earth elemental accuracy +: Major
-7618 : STR+: Minor Darkness elemental accuracy +: Major
-7619 : INT+: Major "Conserve TP"+: Minor Fire elemental accuracy +: Major
-7620 : MND+: Minor Earth elemental accuracy +: Major Occasionally annuls magic damage taken
-7621 : MND+: Superior "Conserve MP"+: Minor Ice elemental attack +: Minor
-7622 : HP+: Superior Magic Accuracy+: Major Magic critical damage +: Major
-7623 : Attack+: Minor Magic critical hit rate +: Major Fire elemental attack +: Major
-7624 : STR+: Minor TP Bonus+: Minor Occasionally annuls physical damage
-7625 : Skillchain Bonus+: Minor STR+: Minor
-7626 : MND+: Minor Water elemental accuracy +: Minor
-7627 : "Fast Cast"+: Minor Spell interruption rate down: Minor
-7628 : "Store TP"+: Minor "Waltz" potency+: Minor
-7629 : AGI+: Superior Critical hit rate +: Major "Counter"+: Minor
-7630 : STR+: Minor VIT+: Minor AGI+: Major
-7631 : "Subtle Blow"+: Minor "Store TP"+: Minor Song spellcasting time -: Major
-7632 : VIT+: Superior "Regen": Superior Enmity decrease when taking damage -: Minor
-7633 : DEX+: Superior Critical hit rate +: Superior Critical hit damage +: Major
-7634 : "Regain": Minor <LTG>+: Minor <WTR>+: Minor
-7635 : "Triple Attack"+: Minor Breath damage taken -: Major
-7636 : Haste+: Minor Enhances effects of rice balls
-7637 : VIT+: Minor DEX+: Minor
-7638 : CHR+: Minor "Triple Attack"+: Minor
-7639 : HP+: Major Critical hit damage +: Major Enmity+: Minor
-7640 : "Fast Cast"+: Minor Water elemental attack +: Minor Water elemental accuracy +: Minor
-7641 : INT+: Superior "Refresh": Major Enmity-: Minor
-7642 : "Regain": Minor "Conserve TP"+: Minor TP Bonus+: Minor
-7643 : "Conserve MP"+: Minor Lightning elemental attack +: Major Magic damage taken -: Minor
-7644 : Attack+: Major "Double Attack"+: Major Occasionally absorbs magic damage
-7645 : Evasion+: Minor <WND>+: Major
-7646 : AGI+: Minor <FIR>+: Major
-7647 : <DKN>+: Major "Resist Stun"+: Major
-7648 : Haste+: Minor Enhances monster correlation effects
-7649 : Magic Accuracy+: Superior "Fast Cast"+: Superior (Same elemental magic as weather) Enmity-: Superior
-7650 : "Magic Atk. Bonus": Minor "Magic Def. Bonus": Minor <FIR>+: Superior
-7651 : <ERT>+: Superior Damage taken -: Minor Gain full benefit of Earthsday/earth weather bonuses
-7652 : <WND>+: Superior Haste+: Major Enhances "Snapshot" effect: Minor
-7653 : "Store TP"+: Major Critical hit rate +: Minor Enhances "Resist Bind" effect: Superior
-7654 : HP+: Major MP+: Major DEX+: Minor
-7655 : STR+: Minor Fire-based weapon skill damage+: Major Gain full benefit of Firesday/fire weather bonuses
-7656 : TP Bonus+: Superior (2H weapon equipped) WS accuracy+: Superior
-7657 : Attack+: Minor Fire elemental attack +: Major
-7658 : Haste+: Minor Enmity-: Minor
-7659 : Elemental magic skill+: Major Gain full benefit of Windsday/wind weather bonuses
-7660 : Attack+: Minor Enh. "Resist Paralysis" effect: Superior
-7661 : Accuracy+: Major Evasion+: Major
-7662 : DEX+: Superior Haste+: Superior Enmity+: Minor
-7663 : DEX+: Minor <LTG>+: Superior Gain full benefit of Lightningday/lightning weather bonuses
-7664 : INT+: Minor <ICE>+: Superior Gain full benefit of Iceday/ice weather bonuses
-7665 : "Regen": Minor "Store TP"+: Major "Double Attack"+: Minor
-7666 : Defense+: Superior "Magic Def. Bonus": Minor "Conserve TP"+: Major
-7667 : <LIT>+: Superior Light elemental attack +: Major Gain full benefit of Lightsday/light weather bonuses
-7668 : MND+: Minor <WTR>+Superior Gain full benefit of Watersday/water weather bonuses
-7669 : Accuracy+: Minor (2H weapon equipped) WS damage +: Minor
-7670 : VIT+: Major INT+: Major
-7671 : Song recast delay -: Superior Enhances "Dia" effect
-7672 : "Store TP"+: Major Occasionally increases TP gained when taking damage
-7673 : "Subtle Blow"+: Minor Enmity+: Major
-7674 : "Store TP"+: Major "Conserve TP"+: Major
-7675 : CHR+: Superior Occasionally absorbs magic damage "Save TP": Major
-7676 : "Triple Attack"+: Minor Breath damage taken -: Major Enhances "Zanshin" effect: Minor
-7677 : Enh. resistance against "Death": Major (HP above 25%) Damage taken-: Major (HP above 25%) "Slip damage": Superior
-7678 : "Regain": Superior "Slow"+: Superior (Daytime) "Regen": Superior
-7679 : (Depending on day) Magic Accuracy+: Major (Depending on day) Enhances elemental magic (Depending on day) Elemental WS damage+: Minor
-7680 : MP+: Minor (Daytime) "Refresh": Superior "Addle"+: Superior
-7681 : MND+: Minor <DRK>+: Superior Gain full benefit of Darksday/dark weather bonuses
-7682 : Attack+: Minor (2H weapon equipped) "Regain"+: Major
-7683 : Attack+: Minor "Double Attack"+: Major
-7684 : Accuracy+: Superior Enhances "Resist Petrify" effect: Superior
-7685 : Occasionally absorbs physical damage Occasionally absorbs magic damage taken
-7686 : INT+: Major MND+: Major
-7687 : AGI+: Minor Ranged Attack+: Major
-7688 : "Triple Attack"+: Superior Quick Magic Auto-reraise
-7689 : MP+: Minor "Regain": Minor Light elemental accuracy +: Minor
-7690 : STR+: Minor Critical hit damage +: Minor "Regen": Minor
-7691 : INT+: Minor Magic attack +: Minor "Refresh": Minor
-7692 : MND+: Minor Enhances magic burst effect +: Minor Depending on day: enhances elemental magic
-7693 : MP+: Minor Darkness elemental attack +: Minor Darkness elemental accuracy +: Minor
-7694 : STR+: Minor Magic damage taken -: Minor Light elemental attack +: Minor
-7695 : Haste+: Minor "Fast Cast"+: Minor "Magic Def. Bonus": Superior
-7696 : "Store TP"+: Minor Cure spellcasting time -: Minor Song recast delay -: Superior
-7697 : DEX+: Minor <DKN>+: Minor Weapon skill accuracy +: Minor
-7698 : MP+: Major Magic critical hit rate +: Major "Blood Pact" ability delay -: Minor
-7699 : VIT+: Minor (Depending on day:) Magic Accuracy+ / Elemental WS damage +: Minor
-7700 : Magic Evasion+: Minor "Treasure Hunter"+: Minor Increases "Samba" duration: Minor
-7701 : "Refresh": Minor "Fast Cast"+: Minor Movement speed +: Major
-7702 : Attack+: Minor VIT+: Minor Enh. "Beast Killer" effect: Minor
-7703 : AGI+: Major INT+: Major Magic Accuracy+: Major
-7704 : "Magic Atk. Bonus": Superior Enh. "Zanshin" effect: Superior Enh. "Demon Killer" effect: Major
-7705 : "Subtle Blow"+: Superior Enmity-: Superior Occasionally absorbs physical damage
-7706 : "Magic Atk. Bonus": Minor Enhances "Dragon Killer" effect: Minor (Wyvern) HP+: Superior
-7707 : Breath damage taken -: Major Enh. "Lizard Killer" effect: Minor "Regen": Major
-7708 : HP-: Major Attack+: Superior "Triple Attack"+: Major
-7709 : MP-: Superior "Magic Atk. Bonus": Superior Magic Accuracy+: Superior
-7710 : "Double Attack"+: Minor "Triple Attack"+: Minor Enh. "Arcana Killer" effect: Minor
-7711 : AGI+: Minor Evasion+: Minor Critical hit rate +: Major
-7712 : HP+: Minor MP+: Minor Damage taken -: Minor
-7713 : "Regen": Minor "Refresh": Minor "Regain": Minor
-7714 : "Magic Def. Bonus"+: Minor "Fast Cast"+: Major "Cure" potency+: Minor
-7715 : Haste+: Major Increases duration of "Absorb" spells Magic Evasion+: Minor
-7716 : STR+: Minor MND+: Minor Enh. resistance against "Death": Superior
-7717 : VIT+: Minor Enhances "Dual Wield" effect (2H weapon equipped) Attack+: Major
-7718 : HP+: Major MP+: Major "Save TP": Major
-7719 : (HP below 25%) "Regen": Major (HP below 25%) "Refresh": Superior Resistance to status ailments+: Minor
-7720 : "Resist Stun"+: Major Enhances all attributes+: Minor Movement speed +: Major
-7721 : HP-: Minor MP+: Major "Magic Atk. Bonus": Minor
-7722 : Great Sword skill+: Major Scythe skill+: Major (2H weapon equipped) WS damage+: Major
-7723 : "Magic Atk. Bonus": Minor Magic critical damage +: Major "Conserve MP"+: Superior
-7724 : CHR+: Minor Accuracy+: Major Magic Accuracy+: Major
-7725 : HP+: Minor Accuracy+: Minor Increases cruor yield.
-7726 : (HP below 25%) VIT+: Superior (HP below 25%) AGI+: Superior (HP below 25%) "Regain": Major
-7727 : "Double Attack"+: Major (HP above 50%) "Slow"+: Superior (HP below 50%) "Haste"+: Superior
-7728 : STR+: Major Evasion-: Major Counter+: Major
-7729 : HP+: Superior STR+: Major Damage taken +: Major
-7730 : (Guard) Damage taken -: Major (HP below 50%) Damage taken -: Superior (HP below 50%) Movement speed -: Superior
-7731 : "Cure" potency+: Minor Enhancing magic skill+: Major "Waltz" potency+: Minor
-7732 : MP+: Minor (HP below 50%) "Refresh": Major (HP below 50%) "Fast Cast"+: Superior
-7733 : Enhances all attributes+: Superior Resistance to status ailments+: Superior Occasionally absorbs damage taken
-7734 : In The Wyrm God, temporary items cannot be used and all effects will be removed.
-7735 : Atma will be deactivated in The Wyrm God.
-7736 : Time debug: Time limit: # [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
-7737 : Time debug: Do what? Nuttin'. Increase time limit. Reduce time limit. Switch OFF "Search flag switched ON flag." Forced exit flag OFF. Receive one %.
-7738 : Time debug: Increase by how much? Return. +0 minute. +1 minute. +2 minutes. +3 minutes. +5 minutes. +10 minutes. +15 minutes. +30 minutes. +45 minutes. +60 minutes. +75 minutes. +90 minutes. +120 minutes.
-7739 : Time debug: Reduce by how much?  -0 minute. -1 minute. -2 minutes. -3 minutes. -5 minutes. -10 minutes. -15 minutes. -30 minutes. -45 minutes. -60 minutes. -75 minutes. -90 minutes. -120 minutes.
-7740 : Time debug: Your time limit has been set to # minute(s).
-7741 : Time debug: Your time limit has been [increased by/reduced by] # minute(s). New time limit is # [sec/min].
-7742 : Time debug: Search flag is now [OFF/ON].
-7743 : Time debug: "Search flag ON flag" is now [OFF/ON].
-7744 : Time debug: Forced exit flag is now [OFF/ON].
-7745 : Time debug: You got %!
-7746 : FB Debug: [No error/Lack of info error/Monster number error/Spawn rate incorrect/Casket type incorrect/Casket rank incorrect/Casket empty/Search flag error].
-7747 : FB Debug: Spawn rate #/#
-7748 : FB Debug: Recovery obtainment = # / Probability fluctuation =# / Item = #.
-7749 : FB Debug: Recovery obtainment value = # / Probability fluctuation value = # / Item value = #.
-7750 : FB Debug: Casket type probability # / # Casket type fixed = #.
-7751 : FB Debug: Casket rank bonus value = # Casket rank fixed = #.
-7752 : defpc processing debug: XP obtainment bonus value = #.
-7753 : defpc processing debug: Cruor obtainment bonus = #.
-7754 : defpc processing debug: NMs defeated = #.
-7755 : defpc processing debug: FB spawn rate bonus value = #.
-7756 : defpc processing debug: FB recovery obtainment-type rank & spawn rate bonus value = #.
-7757 : defpc processing debug: FB probability fluctuation-type rank & spawn rate bonus value = #.
-7758 : defpc processing debug: FB Item-type rank & spawn value bonus value = #.
-7759 : AP Debug: Do what? Nuttin'. AP: Adjust elapsed time. AP: Adjust number of quests cleared for all PCs. AP: Adjust amount of XP obtained for all PCs. AP: Adjust amount of cruor for all PCs. AP: Adjust number of NMs defeated for all PCs. AP: Adjust number of HNMs defeated for all PCs. AP: Adjust pollution levels for this area. AP: Adjust number of defenses for this area. OT: Acquire info pertaining to "Order Trophy."
-7760 : Elapsed time: #P (1P = # min)
-7761 : XP: #P (1P = # QUEST)
-7762 : XP: #P (1P = # XP)
-7763 : Cruor: #P (1P = # cruor)
-7764 : NMs defeated: #P (1P = # NM)
-7765 : HNMs defeated: #P (1P = # HNM)
-7766 : Pollution level: # P
-7767 : Number of defenses: # P
-7768 : Change value? No thanks. Increase. Decrease.
-7769 : All clear to receive the effect of "Flee"?  Oh Goddess, no!   Bring it on!
-7770 : Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with # minute(s) of "Flee."
-7771 : OT Debug: Do what? Nothing for now. OT: Obtainment bonus. OT: Fortune rate. OT: Externimation record.
-7772 : Obtained bonus work. XP added: #. Cruor added: #. NMs defeated: #.
-7773 : Fortune rate work. Spawn rate added value: # Blue casket spawn rate: # Red casket spawn rate: # Gold casket spawn rate: #
-7774 : Extermination record work. Previous monster defeated: #. No. of same ID defeated: #. No. of diff. ID defeated: #.
-7775 : Nothing happens...
-7776 : You can feel the warm, moist breath of the maw on your skin.
-7777 : An unseen force is drawing you towards the maw.
-7778 : A portal has opened within the depths of the maw.
-7779 : Raise your %? Yes. No.
-7780 : You fit the % into the hollow.
-7781 : There is a hollow here in the shape of %.
-7782 : The lycopodium is entranced by a sparkling light...
-7783 : Your memory is engraved with an image of your surroundings and the fragrance of flowers...
-7784 : The ground is sparkling with a strange light.
-7785 : The sparkling light seems vaguely familiar to you...
-7786 : You sense that a certain trigger may awaken the memories slumbering in your mind.
-7787 : The fragrance of the flower sends your senses reeling back to the world of the past...
-7788 : The relevant battle data has been recorded in your %.
-7789 : An unseen force is drawing you towards the maw.
-7790 : Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? Proceed. Not yet.
-7791 : Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? Proceed. Not yet.
-7792 : You do not possess %...
-7793 : Your body cannot cope with further strain. You must rest for another # [minute/minutes].
-7794 : To where will you head? [The past/The present]. Walk of Echoes. Nowhere for now.
-7795 : These martellos are defensive fortifications developed by the resistance to aid in our battle against the fell hordes. Enchanted structures, they may be employed to restore your health and magic, cure ailments, and generally restore you to fighting trim.
-7796 : I have been entrusted with the supervision and maintenance of these martellos...but this is none of your concern.
-7797 : I have been entrusted with the supervision and maintenance of these martellos. Would you be needing something of me?
-7798 : Need something? Assist with replenishment. Assist with upgrades. Martellos? Come again? Nothing in particular.
-7799 : Splendid! Your aid is a great boon to the resistance effort. To replenish a martello, you'll need to insert one of these % into the structure.
-7800 : Be forewarned: you will be unable to carry these and % at the same time.
-7801 : Take along the %? Yes. No.
-7802 : We would be particularly indebted to you for efficient replenishment of martellos in remote locations. Best of luck in your efforts!
-7803 : Why, is that not % already in your posssesion? You need only insert that into a martello to initiate replenishment.
-7804 : I see that you currently possess %. Do you wish to abandon your upgrading efforts and participate in replenishment instead?
-7805 : You return the % and obtain % in its stead!
-7806 : Your support is most heartening in these dark times. Upgrading a martello will require you to attach a device known as %.
-7807 : Mind you, the device is rather unwieldy. You will not be able to carry it and % at the same time.
-7808 : Excellent. I would be especially appreciative if you could upgrade those martellos in distant locations--the quicker the better. Be careful out there!
-7809 : Hm? Is that not % you hold in your hand? You need only find the martello you wish to upgrade, and attach it.
-7810 : Is that % I see? Do you wish to curtail your replenishment activities and assist with upgrading instead?
-7811 : Welcome back, friend! Allow me to take that % off your hands. How did you fare in your efforts?
-7812 : I see, I see... Martello #0#, you say? It sounds as if the operation was [a modest success./a reasonable success./a rousing success!/an unqualified success!]
-7813 : The resistance greatly values your contributions. Take this as a small token of our appreciation, and do not hesitate to return the next time you are willing to lend your support.
-7814 : I've been working with these here martellos since I was knee-high. Ask away, and my knowledge is yours.
-7815 : Ask something? So, what's a martello? Martello replenishment. Martello upgrades. Cautionary notes. Not now.
-7816 : The device we know as the martello was first developed by military engineers many years past, during an age of great war. Martellos serve to keep combatants fighting fit, healing their wounds and restoring their mental energies.
-7817 : You will observe that martellos have been constructed in numerous locales, so as to provide strategically located safe havens for harried resistance fighters. No doubt you will find yourself making use of them as well.
-7818 : In the bowels of each martello is contained a tank designed to hold martello fuel.
-7819 : This % is the lifeblood of the martello, and the source of its curative powers. Depleted stores will render the device little more than an oversized parchmentweight.
-7820 : That being the case, we're in continual need of volunteers willing to take on the vital task of replenishing these martellos.
-7821 : I have been charged with overseeing a supply of martello fuel. Should you be willing to take part in a replenishment run, you need only say the word. Needless to say, you will not go unrewarded for your efforts.
-7822 : Feast your eyes on this %. She's a beauty, isn't she? Installing one of these into a martello will increase its fuel capacity.
-7823 : An upgraded martello will be able to sustain its energy stores for a longer time between replenishment operations. Needless to say, this is a blessing and a half to those on the battlefield.
-7824 : Unfortunately, the installation procedure is quite complex. As such, we can only entrust it to experienced hands.
-7825 : % are quite large and unwieldy. Even the burliest among us would be unable to carry one and % at the same time.
-7826 : Furthermore, these materials are quite unstable, and will rapidly corrode and be rendered useless if brought outside our immediate environs.
-7827 : 'Course, not that anyone could manage to travel that far, what with these fearsome landslides...
-7828 : Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
-7829 : Your % has been lost.
-7830 : The resistance is currently suffering a materials shortage. Those wishing to participating in replenishment and upgrading operations should return at a later time.
-7831 : The % breaks!
-7832 : Table: #
-7833 : Mining is possible here if you have %.
-7834 : Probability of loss = #/10000.
-7835 : Your % breaks!
-7836 : You successfully dig up %!
-7837 : You dig up %, but your % breaks in the process.
-7838 : You are unable to mine anything.
-7839 : You cannot carry any more items. Your inventory is full.
-7840 : Why, that's odd. Wherever-wever did it disappear to...?
-7841 : Why, hullo there. You have the look of a bravey-wave soul just itching to venture outside of this encampmentaru. How about lending me a helping hand?
-7842 : You're familiar with the Cardians, are you not? Those cutesy-wutesy little fellers patrolling the area.
-7843 : They're more than just decoration, you know. Why, they serve a valuable role in protecting us from the ghastly crittarus roaming about this canyon!
-7844 : With the fiends growing ever-wever fiercer, we simply can't have enough of them. Unfortunately, I seem to have exhaustarued my supply of the starfruits essential for their construction.
-7845 : Plentifully they once grew within the walls of Windurst, but alas! Now, all that remains of our supply is stored at the encampmentaru northwest of here.
-7846 : Our quartermastaru Kopuro-Popuro oversees the supply chest there. He is a bit, shall we say, eccentric? But he will certainly provide you with what we need.
-7847 : My dear, beloved Boxuxu... They could postaru me here for an eternity, but with you by my side, every moment would be bliss!
-7848 : Yes? What do you wantaru? A starfruit, you say? For Minister Apururu?
-7849 : Why, Boxuxu would be happy to furnish you with what you desire. Wouldn't you, my dearestaru?
-7850 : Who am I talking to, you ask? Why, my beloved Boxuxu, of course! Are you [daft, mistaru/daftaru, lady]? Do you not see her standing right beside me? Go ahead, talk to her! She won't bite!
-7851 : The box is stocked full with tanks of distilled water. There is not a starfruit among them...
-7852 : The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them...
-7853 : The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them...
-7854 : The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!
-7855 : The box is locked tight.
-7856 : What's this...!? She gave you your starfruitaru on your first asking?
-7857 : That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!
-7858 : No luck? That's no surprise. Boxuxu is a sweetaruheart, but she can be a bit coy among unfamiliar-wiliar faces.
-7859 : No, I fear you'll have to work a bit harder to earn her favor.
-7860 : How, you say? Why, have you never [courtarued/befriended] a young lass before!?
-7861 : At any rataru, it's all about sharing-waring one's happiness. Like this!
-7862 : Kopuro-Popuro gazes sweetly at the bottomless box, his eyes beaming with joy.
-7863 : Kopuro-Popuro claps his hands and laughs charmingly at the bottomless box.
-7864 : Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world...
-7865 : Why, there you go. I told you she was a sweetaru and understanding girl!
-7866 : Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners.
-7867 : <Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!
-7868 : Oh, thank you ever-wever so much! This is all I need to constructaru a new batch of Cardians that will strike fear in the hearts of fiends far and wide!
-7869 : Here's a small token-woken of my appreciation. Take it and use it well!
-7870 : What's that? He's still rambling-wambling on about his beloved Boxuxu?
-7871 : <Sigh>... You'll have to forgive the poor dear. I'm afraid his mind hasn't been the same since he lost his one and only to the monstarus that razed the Federation.
-7872 : Quite a shame, really... There was a time when he was an accomplished creataru of Cardians himself.
-7873 : As you see, these times have taken-waken a toll on us all. It may not help, but I will have a talk with him when I see him nextaru. Thanks for sharing-waring your concern!
-7874 : I cannot restaru until we have a Cardian army mighty enough to fend off the Abyssean hordes...
-7875 : No, that won't do... <Sigh>... Nothing I do ever goes rrright...
-7876 : <Sigh>... Nothing I do ever-- Oh, a visitor. Perrrhaps you could help me. Heaven knows I can't seem to help myself...
-7877 : Help her? Sounds like she needs it. Not getting involved.
-7878 : Oh, I underrrstand. Too busy being a [hero/heroine] to care about a poor worrrthless loser like me. Fine. Run off and live your wonderful life, and leave me to my miserrry...
-7879 : Therrre you go again, Peshi... Always countin' on talented strrrangers to do things you're too incompetent to do yourself... What happened to you? You used to be such a rrray of sunshine! everyone says. That was before I rrrealized how meaningless everything is... How useless I am...
-7880 : What was I saying? Oh, I need some % to make crrrappy weapons that won't help anyone anyway. They're burrried around here somewhere that my worthless brain couldn't be botherrred to remember.
-7881 : You'll need % to dig them up. Here, take this one. If I tried to use it, I'd prrrobably just drop it and brrreak my foot anyway.
-7882 : I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>
-7883 : There's a surrrprise. Once again, a stranger perrrforms with ease a task I couldn't manage if I took a hundrrred years... Ah. I mean, thank you.
-7884 : 'Course, I'm probably just gonna end up brrreakin' these %, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again.
-7885 : Oh, look. It's the [man/lady] who's so much better than me at everything. Do you think you could find me some more %?
-7886 : Help! Help, I say! We've got a serious predicamentaru on our hands!
-7887 : What kind of a predicamentaru, you ask? Why, one of our supply convoys was ambushed-wambushed on its way to the western camp!
-7888 : Horrifying, isn't it? They barely-warely escaped with their lives! Here on base, we've got the Cardians to protect us, but out in the wilds those fiends can squash us like we were overripe rolanberries! Squish! Ahh, how I miss my rolanberries...
-7889 : But no, we simply-wimply can't afford to let this happen again...
-7890 : And that's where you come in, soldier! I want you--yes, you--to clean this area up of all hostile-wostiles.
-7891 : And there will be no slacking on the job! Yes, I'll need you to bring back # % as proof of your exploitarus.
-7892 : Now gooo get'em, tiger!
-7893 : ...Pretty please?
-7894 : I knew it! I just knew it! You're every ilm the champion that Kupipi figured-wigured you for! And yet...
-7895 : You can do even bettaru! Yes, you must keep fighting until every last fiend is gone and Kupipi can lie around drinking-winking rolanberry juice to her heart's content! Mmm, rolanberries...
-7896 : These gustatorily challenged boors will know my genius when I save them from famine! Bow down before my whisk and colander, fools! Ahahahahahahaaa!
-7897 : You there! I command you to assist me!
-7898 : Who are you to issue commands, you say? Why, only the ladle-bearing messiah whose soup of sustenance will save this miserable realm from starvation. Yes, that's right--in a land ruled by famine, the purveyor of provisions is king! A god, even!
-7899 : Perhaps you have seen the scattered trees that speckle this otherwise barren, cactus-ridden wasteland. These trees once burgeoned with edible fruit, but no more!
-7900 : And so who does it fall to, to take this lemon of a situation and make a scrumptious souffl out of it? Why, none other than Piketo-Puketo, culinarian of culinarians, and his %!
-7901 : Those Rhinostery poseurs claim it to be their invention, but they're full of more hot air than an oven baking one of my famed rolanberry tarts. Ahem! In any event, one shot into its roots and any tree should readily return to full fruit-bearing glory.
-7902 : You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!
-7903 : But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!
-7904 : Now go forth and do my bidding, apprentice!
-7905 : The roots of this tree protrude forth from the ground. They appear withered from lack of nutrients...
-7906 : This would seem a suitable place to apply Piketo-Puketo's %.
-7907 : % injected the % into the .
-7908 : You hear the thud of an object striking the ground beside you.
-7909 : What's this? %?
-7910 : Bwahahaha! I knew I was a genius! Now, to fire up the oven and prepare the manna that will deliver our people from starvation...or at least those whose palate I deem worthy!
-7911 : Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well.
-7912 : My loyal minion returns, and not a moment too soon! It seems the world can't get enough of my gustatory delights. Here's your %. You already know what to do with it, so chop chop!
-7913 : What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!
-7914 : Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!
-7915 : <Sniff>... Baladanzo...please come back... Don't leave me...<sniff>...alone...
-7916 : Oh, hello there, [mister/lady]. Tell me, have you been to Mhaura? The port town that lies southeast of here?
-7917 : I heard once that it was the most quiet, peaceful place in the whole wide world.
-7918 : My dear friend Baladanzo and I thought we would go there, and leave behind this terrible, terrible place. But the road was sealed with a mountain of rubble!
-7919 : The ground rumbled...rocks started to fall. I thought we would be crushed, and ran away as fast as I could. But Baladanzo...<sniff>...he wouldn't come with me.
-7920 : I hear voices, lad! Voices on the other side of this wall! I'm a-gonna dig on through and take you to Mhaura like I promised, just you wait! he said.
-7921 : The ground...<sniff>...it wouldn't stop shaking. I was so scared...that's why I ran back here. But Baladanzo...he wouldn't look back. He just started tossing aside rocks and shouting, bellowing...<sniff>...like a madman...
-7922 : Please, [mister/lady]... You must check on Baladanzo for me. He was my only friend back in Windurst. Without him, I just...<sniff>...
-7923 : You shall fall, you accursed mountain of rubble! My bones may be battered, and the flesh on my hands torn to shreds, but this I swear...I will bring you down!
-7924 : Do you hear me, you accursed mountain of rubble? I will bring you down!
-7925 : Yes? What is it? Diegai sent you, you say?
-7926 : But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?
-7927 : Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!
-7928 : Poor Baladanzo... He used to be such a...<sniff>...gentle soul...
-7929 : Still, it's touching somehow... He's trying to bring a mountain down...for me... I don't suppose it will help, but I heard that those rotting bog bodies have the ability to cut through solid stone...
-7930 : Fall! Fall, I say!!! Graaaaaaaaa-- Hm? %?
-7931 : This will help, but alone it will not serve to bring this mountain of rubble down. Bring me more, or do not--it matters not. Blood may flow from my shattered knuckles, but one day, I will see this mountain fall!
-7932 : This makes # % you have brought me. You are kind.
-7933 : With # more, this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
-7934 : With # more ), this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
-7935 : In the meantime, take this. It is the least this old Galka can do for a friend.
-7936 : This is it, friend. The day we have long waited for. Today is the day we consign this demon of stone to the fiery netherworld whence it came! Crumble and fall, monster! You don't belong in this world! Graaahahahahaaa!!!
-7937 : No...it cannot be! The wall still stands before me? Vile demon! Why do you mock me so!? But I must be strong. I must not falter... For Diegai...!
-7938 : You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>...
-7939 : ...I see. Baladanzo was a steady hand in my life for so long, but perhaps it is time I learned to take care of myself. Yes. I will be as strong as he once was...
-7940 : Friend, you have returned. Let me share with you what I have learned since our last encounter.
-7941 : Do you remember how I spoke of voices? Voices calling me from the other side of this mountain?
-7942 : Not long after you left, a curious young 'Taru lass donning a cloak appeared here. I did not see her come. It was almost as if she appeared out of thin air.
-7943 : She lay down on the ground before me and closed her eyes, as if to sleep. But then she spoke... Did you know, mistaru? she said. A young boy and his guardian came through this way, bound for Mhaura. That was when the skies came tumbly-wumbling down...
-7944 : The boy escaped, but the man who had cared for him since he was a wee tyke was soon buried under a mountain of rubble. And yet, his spirit found no peace, for in his heartaru of hearts, he felt he had let his loved one down. What he did not realize was that his love had already nurture-wurtured within the child enough inner strength to last a lifetime...
-7945 : Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, No need to thank me, but I'll take a grilled hare if you've gotaru one. Whatever could she have meant...?
-7946 : Minister Rukususu, Leepe-Hoppe, Doctor Yoran-Oran... I do hope they're all right...
-7947 : Kerutoto? She's sleeping blissfully as always, no doubt.
-7948 : Hail there! Have you perchance caught sight of a garishly pink-colored fiend in these parts?
-7949 : Seen a pink fiend? I have not. I have!
-7950 : Well, drat! Wherever did it scamper off to? At this rate, I'll never finish my research!
-7951 : You have? What luck! This could just be the breakthrough in my research I've been waiting for!
-7952 : What research, you say? Why, my study of the Abyssean ecosystem, of course! It started out as a hobby, but recently I'm convinced that it just might be the key to our survival.
-7953 : Perhaps you've noticed that there are all sorts of curious new creatures sprouting out of the ground these days. One in particular has caught my fancy--a pinkish thing that bears a striking resemblance to the mandragora we know so well.
-7954 : If only I could study it up close, I just might be able to figure out where the fiends come from--and how to send them back there for good. But to do that, I need a live sample.
-7955 : If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!
-7956 : Not...safe...here... You...should...go...
-7957 : What...? You'll...help...us...? Great... Take...this...
-7958 : South...west...a...thicket... A...cactus... You'll...see...
-7959 : Use...this... Something...will...come... Maybe...
-7960 : Bring...it...back...here...
-7961 : We're...count...ing...on...you...
-7962 : A rubicund adenium was drawn to the %!
-7963 : Truly...remarkable... I...haven't...been...this...excited...in...years...
-7964 : This...%...worthless...now... I'll...throw...it...out...
-7965 : Splendid, splendid work! I truly can't thank you enough. Could I ask you to round me up a sandworm or two while you're at it? But I jest!
-7966 : But of course! Since you've been such a dutiful assistant, why don't I enlighten you as to my latest findings?
-7967 : My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!
-7968 : They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities.
-7969 : You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!
-7970 : We're...sorry... So...so...sorry...
-7971 : I don't know quite how to say this my friend, but you know that splendid specimen you caught for us? Well, while I was writing up my latest lab report, it seems to have--er, how shall I say this?--ah, escaped.
-7972 : You wouldn't possibly be in the mood for tracking another one down for me, would you? Just think, it's not for me...it's for science!
-7973 : You succeeded in catching a rubicund adenium!
-7974 : Whatever shall I do...? Why, if I lost herrr, I would be...
-7975 : Help! You must help me!!!
-7976 : Forrrgive my poor manners. It's my daughter, you see... She's come down with a terrrible sickness, you see...
-7977 : We were attacked... It was all we could do to flee here with our lives... She was in shock, the poor girl. Her body...<sniff>...couldn't take any morrre...
-7978 : They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second...
-7979 : Please, frrriend, you must help! Why, if I lost her... If I lost her, I would...
-7980 : Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!
-7981 : Frrriend. You've my thanks for your kindness the other day.
-7982 : I'm afraid my daughter's sickness still plagues her. The fever subsided for a time, but is back now worse than ever.
-7983 : Please, you must brrring us more cactus water! My daughter's life depends on it!
-7984 : Thank you everrr so much! This will cure her for good this time...I just know it will!
-7985 : Oh, friend... How can I ever rrrepay you? Thanks to your kindness, my daughter is back on her feet again. You have our eternal grrratitude...
-7986 : The cactus is abloom with fiery red buds.
-7987 : You have collected all that you can for now.
-7988 : Get your act together! We must band together to surrrvive! Do you have a death wish? Sheesh! That mercenary captain won't stop yappin' her trrrap.
-7989 : She just doesn't get it. It's times like these a girrrl's gotta watch out for herself. We've got enough to worry 'bout without dealin' with everrryone's whimperings.
-7990 : Well, well. What's an upstandin' [gent/lady] like yerself doin' in a place like this? You'd best be on yer way, else the Abyssean hordes'll be the least of your worries. Ya catch my drrrift?
-7991 : You've got the looks of someone who's been around the block. Someone who's looked danger in the eye and lived to tell the tale. Am I rrright?
-7992 : Am I rrright? You're rrright. Dead wrrrong.
-7993 : Oh, is that so? Then you'd best get out of here, and quickly. This ain't the place for no shelterrred little [prince/princess].
-7994 : Heh, I knew it. My gut instincts haven't failed me yet. Tell me, does the name Nanaa Mihgo mean anything to you?
-7995 : The cat burglar? Chieftainness o' cutpurrrses and pickpocket nonparrreil? Made somethin' of a name for herself back in Windurst. Well, what would ya think if we told ya she was our boss?
-7996 : We followed her to Heavens Tower when those nasty buggers burst through the city walls, but after we teleported out here, she was nowherrre t' be found.
-7997 : That's why we came up with these beauties!
-7998 : Slap these up on the signposts around the canyon, let the boss know we're safe and sound, and our merry little band'll be back together in no time flat!
-7999 : We were gonna do it ourselves, but hey, why brrreak a sweat when you've got someone to do it for ya?
-8000 : No, don't arrrgue--we insist. Unless you'd care to part with that spiffy garb you're wearin', of course...
-8001 : Just think of it as a favor you'll be doin' all the surrrvivors in these parts. After all, if there's anyone who can teach 'em a thing or two about stayin' safe in the face of danger, it's the boss. She may help herself to some o' their possessions in the prrrocess, but hey, that's business.
-8002 : Anyhow, you'll find four signposts scattered through the canyon. Slap one of these on each of 'em, and rrreport to us when the job is done.
-8003 : Now get crrrackin'!
-8004 : Smeared with dirt and blood, whatever message the signpost once displayed is now completely illegible.
-8005 : You posted % on the signpost. # more to go!
-8006 : You've posted all four %! Bopa Greso will be pleased to hear of your success.
-8007 : You've already posted something here.
-8008 : You did good, kid. It's only a matter of time before we're rrreunited with the boss now.
-8009 : We'd make you an honorary member of our band, but that would mean havin' to split the prrrofits. No hard feelings, 'kay?
-8010 : You there! It's about time you showed up!
-8011 : Tell me: does this look familiarrr to you?
-8012 : That's right, it's one of the % that you posted for us.
-8013 : I dunno if a gust o' wind got it, or if you're just a sorry poster-putter-upper, but one thing's for sure...it ain't gonna do us any good lyin' on the grrround here.
-8014 : Yep, someone's going to have to get back out there and do the job all over again.
-8015 : %! I have wonderful news! Thanks in no small part to your assistance, we now have a Cardian stationed at each and every one of our outpostarus!
-8016 : I also have some less-than-wonderful news...
-8017 : It would seem that, er, not all the Cardians are behaving according to prescribed speci-wecifications.
-8018 : Could I trouble you to investigate and reportaru back on any Cardians whose behavior seems...amiss?
-8019 : There are five of them in all. If you've any experience with them, a quick chat with each should be enough to isolate any potential problems.
-8020 : And one more thing...I would suggest staying in the canyon until the job is completaru.
-8021 : If you absolutely must go elsewhere, you'll want to start your investigation over upon your return. Their condition is known to fluctuate-wuctuate most rapidly, you see.
-8022 : Good to see you back, %! Well? Were you able to find out anything?
-8023 : Which Cardians were out of whack? Six of Diamonds. Five of Diamonds. Four of Diamonds. Three of Diamonds. Two of Diamonds. Sorry, let me start over... That's all of them. I'll get back to you on that...
-8024 : Let me see here. You say that you observed a defectaru in...
-8025 : [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds]...
-8026 : Truly? All were functioning properly-woperly, you say?
-8027 : Are you sure, now?
-8028 : Are you sure? I'm sure. Let's try that again...
-8029 : Wonderful! I'll pass along your findings to our maintenance team immediately!
-8030 : The Cardians serve us well, but with the strain of this harsh environment, their condition is known to degenerataru rapidly. If it wouldn't be too much of a burden, please lend us your powers of observation from time to time.
-8031 : Wonderful! I'll pass along your findings to our maintenance team immed-- Hm? What's this? An emergency dispatchy-watch?
-8032 : Minister Apururu! Do you read us? This is [the eastern ward guardpostaru/the western ward guardpostaru/the westaru camp/the central-wentral camp/the northern-worthern camp]! We've got a situation on our hands! [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds] is out of control! [R-run...run for your lives!/No...p-put down that...<crackle>/After him! After him, I say!/...<Gulp>.../Please... We can work this outtaru... I've been a good master, right? Aiiieeeeee!]
-8033 : Yikes! What a catastrophe! I must send out a repair team at once!
-8034 : ...Yes, yes... Oh? Is that so? But [he/she] said... Hmm, that's curious.
-8035 : Are you certain that [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds] at [the eastern ward guardpostaru/the western ward guardpostaru/the westaru camp/the central-wentral camp/the northern-worthern camp] was acting strangely? Our contact on site assures me that he's in tip-top shape, and indeed just helped to fend off an onslaught of fiends.
-8036 : Well, better safe than sorry-worry, I suppose... I'll have a thorough checkup performed, just in case.
-8037 : I've afraid I have my hands full dealing with our rogue Cardian. Come back when things have settled-wettled down a bit, will you?
-8038 : [GrEEtIngS/FaREwELL]![/] THe[/]aReA[/]bEYoND[/]THiS[/]poINT[/]iS[/]A[/][DaNGeR/HaPPy][/]zONE[/]. PRoCEed[/]wITH[/][CaUTIoN/CoOKieS][/]
-8039 : WaRNiNG![/] [DaNGeRoUS/SqUIsHy][/]FiENdS[/]LuRK[/]BeYoND[/]HeRE[/] PrEPaRE[/]FoR[/]HeAVY[/][FiGHtiNG/DaNCiNG]![/]
-8040 : aLL[/]ClEAr![/] WiTH[/]mE[/]oN[/]tHe[/][jOB/FrITZ][/]tHEsE[/]SUrVivoRS[/]hAVe[/][NoTHiNG/EvERyTHiNG][/]tO[/]FeAR![/]
-8041 : WeLCoME![/] YoU[/]aRe[/]QUiTe[/]tHe[/][aCCoMpLiSHeD/oBNOxIOuS][/]ADvEnTUreR[/]tO[/]MAkE[/]iT[/]THis[/][fAR/fUN]![/]
-8042 : Ah, %. Could I trouble-wouble you to check on our Cardians again?
-8043 : Need an explanation? Good to go! Just to be safe...
-8044 : Well, if it isn't %, the caulk that keeps the survivors of Windurst together. You've become a real hero to the survivors. Go ahead, give yourself a good pataru on the back!
-8045 : But if I know you, you're far from satisfied. Nosiree! You're thinking that you'd like to help us in even bigger, better ways! Well? Am I right?
-8046 : Is she right? Truly! Totally! Indubitably!
-8047 : Why, did I detect a momentaru of hesitation in your answer just now? You're supposed to be a hero, %! Stop dither-withering and act like one!
-8048 : Well, of course I am!
-8049 : Now that we understand each other, look at this here. It's a listaru of the most fearsome fiends terrorizing our five camps.
-8050 : Cuelebre, Adze, Minhocao, Chukwa, and...Mictli...Metlec...Mictlantecuhtli! Phew...that last one's a mouthful!
-8051 : Anyway, these five beastly brutarus are wreaking some serious havoc on our poor camps. That's why Kupipi needs you to pick 'em off! Take 'em down! Send 'em packing-whacking!
-8052 : I know you're a busy [fellow/lady], so let's say that just one of them will suffice. Bring back proof of your feataru, and everyone in the camps should be able to breathe a bit easier. Get it? Got it? Good!
-8053 : And I'll still take those % if you can get them! # or so should do the trick.
-8054 : Why...that's an arrow from the quiver of Semih Lafihna. Wherever did you find it?
-8055 : ......
-8056 : Semih Lafihna, Zubaba... The Star Sibyl...
-8057 : I have not seen them since the walls of Windurst fell... I can only pray that they are alive...<sniff>...somewhere... B-but...
-8058 : Get a hold of yourself, Kupipi! It's not like you to be a sulky-wulking sourpuss! Besides, it would take more than an overgrown turtle or a rotting sack of bones to bring down the protectarus of Windurst!
-8059 : Anyway, thanks to you, Kupipi can rest just a little bit easier tonight. You've earned yourself a break, but not for too long! There are still other nasties on the prowl!
-8060 : As for this %, I'll be keeping it well out of sightaru. Why, we don't want to send the others into a frenzy-wenzy.
-8061 : And do try to bring something a little less disturbing next time, will you? The gore-stained, blood-dripping-wipping scalps of our foes should suffice!
-8062 : Congratulations! You've done a bang-up job, %. But dangerous fiends are still on the prowl. We must stay vigilantaru!
-8063 : Yes? Don't tell me you've forgotten the monstarus you're supposed to be hunting! <Sigh>... What would you do without Kupipi?
-8064 : You there! Come here! And hurry now! We don't have all day!
-8065 : Hmmm... Hmmmm! Just as I thought...a stranger, and a shady-looking one at that. But that's not importantaru right now!
-8066 : I am Kupipi, trusted scribe and all-'round-sweetheartaru of Heavens Tower...or at least, I was. What do they call you?
-8067 : %, is it? That's a curious name.
-8068 : Anyhow, listen up, because Kupipi has just the job for you.
-8069 : What's that? You didn't come here to work, you say? Well, excuse me, [mister/lady]! If you haven't noticed, we're engaged in a fightaru for our lives here!
-8070 : So zippy-wip that lip and listen to what Kupipi has to say!
-8071 : Ahem. Before I go on, you are familiar with martellos, are you not?
-8072 : You know martellos? Did you say marshmallows? I sure do.
-8073 : No, no, no! Have you got popotos where your brains should be? Martellos, I said! Martellos!
-8074 : Boy, it's a good thing you ran into Kupipi when you did. Let me take a momentaru to enlighten you.
-8075 : Martellos are these oversized iron boxy-woxy contraptions that you see scattered from place to place.
-8076 : From the side, they almost look like a giantaru %. Pretty cute, don't you think?
-8077 : You fill it up with a magic liquid something-or-other, and it'll do nifty-wifty things like heal you and restore your magical energies. See? Aren't you glad you asked me?
-8078 : Splendid! And here Kupipi thought she was going to have to tell you everything.
-8079 : Anyhoo, you'll find martello-wellos located all over this canyon. I need you to check around and make sure that their fuel is in good supply.
-8080 : If they're running empty, you'll want to fill them again. But you can talk to one of our machine outfittarus about that.
-8081 : ...One more thing. Now, this isn't a job, but a favor. It goes without saying-waying, but ever since the Federation fell, we Windurstians have been going through rough times.
-8082 : So please, stranger. Talk to those you encounter, and do what you can to help. The survivors will be most appreciative of any supportaru you can provide.
-8083 : Prove yourself a friend, and you will be loved and exaltarued by all! The greatest hero that our suffer-wuffering people have seen!
-8084 : Second only, that is, to the sweet and charming girl who found you... Er, ahem! Anyway...
-8085 : Perhaps you've seen the stodgy-wodgy-looking types posted by those funny dancing stone thingies. Confluence purveyors? Or something like that.
-8086 : After you talk with the outfittaru, you'll be heading outside camp. If you're wise, you'll have a chat with the powerflux conveyor before you venture-wenture into the canyon.
-8087 : Well, I believe that's all Kupipi has to say to you.
-8088 : Now get a move on! You've got a whole nation counting on you! Give 'em hell!
-8089 : The people are suffering and need your help, %! Do what you can, and tell them Kupipi sent you!
-8090 : Looking to do some shopping-wopping, eh? Well, we don't have shops per se, but there's a trader over by the banner with some provisions for sale.
-8091 : I figure she can outfitaru you with most anything you need, so long as you've got the cruor to pay-the-day for it.
-8092 : Gil, you say? I'm afraid there hasn't been much use for that of late.
-8093 : Take down-with-a-frown one of those Abyssean fiends, and you'll find they drop a reddish gold dusty-crust--that's cruor. Back when the three nations still stood, the stuff was nowhere to be found, but now we literally can't live without it.
-8094 : You'll be needing it to power the confluxes as well, so you'll want to keep a healthy-wealthy supply.
-8095 : Just a ways ahead of here, you'll find a fiery-wiery defensive barrier that we call a searing ward. It keeps us here safe from the dangers that lurk beyond.
-8096 : Before striking out into the canyon, you should talk to our conflux surveyor and have yourself endowed with visitantaru status. Trust me, you won't want to leave home without it!
-8097 : I remember like it was yesterday-ay-ay. I was in my lab, where a particularly accommodating adventurer had come to me with a lovely bout of the plague. That's when I heard a rumbling-tumbling crash and a hideous scream-eam-eam...
-8098 : The next thing I knew, there were hideous creatures bearing-wearing down on us from all directions. The War Warlocks, the Patriarch Protectors, the Sibyl Guards and the Mithran Mercenaries...Tarutaru, Mithra, and Cardian alike foughtaru bravely, but the enemy came in oodles and scoodles...
-8099 : It soon became clear that the fight was hopeless, and we were ordered to take sheltaru in Heavens Tower. Oh, it was a terrible-werrible scene! The Star Sibyl in tears, declaring our beloved Windurst lost as she summoned what remained of her strength to incant the teleportation spell that would lead her people to safety...
-8100 : ...But it failed, I'm afraid. The teleportation itself was a success-ess-ess, but we were sent scattered helter-skelter to all manner of bleak and hostile destinations.
-8101 : Those of us in this camp are just a handful of survivors who were fortunataru enough to end up together-wether.
-8102 : But I don't remember seeing you back in the tower. Wherever-wever did you come from?
-8103 : Hey! Want to hear a secrrret? I heard that if you beat up on enough of those scary monsters in the same place, they'll get all grrrumpy and call in their friends!
-8104 : Those friends'll be even scarrrier than the ones before, but if you leave them alone they'll just walk away. Isn't that funny? Of course, my mama could take them all without brrreakin' a sweat...
-8105 : See that curious stone structure all glowing and spinning-winning over there? That's what we call a veridical conflux.
-8106 : Don't let it intimidataru you--it's actually the handiest pile of rocks around. You can warp from one to another in the blink of an eye, you see!
-8107 : The only catch is that you'll need to meld-weld with a conflux before you can teleport to it. They're scattered all over the canyon, so you'll want to explore and make contactaru with as many you can. It'll make travel easy-breezy!
-8108 : You'll also want to be sure you have cruor on hand. Otherwise your long journey will have all been for naughtaru.
-8109 : %? Never heard of [her/him]. Oh, that's you?
-8110 : You'll have to forgive me. These days, one stranger wandering into our camp looks much like the nextaru.
-8111 : Our people might seem a bit distant, but that's part and parcel-warcel of living in these harsh times. Help them in their struggle, and they'll learn to trust you in good time.
-8112 : %-Bo%? Was that the third minister of the Manustery? Oh, I'm sorry. That was you, wasn't it?
-8113 : You're not a complete stranger-wanger these days, but I fear you haven't made much of an impression. Keep working at it, though, and your day will come.
-8114 : Wait, don't tell me... %, was it? I've finally-winally managed put a face to the name.
-8115 : Why, I heard a conversation about you just the other day. A bit of a bumbler-wumbler, but I suppose [he/she] means well... they said. It may not sound like much, but you're on the right track. Now is no time to rest in your efforts!
-8116 : Oh, hullo there, %. I was just talking to a fellow who seemed to have taken quite a liking to you.
-8117 : Seems it's not often that a stranger has made such an earnestaru attempt to help out. I knew you had it in you, %! Keep working and others will learn to appreciate the work you've done!
-8118 : Well, if it isn't %! Don't go getting a swelly-welled head, but you've got yourself the makings of your own little fan club these days.
-8119 : Just goes to show that people appreciataru the good deeds you've done. But I have a feeling we haven't seen the limits of what you can do. Keep showing us what you've got!
-8120 : %! What a rare treataru! Why, I hear your name everywhere I go these days.
-8121 : People can't stop talking about how much easier their lives have been since you showed up. No surprise to me, of course. Why, since the first day I spotty-wotted you, I knew this day would come!
-8122 : I am Shaz Norem, and I have been following your career with grrreat interest. If you would hear an objective evaluation of your efforts, then listen well...
-8123 : Your accomplishments have not gone unnoticed.
-8124 : This is but a small token, but with it comes the gratitude of a nation's people.
-8125 : Thank you, friend. You have been as a torrrch to a people who were groping in darkness.
-8126 : This land is still frrraught with danger. Be safe in your travels.
-8127 : Look at those fools, trrraipsing about without a care in the world. We didn't fight tooth and nail to save their worrrthless hides just so they could throw them away like this!
-8128 : That goes for you too! If you've got any sense, you'll stay quiet, and stay on guarrrd. Grrr...sometimes I wonder if that teleportation accident transported everyone's brains into one o' those fissures...
-8129 : I was separated from my colleagues at the consulate when the teleportation spell went awry.
-8130 : Do you suppose they found their way home to Bastok? I do hope everyone's safe and sound...
-8131 : You didn't see a drrreary 'Taru in a tunic 'round these parts, did ya?
-8132 : Always goin' on about rrresearch this, research that. When you can understand half a word he says, that is...
-8133 : Can't figure out those ministry types out for the life of me. I don't care what you'rrre studyin', it can't be more important than the lives of your friends! My Terrible Tigresses... I hope they're alrrright...
-8134 : Other camps? Why yes, I believe that one lies north of here, and the other a fair ways to the southwest.
-8135 : Still, I am struck by the Windurstians' utter lack of anything resembling a cooperative spirit. In times like this, unity among countrymen is key to survival. Surely you would agree, friend?
-8136 : The shame! The terrrible, utterrr shame of it all!
-8137 : I am a Sibyl Guard, rrraised from birth to protect the Star Sibyl with my life. Now here I stand, flung to the far rrreaches of heaven-knows-where with Her Holiness nowhere in sight!
-8138 : Is this my punishment for failing in my duty!? No! I will not accept this miserrrable fate!
-8139 : Can you believe it? The Federation lamentably lost, the survivors feebly fighting for their lives, and this child hasn't a care in the whole worldwide world!
-8140 : Furakku-Norakku! Settle down and listen up, I say!
-8141 : You learned how to fillingly fuel a martello, did you not? Now you must practice! We must be readily ready for when the fiends return!
-8142 : ...Huaaah...? There are scary monsters outside, but Ms. Fuepepe and that scowling Sibyl Guard are even scarier. I'll be safe here.
-8143 : Refilling marshmallows? Would I have to go outside? I think I'll take a pass.
-8144 : Current area score: # (Rank #) Enter a number between 0 and 63. (0 to cancel).
-8145 : New score: # (Rank #).
-8146 : Do something? Nope. Reset fame. Quest 01 (Fame rank: # Quest 02 (Fame rank: # Quest 03 (Fame rank: # Quest 04 (Fame rank: # Quest 05 (Fame rank: # Quest 06 (Fame rank: # Quest 07 (Fame rank: # Quest 08 (Fame rank: # Quest 09 (Fame rank: # Quest 10 (Fame rank: # Toggle AP check (currently [on/off]).
-8147 : Do something? (Quest ). Nope. Set to incomplete. Progress report. Obtain key item. Set to complete. Set times completed.
-8148 : . . . . . . .
-8149 : LycoGroupe:
-8150 : 0: 1: 2:
-8151 : 3: 4: 5:
-8152 : Current progress: Ancient abyssite obtained: #/# Atma obtained: #/# Quests completed: #/# Return.
-8153 : [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-8154 : [Requirement/Objective completed]: Obtain all atma found in this area.
-8155 : [Requirement/Objective completed]: Complete all quests issued in this area.
-8156 : The % quivers ever so slightly, but emits no light. There seem to be no monsters in the area.
-8157 : The % quivers ever so slightly and emits a faint light. There seem to be no monsters in the immediate vicinity.
-8158 : The % resonates [feebly/softly/solidly/strongly/very strongly/furiously], sending a radiant beam of light lancing towards a spot roughly # [yalm/yalms] [east/southeast/south/southwest/west/northwest/north/northeast] of here.
-8159 : A monster materializes out of nowhere!
-8160 : The monster fades before your eyes, a look of disappointment on its face.
-8161 : The % takes on a slightly deeper hue and becomes %!
-8162 : The % takes on a deeper, richer hue and becomes %!
-8163 : The % shatters into tiny fragments.
-8164 : Obtained key item: %!
-8165 : The monster fades before your eyes, a look of disappointment on its face.
-8166 : You have lost sight of the monster and can no longer sense its presence.
-8167 : You have wandered too far from the monster and can no longer sense its presence.
-8168 : DEBUG: Commence Search.
-8169 : DEBUG: End Search.
-8170 : DEBUG: No monsters have spawned.
-8171 : DEBUG: A monster has spawned, but is too far away.
-8172 : DEBUGType: [Small Fry/NM/Shadow HNM/Shadow SHNM/True HNM/True SHNM] DEBUGDirection: [East/Southeast/South/Southwest/West/Northwest/North/Northeast] DEBUGDistance: #mm DEBUGNumber: #
-8173 : DEBUG: No. # claimed!
-8174 : DEBUG: No. # has spawned.
-8175 : DEBUGNo. # is hidden.
-8176 : DEBUGJade obtained!
-8177 : DEBUGJade discarded!
-8178 : DEBUGNM Jade obtained!
-8179 : DEBUGNM Jade discarded!
-8180 : DEBUGHNM Jade obtained!
-8181 : DEBUGHNM Jade discarded!
-8182 : DEBUGHNM Jade 2 obtained!
-8183 : DEBUGHNM Jade 2 discarded!
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : You can't fish here.
+7065 : You can't fish without a rod in your hands.
+7066 : You can't fish without bait on the hook.
+7067 : You can't fish at the moment.
+7068 : You didn't catch anything.
+7069 : % caught a monster!
+7070 : Your line breaks.
+7071 : Your rod breaks.
+7072 : Something caught the hook!
+7073 : You lost your catch.
+7074 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7075 : You feel there's something here.
+7076 : You feel there's something nearby.
+7077 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7078 : % caught  %!
+7079 : You dig and you dig, but find nothing.
+7080 : #/%
+7081 : Your rod breaks. Whatever caught the hook was pretty big.
+7082 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7083 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7084 : You lost your catch due to your lack of skill.
+7085 : Number fished : # Original Dice No. ## Result # (0=caught)
+7086 : You didn't catch anything.
+7087 : The paper on your % ripped.
+7088 : A tiny goldfish approaches!
+7089 : A plump, black goldfish approaches!
+7090 : A fat, juicy goldfish approaches!
+7091 : There are no goldfish to be found...
+7092 : % caught %, but cannot carry any more items. % regretfully releases it.
+7093 : The goldfish slipped off your scoop...
+7094 : ch# skill up check.
+7095 : a:#.
+7096 : Time # / Status # / #
+7097 : d:#. e:#. f:#. g:#.
+7098 : h: #. i: #. sr: #.
+7099 : j:#. k:#.
+7100 : You give up and reel in your line.
+7101 : You give up.
+7102 : % obtains # gil.
+7103 : % caught %!
+7104 : You don't know how much longer you can keep this one on the line...
+7105 : You have a good feeling about this one!
+7106 : You have a bad feeling about this one.
+7107 : You have a terrible feeling about this one...
+7108 : You don't know if you have enough skill to reel this one in.
+7109 : You're fairly sure you don't have enough skill to reel this one in.
+7110 : You're positive you don't have enough skill to reel this one in!
+7111 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7112 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7113 : l: #. m: #. n: #. CH: #.
+7114 : Something caught the hook!!!
+7115 : You feel something pulling at your line.
+7116 : Something clamps onto your line ferociously!
+7117 : Your keen angler's senses tell you that this is the pull of %!
+7118 : This strength... You get the sense that you are on the verge of an epic catch!
+7119 : The timer has started. # seconds remaining.
+7120 : #sec.#/#sec.
+7121 : 0:# 1:# 2:# 3:#
+7122 : 4:# 5:# 6:# 7:#
+7123 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7124 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7125 : #/#(#
+7126 : Version invalid error!
+7127 : Hurry before the goldfish sees you!
+7128 : % fishes up a large box!
+7130 : Fish No# / Bait No# / Hit# >>> #
+7131 : Point# >>> #
+7132 : %(#) skill#
+7133 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7134 : Im Rnd : # Pz Rnd : #
+7135 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7136 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7137 : skill : # size : # kind : # sch : #
+7138 : time : # mes : # flag : # bonus : #
+7139 : item : # hp : # pow : # swing : #
+7140 : suc : # cons : # weight : # +- : #
+7141 : speed : # +- : # exc : # client : #
+7142 : general : #
+7143 : ro:# rs:# ps:# dt:#
+7144 : ra:# ti:#
+7145 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7146 : You get the distinct sense that your moogle friend frequents this spot...
+7147 : You have a feeling that your moogle friend has been through this way...
+7148 : You suspect that the scenery around here would be to a moogle's liking...
+7149 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7150 : You have a hunch that this area would be favored by moogles...
+7151 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7152 : % catches # %!
+7153 : % obtained %!
+7154 : It appears your chocobo found this item with ease.
+7155 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7156 : FPT # DPT # DoT#
+7157 : FPT # TDPT # h#
+7158 : You cannot fish at this time.
+7159 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7160 : You discover a cache of beastman resources and receive # Imperial Standing!
+7161 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7162 : You receive # bayld!
+7163 : Your chocobo refuses to partake of the %.
+7164 : Tallying conquest results...
+7165 : Conquest results tallied.
+7166 : This region is currently under San d'Orian control.
+7167 : This region is currently under Bastokan control.
+7168 : This region is currently under Windurstian control.
+7169 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7170 : This region is currently neutral.
+7171 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7172 : All three nations are tied for first place.
+7173 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7174 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7176 : All three nations are tied for first place.
+7177 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7178 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7180 : All three nations are tied for first place.
+7181 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7182 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7183 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7184 : All three nations are tied for first place.
+7185 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7186 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7188 : Global balance of power: All three nations are tied for first place.
+7189 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7190 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7191 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7192 : All three nations are tied for first place.
+7193 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7194 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7195 : Conquest update: This region is currently neutral.
+7196 : Conquest update: This region is currently under San d'Orian control.
+7197 : Conquest update: This region is currently under Bastokan control.
+7198 : Conquest update: This region is currently under Windurstian control.
+7199 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7200 : All three nations are at a deadlock.
+7201 : The beastmen are on the rise.
+7202 : Regional influence: San d'Oria - Dominant
+7203 : Regional influence: San d'Oria - Major
+7204 : Regional influence: San d'Oria - Minor
+7205 : Regional influence: San d'Oria - Minimal
+7206 : Bastok - Dominant
+7207 : Bastok - Major
+7208 : Bastok - Minor
+7209 : Bastok - Minimal
+7210 : Windurst - Dominant
+7211 : Windurst - Major
+7212 : Windurst - Minor
+7213 : Windurst - Minimal
+7214 : Bastok and Windurst have formed an alliance.
+7215 : San d'Oria and Windurst have formed an alliance.
+7216 : San d'Oria and Bastok have formed an alliance.
+7217 : Bastok and Windurst are currently allies.
+7218 : San d'Oria and Windurst are currently allies.
+7219 : San d'Oria and Bastok are currently allies.
+7220 : # #
+7221 : # % #
+7222 : ITEM_ID:# :#
+7223 : :# :#
+7224 : [//]:[////] :#:#
+7225 : The beastmen are gaining power.
+7226 : San d'Oria's regional control is now 10% closer to the first place country's!
+7227 : Bastok's regional control is now 10% closer to the first place country's!
+7228 : Windurst's regional control are now 10% closer to the first place country's!
+7229 : San d'Oria's region points have increased!
+7230 : Bastok's region points have increased!
+7231 : Windurst's region points have increased!
+7232 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7233 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7234 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7235 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7236 : A Bastokan Expeditionary Force has been dispatched to this area.
+7237 : A Windurstian Expeditionary Force has been dispatched to this area.
+7238 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7239 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7240 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7241 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7242 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7243 : There was a curse on the beastmen's banner!
+7244 : The curse of the beastmen's banner has been lifted!
+7245 : There is a beastmen's banner.
+7321 : # #
+7322 : # #
+7323 : You do not have visitant status.
+7324 : % obtained the key item: %!
+7325 : % obtained the temporary item: %!
+7326 : % already possesses % and could not obtain another.
+7327 : % attains level #!
+7328 : % earns a merit point! (Total: #)
+7329 : Visitant Light Intensity Pearlescent: # / Ebon: # Golden: # / Silvery: #
+7330 : Azure: # / Ruby: # / Amber: #
+7331 : %'s attack staggers the fiend!
+7332 : The fiend is unable to cast magic.
+7333 : The fiend is unable to use special attacks.
+7334 : The fiend is frozen in its tracks.
+7335 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental magic!
+7336 : The fiend appears vulnerable to [/hand-to-hand/dagger/sword/great sword/axe/great axe/scythe/polearm/katana/great katana/club/staff/archery/marksmanship] weapon skills!
+7337 : The fiend appears vulnerable to [/fire/ice/wind/earth/lightning/water/light/darkness] elemental weapon skills!
+7338 : Your visitant status will wear off in # [second/minute].
+7339 : Your visitant status will wear off in # [seconds/minutes].
+7340 : Your visitant status has worn off.
+7341 : Your visitant status has been extended by # [minute/minutes].
+7342 : Exiting in # [minute/minutes].
+7343 : Those without visitant status will be ejected from the area in # [minute/minutes]. To learn about this status, please consult a Conflux Surveyor.
+7344 : Exiting in # [second/minute].
+7345 : Exiting in # [seconds/minutes].
+7346 : Exiting now.
+7347 : Returning to the Searing Ward in # [second/seconds].
+7348 : You do not have visitant status. Returning to the Searing Ward in # [second/seconds].
+7349 : Returning to the Searing Ward in # [second/seconds].
+7350 : Returning to the Searing Ward now.
+7351 : If you wish to journey within Abyssea, bring me % and I will grant you visitant status.
+7352 : What would you like to do? Nothing. Learn about visitant status. Request visitant status. Extend visitant status.
+7353 : All inter-dimensional travelers such as yourself must acquire visitant status in order to journey within Abyssea. To be granted this status, you must provide me with %.
+7354 : Having come from a different plane of existence, your existential phase is unaligned to that of Abyssea. To overcome this problem, % is required. It acts as a stabilizing agent that aligns and anchors your essence to Abyssea for prolonged periods of time.
+7355 : Bereft of its effect, your essence will become unraveled within a matter of minutes, after which you will be expelled to your own reality. Do make a habit of first coming to me upon arrival in Abyssea.
+7356 : A word of warning. As the presence of unaligned entities may have adverse effects on this dimension, only those with visitant status are permitted to venture beyond the searing ward.
+7357 : Those without visitant status will be forcibly returned to the searing ward's vicinity. This is a preventative measure against the detrimental effects of inter-dimensional noise.
+7358 : When requesting visitant status, please indicate the number of % you wish to process. A greater number will allow you a longer stay.
+7359 : It is also possible to extend your visitant status by bringing me more %.
+7360 : To obtain %, you must seek out Joachim. He is currently a resident of your world, Vana'diel.
+7361 : Lastly, I will explain in detail the myriad effects granted by the visitant status.
+7362 : Many are the reports of positive things occurring while under its auspices, from a general upturn in fortunes to more specific benefits such as accelerated growth and greater ease of cruor harvesting.
+7363 : Naturally, these benefits will not come to the idle. The gains have been observed to grow proportionately to one's exploits in Abyssea.
+7364 : All good things come to an end, however, and this is no exception. The effects endure as long as you remain in Abyssea, but will wear off at the instant of your departure.
+7365 : That concludes my explanation of the visitant status. Remember always to obtain the status upon arrival in Abyssea.
+7366 : I see you have # [minute/minutes] of visitant status remaining from your previous visit.
+7367 : Use how many %? None for now. Set to remaining time: # min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min. #: [/+]# min.
+7368 : The ancient abyssite in your possession will grant you an additional # [minute/minutes] of visitant status.
+7369 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
+7370 : [Set time to/Extend time by] # min. (# %) Confirm. Cancel.
+7371 : Total time obtained for this stay: # min. Confirm. Cancel.
+7372 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
+7373 : You expend # %. Your visitant status has been [set to/extended by] # [minute/minutes].
+7374 : % expended: 0. Your visitant status has been set to # [minute/minutes].
+7375 : You could not extend your visitant status.
+7376 : Greetings, traveler. I am a resistance officer whose charge is the procurement of cruor. If you would be willing to part with any cruor you possess, I will issue you with helpful items in return.
+7377 : What will you do? (Cruor balance: #) Nothing. Learn about cruor. Exchange for items. Exchange for temporary items. Exchange for key items. Exchange for enhancement effects. Dispose of abyssite.
+7378 : Cruor is a naturally occurring mineral found as deposits on creatures native to Abyssea.
+7379 : Known by some as blood gold, these red granules are highly prized and see use as both energy source and construction material.
+7380 : It would be no exaggeration to say that cruor is the lifeblood of the resistance effort. As a matter of fact, the bulk of items I have in stock are cruor-based.
+7381 : Chief among them being ancient abyssite, a highly concentrated, doubly valuable form of the stone boasting diverse benefits.
+7382 : Ancient abyssite has been observed to improve the fortunes and vitality of their possessors, not unlike a good luck talisman.
+7383 : The most popular varieties offer extended visitant status time, accelerated growth, and myriad enhancement effects. Some are even said to improve luck, but such benefits can be troublesome to measure.
+7384 : I am limited in the types of ancient abyssite I can issue. The opportunity to acquire rarer varieties, however, will surely visit you during your time in Abyssea.
+7385 : Besides the issuance of items, I am also authorized to imbue you with enhancement effects.
+7386 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7387 : Select item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7388 : Select key item. (Cruor: #) Nothing right now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7389 : Select enhancement. (Cruor: #) Nothing for now. Reraise: #. Protect: #. Shell: #. Regen: #. Refresh: #. HP boost: #. MP boost: #. STR-DEX boost: #. VIT-AGI boost: #. INT-MND-CHR boost: #. All enhancements: #.
+7390 : Discard which one? None for now. %. %. %. %. %. %. %. %. %. %. %.
+7391 : Trade for %?
+7392 : Trade for %?
+7393 : Trade for %? Yes. No.
+7394 : Trade for %? Yes. No.
+7395 : Trade for %? Yes. No.
+7396 : [//////HP/MP/STRDEX/VITAGI/INTMNDCHR/] Trade for [/Reraise/Protect/Shell/Regen/Refresh/HP boost/MP boost/STR-DEX boost/VIT-AGI boost/INT-MND-CHR boost/all enhancements]? Yes. No.
+7397 : Discard the %? Yes. No.
+7398 : You obtain % in exchange for # cruor!
+7399 : You obtain the temporary item: % in exchange for # cruor!
+7400 : You obtain the key item: % in exchange for # cruor!
+7401 : You receive [/the effect of Reraise/the effect of Protect/the effect of Shell/the effect of Regen/the effect of Refresh/a HP boost/a MP boost/a STR-DEX boost/a VIT-AGI boost/an INT-MND-CHR boost/all available enhancements] in exchange for # cruor!
+7402 : Very well. I shall dispose of this % in your stead.
+7403 : You relinquish the %.
+7404 : You do not have enough cruor.
+7405 : It appears you already possess that temporary item.
+7406 : It appears you already possess that key item.
+7407 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
+7408 : This ancient abyssite helps to stabilize your existential phase, allowing you to remain in Abyssea for longer durations.
+7409 : This ancient abyssite facilitates energy release, making travel through Veridical Confluxes possible with fewer cruor.
+7410 : This ancient abyssite mitigates mechanical wear, reducing the cool-off duration when using martellos.
+7411 : This ancient abyssite resonates with treasure, increasing your likelihood of finding spoils after battle.
+7412 : This ancient abyssite heightens your senses, allowing you to unlock treasure chests with greater ease.
+7413 : This ancient abyssite resonates with the ground beneath you, allowing you to obtain more %.
+7414 : This ancient abyssite resonates with treasure, increasing your likelihood of encountering blue pyxides.
+7415 : This ancient abyssite imbues your soul with great strength, allowing you to infuse an additional atma for each piece possessed.
+7416 : This is a map of Abyssea - La Theine. Don't leave home without it!
+7417 : This is a map of Abyssea - Konschtat. Don't leave home without it!
+7418 : This is a map of Abyssea - Tahrongi. Don't leave home without it!
+7419 : This is a map of Abyssea - Attohwa. Don't leave home without it!
+7420 : This is a map of Abyssea - Misareaux. Don't leave home without it!
+7421 : This is a map of Abyssea - Vunkerl. Don't leave home without it!
+7422 : Certain monsters in Abyssea loath contact with people, concealing themselves from detection. Only with this abyssite will you be able to uncloak and confront them. Go into a crouch with it in your possession, and the way will be revealed to you.
+7423 : Trade for how many? (Cruor balance: #) None for now. # (# cruor). # (# cruor). ## cruor). ## cruor). # (# cruor).
+7424 : Trade for # of the item? Yes. No.
+7425 : You receive # ) in exchange for # cruor.
+7426 : Well met, wayfarer. I am an Atma Infusionist, and from my title I trust you can glean my field of expertise. Those who possess % may come to me to have atma infused.
+7427 : How might I serve you? You may not. Tell me about atma. Infuse me with atma. Examine infused atma. Purge atma. Reinfuse previous atma set. Select from recent history.
+7428 : Atma is most accurately described as the crystalline agglomeration of an Abyssean creature's soul. Through painstaking research, we infusionists have discovered a way to imbue ordinary people such as yourself with its power.
+7429 : Infusion makes possible the augmentation of individuals, granting them powers particular to the creature from which the atma is sourced.
+7430 : The infusion process requires three objects: an atma, %, and cruor.
+7431 : % is a rare variety of ancient abyssite that can only be procured with great difficulty. And it won't please you to know that atma is rarer still.
+7432 : For only the most savage creatures, you see, are known to yield atma. And if you thought that weren't trial enough, only by employing special combat strategies will atma be yours to own.
+7433 : Atma-yielding monsters are known to have vulnerabilities that, if exploited, may result in a swift end to the confrontation.
+7434 : Strike at a foe's weakness, and it will drop different spoils, often more valuable than usual. Among them you may find atma.
+7435 : The vulnerabilities can broadly be divided into three categories: magic attacks, physical-based weapon skills, and magic-based weapon skills.
+7436 : For instance, there are monsters known to be weak against magic-based weapon skills. Inflicting such damage upon them will impair their movement, and you may consequently be rewarded with atma.
+7437 : All living creatures, however, possess the capacity to adapt, and vulnerabilities have been observed to change. Be wary if you wish not to discover to your sorrow that a once-foolproof strategy no longer applies.
+7438 : Besting such fell creatures is in itself a harrowing task, and becomes even more so if procuring atma is your objective.
+7439 : But should fortune smile upon you and you find yourself in possession of atma, bring it here. I will see that it serves you well.
+7440 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7441 : # cruor is required to infuse the %.
+7442 : Have % infused? Confirm. Cancel.
+7443 : You do not have enough cruor.
+7444 : You have already been infused with that atma.
+7445 : You cannot be infused with more than # atma at any given time. Please have an existing atma purged if you wish to replace it with another.
+7446 : Examine which atma? None for now. %. %. %.
+7447 : Purge which atma? None for now. %. %. %. Purge all.
+7448 : Purge %? Yes. No.
+7449 : Purge all atma? Yes. No.
+7450 : % expends # cruor and is now infused with %!
+7451 : % has been purged of the %.
+7452 : % has been purged of all infused atma.
+7453 : You have not been cleared for atma infusion.
+7454 : You do not have visitant status. Please proceed to the nearest Conflux Surveyor to have it granted.
+7455 : Reinfuse the following atma? On second thought, no. %. %. %. Make it so.
+7456 : # cruor will be required to reinfuse your previous atma configuration.
+7457 : Proceed with the infusion? Yes. No.
+7458 : % expends # cruor and [his/her] previous atma configuration is restored!
+7459 : It would seem you've already been infused with that atma configuration. Perhaps you meant to ask me to infuse some new atma instead?
+7460 : Which atma will you have infused? None for now. %. %. %. %. %. %. %. %. %. %. %. %.
+7461 : Infuse the following atma? Cancel. %. %. %. Select new atma. Proceed.
+7462 : Replace currently infused atma? Yes, replace. No, cancel.
+7463 : # cruor is required to infuse the selected atma.
+7464 : Have the selected atma infused? Confirm. Cancel.
+7465 : % expends # cruor and is now infused with [his/her] chosen atma set!
+7466 : Greetings. I am an atma fabricant--or, to the layman, one who fabricates atma. I can synthesize atma from the memories of adventure stored deep within your body and soul. If you have need of my services, you need only speak the word.
+7467 : Ask for something? No thanks. Synthetic atma? My memories? Show me the atma.
+7468 : As you are no doubt aware, the substance we call atma is a crystalline agglomeration of soul energy that can be harvested from the bodies of fallen Abyssean fiends.
+7469 : The abundant power that it imbues when infused into our bodies is not in question. The perilous means by which it must be acquired, however, leaves something to be desired.
+7470 : After all, bolstering the strength of one man means little if ten others must lose their lives in the process. Thus was the impetus behind our research: to discover a means for extracting atma from resources at our immediate disposal.
+7471 : We experimented with nearly every substance in sight--be it animal, vegetable, or mineral. Yet each time, the atma produced was small, fragile, and entirely absent of the power we sought.
+7472 : Then, one day, we hit upon the obvious answer that we had so long overlooked...ourselves. Yes, the atma extracted from our own bodies--particularly those richly possessed of experiences and memories--these housed a power rivalling that harvested from the most vicious of fiends.
+7473 : If you possess such memories, then I can bring forth the latent power that resides within you as well.
+7474 : Fear not, for there is everything to gain and nothing to lose. Save for some cruor, that is...
+7475 : Curious, is it not? That potent physical energy can be extracted from such a tenuous, intangible thing...
+7476 : But the strength our memories and experiences give us is real, if all too easily overlooked. Once isolated, it is simply a matter of recalling it, solidifying it, and bringing it to the fore.
+7477 : Surely you understand of what it is I speak, yes? Your greatest accomplishments--those that make others stand in wonderment and admiration when you they hear your name.
+7478 : We summon forth the energies from the deepest recesses of your psyche, and infuse it into the cruor you carry. The resultant agglomeration of organic mineral and soul energy is synthetic atma.
+7479 : Mind you, the deeper and more puissant your energies, the more cruor will be necessary to contain it all. If you wish to have me assay the powers that lie dormant within you, simply speak the word.
+7480 : Very well. We shall see what latent powers you possess. Stand still and clear your mind...
+7481 : Yes...it is as I thought... Long and far have you traveled...many a battle have you fought...
+7482 : Yes, I see within you # [memory/memories] that I could process into atma. Which shall I extract?
+7483 : ...And yet, I see nothing tangible enough for me to process. I am sorry.
+7484 : Synthesize atma? (Cruor balance: #) None for now. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. %: #. Previous page. Next page.
+7485 : Expend # cruor? Yes. No.
+7486 : Very well. Let us begin the extraction.
+7487 : Still your heart, and empty your mind...
+7488 : The power is strong within you... Slowly, but surely, it stirs to the fore... Yes... Yes, it is come!
+7489 : Behold, the physical manifestation of the innermost power of your soul!
+7490 : The monster was concealing a treasure chest!
+7491 : The treasure chest will disappear in # [second/seconds].
+7492 : Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
+7493 : Which item will you obtain? None of them. %. %. %. %. %. %. %. %. Add to lottable spoils. Destroy treasure chest.
+7494 : Which key item will you obtain? None of them. %. %. %. %. %. %. %. %. Destroy treasure chest.
+7495 : Obtain the %? Yes. No.
+7496 : Obtain the %? Yes. No.
+7497 : Obtain the %? Yes. No.
+7498 : Obtain this temporary item?
+7499 : Obtain this item?
+7500 : % obtains the temporary item: %!
+7501 : % obtains the item: %!
+7502 : % obtains the key item: %!
+7503 : % transferred the contents of the pyxis to the cache of lottable spoils.
+7504 : You already possess that temporary item.
+7505 : You already possess that key item.
+7506 : That temporary item had already disappeared.
+7507 : That key item had already disappeared.
+7508 : That item had already disappeared.
+7509 : The treasure chest had already disappeared.
+7510 : % obtained # cruor.
+7511 : % obtains several temporary items!
+7512 : %'s body emits [a faint/a mild/a strong] pearlescent light!
+7513 : %'s body emits [a faint/a mild/a strong] golden light!
+7514 : %'s body emits [a faint/a mild/a strong] silvery light!
+7515 : %'s body emits [a faint/a mild/a strong] ebon light!
+7516 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] azure light!
+7517 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] ruby light!
+7518 : %'s body emits [a feeble/a faint/a mild/a strong/an intense] amber light!
+7519 : You cannot open that treasure chest.
+7520 : % has claim over that treasure chest.
+7521 : Your party does not have claim over that treasure chest.
+7522 : %'s time limit has been reduced by # [minute/minutes].
+7523 : The chest will be lost. Proceed? Yes, destroy. No, cancel.
+7524 : The treasure chest has disappeared.
+7525 : What will you do? Attempt to unlock it. Examine lock. Peer between the crack. Leave it be. Destroy the chest.
+7526 : Examine which temporary item? None of them. %. %. %. %. %. %. %. %.
+7527 : Examine which item? None of them. %. %. %. %. %. %. %. %.
+7528 : Key item: %.
+7529 : Key item: %. Key item: %.
+7530 : Key item: %. Key item: %. Key item: %.
+7531 : Key item: %. Key item: %. Key item: %. Key item: %.
+7532 : [Temporary items/Items/Powerful items/Key items] appear to be inside the treasure chest.
+7533 : The chest is aglow from within with [a feeble/a faint/a mild/a strong/an intense] soothing light.
+7534 : [A minuscule/A small/A moderate/A considerable/A princely] amount of cruor appears to be inside the treasure chest.
+7535 : The chest appears empty, but you sense that you serve to gain [a tiny bit of/a little/some/considerable/tremendous] experience by opening it.
+7536 : The treasure chest appears to be laden with numerous temporary items.
+7537 : The treasure chest appears to contain a strangely familiar stone fragment.
+7538 : The chest is aglow from within with [a faint/a mild/a strong] [pearlescent/golden/silvery/ebon] light.
+7539 : The chest is aglow from within with [a faint/a mild/a strong/an intense] [azure/ruby/amber] light.
+7540 : Temporary item confirmed.
+7541 : Item confirmed.
+7542 : This treasure chest has been fitted with a unique combination lock that randomly generates numbers from 199. Opening it requires you to guess whether the next number is greater or less than the previous.
+7543 : Unlocking this treasure chest requires # correct [guess/guesses]. It will disappear after # failed [attempt/attempts]. Current progress: # correct [guess/guesses].
+7544 : Previous: # (Success: # / Failure: #) Do nothing. Twist number dial up. Twist number dial down.
+7545 : Your selection has been rendered void. Another party member has already made a selection.
+7546 : The randomly generated number was #! % guessed [successfully/unsuccessfully]!
+7547 : This treasure chest has been fitted with an unusual pneumatic lock. Opening it requires you to adjust air pressure to fall within a predetermined range. Please note, however, that wear and tear may prevent the adjustment mechanism from functioning as intended.
+7548 : Unlocking this treasure chest requires you to adjust air pressure to fall within ##. The allotted number of attempts is #. [The mechanism appears to be in good nick/The sound of air escaping is faintly audible/The mechanism's adjuster lever rattles fitfully/The mechanism is silent to the point of eeriness]. Current air pressure: #
+7549 : Pressure: # / Target: ## / Tries left: # Do nothing. Pull lever down one notch. Pull lever down two notches. Pull lever down three notches.  Push lever up one notch. Push lever up two notches. Push lever up three notches.
+7550 : % [reduced/increased] the air pressure by # units. Current air pressure: #[/ (minimum)/ (maximum)]
+7551 : Unlocking this treasure chest requires you to input the correct two-digit combination within the allotted number of attempts.
+7552 : You have a hunch that the lock's combination is between ##. The allotted number of attempts is #.
+7553 : Attempts remaining: # Do nothing. Input combination.
+7554 : Please input a two-digit combination between ##.
+7555 : % inputs the number #[, but nothing happens./, successfully unlocking the chest!]
+7556 : You have a hunch that the lock's combination is [greater/less] than #.
+7557 : You have a hunch that the [second/first] digit is [even/odd].
+7558 : You have a hunch that the [second/first] digit is #.
+7559 : You have a hunch that the [second/first] digit is #, #, or #.
+7560 : You have a hunch that one of the digits is #.
+7561 : You have a hunch that the sum of the two digits is #.
+7562 : % succeeded in opening the lock!
+7563 : % failed to open the lock.
+7564 : % uses % and opens the lock!
+7565 : What will you do? (Cruor balance: #) Nothing. Activate Conflux #0# (#). Do not use. Warp to Conflux #01: #. Warp to Conflux #02: #. Warp to Conflux #03: #. Warp to Conflux #04: #. Warp to Conflux #05: #. Warp to Conflux #06: #. Warp to Conflux #07: #. Warp to Conflux #08: #. Warp to Conflux #00: #.
+7566 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
+7567 : Warp to Conflux #0[/1/2/3/4/5/6/7/8/0]? Yes. No.
+7568 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? (Cost: # cruor) Yes. No.
+7569 : Activate Conflux #0[1/2/3/4/5/6/7/8/0]? Yes. No.
+7570 : You used # cruor.
+7571 : You do not have enough cruor.
+7572 : Veridical Conflux #0[1/2/3/4/5/6/7/8/0] has been activated for %!
+7573 : What will you do? (Energy level: #) Nothing for now. Recover HP: #. Recover MP: #. Recover from status ailments: #. Prepare to replenish martello. Prepare to upgrade martello. Replenish from the [east/southeast/south/southwest/west/northwest/north/northeast]. Upgrade from the [east/southeast/south/southwest/west/northwest/north/northeast]. Cease replenishing this martello. Cease upgrading this martello. Cease replenishing other martello. Cease upgrading other martello.
+7574 : [Recover HP/Recover MP/Recover from status ailments]? Yes. No.
+7575 : The martello does not have enough energy.
+7576 : Recovery was unnecessary.
+7577 : Prepare to [replenish/upgrade] this martello? Yes. No.
+7578 : This martello does not need to be [replenished/upgraded].
+7579 : To [replenish/upgrade] the martello, please examine it from the [east/southeast/south/southwest/west/northwest/north/northeast]. Please be aware that your positioning directly impacts the efficiency of the process. You can [replenish/upgrade] only one martello at any given time. To commence work on another, you must either wait for the process to be completed, or cancel it.
+7580 : [Replenish/Upgrade] from this direction? Yes. No.
+7581 : The martello's [energy/energy capacity] has [recovered/increased] by #! The [replenishment/upgrading] effort was [successful./a great success./a tremendous success!/an unparalleled success!]
+7582 : Please note that martello recast time is # [minute/minutes].
+7583 : You must wait another # [minute/minutes] to use the martello.
+7584 : You cannot use the martello at this time.
+7585 : Cease [replenishing/upgrading] this martello? Yes. No.
+7586 : You have canceled [replenishing/upgrading] [this/the other] martello.
+7587 : You sense an aura of boundless rage...
+7588 : Your keen senses tell you that something may happen if only you had [this item/these items].
+7589 : %...
+7590 : %...
+7591 : Use the [key item/key items]? Yes. No.
+7592 : "Triple Attack"+: Major Physical damage taken -: Minor Lightning elemental attack +: Major
+7593 : STR+: Major Attack+: Superior Ranged Attack+: Major
+7594 : Defense+: Major "Magic Def. Bonus"+: Minor Enhances "Resist Charm" effect: Minor
+7595 : MP+: Superior MND+: Major Enmity-: Major
+7596 : Enmity critical hit rate -: Minor Enhances "Resist Slow" effect: Major Enhances "Resist Curse" effect: Major
+7597 : Magic Accuracy+: Major Physical damage taken -: Minor Enhances "Resist Paralysis" Effect: Major
+7598 : Attack+: Major "Magic Atk. Bonus": Major
+7599 : HP+: Superior Enh. "Resist Sleep" effect: Superior
+7600 : Damage taken -: Minor Enhances "Resist Silence" effect: Major
+7601 : AGI+: Major "Double Attack"+: Major
+7602 : STR+: Superior "Double Attack"+: Major "Regain": Major
+7603 : Accuracy+: Major Evasion+: Major Enh. resistance against "Death": Minor
+7604 : Wind elemental accuracy +: Major Lightning elemental accuracy +: Major "Refresh": Minor
+7605 : "Subtle Blow"+: Major Water damage attack +: Major Enhances "Resist Poison" effect: Major
+7606 : Defense+: Major "Magic Def. Bonus": Minor "Regen": Major
+7607 : "Magic Atk. Bonus": Major Ice elemental attack +: Major Light elemental attack +: Major
+7608 : VIT+: Major Breath damage taken -: Major
+7609 : Wind elemental attack +: Major Wind elemental accuracy +: Major
+7610 : CHR+: Major Critical hit rate +: Minor
+7611 : Ranged Attack+: Major Ranged Accuracy+: Major
+7612 : Attack+: Major Defense+: Major "Regen": Major
+7613 : STR+: Major "Double Attack"+: Major Enhances "Resist Sleep" effect: Major
+7614 : Enh. "Drain" and "Aspir" effects: Major "Store TP"+: Minor Enhances "Resist Slow" effect: Major
+7615 : Darkness elemental attack +: Major Enhances "Resist Amnesia" effect: Major Enhances "Resist Silence" effect: Major
+7616 : Attack+: Major Evasion+: Major Enh. "Resist Paralysis" effect: Major
+7617 : "Double Attack"+: Major Enhances "Resist Bind" effect: Major Enhances "Resist Blind" effect: Major
+7618 : VIT+: Minor Defense+: Major
+7619 : Enhances "Resist Slow" effect: Major Enhances "Resist Blind" effect: Major
+7620 : Earth elemental attack +: Major Earth elemental accuracy +: Major
+7621 : STR+: Minor Darkness elemental accuracy +: Major
+7622 : INT+: Major "Conserve TP"+: Minor Fire elemental accuracy +: Major
+7623 : MND+: Minor Earth elemental accuracy +: Major Occasionally annuls magic damage taken
+7624 : MND+: Superior "Conserve MP"+: Minor Ice elemental attack +: Minor
+7625 : HP+: Superior Magic Accuracy+: Major Magic critical damage +: Major
+7626 : Attack+: Minor Magic critical hit rate +: Major Fire elemental attack +: Major
+7627 : STR+: Minor TP Bonus+: Minor Occasionally annuls physical damage
+7628 : Skillchain Bonus+: Minor STR+: Minor
+7629 : MND+: Minor Water elemental accuracy +: Minor
+7630 : "Fast Cast"+: Minor Spell interruption rate down: Minor
+7631 : "Store TP"+: Minor "Waltz" potency+: Minor
+7632 : AGI+: Superior Critical hit rate +: Major "Counter"+: Minor
+7633 : STR+: Minor VIT+: Minor AGI+: Major
+7634 : "Subtle Blow"+: Minor "Store TP"+: Minor Song spellcasting time -: Major
+7635 : VIT+: Superior "Regen": Superior Enmity decrease when taking damage -: Minor
+7636 : DEX+: Superior Critical hit rate +: Superior Critical hit damage +: Major
+7637 : "Regain": Minor <LTG>+: Minor <WTR>+: Minor
+7638 : "Triple Attack"+: Minor Breath damage taken -: Major
+7639 : Haste+: Minor Enhances effects of rice balls
+7640 : VIT+: Minor DEX+: Minor
+7641 : CHR+: Minor "Triple Attack"+: Minor
+7642 : HP+: Major Critical hit damage +: Major Enmity+: Minor
+7643 : "Fast Cast"+: Minor Water elemental attack +: Minor Water elemental accuracy +: Minor
+7644 : INT+: Superior "Refresh": Major Enmity-: Minor
+7645 : "Regain": Minor "Conserve TP"+: Minor TP Bonus+: Minor
+7646 : "Conserve MP"+: Minor Lightning elemental attack +: Major Magic damage taken -: Minor
+7647 : Attack+: Major "Double Attack"+: Major Occasionally absorbs magic damage
+7648 : Evasion+: Minor <WND>+: Major
+7649 : AGI+: Minor <FIR>+: Major
+7650 : <DKN>+: Major "Resist Stun"+: Major
+7651 : Haste+: Minor Enhances monster correlation effects
+7652 : Magic Accuracy+: Superior "Fast Cast"+: Superior (Same elemental magic as weather) Enmity-: Superior
+7653 : "Magic Atk. Bonus": Minor "Magic Def. Bonus": Minor <FIR>+: Superior
+7654 : <ERT>+: Superior Damage taken -: Minor Gain full benefit of Earthsday/earth weather bonuses
+7655 : <WND>+: Superior Haste+: Major Enhances "Snapshot" effect: Minor
+7656 : "Store TP"+: Major Critical hit rate +: Minor Enhances "Resist Bind" effect: Superior
+7657 : HP+: Major MP+: Major DEX+: Minor
+7658 : STR+: Minor Fire-based weapon skill damage+: Major Gain full benefit of Firesday/fire weather bonuses
+7659 : TP Bonus+: Superior (2H weapon equipped) WS accuracy+: Superior
+7660 : Attack+: Minor Fire elemental attack +: Major
+7661 : Haste+: Minor Enmity-: Minor
+7662 : Elemental magic skill+: Major Gain full benefit of Windsday/wind weather bonuses
+7663 : Attack+: Minor Enh. "Resist Paralysis" effect: Superior
+7664 : Accuracy+: Major Evasion+: Major
+7665 : DEX+: Superior Haste+: Superior Enmity+: Minor
+7666 : DEX+: Minor <LTG>+: Superior Gain full benefit of Lightningday/lightning weather bonuses
+7667 : INT+: Minor <ICE>+: Superior Gain full benefit of Iceday/ice weather bonuses
+7668 : "Regen": Minor "Store TP"+: Major "Double Attack"+: Minor
+7669 : Defense+: Superior "Magic Def. Bonus": Minor "Conserve TP"+: Major
+7670 : <LIT>+: Superior Light elemental attack +: Major Gain full benefit of Lightsday/light weather bonuses
+7671 : MND+: Minor <WTR>+Superior Gain full benefit of Watersday/water weather bonuses
+7672 : Accuracy+: Minor (2H weapon equipped) WS damage +: Minor
+7673 : VIT+: Major INT+: Major
+7674 : Song recast delay -: Superior Enhances "Dia" effect
+7675 : "Store TP"+: Major Occasionally increases TP gained when taking damage
+7676 : "Subtle Blow"+: Minor Enmity+: Major
+7677 : "Store TP"+: Major "Conserve TP"+: Major
+7678 : CHR+: Superior Occasionally absorbs magic damage "Save TP": Major
+7679 : "Triple Attack"+: Minor Breath damage taken -: Major Enhances "Zanshin" effect: Minor
+7680 : Enh. resistance against "Death": Major (HP above 25%) Damage taken-: Major (HP above 25%) "Slip damage": Superior
+7681 : "Regain": Superior "Slow"+: Superior (Daytime) "Regen": Superior
+7682 : (Depending on day) Magic Accuracy+: Major (Depending on day) Enhances elemental magic (Depending on day) Elemental WS damage+: Minor
+7683 : MP+: Minor (Daytime) "Refresh": Superior "Addle"+: Superior
+7684 : MND+: Minor <DRK>+: Superior Gain full benefit of Darksday/dark weather bonuses
+7685 : Attack+: Minor (2H weapon equipped) "Regain"+: Major
+7686 : Attack+: Minor "Double Attack"+: Major
+7687 : Accuracy+: Superior Enhances "Resist Petrify" effect: Superior
+7688 : Occasionally absorbs physical damage Occasionally absorbs magic damage taken
+7689 : INT+: Major MND+: Major
+7690 : AGI+: Minor Ranged Attack+: Major
+7691 : "Triple Attack"+: Superior Quick Magic Auto-reraise
+7692 : MP+: Minor "Regain": Minor Light elemental accuracy +: Minor
+7693 : STR+: Minor Critical hit damage +: Minor "Regen": Minor
+7694 : INT+: Minor Magic attack +: Minor "Refresh": Minor
+7695 : MND+: Minor Enhances magic burst effect +: Minor Depending on day: enhances elemental magic
+7696 : MP+: Minor Darkness elemental attack +: Minor Darkness elemental accuracy +: Minor
+7697 : STR+: Minor Magic damage taken -: Minor Light elemental attack +: Minor
+7698 : Haste+: Minor "Fast Cast"+: Minor "Magic Def. Bonus": Superior
+7699 : "Store TP"+: Minor Cure spellcasting time -: Minor Song recast delay -: Superior
+7700 : DEX+: Minor <DKN>+: Minor Weapon skill accuracy +: Minor
+7701 : MP+: Major Magic critical hit rate +: Major "Blood Pact" ability delay -: Minor
+7702 : VIT+: Minor (Depending on day:) Magic Accuracy+ / Elemental WS damage +: Minor
+7703 : Magic Evasion+: Minor "Treasure Hunter"+: Minor Increases "Samba" duration: Minor
+7704 : "Refresh": Minor "Fast Cast"+: Minor Movement speed +: Major
+7705 : Attack+: Minor VIT+: Minor Enh. "Beast Killer" effect: Minor
+7706 : AGI+: Major INT+: Major Magic Accuracy+: Major
+7707 : "Magic Atk. Bonus": Superior Enh. "Zanshin" effect: Superior Enh. "Demon Killer" effect: Major
+7708 : "Subtle Blow"+: Superior Enmity-: Superior Occasionally absorbs physical damage
+7709 : "Magic Atk. Bonus": Minor Enhances "Dragon Killer" effect: Minor (Wyvern) HP+: Superior
+7710 : Breath damage taken -: Major Enh. "Lizard Killer" effect: Minor "Regen": Major
+7711 : HP-: Major Attack+: Superior "Triple Attack"+: Major
+7712 : MP-: Superior "Magic Atk. Bonus": Superior Magic Accuracy+: Superior
+7713 : "Double Attack"+: Minor "Triple Attack"+: Minor Enh. "Arcana Killer" effect: Minor
+7714 : AGI+: Minor Evasion+: Minor Critical hit rate +: Major
+7715 : HP+: Minor MP+: Minor Damage taken -: Minor
+7716 : "Regen": Minor "Refresh": Minor "Regain": Minor
+7717 : "Magic Def. Bonus"+: Minor "Fast Cast"+: Major "Cure" potency+: Minor
+7718 : Haste+: Major Increases duration of "Absorb" spells Magic Evasion+: Minor
+7719 : STR+: Minor MND+: Minor Enh. resistance against "Death": Superior
+7720 : VIT+: Minor Enhances "Dual Wield" effect (2H weapon equipped) Attack+: Major
+7721 : HP+: Major MP+: Major "Save TP": Major
+7722 : (HP below 25%) "Regen": Major (HP below 25%) "Refresh": Superior Resistance to status ailments+: Minor
+7723 : "Resist Stun"+: Major Enhances all attributes+: Minor Movement speed +: Major
+7724 : HP-: Minor MP+: Major "Magic Atk. Bonus": Minor
+7725 : Great Sword skill+: Major Scythe skill+: Major (2H weapon equipped) WS damage+: Major
+7726 : "Magic Atk. Bonus": Minor Magic critical damage +: Major "Conserve MP"+: Superior
+7727 : CHR+: Minor Accuracy+: Major Magic Accuracy+: Major
+7728 : HP+: Minor Accuracy+: Minor Increases cruor yield.
+7729 : (HP below 25%) VIT+: Superior (HP below 25%) AGI+: Superior (HP below 25%) "Regain": Major
+7730 : "Double Attack"+: Major (HP above 50%) "Slow"+: Superior (HP below 50%) "Haste"+: Superior
+7731 : STR+: Major Evasion-: Major Counter+: Major
+7732 : HP+: Superior STR+: Major Damage taken +: Major
+7733 : (Guard) Damage taken -: Major (HP below 50%) Damage taken -: Superior (HP below 50%) Movement speed -: Superior
+7734 : "Cure" potency+: Minor Enhancing magic skill+: Major "Waltz" potency+: Minor
+7735 : MP+: Minor (HP below 50%) "Refresh": Major (HP below 50%) "Fast Cast"+: Superior
+7736 : Enhances all attributes+: Superior Resistance to status ailments+: Superior Occasionally absorbs damage taken
+7737 : In The Wyrm God, temporary items cannot be used and all effects will be removed.
+7738 : Atma will be deactivated in The Wyrm God.
+7739 : Time debug: Time limit: # [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
+7740 : Time debug: Do what? Nuttin'. Increase time limit. Reduce time limit. Switch OFF "Search flag switched ON flag." Forced exit flag OFF. Receive one %.
+7741 : Time debug: Increase by how much? Return. +0 minute. +1 minute. +2 minutes. +3 minutes. +5 minutes. +10 minutes. +15 minutes. +30 minutes. +45 minutes. +60 minutes. +75 minutes. +90 minutes. +120 minutes.
+7742 : Time debug: Reduce by how much?  -0 minute. -1 minute. -2 minutes. -3 minutes. -5 minutes. -10 minutes. -15 minutes. -30 minutes. -45 minutes. -60 minutes. -75 minutes. -90 minutes. -120 minutes.
+7743 : Time debug: Your time limit has been set to # minute(s).
+7744 : Time debug: Your time limit has been [increased by/reduced by] # minute(s). New time limit is # [sec/min].
+7745 : Time debug: Search flag is now [OFF/ON].
+7746 : Time debug: "Search flag ON flag" is now [OFF/ON].
+7747 : Time debug: Forced exit flag is now [OFF/ON].
+7748 : Time debug: You got %!
+7749 : FB Debug: [No error/Lack of info error/Monster number error/Spawn rate incorrect/Casket type incorrect/Casket rank incorrect/Casket empty/Search flag error].
+7750 : FB Debug: Spawn rate #/#
+7751 : FB Debug: Recovery obtainment = # / Probability fluctuation =# / Item = #.
+7752 : FB Debug: Recovery obtainment value = # / Probability fluctuation value = # / Item value = #.
+7753 : FB Debug: Casket type probability # / # Casket type fixed = #.
+7754 : FB Debug: Casket rank bonus value = # Casket rank fixed = #.
+7755 : defpc processing debug: XP obtainment bonus value = #.
+7756 : defpc processing debug: Cruor obtainment bonus = #.
+7757 : defpc processing debug: NMs defeated = #.
+7758 : defpc processing debug: FB spawn rate bonus value = #.
+7759 : defpc processing debug: FB recovery obtainment-type rank & spawn rate bonus value = #.
+7760 : defpc processing debug: FB probability fluctuation-type rank & spawn rate bonus value = #.
+7761 : defpc processing debug: FB Item-type rank & spawn value bonus value = #.
+7762 : AP Debug: Do what? Nuttin'. AP: Adjust elapsed time. AP: Adjust number of quests cleared for all PCs. AP: Adjust amount of XP obtained for all PCs. AP: Adjust amount of cruor for all PCs. AP: Adjust number of NMs defeated for all PCs. AP: Adjust number of HNMs defeated for all PCs. AP: Adjust pollution levels for this area. AP: Adjust number of defenses for this area. OT: Acquire info pertaining to "Order Trophy."
+7763 : Elapsed time: #P (1P = # min)
+7764 : XP: #P (1P = # QUEST)
+7765 : XP: #P (1P = # XP)
+7766 : Cruor: #P (1P = # cruor)
+7767 : NMs defeated: #P (1P = # NM)
+7768 : HNMs defeated: #P (1P = # HNM)
+7769 : Pollution level: # P
+7770 : Number of defenses: # P
+7771 : Change value? No thanks. Increase. Decrease.
+7772 : All clear to receive the effect of "Flee"?  Oh Goddess, no!   Bring it on!
+7773 : Your fortune for today is [terrible/meh/decent/moderately good/very good]. As such, I shall imbue you with # minute(s) of "Flee."
+7774 : OT Debug: Do what? Nothing for now. OT: Obtainment bonus. OT: Fortune rate. OT: Externimation record.
+7775 : Obtained bonus work. XP added: #. Cruor added: #. NMs defeated: #.
+7776 : Fortune rate work. Spawn rate added value: # Blue casket spawn rate: # Red casket spawn rate: # Gold casket spawn rate: #
+7777 : Extermination record work. Previous monster defeated: #. No. of same ID defeated: #. No. of diff. ID defeated: #.
+7778 : Nothing happens...
+7779 : You can feel the warm, moist breath of the maw on your skin.
+7780 : An unseen force is drawing you towards the maw.
+7781 : A portal has opened within the depths of the maw.
+7782 : Raise your %? Yes. No.
+7783 : You fit the % into the hollow.
+7784 : There is a hollow here in the shape of %.
+7785 : The lycopodium is entranced by a sparkling light...
+7786 : Your memory is engraved with an image of your surroundings and the fragrance of flowers...
+7787 : The ground is sparkling with a strange light.
+7788 : The sparkling light seems vaguely familiar to you...
+7789 : You sense that a certain trigger may awaken the memories slumbering in your mind.
+7790 : The fragrance of the flower sends your senses reeling back to the world of the past...
+7791 : The relevant battle data has been recorded in your %.
+7792 : An unseen force is drawing you towards the maw.
+7793 : Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? Proceed. Not yet.
+7794 : Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? Proceed. Not yet.
+7795 : You do not possess %...
+7796 : Your body cannot cope with further strain. You must rest for another # [minute/minutes].
+7797 : To where will you head? [The past/The present]. Walk of Echoes. Nowhere for now.
+7798 : These martellos are defensive fortifications developed by the resistance to aid in our battle against the fell hordes. Enchanted structures, they may be employed to restore your health and magic, cure ailments, and generally restore you to fighting trim.
+7799 : I have been entrusted with the supervision and maintenance of these martellos...but this is none of your concern.
+7800 : I have been entrusted with the supervision and maintenance of these martellos. Would you be needing something of me?
+7801 : Need something? Assist with replenishment. Assist with upgrades. Martellos? Come again? Nothing in particular.
+7802 : Splendid! Your aid is a great boon to the resistance effort. To replenish a martello, you'll need to insert one of these % into the structure.
+7803 : Be forewarned: you will be unable to carry these and % at the same time.
+7804 : Take along the %? Yes. No.
+7805 : We would be particularly indebted to you for efficient replenishment of martellos in remote locations. Best of luck in your efforts!
+7806 : Why, is that not % already in your posssesion? You need only insert that into a martello to initiate replenishment.
+7807 : I see that you currently possess %. Do you wish to abandon your upgrading efforts and participate in replenishment instead?
+7808 : You return the % and obtain % in its stead!
+7809 : Your support is most heartening in these dark times. Upgrading a martello will require you to attach a device known as %.
+7810 : Mind you, the device is rather unwieldy. You will not be able to carry it and % at the same time.
+7811 : Excellent. I would be especially appreciative if you could upgrade those martellos in distant locations--the quicker the better. Be careful out there!
+7812 : Hm? Is that not % you hold in your hand? You need only find the martello you wish to upgrade, and attach it.
+7813 : Is that % I see? Do you wish to curtail your replenishment activities and assist with upgrading instead?
+7814 : Welcome back, friend! Allow me to take that % off your hands. How did you fare in your efforts?
+7815 : I see, I see... Martello #0#, you say? It sounds as if the operation was [a modest success./a reasonable success./a rousing success!/an unqualified success!]
+7816 : The resistance greatly values your contributions. Take this as a small token of our appreciation, and do not hesitate to return the next time you are willing to lend your support.
+7817 : I've been working with these here martellos since I was knee-high. Ask away, and my knowledge is yours.
+7818 : Ask something? So, what's a martello? Martello replenishment. Martello upgrades. Cautionary notes. Not now.
+7819 : The device we know as the martello was first developed by military engineers many years past, during an age of great war. Martellos serve to keep combatants fighting fit, healing their wounds and restoring their mental energies.
+7820 : You will observe that martellos have been constructed in numerous locales, so as to provide strategically located safe havens for harried resistance fighters. No doubt you will find yourself making use of them as well.
+7821 : In the bowels of each martello is contained a tank designed to hold martello fuel.
+7822 : This % is the lifeblood of the martello, and the source of its curative powers. Depleted stores will render the device little more than an oversized parchmentweight.
+7823 : That being the case, we're in continual need of volunteers willing to take on the vital task of replenishing these martellos.
+7824 : I have been charged with overseeing a supply of martello fuel. Should you be willing to take part in a replenishment run, you need only say the word. Needless to say, you will not go unrewarded for your efforts.
+7825 : Feast your eyes on this %. She's a beauty, isn't she? Installing one of these into a martello will increase its fuel capacity.
+7826 : An upgraded martello will be able to sustain its energy stores for a longer time between replenishment operations. Needless to say, this is a blessing and a half to those on the battlefield.
+7827 : Unfortunately, the installation procedure is quite complex. As such, we can only entrust it to experienced hands.
+7828 : % are quite large and unwieldy. Even the burliest among us would be unable to carry one and % at the same time.
+7829 : Furthermore, these materials are quite unstable, and will rapidly corrode and be rendered useless if brought outside our immediate environs.
+7830 : 'Course, not that anyone could manage to travel that far, what with these fearsome landslides...
+7831 : Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
+7832 : Your % has been lost.
+7833 : The resistance is currently suffering a materials shortage. Those wishing to participating in replenishment and upgrading operations should return at a later time.
+7834 : The % breaks!
+7835 : Table: #
+7836 : Mining is possible here if you have %.
+7837 : Probability of loss = #/10000.
+7838 : Your % breaks!
+7839 : You successfully dig up %!
+7840 : You dig up %, but your % breaks in the process.
+7841 : You are unable to mine anything.
+7842 : You cannot carry any more items. Your inventory is full.
+7843 : Why, that's odd. Wherever-wever did it disappear to...?
+7844 : Why, hullo there. You have the look of a bravey-wave soul just itching to venture outside of this encampmentaru. How about lending me a helping hand?
+7845 : You're familiar with the Cardians, are you not? Those cutesy-wutesy little fellers patrolling the area.
+7846 : They're more than just decoration, you know. Why, they serve a valuable role in protecting us from the ghastly crittarus roaming about this canyon!
+7847 : With the fiends growing ever-wever fiercer, we simply can't have enough of them. Unfortunately, I seem to have exhaustarued my supply of the starfruits essential for their construction.
+7848 : Plentifully they once grew within the walls of Windurst, but alas! Now, all that remains of our supply is stored at the encampmentaru northwest of here.
+7849 : Our quartermastaru Kopuro-Popuro oversees the supply chest there. He is a bit, shall we say, eccentric? But he will certainly provide you with what we need.
+7850 : My dear, beloved Boxuxu... They could postaru me here for an eternity, but with you by my side, every moment would be bliss!
+7851 : Yes? What do you wantaru? A starfruit, you say? For Minister Apururu?
+7852 : Why, Boxuxu would be happy to furnish you with what you desire. Wouldn't you, my dearestaru?
+7853 : Who am I talking to, you ask? Why, my beloved Boxuxu, of course! Are you [daft, mistaru/daftaru, lady]? Do you not see her standing right beside me? Go ahead, talk to her! She won't bite!
+7854 : The box is stocked full with tanks of distilled water. There is not a starfruit among them...
+7855 : The box is nearly overflowing with unfamiliar flower petals of various hues. There is not a starfruit among them...
+7856 : The box contains an assortment of tomes, old and new, on various subjects. There is not a starfruit among them...
+7857 : The box contains a large, luscious white fruit that exudes a sweet aroma. No doubt about it: this is the starfruit you're looking for!
+7858 : The box is locked tight.
+7859 : What's this...!? She gave you your starfruitaru on your first asking?
+7860 : That's a rarity-warity, my friend. Boxuxu must have taken a fancy to you! Perhaps she likes you even more than...<sniff>...me? Perish the thoughtaru!
+7861 : No luck? That's no surprise. Boxuxu is a sweetaruheart, but she can be a bit coy among unfamiliar-wiliar faces.
+7862 : No, I fear you'll have to work a bit harder to earn her favor.
+7863 : How, you say? Why, have you never [courtarued/befriended] a young lass before!?
+7864 : At any rataru, it's all about sharing-waring one's happiness. Like this!
+7865 : Kopuro-Popuro gazes sweetly at the bottomless box, his eyes beaming with joy.
+7866 : Kopuro-Popuro claps his hands and laughs charmingly at the bottomless box.
+7867 : Be bright and cheery-weery, and Boxuxu will surely take a fancy to you. Heaven knows we could all use a few more smiles in this dark and desolataru world...
+7868 : Why, there you go. I told you she was a sweetaru and understanding girl!
+7869 : Don't forgetaru to say your thank-yous, now! If there's one thing Boxuxu can't stand, it's someone who doesn't know their manners-wanners.
+7870 : <Ahem>...Can't you see that Boxuxu and I would like a little privataru time now, hmmmmmm? Now back to Apururu with you!
+7871 : Oh, thank you ever-wever so much! This is all I need to constructaru a new batch of Cardians that will strike fear in the hearts of fiends far and wide!
+7872 : Here's a small token-woken of my appreciation. Take it and use it well!
+7873 : What's that? He's still rambling-wambling on about his beloved Boxuxu?
+7874 : <Sigh>... You'll have to forgive the poor dear. I'm afraid his mind hasn't been the same since he lost his one and only to the monstarus that razed the Federation.
+7875 : Quite a shame, really... There was a time when he was an accomplished creataru of Cardians himself.
+7876 : As you see, these times have taken-waken a toll on us all. It may not help, but I will have a talk with him when I see him nextaru. Thanks for sharing-waring your concern!
+7877 : I cannot restaru until we have a Cardian army mighty enough to fend off the Abyssean hordes...
+7878 : No, that won't do... <Sigh>... Nothing I do ever goes rrright...
+7879 : <Sigh>... Nothing I do ever-- Oh, a visitor. Perrrhaps you could help me. Heaven knows I can't seem to help myself...
+7880 : Help her? Sounds like she needs it. Not getting involved.
+7881 : Oh, I underrrstand. Too busy being a [hero/heroine] to care about a poor worrrthless loser like me. Fine. Run off and live your wonderful life, and leave me to my miserrry...
+7882 : Therrre you go again, Peshi... Always countin' on talented strrrangers to do things you're too incompetent to do yourself... What happened to you? You used to be such a rrray of sunshine! everyone says. That was before I rrrealized how meaningless everything is... How useless I am...
+7883 : What was I saying? Oh, I need some % to make crrrappy weapons that won't help anyone anyway. They're burrried around here somewhere that my worthless brain couldn't be botherrred to remember.
+7884 : You'll need % to dig them up. Here, take this one. If I tried to use it, I'd prrrobably just drop it and brrreak my foot anyway.
+7885 : I'd offer my supporrrt, but I'd probably just get in the way. Just like I always do...<sigh>
+7886 : There's a surrrprise. Once again, a stranger perrrforms with ease a task I couldn't manage if I took a hundrrred years... Ah. I mean, thank you.
+7887 : 'Course, I'm probably just gonna end up brrreakin' these %, anyway. Just watch. It's just a matterrr of time before I'll need you to bail me out again.
+7888 : Oh, look. It's the [man/lady] who's so much better than me at everything. Do you think you could find me some more %?
+7889 : Help! Help, I say! We've got a serious predicamentaru on our hands!
+7890 : What kind of a predicamentaru, you ask? Why, one of our supply convoys was ambushed-wambushed on its way to the western camp!
+7891 : Horrifying, isn't it? They barely-warely escaped with their lives! Here on base, we've got the Cardians to protect us, but out in the wilds those fiends can squash us like we were overripe rolanberries! Squish! Ahh, how I miss my rolanberries...
+7892 : But no, we simply-wimply can't afford to let this happen again...
+7893 : And that's where you come in, soldier! I want you--yes, you--to clean this area up of all hostile-wostiles.
+7894 : And there will be no slacking on the job! Yes, I'll need you to bring back # % as proof of your exploitarus.
+7895 : Now gooo get'em, tiger!
+7896 : ...Pretty please?
+7897 : I knew it! I just knew it! You're every ilm the champion that Kupipi figured-wigured you for! And yet...
+7898 : You can do even bettaru! Yes, you must keep fighting until every last fiend is gone and Kupipi can lie around drinking-winking rolanberry juice to her heart's content! Mmm, rolanberries...
+7899 : These gustatorily challenged boors will know my genius when I save them from famine! Bow down before my whisk and colander, fools! Ahahahahahahaaa!
+7900 : You there! I command you to assist me!
+7901 : Who are you to issue commands, you say? Why, only the ladle-bearing messiah whose soup of sustenance will save this miserable realm from starvation. Yes, that's right--in a land ruled by famine, the purveyor of provisions is king! A god, even!
+7902 : Perhaps you have seen the scattered trees that speckle this otherwise barren, cactus-ridden wasteland. These trees once burgeoned with edible fruit, but no more!
+7903 : And so who does it fall to, to take this lemon of a situation and make a scrumptious souffl out of it? Why, none other than Piketo-Puketo, culinarian of culinarians, and his %!
+7904 : Those Rhinostery poseurs claim it to be their invention, but they're full of more hot air than an oven baking one of my famed rolanberry tarts. Ahem! In any event, one shot into its roots and any tree should readily return to full fruit-bearing glory.
+7905 : You'll find a number of trees bearing their roots on the path leading to the Meriphataud Mountains. Take your pick of them! For it is not the ingredients that make the dish, but the skill of the chef who prepares them!
+7906 : But not all will partake from Piketo-Puketo's table of plenty! Called my rolanberry tarts too tart, did you? My macarons too mushy? Oh yes, I remember you all! You will beg for forgiveness, or starve wishing the goddess had blessed you with a proper palate!
+7907 : Now go forth and do my bidding, apprentice!
+7908 : The roots of this tree protrude forth from the ground. They appear withered from lack of nutrients...
+7909 : This would seem a suitable place to apply Piketo-Puketo's %.
+7910 : % injected the % into the .
+7911 : You hear the thud of an object striking the ground beside you.
+7912 : What's this? %?
+7913 : Bwahahaha! I knew I was a genius! Now, to fire up the oven and prepare the manna that will deliver our people from starvation...or at least those whose palate I deem worthy!
+7914 : Don't ask me why, but my discerning nose tells me I'll be asking a similar favor of you in the none-too-distant future. If you've any semblance of good taste, you'll continue to serve me well.
+7915 : My loyal minion returns, and not a moment too soon! It seems the world can't get enough of my gustatory delights. Here's your %. You already know what to do with it, so chop chop!
+7916 : What are you dawdling around here for? The world awaits victuals from my heavenly oven! To the trees lining the path to Meriphataud with you!
+7917 : Such a dutiful [lad/lass] you are! Have no fear--I will see to it that you survive the great famine. Let it not be said that the mighty Piketo-Puketo does not smile upon the cultured and refined! Bwahahaha!
+7918 : <Sniff>... Baladanzo...please come back... Don't leave me...<sniff>...alone...
+7919 : Oh, hello there, [mister/lady]. Tell me, have you been to Mhaura? The port town that lies southeast of here?
+7920 : I heard once that it was the most quiet, peaceful place in the whole wide world.
+7921 : My dear friend Baladanzo and I thought we would go there, and leave behind this terrible, terrible place. But the road was sealed with a mountain of rubble!
+7922 : The ground rumbled...rocks started to fall. I thought we would be crushed, and ran away as fast as I could. But Baladanzo...<sniff>...he wouldn't come with me.
+7923 : I hear voices, lad! Voices on the other side of this wall! I'm a-gonna dig on through and take you to Mhaura like I promised, just you wait! he said.
+7924 : The ground...<sniff>...it wouldn't stop shaking. I was so scared...that's why I ran back here. But Baladanzo...he wouldn't look back. He just started tossing aside rocks and shouting, bellowing...<sniff>...like a madman...
+7925 : Please, [mister/lady]... You must check on Baladanzo for me. He was my only friend back in Windurst. Without him, I just...<sniff>...
+7926 : You shall fall, you accursed mountain of rubble! My bones may be battered, and the flesh on my hands torn to shreds, but this I swear...I will bring you down!
+7927 : Do you hear me, you accursed mountain of rubble? I will bring you down!
+7928 : Yes? What is it? Diegai sent you, you say?
+7929 : But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?
+7930 : Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!
+7931 : Poor Baladanzo... He used to be such a...<sniff>...gentle soul...
+7932 : Still, it's touching somehow... He's trying to bring a mountain down...for me... I don't suppose it will help, but I heard that those rotting bog bodies have the ability to cut through solid stone...
+7933 : Fall! Fall, I say!!! Graaaaaaaaa-- Hm? %?
+7934 : This will help, but alone it will not serve to bring this mountain of rubble down. Bring me more, or do not--it matters not. Blood may flow from my shattered knuckles, but one day, I will see this mountain fall!
+7935 : This makes # % you have brought me. You are kind.
+7936 : With # more, this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
+7937 : With # more ), this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
+7938 : In the meantime, take this. It is the least this old Galka can do for a friend.
+7939 : This is it, friend. The day we have long waited for. Today is the day we consign this demon of stone to the fiery netherworld whence it came! Crumble and fall, monster! You don't belong in this world! Graaahahahahaaa!!!
+7940 : No...it cannot be! The wall still stands before me? Vile demon! Why do you mock me so!? But I must be strong. I must not falter... For Diegai...!
+7941 : You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>...
+7942 : ...I see. Baladanzo was a steady hand in my life for so long, but perhaps it is time I learned to take care of myself. Yes. I will be as strong as he once was...
+7943 : Friend, you have returned. Let me share with you what I have learned since our last encounter.
+7944 : Do you remember how I spoke of voices? Voices calling me from the other side of this mountain?
+7945 : Not long after you left, a curious young 'Taru lass donning a cloak appeared here. I did not see her come. It was almost as if she appeared out of thin air.
+7946 : She lay down on the ground before me and closed her eyes, as if to sleep. But then she spoke... Did you know, mistaru? she said. A young boy and his guardian came through this way, bound for Mhaura. That was when the skies came tumbly-wumbling down...
+7947 : The boy escaped, but the man who had cared for him since he was a wee tyke was soon buried under a mountain of rubble. And yet, his spirit found no peace, for in his heartaru of hearts, he felt he had let his loved one down. What he did not realize was that his love had already nurture-wurtured within the child enough inner strength to last a lifetime...
+7948 : Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, No need to thank me, but I'll take a grilled hare if you've gotaru one. Whatever could she have meant...?
+7949 : Minister Rukususu, Leepe-Hoppe, Doctor Yoran-Oran... I do hope they're all right...
+7950 : Kerutoto? She's sleeping blissfully as always, no doubt.
+7951 : Hail there! Have you perchance caught sight of a garishly pink-colored fiend in these parts?
+7952 : Seen a pink fiend? I have not. I have!
+7953 : Well, drat! Wherever did it scamper off to? At this rate, I'll never finish my research!
+7954 : You have? What luck! This could just be the breakthrough in my research I've been waiting for!
+7955 : What research, you say? Why, my study of the Abyssean ecosystem, of course! It started out as a hobby, but recently I'm convinced that it just might be the key to our survival.
+7956 : Perhaps you've noticed that there are all sorts of curious new creatures sprouting out of the ground these days. One in particular has caught my fancy--a pinkish thing that bears a striking resemblance to the mandragora we know so well.
+7957 : If only I could study it up close, I just might be able to figure out where the fiends come from--and how to send them back there for good. But to do that, I need a live sample.
+7958 : If you'd be willing to help me procure one, speak to Kenapa-Keppa outside. Nothing would thrill him more than to be able to fill you in on the details!
+7959 : Not...safe...here... You...should...go...
+7960 : What...? You'll...help...us...? Great... Take...this...
+7961 : South...west...a...thicket... A...cactus... You'll...see...
+7962 : Use...this... Something...will...come... Maybe...
+7963 : Bring...it...back...here...
+7964 : We're...count...ing...on...you...
+7965 : A rubicund adenium was drawn to the %!
+7966 : Truly...remarkable... I...haven't...been...this...excited...in...years...
+7967 : This...%...worthless...now... I'll...throw...it...out...
+7968 : Splendid, splendid work! I truly can't thank you enough. Could I ask you to round me up a sandworm or two while you're at it? But I jest!
+7969 : But of course! Since you've been such a dutiful assistant, why don't I enlighten you as to my latest findings?
+7970 : My experiments have shown that when battling the beasts that roam the canyon here, it'd behoove you to formulate a proper plan of attack!
+7971 : They each have their weaknesses, you see. Send a particularly unpleasant attack or spell their way, and you just might stop them in their tracks, or scare them into forgetting some of their most potent abilities.
+7972 : You might also want to experiment with killing them in all many of creative ways. Me? A sadist? Of course not! I'm just saying, my research suggests that doing so might prove fruitful!
+7973 : We're...sorry... So...so...sorry...
+7974 : I don't know quite how to say this my friend, but you know that splendid specimen you caught for us? Well, while I was writing up my latest lab report, it seems to have--er, how shall I say this?--ah, escaped.
+7975 : You wouldn't possibly be in the mood for tracking another one down for me, would you? Just think, it's not for me...it's for science!
+7976 : You succeeded in catching a rubicund adenium!
+7977 : Whatever shall I do...? Why, if I lost herrr, I would be...
+7978 : Help! You must help me!!!
+7979 : Forrrgive my poor manners. It's my daughter, you see... She's come down with a terrrible sickness, you see...
+7980 : We were attacked... It was all we could do to flee here with our lives... She was in shock, the poor girl. Her body...<sniff>...couldn't take any morrre...
+7981 : They say there's a cactus that yields water only after sundown. Water that can cure the rarest of illnesses... I'd go off in search of it myself, but if I left my daughter's side for even a second...
+7982 : Please, frrriend, you must help! Why, if I lost her... If I lost her, I would...
+7983 : Oh, frrriend, you have no idea how much this means to me! I can only hope this helps her... It must...!
+7984 : Frrriend. You've my thanks for your kindness the other day.
+7985 : I'm afraid my daughter's sickness still plagues her. The fever subsided for a time, but is back now worse than ever.
+7986 : Please, you must brrring us more cactus water! My daughter's life depends on it!
+7987 : Thank you everrr so much! This will cure her for good this time...I just know it will!
+7988 : Oh, friend... How can I ever rrrepay you? Thanks to your kindness, my daughter is back on her feet again. You have our eternal grrratitude...
+7989 : The cactus is abloom with fiery red buds.
+7990 : You have collected all that you can for now.
+7991 : Get your act together! We must band together to surrrvive! Do you have a death wish? Sheesh! That mercenary captain won't stop yappin' her trrrap.
+7992 : She just doesn't get it. It's times like these a girrrl's gotta watch out for herself. We've got enough to worry 'bout without dealin' with everrryone's whimperings.
+7993 : Well, well. What's an upstandin' [gent/lady] like yerself doin' in a place like this? You'd best be on yer way, else the Abyssean hordes'll be the least of your worries. Ya catch my drrrift?
+7994 : You've got the looks of someone who's been around the block. Someone who's looked danger in the eye and lived to tell the tale. Am I rrright?
+7995 : Am I rrright? You're rrright. Dead wrrrong.
+7996 : Oh, is that so? Then you'd best get out of here, and quickly. This ain't the place for no shelterrred little [prince/princess].
+7997 : Heh, I knew it. My gut instincts haven't failed me yet. Tell me, does the name Nanaa Mihgo mean anything to you?
+7998 : The cat burglar? Chieftainness o' cutpurrrses and pickpocket nonparrreil? Made somethin' of a name for herself back in Windurst. Well, what would ya think if we told ya she was our boss?
+7999 : We followed her to Heavens Tower when those nasty buggers burst through the city walls, but after we teleported out here, she was nowherrre t' be found.
+8000 : That's why we came up with these beauties!
+8001 : Slap these up on the signposts around the canyon, let the boss know we're safe and sound, and our merry little band'll be back together in no time flat!
+8002 : We were gonna do it ourselves, but hey, why brrreak a sweat when you've got someone to do it for ya?
+8003 : No, don't arrrgue--we insist. Unless you'd care to part with that spiffy garb you're wearin', of course...
+8004 : Just think of it as a favor you'll be doin' all the surrrvivors in these parts. After all, if there's anyone who can teach 'em a thing or two about stayin' safe in the face of danger, it's the boss. She may help herself to some o' their possessions in the prrrocess, but hey, that's business.
+8005 : Anyhow, you'll find four signposts scattered through the canyon. Slap one of these on each of 'em, and rrreport to us when the job is done.
+8006 : Now get crrrackin'!
+8007 : Smeared with dirt and blood, whatever message the signpost once displayed is now completely illegible.
+8008 : You posted % on the signpost. # more to go!
+8009 : You've posted all four %! Bopa Greso will be pleased to hear of your success.
+8010 : You've already posted something here.
+8011 : You did good, kid. It's only a matter of time before we're rrreunited with the boss now.
+8012 : We'd make you an honorary member of our band, but that would mean havin' to split the prrrofits. No hard feelings, 'kay?
+8013 : You there! It's about time you showed up!
+8014 : Tell me: does this look familiarrr to you?
+8015 : That's right, it's one of the % that you posted for us.
+8016 : I dunno if a gust o' wind got it, or if you're just a sorry poster-putter-upper, but one thing's for sure...it ain't gonna do us any good lyin' on the grrround here.
+8017 : Yep, someone's going to have to get back out there and do the job all over again.
+8018 : %! I have wonderful news! Thanks in no small part to your assistance, we now have a Cardian stationed at each and every one of our outpostarus!
+8019 : I also have some less-than-wonderful news...
+8020 : It would seem that, er, not all the Cardians are behaving according to prescribed speci-wecifications.
+8021 : Could I trouble you to investigate and reportaru back on any Cardians whose behavior seems...amiss?
+8022 : There are five of them in all. If you've any experience with them, a quick chat with each should be enough to isolate any potential problems.
+8023 : And one more thing...I would suggest staying in the canyon until the job is completaru.
+8024 : If you absolutely must go elsewhere, you'll want to start your investigation over upon your return. Their condition is known to fluctuate-wuctuate most rapidly, you see.
+8025 : Good to see you back, %! Well? Were you able to find out anything?
+8026 : Which Cardians were out of whack? Six of Diamonds. Five of Diamonds. Four of Diamonds. Three of Diamonds. Two of Diamonds. Sorry, let me start over... That's all of them. I'll get back to you on that...
+8027 : Let me see here. You say that you observed a defectaru in...
+8028 : [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds]...
+8029 : Truly? All were functioning properly-woperly, you say?
+8030 : Are you sure, now?
+8031 : Are you sure? I'm sure. Let's try that again...
+8032 : Wonderful! I'll pass along your findings to our maintenance team immediately!
+8033 : The Cardians serve us well, but with the strain of this harsh environment, their condition is known to degenerataru rapidly. If it wouldn't be too much of a burden, please lend us your powers of observation from time to time.
+8034 : Wonderful! I'll pass along your findings to our maintenance team immed-- Hm? What's this? An emergency dispatchy-watch?
+8035 : Minister Apururu! Do you read us? This is [the eastern ward guardpostaru/the western ward guardpostaru/the westaru camp/the central-wentral camp/the northern-worthern camp]! We've got a situation on our hands! [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds] is out of control! [R-run...run for your lives!/No...p-put down that...<crackle>/After him! After him, I say!/...<Gulp>.../Please... We can work this outtaru... I've been a good master, right? Aiiieeeeee!]
+8036 : Yikes! What a catastrophe! I must send out a repair team at once!
+8037 : ...Yes, yes... Oh? Is that so? But [he/she] said... Hmm, that's curious.
+8038 : Are you certain that [Six of Diamonds/Five of Diamonds/Four of Diamonds/Three of Diamonds/Two of Diamonds] at [the eastern ward guardpostaru/the western ward guardpostaru/the westaru camp/the central-wentral camp/the northern-worthern camp] was acting strangely? Our contact on site assures me that he's in tip-top shape, and indeed just helped to fend off an onslaught of fiends.
+8039 : Well, better safe than sorry-worry, I suppose... I'll have a thorough checkup performed, just in case.
+8040 : I've afraid I have my hands full dealing with our rogue Cardian. Come back when things have settled-wettled down a bit, will you?
+8041 : [GrEEtIngS/FaREwELL]![/] THe[/]aReA[/]bEYoND[/]THiS[/]poINT[/]iS[/]A[/][DaNGeR/HaPPy][/]zONE[/]. PRoCEed[/]wITH[/][CaUTIoN/CoOKieS][/]
+8042 : WaRNiNG![/] [DaNGeRoUS/SqUIsHy][/]FiENdS[/]LuRK[/]BeYoND[/]HeRE[/] PrEPaRE[/]FoR[/]HeAVY[/][FiGHtiNG/DaNCiNG]![/]
+8043 : aLL[/]ClEAr![/] WiTH[/]mE[/]oN[/]tHe[/][jOB/FrITZ][/]tHEsE[/]SUrVivoRS[/]hAVe[/][NoTHiNG/EvERyTHiNG][/]tO[/]FeAR![/]
+8044 : WeLCoME![/] YoU[/]aRe[/]QUiTe[/]tHe[/][aCCoMpLiSHeD/oBNOxIOuS][/]ADvEnTUreR[/]tO[/]MAkE[/]iT[/]THis[/][fAR/fUN]![/]
+8045 : Ah, %. Could I trouble-wouble you to check on our Cardians again?
+8046 : Need an explanation? Good to go! Just to be safe...
+8047 : Well, if it isn't %, the caulk that keeps the survivors of Windurst together. You've become a real hero to the survivors. Go ahead, give yourself a good pataru on the back!
+8048 : But if I know you, you're far from satisfied. Nosiree! You're thinking that you'd like to help us in even bigger, better ways! Well? Am I right?
+8049 : Is she right? Truly! Totally! Indubitably!
+8050 : Why, did I detect a momentaru of hesitation in your answer just now? You're supposed to be a hero, %! Stop dither-withering and act like one!
+8051 : Well, of course I am!
+8052 : Now that we understand each other, look at this here. It's a listaru of the most fearsome fiends terrorizing our five camps.
+8053 : Cuelebre, Adze, Minhocao, Chukwa, and...Mictli...Metlec...Mictlantecuhtli! Phew...that last one's a mouthful!
+8054 : Anyway, these five beastly brutarus are wreaking some serious havoc on our poor camps. That's why Kupipi needs you to pick 'em off! Take 'em down! Send 'em packing-whacking!
+8055 : I know you're a busy [fellow/lady], so let's say that just one of them will suffice. Bring back proof of your feataru, and everyone in the camps should be able to breathe a bit easier. Get it? Got it? Good!
+8056 : And I'll still take those % if you can get them! # or so should do the trick.
+8057 : Why...that's an arrow from the quiver of Semih Lafihna. Wherever did you find it?
+8058 : ......
+8059 : Semih Lafihna, Zubaba... The Star Sibyl...
+8060 : I have not seen them since the walls of Windurst fell... I can only pray that they are alive...<sniff>...somewhere... B-but...
+8061 : Get a hold of yourself, Kupipi! It's not like you to be a sulky-wulking sourpuss! Besides, it would take more than an overgrown turtle or a rotting sack of bones to bring down the protectarus of Windurst!
+8062 : Anyway, thanks to you, Kupipi can rest just a little bit easier tonight. You've earned yourself a break, but not for too long! There are still other nasties on the prowl!
+8063 : As for this %, I'll be keeping it well out of sightaru. Why, we don't want to send the others into a frenzy-wenzy.
+8064 : And do try to bring something a little less disturbing next time, will you? The gore-stained, blood-dripping-wipping scalps of our foes should suffice!
+8065 : Congratulations! You've done a bang-up job, %. But dangerous fiends are still on the prowl. We must stay vigilantaru!
+8066 : Yes? Don't tell me you've forgotten the monstarus you're supposed to be hunting! <Sigh>... What would you do without Kupipi?
+8067 : You there! Come here! And hurry now! We don't have all day!
+8068 : Hmmm... Hmmmm! Just as I thought...a stranger, and a shady-looking one at that. But that's not importantaru right now!
+8069 : I am Kupipi, trusted scribe and all-'round-sweetheartaru of Heavens Tower...or at least, I was. What do they call you?
+8070 : %, is it? That's a curious name.
+8071 : Anyhow, listen up, because Kupipi has just the job for you.
+8072 : What's that? You didn't come here to work, you say? Well, excuse me, [mister/lady]! If you haven't noticed, we're engaged in a fightaru for our lives here!
+8073 : So zippy-wip that lip and listen to what Kupipi has to say!
+8074 : Ahem. Before I go on, you are familiar with martellos, are you not?
+8075 : You know martellos? Did you say marshmallows? I sure do.
+8076 : No, no, no! Have you got popotos where your brains should be? Martellos, I said! Martellos!
+8077 : Boy, it's a good thing you ran into Kupipi when you did. Let me take a momentaru to enlighten you.
+8078 : Martellos are these oversized iron boxy-woxy contraptions that you see scattered from place to place.
+8079 : From the side, they almost look like a giantaru %. Pretty cute, don't you think?
+8080 : You fill it up with a magic liquid something-or-other, and it'll do nifty-wifty things like heal you and restore your magical energies. See? Aren't you glad you asked me?
+8081 : Splendid! And here Kupipi thought she was going to have to tell you everything.
+8082 : Anyhoo, you'll find martello-wellos located all over this canyon. I need you to check around and make sure that their fuel is in good supply.
+8083 : If they're running empty, you'll want to fill them again. But you can talk to one of our machine outfittarus about that.
+8084 : ...One more thing. Now, this isn't a job, but a favor. It goes without saying-waying, but ever since the Federation fell, we Windurstians have been going through rough times.
+8085 : So please, stranger. Talk to those you encounter, and do what you can to help. The survivors will be most appreciative of any supportaru you can provide.
+8086 : Prove yourself a friend, and you will be loved and exaltarued by all! The greatest hero that our suffer-wuffering people have seen!
+8087 : Second only, that is, to the sweet and charming girl who found you... Er, ahem! Anyway...
+8088 : Perhaps you've seen the stodgy-wodgy-looking types posted by those funny dancing stone thingies. Confluence purveyors? Or something like that.
+8089 : After you talk with the outfittaru, you'll be heading outside camp. If you're wise, you'll have a chat with the powerflux conveyor before you venture-wenture into the canyon.
+8090 : Well, I believe that's all Kupipi has to say to you.
+8091 : Now get a move on! You've got a whole nation counting on you! Give 'em hell!
+8092 : The people are suffering and need your help, %! Do what you can, and tell them Kupipi sent you!
+8093 : Looking to do some shopping-wopping, eh? Well, we don't have shops per se, but there's a trader over by the banner with some provisions for sale.
+8094 : I figure she can outfitaru you with most anything you need, so long as you've got the cruor to pay-the-day for it.
+8095 : Gil, you say? I'm afraid there hasn't been much use for that of late.
+8096 : Take down-with-a-frown one of those Abyssean fiends, and you'll find they drop a reddish gold dusty-crust--that's cruor. Back when the three nations still stood, the stuff was nowhere to be found, but now we literally can't live without it.
+8097 : You'll be needing it to power the confluxes as well, so you'll want to keep a healthy-wealthy supply.
+8098 : Just a ways ahead of here, you'll find a fiery-wiery defensive barrier that we call a searing ward. It keeps us here safe from the dangers that lurk beyond.
+8099 : Before striking out into the canyon, you should talk to our conflux surveyor and have yourself endowed with visitantaru status. Trust me, you won't want to leave home without it!
+8100 : I remember like it was yesterday-ay-ay. I was in my lab, where a particularly accommodating adventurer had come to me with a lovely bout of the plague. That's when I heard a rumbling-tumbling crash and a hideous scream-eam-eam...
+8101 : The next thing I knew, there were hideous creatures bearing-wearing down on us from all directions. The War Warlocks, the Patriarch Protectors, the Sibyl Guards and the Mithran Mercenaries...Tarutaru, Mithra, and Cardian alike foughtaru bravely, but the enemy came in oodles and scoodles...
+8102 : It soon became clear that the fight was hopeless, and we were ordered to take sheltaru in Heavens Tower. Oh, it was a terrible-werrible scene! The Star Sibyl in tears, declaring our beloved Windurst lost as she summoned what remained of her strength to incant the teleportation spell that would lead her people to safety...
+8103 : ...But it failed, I'm afraid. The teleportation itself was a success-ess-ess, but we were sent scattered helter-skelter to all manner of bleak and hostile destinations.
+8104 : Those of us in this camp are just a handful of survivors who were fortunataru enough to end up together-wether.
+8105 : But I don't remember seeing you back in the tower. Wherever-wever did you come from?
+8106 : Hey! Want to hear a secrrret? I heard that if you beat up on enough of those scary monsters in the same place, they'll get all grrrumpy and call in their friends!
+8107 : Those friends'll be even scarrrier than the ones before, but if you leave them alone they'll just walk away. Isn't that funny? Of course, my mama could take them all without brrreakin' a sweat...
+8108 : See that curious stone structure all glowing and spinning-winning over there? That's what we call a veridical conflux.
+8109 : Don't let it intimidataru you--it's actually the handiest pile of rocks around. You can warp from one to another in the blink of an eye, you see!
+8110 : The only catch is that you'll need to meld-weld with a conflux before you can teleport to it. They're scattered all over the canyon, so you'll want to explore and make contactaru with as many you can. It'll make travel easy-breezy!
+8111 : You'll also want to be sure you have cruor on hand. Otherwise your long journey will have all been for naughtaru.
+8112 : %? Never heard of [her/him]. Oh, that's you?
+8113 : You'll have to forgive me. These days, one stranger wandering into our camp looks much like the nextaru.
+8114 : Our people might seem a bit distant, but that's part and parcel-warcel of living in these harsh times. Help them in their struggle, and they'll learn to trust you in good time.
+8115 : %-Bo%? Was that the third minister of the Manustery? Oh, I'm sorry. That was you, wasn't it?
+8116 : You're not a complete stranger-wanger these days, but I fear you haven't made much of an impression. Keep working at it, though, and your day will come.
+8117 : Wait, don't tell me... %, was it? I've finally-winally managed put a face to the name.
+8118 : Why, I heard a conversation about you just the other day. A bit of a bumbler-wumbler, but I suppose [he/she] means well... they said. It may not sound like much, but you're on the right track. Now is no time to rest in your efforts!
+8119 : Oh, hullo there, %. I was just talking to a fellow who seemed to have taken quite a liking to you.
+8120 : Seems it's not often that a stranger has made such an earnestaru attempt to help out. I knew you had it in you, %! Keep working and others will learn to appreciate the work you've done!
+8121 : Well, if it isn't %! Don't go getting a swelly-welled head, but you've got yourself the makings of your own little fan club these days.
+8122 : Just goes to show that people appreciataru the good deeds you've done. But I have a feeling we haven't seen the limits of what you can do. Keep showing us what you've got!
+8123 : %! What a rare treataru! Why, I hear your name everywhere I go these days.
+8124 : People can't stop talking about how much easier their lives have been since you showed up. No surprise to me, of course. Why, since the first day I spotty-wotted you, I knew this day would come!
+8125 : I am Shaz Norem, and I have been following your career with grrreat interest. If you would hear an objective evaluation of your efforts, then listen well...
+8126 : Your accomplishments have not gone unnoticed.
+8127 : This is but a small token, but with it comes the gratitude of a nation's people.
+8128 : Thank you, friend. You have been as a torrrch to a people who were groping in darkness.
+8129 : This land is still frrraught with danger. Be safe in your travels.
+8130 : Look at those fools, trrraipsing about without a care in the world. We didn't fight tooth and nail to save their worrrthless hides just so they could throw them away like this!
+8131 : That goes for you too! If you've got any sense, you'll stay quiet, and stay on guarrrd. Grrr...sometimes I wonder if that teleportation accident transported everyone's brains into one o' those fissures...
+8132 : I was separated from my colleagues at the consulate when the teleportation spell went awry.
+8133 : Do you suppose they found their way home to Bastok? I do hope everyone's safe and sound...
+8134 : You didn't see a drrreary 'Taru in a tunic 'round these parts, did ya?
+8135 : Always goin' on about rrresearch this, research that. When you can understand half a word he says, that is...
+8136 : Can't figure out those ministry types out for the life of me. I don't care what you'rrre studyin', it can't be more important than the lives of your friends! My Terrible Tigresses... I hope they're alrrright...
+8137 : Other camps? Why yes, I believe that one lies north of here, and the other a fair ways to the southwest.
+8138 : Still, I am struck by the Windurstians' utter lack of anything resembling a cooperative spirit. In times like this, unity among countrymen is key to survival. Surely you would agree, friend?
+8139 : The shame! The terrrible, utterrr shame of it all!
+8140 : I am a Sibyl Guard, rrraised from birth to protect the Star Sibyl with my life. Now here I stand, flung to the far rrreaches of heaven-knows-where with Her Holiness nowhere in sight!
+8141 : Is this my punishment for failing in my duty!? No! I will not accept this miserrrable fate!
+8142 : Can you believe it? The Federation lamentably lost, the survivors feebly fighting for their lives, and this child hasn't a care in the whole worldwide world!
+8143 : Furakku-Norakku! Settle down and listen up, I say!
+8144 : You learned how to fillingly fuel a martello, did you not? Now you must practice! We must be readily ready for when the fiends return!
+8145 : ...Huaaah...? There are scary monsters outside, but Ms. Fuepepe and that scowling Sibyl Guard are even scarier. I'll be safe here.
+8146 : Refilling marshmallows? Would I have to go outside? I think I'll take a pass.
+8147 : Current area score: # (Rank #) Enter a number between 0 and 63. (0 to cancel).
+8148 : New score: # (Rank #).
+8149 : Do something? Nope. Reset fame. Quest 01 (Fame rank: # Quest 02 (Fame rank: # Quest 03 (Fame rank: # Quest 04 (Fame rank: # Quest 05 (Fame rank: # Quest 06 (Fame rank: # Quest 07 (Fame rank: # Quest 08 (Fame rank: # Quest 09 (Fame rank: # Quest 10 (Fame rank: # Toggle AP check (currently [on/off]).
+8150 : Do something? (Quest ). Nope. Set to incomplete. Progress report. Obtain key item. Set to complete. Set times completed.
+8151 : . . . . . . .
+8152 : LycoGroupe:
+8153 : 0: 1: 2:
+8154 : 3: 4: 5:
+8155 : Current progress: Ancient abyssite obtained: #/# Atma obtained: #/# Quests completed: #/# Return.
+8156 : [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+8157 : [Requirement/Objective completed]: Obtain all atma found in this area.
+8158 : [Requirement/Objective completed]: Complete all quests issued in this area.
+8159 : The % quivers ever so slightly, but emits no light. There seem to be no monsters in the area.
+8160 : The % quivers ever so slightly and emits a faint light. There seem to be no monsters in the immediate vicinity.
+8161 : The % resonates [feebly/softly/solidly/strongly/very strongly/furiously], sending a radiant beam of light lancing towards a spot roughly # [yalm/yalms] [east/southeast/south/southwest/west/northwest/north/northeast] of here.
+8162 : A monster materializes out of nowhere!
+8163 : The monster fades before your eyes, a look of disappointment on its face.
+8164 : The % takes on a slightly deeper hue and becomes %!
+8165 : The % takes on a deeper, richer hue and becomes %!
+8166 : The % shatters into tiny fragments.
+8167 : Obtained key item: %!
+8168 : The monster fades before your eyes, a look of disappointment on its face.
+8169 : You have lost sight of the monster and can no longer sense its presence.
+8170 : You have wandered too far from the monster and can no longer sense its presence.
+8171 : DEBUG: Commence Search.
+8172 : DEBUG: End Search.
+8173 : DEBUG: No monsters have spawned.
+8174 : DEBUG: A monster has spawned, but is too far away.
+8175 : DEBUGType: [Small Fry/NM/Shadow HNM/Shadow SHNM/True HNM/True SHNM] DEBUGDirection: [East/Southeast/South/Southwest/West/Northwest/North/Northeast] DEBUGDistance: #mm DEBUGNumber: #
+8176 : DEBUG: No. # claimed!
+8177 : DEBUG: No. # has spawned.
+8178 : DEBUGNo. # is hidden.
+8179 : DEBUGJade obtained!
+8180 : DEBUGJade discarded!
+8181 : DEBUGNM Jade obtained!
+8182 : DEBUGNM Jade discarded!
+8183 : DEBUGHNM Jade obtained!
+8184 : DEBUGHNM Jade discarded!
+8185 : DEBUGHNM Jade 2 obtained!
+8186 : DEBUGHNM Jade 2 discarded!

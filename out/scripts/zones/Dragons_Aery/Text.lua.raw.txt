@@ -7051,396 +7051,399 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : You can't fish here.
-7062 : You can't fish without a rod in your hands.
-7063 : You can't fish without bait on the hook.
-7064 : You can't fish at the moment.
-7065 : You didn't catch anything.
-7066 : % caught a monster!
-7067 : Your line breaks.
-7068 : Your rod breaks.
-7069 : Something caught the hook!
-7070 : You lost your catch.
-7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7072 : You feel there's something here.
-7073 : You feel there's something nearby.
-7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7075 : % caught  %!
-7076 : You dig and you dig, but find nothing.
-7077 : #/%
-7078 : Your rod breaks. Whatever caught the hook was pretty big.
-7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7081 : You lost your catch due to your lack of skill.
-7082 : Number fished : # Original Dice No. ## Result # (0=caught)
-7083 : You didn't catch anything.
-7084 : The paper on your % ripped.
-7085 : A tiny goldfish approaches!
-7086 : A plump, black goldfish approaches!
-7087 : A fat, juicy goldfish approaches!
-7088 : There are no goldfish to be found...
-7089 : % caught %, but cannot carry any more items. % regretfully releases it.
-7090 : The goldfish slipped off your scoop...
-7091 : ch# skill up check.
-7092 : a:#.
-7093 : Time # / Status # / #
-7094 : d:#. e:#. f:#. g:#.
-7095 : h: #. i: #. sr: #.
-7096 : j:#. k:#.
-7097 : You give up and reel in your line.
-7098 : You give up.
-7099 : % obtains # gil.
-7100 : % caught %!
-7101 : You don't know how much longer you can keep this one on the line...
-7102 : You have a good feeling about this one!
-7103 : You have a bad feeling about this one.
-7104 : You have a terrible feeling about this one...
-7105 : You don't know if you have enough skill to reel this one in.
-7106 : You're fairly sure you don't have enough skill to reel this one in.
-7107 : You're positive you don't have enough skill to reel this one in!
-7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7110 : l: #. m: #. n: #. CH: #.
-7111 : Something caught the hook!!!
-7112 : You feel something pulling at your line.
-7113 : Something clamps onto your line ferociously!
-7114 : Your keen angler's senses tell you that this is the pull of %!
-7115 : This strength... You get the sense that you are on the verge of an epic catch!
-7116 : The timer has started. # seconds remaining.
-7117 : #sec.#/#sec.
-7118 : 0:# 1:# 2:# 3:#
-7119 : 4:# 5:# 6:# 7:#
-7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7122 : #/#(#
-7123 : Version invalid error!
-7124 : Hurry before the goldfish sees you!
-7125 : % fishes up a large box!
-7127 : Fish No# / Bait No# / Hit# >>> #
-7128 : Point# >>> #
-7129 : %(#) skill#
-7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7131 : Im Rnd : # Pz Rnd : #
-7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7134 : skill : # size : # kind : # sch : #
-7135 : time : # mes : # flag : # bonus : #
-7136 : item : # hp : # pow : # swing : #
-7137 : suc : # cons : # weight : # +- : #
-7138 : speed : # +- : # exc : # client : #
-7139 : general : #
-7140 : ro:# rs:# ps:# dt:#
-7141 : ra:# ti:#
-7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7143 : You get the distinct sense that your moogle friend frequents this spot...
-7144 : You have a feeling that your moogle friend has been through this way...
-7145 : You suspect that the scenery around here would be to a moogle's liking...
-7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7147 : You have a hunch that this area would be favored by moogles...
-7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7149 : % catches # %!
-7150 : % obtained %!
-7151 : It appears your chocobo found this item with ease.
-7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7153 : FPT # DPT # DoT#
-7154 : FPT # TDPT # h#
-7155 : You cannot fish at this time.
-7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7157 : You discover a cache of beastman resources and receive # Imperial Standing!
-7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7159 : You receive # bayld!
-7160 : Your chocobo refuses to partake of the %.
-7161 : Jump where? Li'Telor (121). Boyahda Tree 1 (153). Don't jump!
-7162 : Jumping to #.
-7163 : Tallying conquest results...
-7164 : Conquest results tallied.
-7165 : This region is currently under San d'Orian control.
-7166 : This region is currently under Bastokan control.
-7167 : This region is currently under Windurstian control.
-7168 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7169 : This region is currently neutral.
-7170 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7171 : All three nations are tied for first place.
-7172 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7173 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7174 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7175 : All three nations are tied for first place.
-7176 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7177 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7178 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7179 : All three nations are tied for first place.
-7180 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7181 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7182 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7183 : All three nations are tied for first place.
-7184 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7185 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7186 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7187 : Global balance of power: All three nations are tied for first place.
-7188 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7189 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7190 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7191 : All three nations are tied for first place.
-7192 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7193 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7194 : Conquest update: This region is currently neutral.
-7195 : Conquest update: This region is currently under San d'Orian control.
-7196 : Conquest update: This region is currently under Bastokan control.
-7197 : Conquest update: This region is currently under Windurstian control.
-7198 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7199 : All three nations are at a deadlock.
-7200 : The beastmen are on the rise.
-7201 : Regional influence: San d'Oria - Dominant
-7202 : Regional influence: San d'Oria - Major
-7203 : Regional influence: San d'Oria - Minor
-7204 : Regional influence: San d'Oria - Minimal
-7205 : Bastok - Dominant
-7206 : Bastok - Major
-7207 : Bastok - Minor
-7208 : Bastok - Minimal
-7209 : Windurst - Dominant
-7210 : Windurst - Major
-7211 : Windurst - Minor
-7212 : Windurst - Minimal
-7213 : Bastok and Windurst have formed an alliance.
-7214 : San d'Oria and Windurst have formed an alliance.
-7215 : San d'Oria and Bastok have formed an alliance.
-7216 : Bastok and Windurst are currently allies.
-7217 : San d'Oria and Windurst are currently allies.
-7218 : San d'Oria and Bastok are currently allies.
-7219 : # #
-7220 : # % #
-7221 : ITEM_ID:# :#
-7222 : :# :#
-7223 : [//]:[////] :#:#
-7224 : The beastmen are gaining power.
-7225 : San d'Oria's regional control is now 10% closer to the first place country's!
-7226 : Bastok's regional control is now 10% closer to the first place country's!
-7227 : Windurst's regional control are now 10% closer to the first place country's!
-7228 : San d'Oria's region points have increased!
-7229 : Bastok's region points have increased!
-7230 : Windurst's region points have increased!
-7231 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7232 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7233 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7234 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7235 : A Bastokan Expeditionary Force has been dispatched to this area.
-7236 : A Windurstian Expeditionary Force has been dispatched to this area.
-7237 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7238 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7239 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7240 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7241 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7242 : There was a curse on the beastmen's banner!
-7243 : The curse of the beastmen's banner has been lifted!
-7244 : There is a beastmen's banner.
-7320 : # #
-7321 : # #
-7322 : There is nothing out of the ordinary here.
-7323 : You hear a voice from out of nowhere...
-7324 : You obtain # %!
-7325 : ... At last we meet.
-7326 : I have been freed from my prison and can soak up the sweat and blood of this world once more.
-7327 : Wait, there is something I must...
-7328 : This place is...?
-7329 : I see... You must be the new wielder for these.
-7330 : Yes, with your fighting spirit I believe you will be able to master the %.
-7331 : The % have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
-7332 : They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
-7333 : ...
-7334 : I hope you don't think this is the end.
-7335 : Your real life as a martial artist is just beginning. Time to start your training anew!
-7336 : ... Finally! We finally meet face to face!
-7337 : I have a presence in this world again! What an exhilarating feeling!
-7338 : Ah yes, there is one more thing...
-7339 : Eh? What?
-7340 : Oh. You must be this one's new owner.
-7341 : With your dagger skills, you'll make a perfect wielder for the %.
-7342 : It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
-7343 : Treat her well...
-7344 : ...
-7345 : Splendid! From this day forth, I belong to you.
-7346 : So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
-7347 : ... Thou hast found me.
-7348 : I have now thrice shown my true form in this world.
-7349 : A moment...
-7350 : ... What has happened to me?
-7351 : I see, you are the sword's new owner?
-7352 : Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding %.
-7353 : When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
-7354 : And now I, too, can rest unburdened...
-7355 : ...
-7356 : Thou art blessed this day.
-7357 : Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
-7358 : ... You have found me.
-7359 : Allow me to show my respect. You who have gained the strength of so many must be a true hero.
-7360 : But first...
-7361 : Who are you?
-7362 : This must be some sort of joke. You are the new wielder of this weapon?
-7363 : Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
-7364 : However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
-7365 : Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
-7366 : ...
-7367 : Now, my heroic master...
-7368 : For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
-7369 : ... You...me, meet.
-7370 : Me...free... Thanks to you. Me, your...
-7371 : Wait...
-7372 : What the...?
-7373 : Ah, now I see. The wheel has turned.
-7374 : Truthfully spoken, I am thankful. % is a splendid axe, but ever does it hunger.
-7375 : I have taken many lives to sate its need, and have reached the end of my strength.
-7376 : You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
-7377 : ...
-7378 : You, master, me. Good, work. Me, thank, you.
-7379 : Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
-7380 : ... Ah, you found me!
-7381 : I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
-7382 : One moment...
-7383 : ... This is...Jeuno!? Have I finally returned?
-7384 : I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
-7385 : Hmm. With your polished skills, you will make a fine master for %.
-7386 : The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
-7387 : Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use % to avenge the Hydra Corps...
-7388 : ...
-7389 : I congratulate you also...my new master.
-7390 : Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
-7391 : ... You have found me.
-7392 : My forbidden power is now yours, and I am liberated from my prison.
-7393 : You have but to gain her respect...
-7394 : Such a long dream I was having...
-7395 : It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
-7396 : And you? Do you seek the same darkness that I did... It seems you have already found your way to %.
-7397 : Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
-7398 : And think long and hard on whether or not this power should be used. Do not end up like me...
-7399 : ...
-7400 : Heh. Heh heh. Hahahahahahaha!
-7401 : Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
-7402 : ... You have unearthed me at last.
-7403 : I am free from Dynamis, free to fly through the heavens once more.
-7404 : All that remains is...
-7405 : Hello? Is it possible that I...
-7406 : But, no. I have not returned to this realm... You. You are to be my successor?
-7407 : You certainly seem to have the required skill with the lance. Enough to convince % to lend you its power, at any rate.
-7408 : Having this spear on the battlefield makes you a match for almost any opponent.
-7409 : Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
-7410 : ...
-7411 : The ceremony of inheritance is complete.
-7412 : It is time for you to go forth and experience my overwhelming strength...
-7413 : ... I have been rediscovered at last.
-7414 : Thanks to you, I have made my escape from the shrouded land.
-7415 : You must now gain the sanction of my master...
-7416 : It is a pity, indeed.
-7417 : This day has come far too soon for my liking.
-7418 : However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the %.
-7419 : Take this blade as your own. Travel far down the path of the ninja.
-7420 : I will be watching you from the shadows...
-7421 : ...
-7422 : A fine master...
-7423 : My keen edge is now yours to wield. A sharpness said to make even demons wail...
-7424 : ... This day has finally come.
-7425 : I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
-7426 : In any event...
-7427 : What is going on here?
-7428 : Ah, my successor has come.
-7429 : I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the % and returned to my home, the Great War had begun.
-7430 : When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
-7431 : You have my gratitude. Farewell, %...
-7432 : ...
-7433 : It has been a hard path to reach this point.
-7434 : But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
-7435 : ... At long last, you have arrived.
-7436 : I was not convinced you were serious about completing this trial...
-7437 : You have proven me wrong...
-7438 : I have heard of your coming.
-7439 : You are to be the new master of this hammer of war?
-7440 : Every time % is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
-7441 : However, there is little meaning in me keeping it now.  If you will wield this weapon for a just cause, I hand its power over to you.
-7442 : Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
-7443 : ...
-7444 : My might is yours to wield.
-7445 : Go forth and experience the destructive power that laid low the Earth Serpent...
-7446 : ... So, you have found me.
-7447 : I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
-7448 : And now...
-7449 : Hwaah!
-7450 : Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
-7451 : Well, it's for the best, I suppose. In my current state, % is nothing more than an ornament, its power going to waste.
-7452 : I entrust this staff to you! Take up %, %, and bind it to you in a contract of blood!
-7453 : I take my leave of you now. I only wish that I was able to stay a little longer...
-7454 : ...
-7455 : I am yours to wield.
-7456 : But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
-7457 : ... You have discovered my resting place.
-7458 : The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
-7459 : Ah, one more test of your patience...
-7460 : Where is this place?
-7461 : Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
-7462 : Your hands tell me that your skill in archery is far from ordinary. % will fit snugly into your sure grasp.
-7463 : However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
-7464 : Farewell...
-7465 : ...
-7466 : It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
-7467 : You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
-7468 : ... We finally meet.
-7469 : I am now free from the pit of Dynamis to spit fire in this world once again.
-7470 : But I must ask you to wait before taking me into your possession...
-7471 : Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
-7472 : Hm? You think you're the one who's going to take up my gun?
-7473 : You do seem to have a fair eye for marksmanship. And % would look perfect nestled in the crook of your arm...
-7474 : Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
-7475 : This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
-7476 : ...
-7477 : A weapon has no will of its own. But it was made for a purpose.
-7478 : Take me to a new battlefield, a new arena for the hunt...
-7479 : ... I am saved.
-7480 : Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
-7481 : A few more moments, if you please...
-7482 : Hello there. I am Terounalivet, a military musician of the Hydra Corps.
-7483 : You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
-7484 : To be completely truthful, I am heartbroken to be giving up the %, the most famous of instruments, even to a fellow bard.
-7485 : But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
-7486 : She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
-7487 : ...
-7488 : He was a wonderful performer.
-7489 : Let us be on our way. Our tour of the world has only just begun...
-7490 : There is nothing out of the ordinary here.
-7491 : You can hear a strange voice... Items, items, la la la la la
-7492 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7493 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7494 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7495 : Now, listen close...
-7496 : Oh... Well, if that's the case, I'm outta here.
-7497 : The Goblin slipped away when you were not looking...
-7498 : You can hear a strange, raspy voice...
-7499 : I travel......hear lots... Hear...stories... Can tell...if...
-7500 : .........listen......
-7501 : Oh...... ...outta here.........
-7502 : Do you want to hear a story? No, thank you. Let's hear one.
-7503 : What story would you like to be told? On second thought, maybe later. Excalibur.
-7507 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-7508 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-7509 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-7510 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-7511 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
-7512 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-7513 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-7514 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-7515 : It will cost # gil to teleport to %. (# gil on hand)
-7516 : All mog tablets have currently been found, so you may teleport to % at no charge.
-7517 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
-7518 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
-7519 : You do not have enough tabs.
-7520 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
-7521 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
-7522 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
-7523 : Accept the reward? Yes, please. No, thanks.
-7524 : You may change the way you select areas listed in Teleportation Assistance.
-7525 : Any changes to make? Keep course. Select by region. Select by content.
-7526 : Area selection will now be made by [region/content].
-7527 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
-7528 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
-7529 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
-7530 : % has been [added to your list of favorites/removed from your list of favorites].
-7531 : Your list of favorites is full. You must remove an existing entry to add new ones.
-7532 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : You can't fish here.
+7065 : You can't fish without a rod in your hands.
+7066 : You can't fish without bait on the hook.
+7067 : You can't fish at the moment.
+7068 : You didn't catch anything.
+7069 : % caught a monster!
+7070 : Your line breaks.
+7071 : Your rod breaks.
+7072 : Something caught the hook!
+7073 : You lost your catch.
+7074 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7075 : You feel there's something here.
+7076 : You feel there's something nearby.
+7077 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7078 : % caught  %!
+7079 : You dig and you dig, but find nothing.
+7080 : #/%
+7081 : Your rod breaks. Whatever caught the hook was pretty big.
+7082 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7083 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7084 : You lost your catch due to your lack of skill.
+7085 : Number fished : # Original Dice No. ## Result # (0=caught)
+7086 : You didn't catch anything.
+7087 : The paper on your % ripped.
+7088 : A tiny goldfish approaches!
+7089 : A plump, black goldfish approaches!
+7090 : A fat, juicy goldfish approaches!
+7091 : There are no goldfish to be found...
+7092 : % caught %, but cannot carry any more items. % regretfully releases it.
+7093 : The goldfish slipped off your scoop...
+7094 : ch# skill up check.
+7095 : a:#.
+7096 : Time # / Status # / #
+7097 : d:#. e:#. f:#. g:#.
+7098 : h: #. i: #. sr: #.
+7099 : j:#. k:#.
+7100 : You give up and reel in your line.
+7101 : You give up.
+7102 : % obtains # gil.
+7103 : % caught %!
+7104 : You don't know how much longer you can keep this one on the line...
+7105 : You have a good feeling about this one!
+7106 : You have a bad feeling about this one.
+7107 : You have a terrible feeling about this one...
+7108 : You don't know if you have enough skill to reel this one in.
+7109 : You're fairly sure you don't have enough skill to reel this one in.
+7110 : You're positive you don't have enough skill to reel this one in!
+7111 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7112 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7113 : l: #. m: #. n: #. CH: #.
+7114 : Something caught the hook!!!
+7115 : You feel something pulling at your line.
+7116 : Something clamps onto your line ferociously!
+7117 : Your keen angler's senses tell you that this is the pull of %!
+7118 : This strength... You get the sense that you are on the verge of an epic catch!
+7119 : The timer has started. # seconds remaining.
+7120 : #sec.#/#sec.
+7121 : 0:# 1:# 2:# 3:#
+7122 : 4:# 5:# 6:# 7:#
+7123 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7124 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7125 : #/#(#
+7126 : Version invalid error!
+7127 : Hurry before the goldfish sees you!
+7128 : % fishes up a large box!
+7130 : Fish No# / Bait No# / Hit# >>> #
+7131 : Point# >>> #
+7132 : %(#) skill#
+7133 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7134 : Im Rnd : # Pz Rnd : #
+7135 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7136 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7137 : skill : # size : # kind : # sch : #
+7138 : time : # mes : # flag : # bonus : #
+7139 : item : # hp : # pow : # swing : #
+7140 : suc : # cons : # weight : # +- : #
+7141 : speed : # +- : # exc : # client : #
+7142 : general : #
+7143 : ro:# rs:# ps:# dt:#
+7144 : ra:# ti:#
+7145 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7146 : You get the distinct sense that your moogle friend frequents this spot...
+7147 : You have a feeling that your moogle friend has been through this way...
+7148 : You suspect that the scenery around here would be to a moogle's liking...
+7149 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7150 : You have a hunch that this area would be favored by moogles...
+7151 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7152 : % catches # %!
+7153 : % obtained %!
+7154 : It appears your chocobo found this item with ease.
+7155 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7156 : FPT # DPT # DoT#
+7157 : FPT # TDPT # h#
+7158 : You cannot fish at this time.
+7159 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7160 : You discover a cache of beastman resources and receive # Imperial Standing!
+7161 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7162 : You receive # bayld!
+7163 : Your chocobo refuses to partake of the %.
+7164 : Jump where? Li'Telor (121). Boyahda Tree 1 (153). Don't jump!
+7165 : Jumping to #.
+7166 : Tallying conquest results...
+7167 : Conquest results tallied.
+7168 : This region is currently under San d'Orian control.
+7169 : This region is currently under Bastokan control.
+7170 : This region is currently under Windurstian control.
+7171 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7172 : This region is currently neutral.
+7173 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7174 : All three nations are tied for first place.
+7175 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7176 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7177 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7178 : All three nations are tied for first place.
+7179 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7180 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7181 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7182 : All three nations are tied for first place.
+7183 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7184 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7185 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7186 : All three nations are tied for first place.
+7187 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7188 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7189 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7190 : Global balance of power: All three nations are tied for first place.
+7191 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7192 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7193 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7194 : All three nations are tied for first place.
+7195 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7196 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7197 : Conquest update: This region is currently neutral.
+7198 : Conquest update: This region is currently under San d'Orian control.
+7199 : Conquest update: This region is currently under Bastokan control.
+7200 : Conquest update: This region is currently under Windurstian control.
+7201 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7202 : All three nations are at a deadlock.
+7203 : The beastmen are on the rise.
+7204 : Regional influence: San d'Oria - Dominant
+7205 : Regional influence: San d'Oria - Major
+7206 : Regional influence: San d'Oria - Minor
+7207 : Regional influence: San d'Oria - Minimal
+7208 : Bastok - Dominant
+7209 : Bastok - Major
+7210 : Bastok - Minor
+7211 : Bastok - Minimal
+7212 : Windurst - Dominant
+7213 : Windurst - Major
+7214 : Windurst - Minor
+7215 : Windurst - Minimal
+7216 : Bastok and Windurst have formed an alliance.
+7217 : San d'Oria and Windurst have formed an alliance.
+7218 : San d'Oria and Bastok have formed an alliance.
+7219 : Bastok and Windurst are currently allies.
+7220 : San d'Oria and Windurst are currently allies.
+7221 : San d'Oria and Bastok are currently allies.
+7222 : # #
+7223 : # % #
+7224 : ITEM_ID:# :#
+7225 : :# :#
+7226 : [//]:[////] :#:#
+7227 : The beastmen are gaining power.
+7228 : San d'Oria's regional control is now 10% closer to the first place country's!
+7229 : Bastok's regional control is now 10% closer to the first place country's!
+7230 : Windurst's regional control are now 10% closer to the first place country's!
+7231 : San d'Oria's region points have increased!
+7232 : Bastok's region points have increased!
+7233 : Windurst's region points have increased!
+7234 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7235 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7236 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7237 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7238 : A Bastokan Expeditionary Force has been dispatched to this area.
+7239 : A Windurstian Expeditionary Force has been dispatched to this area.
+7240 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7241 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7242 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7243 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7244 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7245 : There was a curse on the beastmen's banner!
+7246 : The curse of the beastmen's banner has been lifted!
+7247 : There is a beastmen's banner.
+7323 : # #
+7324 : # #
+7325 : There is nothing out of the ordinary here.
+7326 : You hear a voice from out of nowhere...
+7327 : You obtain # %!
+7328 : ... At last we meet.
+7329 : I have been freed from my prison and can soak up the sweat and blood of this world once more.
+7330 : Wait, there is something I must...
+7331 : This place is...?
+7332 : I see... You must be the new wielder for these.
+7333 : Yes, with your fighting spirit I believe you will be able to master the %.
+7334 : The % have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
+7335 : They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
+7336 : ...
+7337 : I hope you don't think this is the end.
+7338 : Your real life as a martial artist is just beginning. Time to start your training anew!
+7339 : ... Finally! We finally meet face to face!
+7340 : I have a presence in this world again! What an exhilarating feeling!
+7341 : Ah yes, there is one more thing...
+7342 : Eh? What?
+7343 : Oh. You must be this one's new owner.
+7344 : With your dagger skills, you'll make a perfect wielder for the %.
+7345 : It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
+7346 : Treat her well...
+7347 : ...
+7348 : Splendid! From this day forth, I belong to you.
+7349 : So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
+7350 : ... Thou hast found me.
+7351 : I have now thrice shown my true form in this world.
+7352 : A moment...
+7353 : ... What has happened to me?
+7354 : I see, you are the sword's new owner?
+7355 : Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding %.
+7356 : When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
+7357 : And now I, too, can rest unburdened...
+7358 : ...
+7359 : Thou art blessed this day.
+7360 : Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
+7361 : ... You have found me.
+7362 : Allow me to show my respect. You who have gained the strength of so many must be a true hero.
+7363 : But first...
+7364 : Who are you?
+7365 : This must be some sort of joke. You are the new wielder of this weapon?
+7366 : Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
+7367 : However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
+7368 : Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
+7369 : ...
+7370 : Now, my heroic master...
+7371 : For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
+7372 : ... You...me, meet.
+7373 : Me...free... Thanks to you. Me, your...
+7374 : Wait...
+7375 : What the...?
+7376 : Ah, now I see. The wheel has turned.
+7377 : Truthfully spoken, I am thankful. % is a splendid axe, but ever does it hunger.
+7378 : I have taken many lives to sate its need, and have reached the end of my strength.
+7379 : You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
+7380 : ...
+7381 : You, master, me. Good, work. Me, thank, you.
+7382 : Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
+7383 : ... Ah, you found me!
+7384 : I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
+7385 : One moment...
+7386 : ... This is...Jeuno!? Have I finally returned?
+7387 : I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
+7388 : Hmm. With your polished skills, you will make a fine master for %.
+7389 : The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
+7390 : Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use % to avenge the Hydra Corps...
+7391 : ...
+7392 : I congratulate you also...my new master.
+7393 : Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
+7394 : ... You have found me.
+7395 : My forbidden power is now yours, and I am liberated from my prison.
+7396 : You have but to gain her respect...
+7397 : Such a long dream I was having...
+7398 : It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
+7399 : And you? Do you seek the same darkness that I did... It seems you have already found your way to %.
+7400 : Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
+7401 : And think long and hard on whether or not this power should be used. Do not end up like me...
+7402 : ...
+7403 : Heh. Heh heh. Hahahahahahaha!
+7404 : Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
+7405 : ... You have unearthed me at last.
+7406 : I am free from Dynamis, free to fly through the heavens once more.
+7407 : All that remains is...
+7408 : Hello? Is it possible that I...
+7409 : But, no. I have not returned to this realm... You. You are to be my successor?
+7410 : You certainly seem to have the required skill with the lance. Enough to convince % to lend you its power, at any rate.
+7411 : Having this spear on the battlefield makes you a match for almost any opponent.
+7412 : Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
+7413 : ...
+7414 : The ceremony of inheritance is complete.
+7415 : It is time for you to go forth and experience my overwhelming strength...
+7416 : ... I have been rediscovered at last.
+7417 : Thanks to you, I have made my escape from the shrouded land.
+7418 : You must now gain the sanction of my master...
+7419 : It is a pity, indeed.
+7420 : This day has come far too soon for my liking.
+7421 : However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the %.
+7422 : Take this blade as your own. Travel far down the path of the ninja.
+7423 : I will be watching you from the shadows...
+7424 : ...
+7425 : A fine master...
+7426 : My keen edge is now yours to wield. A sharpness said to make even demons wail...
+7427 : ... This day has finally come.
+7428 : I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
+7429 : In any event...
+7430 : What is going on here?
+7431 : Ah, my successor has come.
+7432 : I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the % and returned to my home, the Great War had begun.
+7433 : When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
+7434 : You have my gratitude. Farewell, %...
+7435 : ...
+7436 : It has been a hard path to reach this point.
+7437 : But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
+7438 : ... At long last, you have arrived.
+7439 : I was not convinced you were serious about completing this trial...
+7440 : You have proven me wrong...
+7441 : I have heard of your coming.
+7442 : You are to be the new master of this hammer of war?
+7443 : Every time % is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
+7444 : However, there is little meaning in me keeping it now.  If you will wield this weapon for a just cause, I hand its power over to you.
+7445 : Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
+7446 : ...
+7447 : My might is yours to wield.
+7448 : Go forth and experience the destructive power that laid low the Earth Serpent...
+7449 : ... So, you have found me.
+7450 : I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
+7451 : And now...
+7452 : Hwaah!
+7453 : Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
+7454 : Well, it's for the best, I suppose. In my current state, % is nothing more than an ornament, its power going to waste.
+7455 : I entrust this staff to you! Take up %, %, and bind it to you in a contract of blood!
+7456 : I take my leave of you now. I only wish that I was able to stay a little longer...
+7457 : ...
+7458 : I am yours to wield.
+7459 : But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
+7460 : ... You have discovered my resting place.
+7461 : The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
+7462 : Ah, one more test of your patience...
+7463 : Where is this place?
+7464 : Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
+7465 : Your hands tell me that your skill in archery is far from ordinary. % will fit snugly into your sure grasp.
+7466 : However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
+7467 : Farewell...
+7468 : ...
+7469 : It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
+7470 : You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
+7471 : ... We finally meet.
+7472 : I am now free from the pit of Dynamis to spit fire in this world once again.
+7473 : But I must ask you to wait before taking me into your possession...
+7474 : Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
+7475 : Hm? You think you're the one who's going to take up my gun?
+7476 : You do seem to have a fair eye for marksmanship. And % would look perfect nestled in the crook of your arm...
+7477 : Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
+7478 : This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
+7479 : ...
+7480 : A weapon has no will of its own. But it was made for a purpose.
+7481 : Take me to a new battlefield, a new arena for the hunt...
+7482 : ... I am saved.
+7483 : Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
+7484 : A few more moments, if you please...
+7485 : Hello there. I am Terounalivet, a military musician of the Hydra Corps.
+7486 : You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
+7487 : To be completely truthful, I am heartbroken to be giving up the %, the most famous of instruments, even to a fellow bard.
+7488 : But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
+7489 : She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
+7490 : ...
+7491 : He was a wonderful performer.
+7492 : Let us be on our way. Our tour of the world has only just begun...
+7493 : There is nothing out of the ordinary here.
+7494 : You can hear a strange voice... Items, items, la la la la la
+7495 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7496 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7497 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7498 : Now, listen close...
+7499 : Oh... Well, if that's the case, I'm outta here.
+7500 : The Goblin slipped away when you were not looking...
+7501 : You can hear a strange, raspy voice...
+7502 : I travel......hear lots... Hear...stories... Can tell...if...
+7503 : .........listen......
+7504 : Oh...... ...outta here.........
+7505 : Do you want to hear a story? No, thank you. Let's hear one.
+7506 : What story would you like to be told? On second thought, maybe later. Excalibur.
+7510 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+7511 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+7512 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+7513 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+7514 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
+7515 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+7516 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+7517 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+7518 : It will cost # gil to teleport to %. (# gil on hand)
+7519 : All mog tablets have currently been found, so you may teleport to % at no charge.
+7520 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
+7521 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
+7522 : You do not have enough tabs.
+7523 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
+7524 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
+7525 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
+7526 : Accept the reward? Yes, please. No, thanks.
+7527 : You may change the way you select areas listed in Teleportation Assistance.
+7528 : Any changes to make? Keep course. Select by region. Select by content.
+7529 : Area selection will now be made by [region/content].
+7530 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
+7531 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
+7532 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
+7533 : % has been [added to your list of favorites/removed from your list of favorites].
+7534 : Your list of favorites is full. You must remove an existing entry to add new ones.
+7535 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
