@@ -7048,184 +7048,187 @@
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
 7057 : You receive # deeds for a total of #!
-7058 : % gains # experience point[/s].
-7059 : % obtains # Legion point[/s]. (Total: #)
-7060 : % attains level #!
-7061 : % earns a merit point! (Total: #)
-7062 : % obtains the temporary item: %!
-7063 : % already possesses % and could not obtain another.
-7064 : % appears on the battlefield!
-7065 : Proceed to the Hall of [An/Ki/Im/Muru/Mul]? Yes. Not yet.
-7066 : Your party is too small to proceed.
-7067 : Entering the Hall of [An/Ki/Im/Muru/Mul]...
-7068 : Your battle against the enemy legions shall now begin. This battle will test your powers of [destruction./adaptation./observation./] Ready yourselves, and have at your foe!
-7069 : Exit the maquette? Yes, exit. No, remain.
-7070 : Reentry will not be permitted. Do you still wish to leave?
-7071 : Truly exit the maquette? Yes, exit. No, remain.
-7072 : Exit to the antechamber? Yes, exit. No, remain.
-7073 : xiting the battlefield...
-7074 : our time has expired for this Legion battle. Exiting the battlefield...
-7075 : You have # [minute/minutes] (Earth time) to complete the battle.
-7076 : You have [/less than ]# [minute/minutes] (Earth time) remaining to prepare for battle.
-7077 : ou have # [minute/minutes] (Earth time) remaining to complete the battle.
-7078 : ou have only # [second/seconds] (Earth time) remaining.
-7079 : ll party members have fallen in battle. Exiting in # [minute/minutes].
-7080 : You have slain # foe[/s].
-7081 : DEBUG: Bonus enemies have appeared!
-7082 : DEBUG: No bonus enemies appeared. Next bonus rank: #. Chance of appearance: #%.
-7083 : Month: #, Day: #, Year: # Time: #:#:#.
-7084 : ou will automatically exit the antechamber in # minute[/s].
-7085 : All combatants have left the battlefield. The Legion battle has concluded.
-7086 : The Legion battle has concluded. You will automatically exit the antechamber in # minute[/s].
-7087 : Your Legion battle has begun. Ready yourselves and enter the battlefield.
-7088 : Your Legion battle is already in progress. Ready yourselves and enter the battlefield.
-7089 : ime has expired. Exiting the maquette...
-7090 : ou will be able to brave the battlefield once again in # minute[/s].
-7091 : ou may once again test your mettle in battle.
-7092 : You may choose a fanfare to lift your spirits in battle, if you so desire.
-7093 : Change the battle fanfare? Not this time. #01 #02 #03 #04 #05 #06 #07 #08 #09 #10.
-7094 : You receive # hallmark[/s] and now have #. Your running total of hallmarks is #.
-7095 : You receive # badge[/s] of gallantry and now have #. Your running total of badges of gallantry is #.
-7096 : DEBUG:code:1
-7097 : DEBUG:code:2
-7098 : DEBUG:code:3
-7099 : DEBUG:MASTER
-7100 : DEBUG:MASTER_DEF
-7101 : Tallying conquest results...
-7102 : Conquest results tallied.
-7103 : This region is currently under San d'Orian control.
-7104 : This region is currently under Bastokan control.
-7105 : This region is currently under Windurstian control.
-7106 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7107 : This region is currently neutral.
-7108 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7109 : All three nations are tied for first place.
-7110 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7111 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7112 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7113 : All three nations are tied for first place.
-7114 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7115 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7116 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7117 : All three nations are tied for first place.
-7118 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7119 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7120 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7121 : All three nations are tied for first place.
-7122 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7123 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7124 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7125 : Global balance of power: All three nations are tied for first place.
-7126 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7127 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7128 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7129 : All three nations are tied for first place.
-7130 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7131 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7132 : Conquest update: This region is currently neutral.
-7133 : Conquest update: This region is currently under San d'Orian control.
-7134 : Conquest update: This region is currently under Bastokan control.
-7135 : Conquest update: This region is currently under Windurstian control.
-7136 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7137 : All three nations are at a deadlock.
-7138 : The beastmen are on the rise.
-7139 : Regional influence: San d'Oria - Dominant
-7140 : Regional influence: San d'Oria - Major
-7141 : Regional influence: San d'Oria - Minor
-7142 : Regional influence: San d'Oria - Minimal
-7143 : Bastok - Dominant
-7144 : Bastok - Major
-7145 : Bastok - Minor
-7146 : Bastok - Minimal
-7147 : Windurst - Dominant
-7148 : Windurst - Major
-7149 : Windurst - Minor
-7150 : Windurst - Minimal
-7151 : Bastok and Windurst have formed an alliance.
-7152 : San d'Oria and Windurst have formed an alliance.
-7153 : San d'Oria and Bastok have formed an alliance.
-7154 : Bastok and Windurst are currently allies.
-7155 : San d'Oria and Windurst are currently allies.
-7156 : San d'Oria and Bastok are currently allies.
-7157 : # #
-7158 : # % #
-7159 : ITEM_ID:# :#
-7160 : :# :#
-7161 : [//]:[////] :#:#
-7162 : The beastmen are gaining power.
-7163 : San d'Oria's regional control is now 10% closer to the first place country's!
-7164 : Bastok's regional control is now 10% closer to the first place country's!
-7165 : Windurst's regional control are now 10% closer to the first place country's!
-7166 : San d'Oria's region points have increased!
-7167 : Bastok's region points have increased!
-7168 : Windurst's region points have increased!
-7169 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7170 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7171 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7172 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7173 : A Bastokan Expeditionary Force has been dispatched to this area.
-7174 : A Windurstian Expeditionary Force has been dispatched to this area.
-7175 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7176 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7177 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7178 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7179 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7180 : There was a curse on the beastmen's banner!
-7181 : The curse of the beastmen's banner has been lifted!
-7182 : There is a beastmen's banner.
-7258 : # #
-7259 : # #
-7260 : The tome contains the symphonic scores for a veritable host of rousing battle fanfares.
-7261 : Select a new battle fanfare? Not now. Belief. Fighters of the Crystal. Conflict: March of the Hero. The Colosseum. Run Maggot, Run! Iron Colossus. Ragnarok. Feast of the Ladies. Random selection. Restore default.
-7262 : Fight to this fanfare? Yes. No, select another.
-7263 : Unable to change background music.
-7264 : The tome contains the symphonic scores for a host of rousing battle fanfares. However, it is only accessible to the leader who was issued %.
-7265 : ll party members have fallen in battle. Exiting in # minute[/s].
-7266 : ow exiting the Ambuscade.
-7267 : Your foes grow ever more oppressive!
-7268 : Your foes' leader grows ever more oppressive!
-7269 : The call goes unheeded!
-7270 : The boss's throat is parched.
-7271 : The boss begins to sing off key.
-7272 : The boss's voice begins to crack.
-7273 : The boss can barely croak the words out.
-7274 : The boss can no longer sing!
-7275 : The boss's phantom blood begins to flicker.
-7276 : The boss's phantom blade no longer looks as uncanny!
-7277 : The boss appears to have a difficult time projecting.
-7278 : The boss's throat is no longer scratchy.
-7279 : The boss's cries are having trouble reaching his allies!
-7280 : Bozzetto Fenrir has awakened.
-7281 : Bozzetto Carbuncle has awakened.
-7282 : The boss begins charging up.
-7283 : The boss's rage is beginning to boil over.
-7284 : The boss begins to emit a noxious miasma.
-7285 : The boss's miasma dissipates, but its rage is beginning to boil over.
-7286 : The boss returns to normal.
-7287 : The temperature begins to rise!
-7288 : The temperature begins to fall!
-7289 : C'mon, everyone, kupo!
-7290 : Time to focus, kupo!
-7291 : Let's go for a stroll, kupo!
-7292 : Ever forward, kupo!!!
-7293 : Defenses weakened! Paralysis and blindness resistance have returned to normal.
-7294 : The bas-relief shudders to life!
-7295 : Darkness pervades the area! /point at the watermelon to show your party members where it is, or show your support by /clapping.
-7296 : The sage's wisdom flows through you.
-7297 : The warrior's prowess flows through you.
-7298 : You receive a bonus # hallmark[/s]!
-7299 : Blazing energies begin to coalesce!
-7300 : Blazing energies begin to simmer!
-7301 : Blazing energies begin to crackle!
-7302 : Blazing energies begin to rage!
-7303 : Blazing energies begin to reach their climax!
-7304 : Frigid energies begin to coalesce!
-7305 : Frigid energies begin to simmer!
-7306 : Frigid energies begin to crackle!
-7307 : Frigid energies begin to rage!
-7308 : Frigid energies begin to reach their climax!
-7309 : The magical energies dissipate.
-7310 : Magical energies begin to coalesce.
-7311 : A mystical veil envelops your foe..
-7312 : You sense a weakness in the mystical veil.
-7313 : The mystical veil dissipates.
+7058 : Vana'bout Records of Eminence objectives have been updated.
+7059 : Vana'bout No. # has commenced!
+7060 : Vana'bout No. # has concluded.
+7061 : % gains # experience point[/s].
+7062 : % obtains # Legion point[/s]. (Total: #)
+7063 : % attains level #!
+7064 : % earns a merit point! (Total: #)
+7065 : % obtains the temporary item: %!
+7066 : % already possesses % and could not obtain another.
+7067 : % appears on the battlefield!
+7068 : Proceed to the Hall of [An/Ki/Im/Muru/Mul]? Yes. Not yet.
+7069 : Your party is too small to proceed.
+7070 : Entering the Hall of [An/Ki/Im/Muru/Mul]...
+7071 : Your battle against the enemy legions shall now begin. This battle will test your powers of [destruction./adaptation./observation./] Ready yourselves, and have at your foe!
+7072 : Exit the maquette? Yes, exit. No, remain.
+7073 : Reentry will not be permitted. Do you still wish to leave?
+7074 : Truly exit the maquette? Yes, exit. No, remain.
+7075 : Exit to the antechamber? Yes, exit. No, remain.
+7076 : xiting the battlefield...
+7077 : our time has expired for this Legion battle. Exiting the battlefield...
+7078 : You have # [minute/minutes] (Earth time) to complete the battle.
+7079 : You have [/less than ]# [minute/minutes] (Earth time) remaining to prepare for battle.
+7080 : ou have # [minute/minutes] (Earth time) remaining to complete the battle.
+7081 : ou have only # [second/seconds] (Earth time) remaining.
+7082 : ll party members have fallen in battle. Exiting in # [minute/minutes].
+7083 : You have slain # foe[/s].
+7084 : DEBUG: Bonus enemies have appeared!
+7085 : DEBUG: No bonus enemies appeared. Next bonus rank: #. Chance of appearance: #%.
+7086 : Month: #, Day: #, Year: # Time: #:#:#.
+7087 : ou will automatically exit the antechamber in # minute[/s].
+7088 : All combatants have left the battlefield. The Legion battle has concluded.
+7089 : The Legion battle has concluded. You will automatically exit the antechamber in # minute[/s].
+7090 : Your Legion battle has begun. Ready yourselves and enter the battlefield.
+7091 : Your Legion battle is already in progress. Ready yourselves and enter the battlefield.
+7092 : ime has expired. Exiting the maquette...
+7093 : ou will be able to brave the battlefield once again in # minute[/s].
+7094 : ou may once again test your mettle in battle.
+7095 : You may choose a fanfare to lift your spirits in battle, if you so desire.
+7096 : Change the battle fanfare? Not this time. #01 #02 #03 #04 #05 #06 #07 #08 #09 #10.
+7097 : You receive # hallmark[/s] and now have #. Your running total of hallmarks is #.
+7098 : You receive # badge[/s] of gallantry and now have #. Your running total of badges of gallantry is #.
+7099 : DEBUG:code:1
+7100 : DEBUG:code:2
+7101 : DEBUG:code:3
+7102 : DEBUG:MASTER
+7103 : DEBUG:MASTER_DEF
+7104 : Tallying conquest results...
+7105 : Conquest results tallied.
+7106 : This region is currently under San d'Orian control.
+7107 : This region is currently under Bastokan control.
+7108 : This region is currently under Windurstian control.
+7109 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7110 : This region is currently neutral.
+7111 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7112 : All three nations are tied for first place.
+7113 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7114 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7115 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7116 : All three nations are tied for first place.
+7117 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7118 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7119 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7120 : All three nations are tied for first place.
+7121 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7122 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7123 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7124 : All three nations are tied for first place.
+7125 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7126 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7127 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7128 : Global balance of power: All three nations are tied for first place.
+7129 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7130 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7131 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7132 : All three nations are tied for first place.
+7133 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7134 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7135 : Conquest update: This region is currently neutral.
+7136 : Conquest update: This region is currently under San d'Orian control.
+7137 : Conquest update: This region is currently under Bastokan control.
+7138 : Conquest update: This region is currently under Windurstian control.
+7139 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7140 : All three nations are at a deadlock.
+7141 : The beastmen are on the rise.
+7142 : Regional influence: San d'Oria - Dominant
+7143 : Regional influence: San d'Oria - Major
+7144 : Regional influence: San d'Oria - Minor
+7145 : Regional influence: San d'Oria - Minimal
+7146 : Bastok - Dominant
+7147 : Bastok - Major
+7148 : Bastok - Minor
+7149 : Bastok - Minimal
+7150 : Windurst - Dominant
+7151 : Windurst - Major
+7152 : Windurst - Minor
+7153 : Windurst - Minimal
+7154 : Bastok and Windurst have formed an alliance.
+7155 : San d'Oria and Windurst have formed an alliance.
+7156 : San d'Oria and Bastok have formed an alliance.
+7157 : Bastok and Windurst are currently allies.
+7158 : San d'Oria and Windurst are currently allies.
+7159 : San d'Oria and Bastok are currently allies.
+7160 : # #
+7161 : # % #
+7162 : ITEM_ID:# :#
+7163 : :# :#
+7164 : [//]:[////] :#:#
+7165 : The beastmen are gaining power.
+7166 : San d'Oria's regional control is now 10% closer to the first place country's!
+7167 : Bastok's regional control is now 10% closer to the first place country's!
+7168 : Windurst's regional control are now 10% closer to the first place country's!
+7169 : San d'Oria's region points have increased!
+7170 : Bastok's region points have increased!
+7171 : Windurst's region points have increased!
+7172 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7173 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7174 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7175 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7176 : A Bastokan Expeditionary Force has been dispatched to this area.
+7177 : A Windurstian Expeditionary Force has been dispatched to this area.
+7178 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7179 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7180 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7181 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7182 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7183 : There was a curse on the beastmen's banner!
+7184 : The curse of the beastmen's banner has been lifted!
+7185 : There is a beastmen's banner.
+7261 : # #
+7262 : # #
+7263 : The tome contains the symphonic scores for a veritable host of rousing battle fanfares.
+7264 : Select a new battle fanfare? Not now. Belief. Fighters of the Crystal. Conflict: March of the Hero. The Colosseum. Run Maggot, Run! Iron Colossus. Ragnarok. Feast of the Ladies. Random selection. Restore default.
+7265 : Fight to this fanfare? Yes. No, select another.
+7266 : Unable to change background music.
+7267 : The tome contains the symphonic scores for a host of rousing battle fanfares. However, it is only accessible to the leader who was issued %.
+7268 : ll party members have fallen in battle. Exiting in # minute[/s].
+7269 : ow exiting the Ambuscade.
+7270 : Your foes grow ever more oppressive!
+7271 : Your foes' leader grows ever more oppressive!
+7272 : The call goes unheeded!
+7273 : The boss's throat is parched.
+7274 : The boss begins to sing off key.
+7275 : The boss's voice begins to crack.
+7276 : The boss can barely croak the words out.
+7277 : The boss can no longer sing!
+7278 : The boss's phantom blood begins to flicker.
+7279 : The boss's phantom blade no longer looks as uncanny!
+7280 : The boss appears to have a difficult time projecting.
+7281 : The boss's throat is no longer scratchy.
+7282 : The boss's cries are having trouble reaching his allies!
+7283 : Bozzetto Fenrir has awakened.
+7284 : Bozzetto Carbuncle has awakened.
+7285 : The boss begins charging up.
+7286 : The boss's rage is beginning to boil over.
+7287 : The boss begins to emit a noxious miasma.
+7288 : The boss's miasma dissipates, but its rage is beginning to boil over.
+7289 : The boss returns to normal.
+7290 : The temperature begins to rise!
+7291 : The temperature begins to fall!
+7292 : C'mon, everyone, kupo!
+7293 : Time to focus, kupo!
+7294 : Let's go for a stroll, kupo!
+7295 : Ever forward, kupo!!!
+7296 : Defenses weakened! Paralysis and blindness resistance have returned to normal.
+7297 : The bas-relief shudders to life!
+7298 : Darkness pervades the area! /point at the watermelon to show your party members where it is, or show your support by /clapping.
+7299 : The sage's wisdom flows through you.
+7300 : The warrior's prowess flows through you.
+7301 : You receive a bonus # hallmark[/s]!
+7302 : Blazing energies begin to coalesce!
+7303 : Blazing energies begin to simmer!
+7304 : Blazing energies begin to crackle!
+7305 : Blazing energies begin to rage!
+7306 : Blazing energies begin to reach their climax!
+7307 : Frigid energies begin to coalesce!
+7308 : Frigid energies begin to simmer!
+7309 : Frigid energies begin to crackle!
+7310 : Frigid energies begin to rage!
+7311 : Frigid energies begin to reach their climax!
+7312 : The magical energies dissipate.
+7313 : Magical energies begin to coalesce.
+7314 : A mystical veil envelops your foe..
+7315 : You sense a weakness in the mystical veil.
+7316 : The mystical veil dissipates.

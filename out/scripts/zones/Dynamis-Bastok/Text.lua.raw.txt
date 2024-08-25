@@ -7051,248 +7051,251 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : he designation on the % has been canceled.
-7062 : connection error has occurred.
-7063 : he maximum number of people has been exceeded.
-7064 : There are signs that something fell here.
-7065 : ---== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in # [second/seconds].
-7066 : our clearance to remain in Dynamis has been restored. You will no longer be transported.
-7067 : You can't fish here.
-7068 : You can't fish without a rod in your hands.
-7069 : You can't fish without bait on the hook.
-7070 : You can't fish at the moment.
-7071 : You didn't catch anything.
-7072 : % caught a monster!
-7073 : Your line breaks.
-7074 : Your rod breaks.
-7075 : Something caught the hook!
-7076 : You lost your catch.
-7077 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7078 : You feel there's something here.
-7079 : You feel there's something nearby.
-7080 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7081 : % caught  %!
-7082 : You dig and you dig, but find nothing.
-7083 : #/%
-7084 : Your rod breaks. Whatever caught the hook was pretty big.
-7085 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7086 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7087 : You lost your catch due to your lack of skill.
-7088 : Number fished : # Original Dice No. ## Result # (0=caught)
-7089 : You didn't catch anything.
-7090 : The paper on your % ripped.
-7091 : A tiny goldfish approaches!
-7092 : A plump, black goldfish approaches!
-7093 : A fat, juicy goldfish approaches!
-7094 : There are no goldfish to be found...
-7095 : % caught %, but cannot carry any more items. % regretfully releases it.
-7096 : The goldfish slipped off your scoop...
-7097 : ch# skill up check.
-7098 : a:#.
-7099 : Time # / Status # / #
-7100 : d:#. e:#. f:#. g:#.
-7101 : h: #. i: #. sr: #.
-7102 : j:#. k:#.
-7103 : You give up and reel in your line.
-7104 : You give up.
-7105 : % obtains # gil.
-7106 : % caught %!
-7107 : You don't know how much longer you can keep this one on the line...
-7108 : You have a good feeling about this one!
-7109 : You have a bad feeling about this one.
-7110 : You have a terrible feeling about this one...
-7111 : You don't know if you have enough skill to reel this one in.
-7112 : You're fairly sure you don't have enough skill to reel this one in.
-7113 : You're positive you don't have enough skill to reel this one in!
-7114 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7115 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7116 : l: #. m: #. n: #. CH: #.
-7117 : Something caught the hook!!!
-7118 : You feel something pulling at your line.
-7119 : Something clamps onto your line ferociously!
-7120 : Your keen angler's senses tell you that this is the pull of %!
-7121 : This strength... You get the sense that you are on the verge of an epic catch!
-7122 : The timer has started. # seconds remaining.
-7123 : #sec.#/#sec.
-7124 : 0:# 1:# 2:# 3:#
-7125 : 4:# 5:# 6:# 7:#
-7126 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7127 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7128 : #/#(#
-7129 : Version invalid error!
-7130 : Hurry before the goldfish sees you!
-7131 : % fishes up a large box!
-7133 : Fish No# / Bait No# / Hit# >>> #
-7134 : Point# >>> #
-7135 : %(#) skill#
-7136 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7137 : Im Rnd : # Pz Rnd : #
-7138 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7139 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7140 : skill : # size : # kind : # sch : #
-7141 : time : # mes : # flag : # bonus : #
-7142 : item : # hp : # pow : # swing : #
-7143 : suc : # cons : # weight : # +- : #
-7144 : speed : # +- : # exc : # client : #
-7145 : general : #
-7146 : ro:# rs:# ps:# dt:#
-7147 : ra:# ti:#
-7148 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7149 : You get the distinct sense that your moogle friend frequents this spot...
-7150 : You have a feeling that your moogle friend has been through this way...
-7151 : You suspect that the scenery around here would be to a moogle's liking...
-7152 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7153 : You have a hunch that this area would be favored by moogles...
-7154 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7155 : % catches # %!
-7156 : % obtained %!
-7157 : It appears your chocobo found this item with ease.
-7158 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7159 : FPT # DPT # DoT#
-7160 : FPT # TDPT # h#
-7161 : You cannot fish at this time.
-7162 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7163 : You discover a cache of beastman resources and receive # Imperial Standing!
-7164 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7165 : You receive # bayld!
-7166 : Your chocobo refuses to partake of the %.
-7167 : Tallying conquest results...
-7168 : Conquest results tallied.
-7169 : This region is currently under San d'Orian control.
-7170 : This region is currently under Bastokan control.
-7171 : This region is currently under Windurstian control.
-7172 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7173 : This region is currently neutral.
-7174 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7175 : All three nations are tied for first place.
-7176 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7177 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7178 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7179 : All three nations are tied for first place.
-7180 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7181 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7182 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7183 : All three nations are tied for first place.
-7184 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7185 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7186 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7187 : All three nations are tied for first place.
-7188 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7189 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7190 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7191 : Global balance of power: All three nations are tied for first place.
-7192 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7193 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7194 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7195 : All three nations are tied for first place.
-7196 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7197 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7198 : Conquest update: This region is currently neutral.
-7199 : Conquest update: This region is currently under San d'Orian control.
-7200 : Conquest update: This region is currently under Bastokan control.
-7201 : Conquest update: This region is currently under Windurstian control.
-7202 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7203 : All three nations are at a deadlock.
-7204 : The beastmen are on the rise.
-7205 : Regional influence: San d'Oria - Dominant
-7206 : Regional influence: San d'Oria - Major
-7207 : Regional influence: San d'Oria - Minor
-7208 : Regional influence: San d'Oria - Minimal
-7209 : Bastok - Dominant
-7210 : Bastok - Major
-7211 : Bastok - Minor
-7212 : Bastok - Minimal
-7213 : Windurst - Dominant
-7214 : Windurst - Major
-7215 : Windurst - Minor
-7216 : Windurst - Minimal
-7217 : Bastok and Windurst have formed an alliance.
-7218 : San d'Oria and Windurst have formed an alliance.
-7219 : San d'Oria and Bastok have formed an alliance.
-7220 : Bastok and Windurst are currently allies.
-7221 : San d'Oria and Windurst are currently allies.
-7222 : San d'Oria and Bastok are currently allies.
-7223 : # #
-7224 : # % #
-7225 : ITEM_ID:# :#
-7226 : :# :#
-7227 : [//]:[////] :#:#
-7228 : The beastmen are gaining power.
-7229 : San d'Oria's regional control is now 10% closer to the first place country's!
-7230 : Bastok's regional control is now 10% closer to the first place country's!
-7231 : Windurst's regional control are now 10% closer to the first place country's!
-7232 : San d'Oria's region points have increased!
-7233 : Bastok's region points have increased!
-7234 : Windurst's region points have increased!
-7235 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7236 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7237 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7238 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7239 : A Bastokan Expeditionary Force has been dispatched to this area.
-7240 : A Windurstian Expeditionary Force has been dispatched to this area.
-7241 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7242 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7243 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7244 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7245 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7246 : There was a curse on the beastmen's banner!
-7247 : The curse of the beastmen's banner has been lifted!
-7248 : There is a beastmen's banner.
-7324 : # #
-7325 : # #
-7326 : The sands of the % have begun to fall. You have # minutes (Earth time) remaining in Dynamis.
-7327 : our stay in Dynamis has been extended by # minute[/s].
-7328 : ou will be expelled from Dynamis in # [second/minute] (Earth time).
-7329 : ou will be expelled from Dynamis in # [seconds/minutes] (Earth time).
-7330 : You have exceeded your allotted time. Now exiting Dynamis.
-7331 : The sands of the hourglass have emptied...
-7332 : You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
-7333 : What will you do? Leave Dynamis. Unlock support jobs. Nothing.
-7334 : Proceed out of Dynamis? Yes, leave. No, remain.
-7335 : Proceed in unlocking support jobs? Yes, unlock. No, retain.
-7336 : Memories of skills long forgotten come flooding back to you...
-7337 : You sense an aura of boundless rage...
-7338 : %...
-7339 : Or perhaps...
-7340 : You sense that something might happen if you possessed one of these...
-7341 : Or perhaps...
-7342 : %'s attack staggers the fiend!
-7343 : You feel an ominous presence, as if something might happen if you possessed %.
-7344 : Your allotted time is # minute[/s].
-7345 : The monster fades before your eyes, a look of disappointment on its face.
-7346 : DEBUG: Expulsion will occur at #.
-7347 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
-7348 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
-7349 : You have returned to the field of battle.
-7350 : You have # [minute/minutes] (Earth time) to complete the battle.
-7351 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
-7352 : You have only # [second/seconds] (Earth time) remaining.
-7353 : Your time for this Confrontation is up...
-7354 : The monster fades before your eyes, a look of disappointment on its face.
-7355 : (Test message.)
-7356 : Enter the garrison? Yes. No.
-7357 : The % is ripped violently to pieces!
-7358 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
-7359 : Hark! Our foe lurks thither. How wouldst thou proceed?
-7360 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
-7361 : Our foe advances...may thine aim be true!
-7362 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
-7363 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
-7364 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
-7365 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
-7366 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
-7367 : Beaucedine Glacier: [////] Xarcabard: [////]
-7368 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
-7369 : Greetings, traveler! How dost thou fare in thine adventures?
-7370 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
-7371 : Dost thou find this enchantment to thy liking?
-7372 : Accept the item? Accept. Refuse. (# times remaining)
-7373 : Splendid! May it serve thee well.
-7374 : % obtained %!
-7375 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
-7376 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
-7377 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
-7378 : Though it may fall short of thy expectations, pray accept it.
-7379 : Otherwise, we shall have no choice but to dispose of it.
-7380 : Many thanks for thine assistance!
-7381 : Pray accept this % as but a humble token of our gratitude.
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : he designation on the % has been canceled.
+7065 : connection error has occurred.
+7066 : he maximum number of people has been exceeded.
+7067 : There are signs that something fell here.
+7068 : ---== WARNING ==---- You no longer have clearance to remain in Dynamis. You will be transported out in # [second/seconds].
+7069 : our clearance to remain in Dynamis has been restored. You will no longer be transported.
+7070 : You can't fish here.
+7071 : You can't fish without a rod in your hands.
+7072 : You can't fish without bait on the hook.
+7073 : You can't fish at the moment.
+7074 : You didn't catch anything.
+7075 : % caught a monster!
+7076 : Your line breaks.
+7077 : Your rod breaks.
+7078 : Something caught the hook!
+7079 : You lost your catch.
+7080 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7081 : You feel there's something here.
+7082 : You feel there's something nearby.
+7083 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7084 : % caught  %!
+7085 : You dig and you dig, but find nothing.
+7086 : #/%
+7087 : Your rod breaks. Whatever caught the hook was pretty big.
+7088 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7089 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7090 : You lost your catch due to your lack of skill.
+7091 : Number fished : # Original Dice No. ## Result # (0=caught)
+7092 : You didn't catch anything.
+7093 : The paper on your % ripped.
+7094 : A tiny goldfish approaches!
+7095 : A plump, black goldfish approaches!
+7096 : A fat, juicy goldfish approaches!
+7097 : There are no goldfish to be found...
+7098 : % caught %, but cannot carry any more items. % regretfully releases it.
+7099 : The goldfish slipped off your scoop...
+7100 : ch# skill up check.
+7101 : a:#.
+7102 : Time # / Status # / #
+7103 : d:#. e:#. f:#. g:#.
+7104 : h: #. i: #. sr: #.
+7105 : j:#. k:#.
+7106 : You give up and reel in your line.
+7107 : You give up.
+7108 : % obtains # gil.
+7109 : % caught %!
+7110 : You don't know how much longer you can keep this one on the line...
+7111 : You have a good feeling about this one!
+7112 : You have a bad feeling about this one.
+7113 : You have a terrible feeling about this one...
+7114 : You don't know if you have enough skill to reel this one in.
+7115 : You're fairly sure you don't have enough skill to reel this one in.
+7116 : You're positive you don't have enough skill to reel this one in!
+7117 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7118 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7119 : l: #. m: #. n: #. CH: #.
+7120 : Something caught the hook!!!
+7121 : You feel something pulling at your line.
+7122 : Something clamps onto your line ferociously!
+7123 : Your keen angler's senses tell you that this is the pull of %!
+7124 : This strength... You get the sense that you are on the verge of an epic catch!
+7125 : The timer has started. # seconds remaining.
+7126 : #sec.#/#sec.
+7127 : 0:# 1:# 2:# 3:#
+7128 : 4:# 5:# 6:# 7:#
+7129 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7130 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7131 : #/#(#
+7132 : Version invalid error!
+7133 : Hurry before the goldfish sees you!
+7134 : % fishes up a large box!
+7136 : Fish No# / Bait No# / Hit# >>> #
+7137 : Point# >>> #
+7138 : %(#) skill#
+7139 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7140 : Im Rnd : # Pz Rnd : #
+7141 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7142 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7143 : skill : # size : # kind : # sch : #
+7144 : time : # mes : # flag : # bonus : #
+7145 : item : # hp : # pow : # swing : #
+7146 : suc : # cons : # weight : # +- : #
+7147 : speed : # +- : # exc : # client : #
+7148 : general : #
+7149 : ro:# rs:# ps:# dt:#
+7150 : ra:# ti:#
+7151 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7152 : You get the distinct sense that your moogle friend frequents this spot...
+7153 : You have a feeling that your moogle friend has been through this way...
+7154 : You suspect that the scenery around here would be to a moogle's liking...
+7155 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7156 : You have a hunch that this area would be favored by moogles...
+7157 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7158 : % catches # %!
+7159 : % obtained %!
+7160 : It appears your chocobo found this item with ease.
+7161 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7162 : FPT # DPT # DoT#
+7163 : FPT # TDPT # h#
+7164 : You cannot fish at this time.
+7165 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7166 : You discover a cache of beastman resources and receive # Imperial Standing!
+7167 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7168 : You receive # bayld!
+7169 : Your chocobo refuses to partake of the %.
+7170 : Tallying conquest results...
+7171 : Conquest results tallied.
+7172 : This region is currently under San d'Orian control.
+7173 : This region is currently under Bastokan control.
+7174 : This region is currently under Windurstian control.
+7175 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7176 : This region is currently neutral.
+7177 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7178 : All three nations are tied for first place.
+7179 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7180 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7181 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7182 : All three nations are tied for first place.
+7183 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7184 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7185 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7186 : All three nations are tied for first place.
+7187 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7188 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7189 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7190 : All three nations are tied for first place.
+7191 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7192 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7193 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7194 : Global balance of power: All three nations are tied for first place.
+7195 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7196 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7197 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7198 : All three nations are tied for first place.
+7199 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7200 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7201 : Conquest update: This region is currently neutral.
+7202 : Conquest update: This region is currently under San d'Orian control.
+7203 : Conquest update: This region is currently under Bastokan control.
+7204 : Conquest update: This region is currently under Windurstian control.
+7205 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7206 : All three nations are at a deadlock.
+7207 : The beastmen are on the rise.
+7208 : Regional influence: San d'Oria - Dominant
+7209 : Regional influence: San d'Oria - Major
+7210 : Regional influence: San d'Oria - Minor
+7211 : Regional influence: San d'Oria - Minimal
+7212 : Bastok - Dominant
+7213 : Bastok - Major
+7214 : Bastok - Minor
+7215 : Bastok - Minimal
+7216 : Windurst - Dominant
+7217 : Windurst - Major
+7218 : Windurst - Minor
+7219 : Windurst - Minimal
+7220 : Bastok and Windurst have formed an alliance.
+7221 : San d'Oria and Windurst have formed an alliance.
+7222 : San d'Oria and Bastok have formed an alliance.
+7223 : Bastok and Windurst are currently allies.
+7224 : San d'Oria and Windurst are currently allies.
+7225 : San d'Oria and Bastok are currently allies.
+7226 : # #
+7227 : # % #
+7228 : ITEM_ID:# :#
+7229 : :# :#
+7230 : [//]:[////] :#:#
+7231 : The beastmen are gaining power.
+7232 : San d'Oria's regional control is now 10% closer to the first place country's!
+7233 : Bastok's regional control is now 10% closer to the first place country's!
+7234 : Windurst's regional control are now 10% closer to the first place country's!
+7235 : San d'Oria's region points have increased!
+7236 : Bastok's region points have increased!
+7237 : Windurst's region points have increased!
+7238 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7239 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7240 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7241 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7242 : A Bastokan Expeditionary Force has been dispatched to this area.
+7243 : A Windurstian Expeditionary Force has been dispatched to this area.
+7244 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7245 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7246 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7247 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7248 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7249 : There was a curse on the beastmen's banner!
+7250 : The curse of the beastmen's banner has been lifted!
+7251 : There is a beastmen's banner.
+7327 : # #
+7328 : # #
+7329 : The sands of the % have begun to fall. You have # minutes (Earth time) remaining in Dynamis.
+7330 : our stay in Dynamis has been extended by # minute[/s].
+7331 : ou will be expelled from Dynamis in # [second/minute] (Earth time).
+7332 : ou will be expelled from Dynamis in # [seconds/minutes] (Earth time).
+7333 : You have exceeded your allotted time. Now exiting Dynamis.
+7334 : The sands of the hourglass have emptied...
+7335 : You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
+7336 : What will you do? Leave Dynamis. Unlock support jobs. Nothing.
+7337 : Proceed out of Dynamis? Yes, leave. No, remain.
+7338 : Proceed in unlocking support jobs? Yes, unlock. No, retain.
+7339 : Memories of skills long forgotten come flooding back to you...
+7340 : You sense an aura of boundless rage...
+7341 : %...
+7342 : Or perhaps...
+7343 : You sense that something might happen if you possessed one of these...
+7344 : Or perhaps...
+7345 : %'s attack staggers the fiend!
+7346 : You feel an ominous presence, as if something might happen if you possessed %.
+7347 : Your allotted time is # minute[/s].
+7348 : The monster fades before your eyes, a look of disappointment on its face.
+7349 : DEBUG: Expulsion will occur at #.
+7350 : You have ventured too far from the field of battle. The Confrontation will automatically disengage if you do not return.
+7351 : You have ventured too far from the field of battle. The Confrontation has been disengaged.
+7352 : You have returned to the field of battle.
+7353 : You have # [minute/minutes] (Earth time) to complete the battle.
+7354 : You have # [minute/minutes] (Earth time) remaining to complete the battle.
+7355 : You have only # [second/seconds] (Earth time) remaining.
+7356 : Your time for this Confrontation is up...
+7357 : The monster fades before your eyes, a look of disappointment on its face.
+7358 : (Test message.)
+7359 : Enter the garrison? Yes. No.
+7360 : The % is ripped violently to pieces!
+7361 : Greetings, fair traveler. My people would entreat thy assistance, and offer rich reward in return. Thou shouldst speak with my sister Callisto, who abides in Grauberg's Witchfire Glen.
+7362 : Hark! Our foe lurks thither. How wouldst thou proceed?
+7363 : How will you proceed? Withdraw. Charge in. Scout the enemy. Check weapon.
+7364 : Our foe advances...may thine aim be true!
+7365 : I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+7366 : My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+7367 : East Ronfaure: [////] Jugner Forest: [////] Vunkerl Inlet: [////] Batallia Downs: [////]
+7368 : North Gustaberg[////] Grauberg: [////] Pashhow Marshlands: [////] Rolanberry Fields: [////]
+7369 : West Sarutabaruta: [////] Fort Karugo-Narugo: [////] Meriphataud Mountains: [////] Sauromugue Champaign: [////]
+7370 : Beaucedine Glacier: [////] Xarcabard: [////]
+7371 : The % thou hast entrusted to our keeping can endure only # more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+7372 : Greetings, traveler! How dost thou fare in thine adventures?
+7373 : By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+7374 : Dost thou find this enchantment to thy liking?
+7375 : Accept the item? Accept. Refuse. (# times remaining)
+7376 : Splendid! May it serve thee well.
+7377 : % obtained %!
+7378 : Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+7379 : In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+7380 : What's this? 'Twould appear that thy weapon can endure no further enchantments.
+7381 : Though it may fall short of thy expectations, pray accept it.
+7382 : Otherwise, we shall have no choice but to dispose of it.
+7383 : Many thanks for thine assistance!
+7384 : Pray accept this % as but a humble token of our gratitude.

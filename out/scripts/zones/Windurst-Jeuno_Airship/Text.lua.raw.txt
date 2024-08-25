@@ -7051,122 +7051,125 @@
 7058 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7059 : Word has been received of a Troll threat in Wajaom Woodlands.
 7060 : Word has been received of an undead threat in Bhaflau Thickets.
-7061 : The airship will reach Jeuno in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
-7062 : The airship will reach Windurst in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
-7063 : We will be arriving in Jeuno momentarily.
-7064 : We will be arriving in Windurst momentarily.
-7065 : OK
-7066 : NG
-7067 : Number # is the answer.
-7068 : Return the dropped item? Yes. No.
-7069 : Can I help you?
-7070 : Oh, thanks... I'm not sure that this belongs to me, though...
-7071 : Wow, thanks... I don't really remember dropping anything, though...
-7072 : Thank you! I've been looking all over the place for this!
-7073 : Thank you! I don't know what I would've done if I had lost this!
-7074 : Please take this as a token of my gratitude.
-7075 : I wonder if I could see my house from up here...
-7076 : There seem to be a lot of disreputable characters riding the airships these days...
-7077 : It's hard to tell people apart these days, don't you agree? For some reason, that thought occurs to me whenever I ride an airship...
-7078 : These flights to Jeuno are always so crowded, aren't they?
-7079 : Tallying conquest results...
-7080 : Conquest results tallied.
-7081 : This region is currently under San d'Orian control.
-7082 : This region is currently under Bastokan control.
-7083 : This region is currently under Windurstian control.
-7084 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7085 : This region is currently neutral.
-7086 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7087 : All three nations are tied for first place.
-7088 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7089 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7090 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7091 : All three nations are tied for first place.
-7092 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7093 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7094 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7095 : All three nations are tied for first place.
-7096 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7097 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7098 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7099 : All three nations are tied for first place.
-7100 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7101 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7102 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7103 : Global balance of power: All three nations are tied for first place.
-7104 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7105 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7106 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7107 : All three nations are tied for first place.
-7108 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7109 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7110 : Conquest update: This region is currently neutral.
-7111 : Conquest update: This region is currently under San d'Orian control.
-7112 : Conquest update: This region is currently under Bastokan control.
-7113 : Conquest update: This region is currently under Windurstian control.
-7114 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7115 : All three nations are at a deadlock.
-7116 : The beastmen are on the rise.
-7117 : Regional influence: San d'Oria - Dominant
-7118 : Regional influence: San d'Oria - Major
-7119 : Regional influence: San d'Oria - Minor
-7120 : Regional influence: San d'Oria - Minimal
-7121 : Bastok - Dominant
-7122 : Bastok - Major
-7123 : Bastok - Minor
-7124 : Bastok - Minimal
-7125 : Windurst - Dominant
-7126 : Windurst - Major
-7127 : Windurst - Minor
-7128 : Windurst - Minimal
-7129 : Bastok and Windurst have formed an alliance.
-7130 : San d'Oria and Windurst have formed an alliance.
-7131 : San d'Oria and Bastok have formed an alliance.
-7132 : Bastok and Windurst are currently allies.
-7133 : San d'Oria and Windurst are currently allies.
-7134 : San d'Oria and Bastok are currently allies.
-7135 : # #
-7136 : # % #
-7137 : ITEM_ID:# :#
-7138 : :# :#
-7139 : [//]:[////] :#:#
-7140 : The beastmen are gaining power.
-7141 : San d'Oria's regional control is now 10% closer to the first place country's!
-7142 : Bastok's regional control is now 10% closer to the first place country's!
-7143 : Windurst's regional control are now 10% closer to the first place country's!
-7144 : San d'Oria's region points have increased!
-7145 : Bastok's region points have increased!
-7146 : Windurst's region points have increased!
-7147 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7148 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7149 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7150 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7151 : A Bastokan Expeditionary Force has been dispatched to this area.
-7152 : A Windurstian Expeditionary Force has been dispatched to this area.
-7153 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7154 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7155 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7156 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7157 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7158 : There was a curse on the beastmen's banner!
-7159 : The curse of the beastmen's banner has been lifted!
-7160 : There is a beastmen's banner.
-7236 : # #
-7237 : # #
-7238 : That's right, Timmy, I can see for malms up here... Maybe next time you can come with me and I can show you!
-7239 : Oh, Happy New Year, [sonny/missy]. I was just talking with one of my...um...grandchildren on this here fan-dangled %. Have you ever seen anything like it? Boy, the times, they are a-changing, yessiree! Why, back in my day, we had to send carrier crabs to deliver our messages. One time, back during the Crystal War, I had to wait seven shadowdays--that's what the Shadow Lord made everybody call them--to find out if my pappy wanted me to fetch kindlin' for the smokehouse.
-7240 : Anyway, what I was saying was that the view from this airboat always reminds me of the time my pappy took me for my first chocobo ride through Mindartia. The world seemed so big back then, and now everything looks so small...
-7241 : And so I decided to come up here and see if I couldn't paint it. Back before the war, I used to be a mighty-fine ar-tiste. Why, I once painted a picture for the Star Sibyl herself!
-7242 : A real looker she was! Those sparklin' eyes, those smooth, white gams. She had my heart a-hoppin' and my feet a-stompin'. Whoo-ee!
-7243 : So as I was saying, this linkamashell contraption has helped me keep in...contact...with little boys and girls all over Vana'diel. It's like they're right here, whisperin' in my ear with their little gabbers...
-7244 : Hm? That piece you're packin' looks kind of familiar-like. Is that %? Why, I remember back before the war, all the cool cats used to wear two of those, one on each hip. Yes sir, the ladies would swoon when those 'dores went a-swayin'. That's how I met my first wife!
-7245 : Anyways, you don't see those around much anymore, so I decided to teach the kiddies how to carve 'em themselves.
-7246 : That one looks mighty nice, if you ask me. Tommy make that for you? No? Oh well.
-7247 : You know, I'm getting to like you, [sonny/missy]. You got moxie, and that's something most young'uns don't have these days. How about this--you bring me two % and %, and I'll give you a special present in return.
-7248 : Just make sure you have that battledore equipped, or I might not recognize you. My eyesight's not as good as it used to be back before the war. Which reminds me of a story...
-7249 : Well, look who's back! Hold on a spell while I fix up your present.
-7250 : begins scribbling quickly on the piece of parchment.
-7251 : Phew... Here you go, [sonny/missy].
-7252 : Did you know that back before the war, I once painted a picture for the Star Sibyl herself? She was so impressed with my work that she invited me over to her royal palace and we danced the jitterbug 'til sunup. A real swinger, she was! Whoo-ee!
-7253 : [Tommy! My, how you've grown! Not to old to sit on Grandpa's lap now, are you?/Hey, I remember you. How did you like that painting I did? What? You want another one!?]
-7254 : [You like that painting I drew for you last time? Did you put it up in your room? You're such a good boy, aren't you, Tommy! Now come over here and give Grandpa a big kiss!/Darn young folk these days ain't never satisfied with what you got, are you? When I was your age we were happy if we found half a flint stone while playin' in the outhouse! Now git!]
+7061 : Vana'bout Records of Eminence objectives have been updated.
+7062 : Vana'bout No. # has commenced!
+7063 : Vana'bout No. # has concluded.
+7064 : The airship will reach Jeuno in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
+7065 : The airship will reach Windurst in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
+7066 : We will be arriving in Jeuno momentarily.
+7067 : We will be arriving in Windurst momentarily.
+7068 : OK
+7069 : NG
+7070 : Number # is the answer.
+7071 : Return the dropped item? Yes. No.
+7072 : Can I help you?
+7073 : Oh, thanks... I'm not sure that this belongs to me, though...
+7074 : Wow, thanks... I don't really remember dropping anything, though...
+7075 : Thank you! I've been looking all over the place for this!
+7076 : Thank you! I don't know what I would've done if I had lost this!
+7077 : Please take this as a token of my gratitude.
+7078 : I wonder if I could see my house from up here...
+7079 : There seem to be a lot of disreputable characters riding the airships these days...
+7080 : It's hard to tell people apart these days, don't you agree? For some reason, that thought occurs to me whenever I ride an airship...
+7081 : These flights to Jeuno are always so crowded, aren't they?
+7082 : Tallying conquest results...
+7083 : Conquest results tallied.
+7084 : This region is currently under San d'Orian control.
+7085 : This region is currently under Bastokan control.
+7086 : This region is currently under Windurstian control.
+7087 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7088 : This region is currently neutral.
+7089 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7090 : All three nations are tied for first place.
+7091 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7092 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7093 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7094 : All three nations are tied for first place.
+7095 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7096 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7097 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7098 : All three nations are tied for first place.
+7099 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7100 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7101 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7102 : All three nations are tied for first place.
+7103 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7104 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7105 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7106 : Global balance of power: All three nations are tied for first place.
+7107 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7108 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7109 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7110 : All three nations are tied for first place.
+7111 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7112 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7113 : Conquest update: This region is currently neutral.
+7114 : Conquest update: This region is currently under San d'Orian control.
+7115 : Conquest update: This region is currently under Bastokan control.
+7116 : Conquest update: This region is currently under Windurstian control.
+7117 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7118 : All three nations are at a deadlock.
+7119 : The beastmen are on the rise.
+7120 : Regional influence: San d'Oria - Dominant
+7121 : Regional influence: San d'Oria - Major
+7122 : Regional influence: San d'Oria - Minor
+7123 : Regional influence: San d'Oria - Minimal
+7124 : Bastok - Dominant
+7125 : Bastok - Major
+7126 : Bastok - Minor
+7127 : Bastok - Minimal
+7128 : Windurst - Dominant
+7129 : Windurst - Major
+7130 : Windurst - Minor
+7131 : Windurst - Minimal
+7132 : Bastok and Windurst have formed an alliance.
+7133 : San d'Oria and Windurst have formed an alliance.
+7134 : San d'Oria and Bastok have formed an alliance.
+7135 : Bastok and Windurst are currently allies.
+7136 : San d'Oria and Windurst are currently allies.
+7137 : San d'Oria and Bastok are currently allies.
+7138 : # #
+7139 : # % #
+7140 : ITEM_ID:# :#
+7141 : :# :#
+7142 : [//]:[////] :#:#
+7143 : The beastmen are gaining power.
+7144 : San d'Oria's regional control is now 10% closer to the first place country's!
+7145 : Bastok's regional control is now 10% closer to the first place country's!
+7146 : Windurst's regional control are now 10% closer to the first place country's!
+7147 : San d'Oria's region points have increased!
+7148 : Bastok's region points have increased!
+7149 : Windurst's region points have increased!
+7150 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7151 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7152 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7153 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7154 : A Bastokan Expeditionary Force has been dispatched to this area.
+7155 : A Windurstian Expeditionary Force has been dispatched to this area.
+7156 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7157 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7158 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7159 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7160 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7161 : There was a curse on the beastmen's banner!
+7162 : The curse of the beastmen's banner has been lifted!
+7163 : There is a beastmen's banner.
+7239 : # #
+7240 : # #
+7241 : That's right, Timmy, I can see for malms up here... Maybe next time you can come with me and I can show you!
+7242 : Oh, Happy New Year, [sonny/missy]. I was just talking with one of my...um...grandchildren on this here fan-dangled %. Have you ever seen anything like it? Boy, the times, they are a-changing, yessiree! Why, back in my day, we had to send carrier crabs to deliver our messages. One time, back during the Crystal War, I had to wait seven shadowdays--that's what the Shadow Lord made everybody call them--to find out if my pappy wanted me to fetch kindlin' for the smokehouse.
+7243 : Anyway, what I was saying was that the view from this airboat always reminds me of the time my pappy took me for my first chocobo ride through Mindartia. The world seemed so big back then, and now everything looks so small...
+7244 : And so I decided to come up here and see if I couldn't paint it. Back before the war, I used to be a mighty-fine ar-tiste. Why, I once painted a picture for the Star Sibyl herself!
+7245 : A real looker she was! Those sparklin' eyes, those smooth, white gams. She had my heart a-hoppin' and my feet a-stompin'. Whoo-ee!
+7246 : So as I was saying, this linkamashell contraption has helped me keep in...contact...with little boys and girls all over Vana'diel. It's like they're right here, whisperin' in my ear with their little gabbers...
+7247 : Hm? That piece you're packin' looks kind of familiar-like. Is that %? Why, I remember back before the war, all the cool cats used to wear two of those, one on each hip. Yes sir, the ladies would swoon when those 'dores went a-swayin'. That's how I met my first wife!
+7248 : Anyways, you don't see those around much anymore, so I decided to teach the kiddies how to carve 'em themselves.
+7249 : That one looks mighty nice, if you ask me. Tommy make that for you? No? Oh well.
+7250 : You know, I'm getting to like you, [sonny/missy]. You got moxie, and that's something most young'uns don't have these days. How about this--you bring me two % and %, and I'll give you a special present in return.
+7251 : Just make sure you have that battledore equipped, or I might not recognize you. My eyesight's not as good as it used to be back before the war. Which reminds me of a story...
+7252 : Well, look who's back! Hold on a spell while I fix up your present.
+7253 : begins scribbling quickly on the piece of parchment.
+7254 : Phew... Here you go, [sonny/missy].
+7255 : Did you know that back before the war, I once painted a picture for the Star Sibyl herself? She was so impressed with my work that she invited me over to her royal palace and we danced the jitterbug 'til sunup. A real swinger, she was! Whoo-ee!
+7256 : [Tommy! My, how you've grown! Not to old to sit on Grandpa's lap now, are you?/Hey, I remember you. How did you like that painting I did? What? You want another one!?]
+7257 : [You like that painting I drew for you last time? Did you put it up in your room? You're such a good boy, aren't you, Tommy! Now come over here and give Grandpa a big kiss!/Darn young folk these days ain't never satisfied with what you got, are you? When I was your age we were happy if we found half a flint stone while playin' in the outhouse! Now git!]

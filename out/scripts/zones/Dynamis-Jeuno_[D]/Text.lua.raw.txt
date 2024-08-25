@@ -7048,97 +7048,100 @@
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
 7057 : You receive # deeds for a total of #!
-7058 : Tallying conquest results...
-7059 : Conquest results tallied.
-7060 : This region is currently under San d'Orian control.
-7061 : This region is currently under Bastokan control.
-7062 : This region is currently under Windurstian control.
-7063 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7064 : This region is currently neutral.
-7065 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7066 : All three nations are tied for first place.
-7067 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7068 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7069 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7070 : All three nations are tied for first place.
-7071 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7072 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7073 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7074 : All three nations are tied for first place.
-7075 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7076 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7077 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7078 : All three nations are tied for first place.
-7079 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7080 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7081 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7082 : Global balance of power: All three nations are tied for first place.
-7083 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7084 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7085 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7086 : All three nations are tied for first place.
-7087 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7088 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7089 : Conquest update: This region is currently neutral.
-7090 : Conquest update: This region is currently under San d'Orian control.
-7091 : Conquest update: This region is currently under Bastokan control.
-7092 : Conquest update: This region is currently under Windurstian control.
-7093 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7094 : All three nations are at a deadlock.
-7095 : The beastmen are on the rise.
-7096 : Regional influence: San d'Oria - Dominant
-7097 : Regional influence: San d'Oria - Major
-7098 : Regional influence: San d'Oria - Minor
-7099 : Regional influence: San d'Oria - Minimal
-7100 : Bastok - Dominant
-7101 : Bastok - Major
-7102 : Bastok - Minor
-7103 : Bastok - Minimal
-7104 : Windurst - Dominant
-7105 : Windurst - Major
-7106 : Windurst - Minor
-7107 : Windurst - Minimal
-7108 : Bastok and Windurst have formed an alliance.
-7109 : San d'Oria and Windurst have formed an alliance.
-7110 : San d'Oria and Bastok have formed an alliance.
-7111 : Bastok and Windurst are currently allies.
-7112 : San d'Oria and Windurst are currently allies.
-7113 : San d'Oria and Bastok are currently allies.
-7114 : # #
-7115 : # % #
-7116 : ITEM_ID:# :#
-7117 : :# :#
-7118 : [//]:[////] :#:#
-7119 : The beastmen are gaining power.
-7120 : San d'Oria's regional control is now 10% closer to the first place country's!
-7121 : Bastok's regional control is now 10% closer to the first place country's!
-7122 : Windurst's regional control are now 10% closer to the first place country's!
-7123 : San d'Oria's region points have increased!
-7124 : Bastok's region points have increased!
-7125 : Windurst's region points have increased!
-7126 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7127 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7128 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7129 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7130 : A Bastokan Expeditionary Force has been dispatched to this area.
-7131 : A Windurstian Expeditionary Force has been dispatched to this area.
-7132 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7133 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7134 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7135 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7136 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7137 : There was a curse on the beastmen's banner!
-7138 : The curse of the beastmen's banner has been lifted!
-7139 : There is a beastmen's banner.
-7215 : # #
-7216 : # #
-7217 : ll party members have fallen in battle. Exiting in # minute[/s].
-7218 : ow exiting %.
-7219 : Your stay has been extended by # minute[/s].
-7220 : Treasure chest bonuses are now active!
-7221 : Light is nothing without the darkness! This world's light will falter!
-7222 : May the light be consumed by ever-burning darkness!
-7223 : Even the brightest light can be snuffed out in the blink of an eye!
-7224 : The darkness...will rise again!
-7225 : # more kill[/s] remaining until you can upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
-7226 : You are now able to upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
+7058 : Vana'bout Records of Eminence objectives have been updated.
+7059 : Vana'bout No. # has commenced!
+7060 : Vana'bout No. # has concluded.
+7061 : Tallying conquest results...
+7062 : Conquest results tallied.
+7063 : This region is currently under San d'Orian control.
+7064 : This region is currently under Bastokan control.
+7065 : This region is currently under Windurstian control.
+7066 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7067 : This region is currently neutral.
+7068 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7069 : All three nations are tied for first place.
+7070 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7071 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7072 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7073 : All three nations are tied for first place.
+7074 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7075 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7076 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7077 : All three nations are tied for first place.
+7078 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7079 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7080 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7081 : All three nations are tied for first place.
+7082 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7083 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7084 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7085 : Global balance of power: All three nations are tied for first place.
+7086 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7087 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7088 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7089 : All three nations are tied for first place.
+7090 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7091 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7092 : Conquest update: This region is currently neutral.
+7093 : Conquest update: This region is currently under San d'Orian control.
+7094 : Conquest update: This region is currently under Bastokan control.
+7095 : Conquest update: This region is currently under Windurstian control.
+7096 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7097 : All three nations are at a deadlock.
+7098 : The beastmen are on the rise.
+7099 : Regional influence: San d'Oria - Dominant
+7100 : Regional influence: San d'Oria - Major
+7101 : Regional influence: San d'Oria - Minor
+7102 : Regional influence: San d'Oria - Minimal
+7103 : Bastok - Dominant
+7104 : Bastok - Major
+7105 : Bastok - Minor
+7106 : Bastok - Minimal
+7107 : Windurst - Dominant
+7108 : Windurst - Major
+7109 : Windurst - Minor
+7110 : Windurst - Minimal
+7111 : Bastok and Windurst have formed an alliance.
+7112 : San d'Oria and Windurst have formed an alliance.
+7113 : San d'Oria and Bastok have formed an alliance.
+7114 : Bastok and Windurst are currently allies.
+7115 : San d'Oria and Windurst are currently allies.
+7116 : San d'Oria and Bastok are currently allies.
+7117 : # #
+7118 : # % #
+7119 : ITEM_ID:# :#
+7120 : :# :#
+7121 : [//]:[////] :#:#
+7122 : The beastmen are gaining power.
+7123 : San d'Oria's regional control is now 10% closer to the first place country's!
+7124 : Bastok's regional control is now 10% closer to the first place country's!
+7125 : Windurst's regional control are now 10% closer to the first place country's!
+7126 : San d'Oria's region points have increased!
+7127 : Bastok's region points have increased!
+7128 : Windurst's region points have increased!
+7129 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7130 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7131 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7132 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7133 : A Bastokan Expeditionary Force has been dispatched to this area.
+7134 : A Windurstian Expeditionary Force has been dispatched to this area.
+7135 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7136 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7137 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7138 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7139 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7140 : There was a curse on the beastmen's banner!
+7141 : The curse of the beastmen's banner has been lifted!
+7142 : There is a beastmen's banner.
+7218 : # #
+7219 : # #
+7220 : ll party members have fallen in battle. Exiting in # minute[/s].
+7221 : ow exiting %.
+7222 : Your stay has been extended by # minute[/s].
+7223 : Treasure chest bonuses are now active!
+7224 : Light is nothing without the darkness! This world's light will falter!
+7225 : May the light be consumed by ever-burning darkness!
+7226 : Even the brightest light can be snuffed out in the blink of an eye!
+7227 : The darkness...will rise again!
+7228 : # more kill[/s] remaining until you can upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.
+7229 : You are now able to upgrade your relic [headgear/chestgear/armgear/leggear/footgear] to +3.

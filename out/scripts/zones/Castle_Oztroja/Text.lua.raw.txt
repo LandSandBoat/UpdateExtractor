@@ -7161,296 +7161,296 @@
 7243 : Word has been received of a Mamool Ja threat in Wajaom Woodlands.
 7244 : Word has been received of a Troll threat in Wajaom Woodlands.
 7245 : Word has been received of an undead threat in Bhaflau Thickets.
-7246 : Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
-7247 : You are a fool for coming here to the throne room...alone.
-7248 : You say you are the Windurst Orastery minister, Ajido-Marujido?
-7249 : Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
-7250 : I should cut you up and send you to Heavens Tower! Gawk! Gawk!
-7251 : Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
-7252 : Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
-7253 : Well, you Tarutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
-7254 : Those ruins are evil.
-7255 : The towers sponge dry the areas around Sarutabaruta of all their magic.
-7256 : You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
-7257 : The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
-7258 : What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
-7259 : Kahk-ka-ka...I commend you on your perceptiveness.
-7260 : But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
-7261 : That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
-7262 : Kahk! Kahk! You still do not understand?
-7263 : Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
-7264 : The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
-7265 : You can't fish here.
-7266 : You can't fish without a rod in your hands.
-7267 : You can't fish without bait on the hook.
-7268 : You can't fish at the moment.
-7269 : You didn't catch anything.
-7270 : % caught a monster!
-7271 : Your line breaks.
-7272 : Your rod breaks.
-7273 : Something caught the hook!
-7274 : You lost your catch.
-7275 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7276 : You feel there's something here.
-7277 : You feel there's something nearby.
-7278 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7279 : % caught  %!
-7280 : You dig and you dig, but find nothing.
-7281 : #/%
-7282 : Your rod breaks. Whatever caught the hook was pretty big.
-7283 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7284 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7285 : You lost your catch due to your lack of skill.
-7286 : Number fished : # Original Dice No. ## Result # (0=caught)
-7287 : You didn't catch anything.
-7288 : The paper on your % ripped.
-7289 : A tiny goldfish approaches!
-7290 : A plump, black goldfish approaches!
-7291 : A fat, juicy goldfish approaches!
-7292 : There are no goldfish to be found...
-7293 : % caught %, but cannot carry any more items. % regretfully releases it.
-7294 : The goldfish slipped off your scoop...
-7295 : ch# skill up check.
-7296 : a:#.
-7297 : Time # / Status # / #
-7298 : d:#. e:#. f:#. g:#.
-7299 : h: #. i: #. sr: #.
-7300 : j:#. k:#.
-7301 : You give up and reel in your line.
-7302 : You give up.
-7303 : % obtains # gil.
-7304 : % caught %!
-7305 : You don't know how much longer you can keep this one on the line...
-7306 : You have a good feeling about this one!
-7307 : You have a bad feeling about this one.
-7308 : You have a terrible feeling about this one...
-7309 : You don't know if you have enough skill to reel this one in.
-7310 : You're fairly sure you don't have enough skill to reel this one in.
-7311 : You're positive you don't have enough skill to reel this one in!
-7312 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7313 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7314 : l: #. m: #. n: #. CH: #.
-7315 : Something caught the hook!!!
-7316 : You feel something pulling at your line.
-7317 : Something clamps onto your line ferociously!
-7318 : Your keen angler's senses tell you that this is the pull of %!
-7319 : This strength... You get the sense that you are on the verge of an epic catch!
-7320 : The timer has started. # seconds remaining.
-7321 : #sec.#/#sec.
-7322 : 0:# 1:# 2:# 3:#
-7323 : 4:# 5:# 6:# 7:#
-7324 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7325 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7326 : #/#(#
-7327 : Version invalid error!
-7328 : Hurry before the goldfish sees you!
-7329 : % fishes up a large box!
-7331 : Fish No# / Bait No# / Hit# >>> #
-7332 : Point# >>> #
-7333 : %(#) skill#
-7334 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7335 : Im Rnd : # Pz Rnd : #
-7336 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7337 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7338 : skill : # size : # kind : # sch : #
-7339 : time : # mes : # flag : # bonus : #
-7340 : item : # hp : # pow : # swing : #
-7341 : suc : # cons : # weight : # +- : #
-7342 : speed : # +- : # exc : # client : #
-7343 : general : #
-7344 : ro:# rs:# ps:# dt:#
-7345 : ra:# ti:#
-7346 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7347 : You get the distinct sense that your moogle friend frequents this spot...
-7348 : You have a feeling that your moogle friend has been through this way...
-7349 : You suspect that the scenery around here would be to a moogle's liking...
-7350 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7351 : You have a hunch that this area would be favored by moogles...
-7352 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7353 : % catches # %!
-7354 : % obtained %!
-7355 : It appears your chocobo found this item with ease.
-7356 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7357 : FPT # DPT # DoT#
-7358 : FPT # TDPT # h#
-7359 : You cannot fish at this time.
-7360 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7361 : You discover a cache of beastman resources and receive # Imperial Standing!
-7362 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7363 : You receive # bayld!
-7364 : Your chocobo refuses to partake of the %.
-7365 : mes1
-7366 : mes2
-7367 : mes3
-7368 : mes4
-7369 : mes5
-7370 : mes6
-7371 : mes7
-7372 : mes8
-7373 : mes9
-7374 : mes10
-7375 : What do you do!? (space) EVENT (space) WARP LEFT ZONE ONCE FLAG RESET
-7376 : ms301: fs002: ZONE FLAGreset
-7377 : OK FLAGreset
-7380 : Raised user flag > %
-7381 : Changed country > %
-7382 : Lowered user flag > %
-7383 : Raised zone flag > %
-7384 : Lowered zone flag > %
-7385 : Raised local flag > %
-7386 : Lowered local flag > %
-7387 : Raised org flag > %
-7388 : Lowered org > %
-7389 : Raised time flag > %
-7390 : Lowered time flag > %
-7391 : Raised talk flag > %
-7392 : Lowered talk flag > %
-7393 : Lowered alltalk > %
-7394 : Raised counter flag > %
-7395 : Lowered counter flag > %
-7396 : Changed rank > %
-7397 : Reset rank > %
-7398 : Inserted counter-type zone flag > %
-7399 : Reset counter-type zone flag > %
-7400 : Reduced fame > %
-7401 : Increased fame > %
-7402 : Obtained scitem > %
-7403 : Lost scitem > %
-7404 : Obtained % > %
-7405 : Lost % > %
-7406 : Raised map flag > %
-7407 : Lowered map > %
-7408 : Oh!
-7409 : Why, hello again. What are you doing here?
-7410 : Oww...
-7411 : I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
-7412 : Say, you didn't follow me here out of worry, did you?
-7413 : Were you worried about me? That's right. Never.
-7414 : Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
-7415 : I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
-7416 : She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
-7417 : You've heard the legends of the Star Sibyl, right?
-7418 : In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
-7419 : But the first Star Sibyl gained the powers of the stars and moon at Full Moon Fountain. She found the stars of hope from within the darkness, and led Windurst to glory.
-7420 : She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
-7421 : And still the Star Sibyl is silentaru.
-7422 : That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
-7423 : They sure gave me a hearty reception, but the Yagudo king told me something...
-7424 : Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
-7425 : Well, I'll see you around. Back to Windurst for me.
-7426 : You find % marked with the sign of the eye.
-7427 : The door is shut tight.
-7428 : This chest is locked. It can be opened with %.
-7429 : This chest is empty.
-7430 : Your inventory is full. You cannot carry any more items.
-7431 : You must be closer to the chest to open it.
-7432 : % opens the chest and finds %.
-7433 : The item in this chest cannot be handled by the other members of your party. % receives the %.
-7434 : % obtains a key item, %, from the chest.
-7435 : You obtain a key item, %, from the chest.
-7436 : You unlock the chest!
-7437 : % fails to open the chest.
-7438 : The chest was trapped!
-7439 : You cannot open the chest when you are in a weakened state.
-7440 : The chest was a mimic!
-7441 : You cannot open the chest while participating in the moogle event.
-7442 : The chest was but an illusion...
-7443 : The chest appears to be locked. If only you had %, perhaps you could open it...
-7444 : A mysterious flame is burning.
-7445 : You hold % over the flame... A peculiar scent covers the area.
-7446 : You hold % over the flame. But nothing happens.
-7447 : Tebhi happily accepts the % and leaves.
-7448 : The door is locked.
-7449 : If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
-7450 : I am Kaa Toru the Just.
-7451 : You be the victor of Balga Contest held in Giddeus, kyah? You be taking this % and your prize.
-7452 : This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
-7453 : Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
-7454 : ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
-7455 : Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
-7456 : You find nothing.
-7457 : Kahk-ka-ka... You filthy, dim-witted heretics! You have damned yourselves by coming here.
-7458 : Our lord, Tzee Xicu the Manifest!  Even should our bodies be crushed and broken, may our souls endure into eternity...
-7459 : You are not here as sacrifices, are you? Could you possibly be committing this affront in the face of a deity?  Very well, I will personally mete out your divine punishment, kyah!
-7460 : You have...bested me... However, I...am...a god... I will never die...never rot...never fade...never...
-7461 : Lemme see here. Looks like you've brought me # %. A deal's a deal, so here's the %.
-7462 : They're not worth a whole lot, but ya done good to collect # %. Here's % for yer trouble.
-7463 : Whatcha got there? Looks like # %. Guess that means I gotta give you this %.
-7464 : Here ya go, kid. % in exchange for ya # %.
-7465 : Well, you make an old Gob smile, you do. Not many people hand over # %. Take this % and get outta here.
-7466 : Now you're just showing off, bringing me # %. Here's your %. Now scram, kid.
-7467 : Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
-7468 : I got no interest in dealing with the likes of you. Don'tcha got a home to go to?
-7469 : %? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
-7470 : There's a story that says some things have their own soul.
-7471 : The % used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
-7472 : They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
-7473 : Now we come to the fun part. If you want a %, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
-7474 : You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
-7475 : They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up # gil.
-7476 : # gil for %, or # gil for %.
-7477 : You want one, you hand me over the money. Like, with a quickness. So how's about it?
-7478 : What's that you got there? %? You're quite the collector for one o' your kind.
-7479 : It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for #.
-7480 : I add to my collection, you get some pocket change. A win-win situation, right? So just trade that % on over, why don't ya?
-7481 : %, ya say? Ya got my jaw dropping, kid. Where did ya hear about things like that?
-7482 : Did ya know that some items have their own soul? After passing through the hands of hundreds of people, not to mention the paws of us beastmen, some items are transformed through contact with all those thoughts and feelings.
-7483 : These transformed items have the ability to focus mysterious powers. Us Goblins often come across this weird phenenom...phemomeno...stuff in our travels.
-7484 : Ya know, if ya really want %, I could sell one to ya for the right price.
-7485 : But let me tell ya, kid. Only us Gobs can tell if an item is souled. Not even other beastmen--and definitely not you people--can tell the difference between normal junk and priceless artifacts.
-7486 : Makes me laugh to see you mugs throwing away those items like they was garbage.  A souled item is worth a fortune, and ya ain't gonna get one cheap.
-7487 : # gil, and not a single gil less! Ya got a problem with that, kid?
-7488 : So if ya want one, stop dawdlin' around already and hand me over some money.
-7489 : What's that ya got there? %!? Ya got unusual tastes for a person.
-7490 : Got no clue what ya been doin' with it, but I bet ya gots no use for it anymore. What say I lighten your load in exchange for, say, # gil?
-7491 : So whaddaya waitin' for? Hand that % right over and let's make a deal.
-7492 : I got a proposition for you.  Before the Great War, a different currency was used in each of the three nations.
-7493 : But when gil became the coin of choice, all the other types of money were done away with.  Now the old forms of currency are worthless to anyone besides a collector like me.
-7494 : You've never seen them before?  Here, take a look at this.
-7495 : This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the %, I'm guessing you'll be able to get your hands on a few of these.
-7496 : The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
-7497 : One's not gonna be enough, though. You bring me # % and I'll trade you a single %.  You don't look real interested, but hold up. I'm just getting started.
-7498 : If you've got # %, I'll give you a %. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
-7499 : The % are truly valuable. I'll give you some really great stuff for the right number of those beauties. You got all that? You wanna do business with me, then you better start looking. I'll be right here when you're ready to trade.
-7500 : I got a deal for ya, kid. Did ya know that before the Great War, the three nations all had their own currencies?
-7501 : After that little fracas, everyone started using gil as the standard coin, and the other types of money just faded out of existence. Even if you was to find any nowadays, they only have value to Goblin collectors like me.
-7502 : You're looking a bit confused there, kid. Let me show ya what I'm talking about.
-7503 : This one's the least valuable of the lot. It was used as a part of the San d'Orian currency years ago. I know I told ya about the nations all having different currencies, but these San d'Orian coins are the only ones I'm interested in.
-7504 : If ya bring me these coins, I'll exchange them for something from my secret stash of treasure. Ya won't be getting anything for just one of them, so make sure ya collect a bagful, okay?
-7505 : Let me explain the deal. Bring me # %, and I'll give ya one %.  Where're ya going? Let me finish, will ya?
-7506 : Once ya got # %, ya can trade them for one %. Or, ya can decide to exchange them for something from my treasure stash. Each item's gonna cost ya a different amount, so choose carefully.
-7507 : For the right number of %, ya can choose from among the most valuable items in my hoard. 'Course, getting enough of them to trade with is another matter...
-7508 : Hmm? Was there something you wanted to ask me?
-7509 : What is it, kid? Ya got something to ask me?
-7510 : What do you want to ask about? Nothing. Hourglasses. Maps. Old currencies. Trading %.
-7511 : Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
-7512 : Old currencies? I was telling ya about how the three nations all used to have different types of money. What, you forgot already?
-7513 : I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth.  I don't give discounts, but you're welcome back anytime.
-7514 : Ya really like your junk, huh? That's what this stuff looks like to most people, and ya just spent a fortune on it. You're my kinda people, kid.
-7515 : By the way, I don't give out receipts, and I don't take back items I already sold.  I don't know what ya mean to do with the % and I don't much care, so take it and skedaddle.
-7516 : By the way, I don't give out receipts, and I don't take back items I already sold.  I don't know what ya mean to do with the % and I don't much care, so take it and skedaddle.
-7517 : Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
-7518 : So you wanna make a deal here? Should be a good one for the both o' us.
-7519 : Here's the list of stuff you can trade your % for.
-7520 : Here's the list of stuff ya can trade your % for.
-7521 : This is %. You want one, you're gonna have to bring me # %.
-7522 : This is %. Ya want one, you're gonna have to bring me # %.
-7523 : What do you want to ask about? Nothing. Hourglasses.
-7524 : Trade me some % and I might give you some of my treasure. But don't think you're gonna get anything with just one!
-7525 : Trade me some % and I might give ya some of my treasure. But don't think you're gonna get anything with just one!
-7526 : Which item will you look at? View next page. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. Nothing.
-7527 : Which item will you look at? View previous page. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. Nothing.
-7528 : Which item will you look at? Nothing.
-7529 : Which item will you look at? Nothing.
-7530 : Which item will you look at? View next page. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. Nothing.
-7531 : Which item will you look at? View previous page. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. Nothing.
+7246 : Vana'bout Records of Eminence objectives have been updated.
+7247 : Vana'bout No. # has commenced!
+7248 : Vana'bout No. # has concluded.
+7249 : Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
+7250 : You are a fool for coming here to the throne room...alone.
+7251 : You say you are the Windurst Orastery minister, Ajido-Marujido?
+7252 : Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
+7253 : I should cut you up and send you to Heavens Tower! Gawk! Gawk!
+7254 : Kahk! Silence... Our little friend came all the way from Windurst to greet us. Let us hear what he has to say.
+7255 : Kahk-ka-ka! You came all this way to ask about the Full Moon Fountain?
+7256 : Well, you Tarutaru have probably already realized why the Horutoto Ruins were built and why the Full Moon Fountain exists underneath them.
+7257 : Those ruins are evil.
+7258 : The towers sponge dry the areas around Sarutabaruta of all their magic.
+7259 : You think that we Yagudo are the cause of these wastelands, but you only have yourselves to thank. You--the Tarutaru that activated those towers!
+7260 : The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
+7261 : What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
+7262 : Kahk-ka-ka...I commend you on your perceptiveness.
+7263 : But the reason Sarutabaruta is becoming a wasteland has nothing to do with those stones.
+7264 : That night, twenty years ago, when we were defeated by your armies, you made a grave mistake...
+7265 : Kahk! Kahk! You still do not understand?
+7266 : Make your way deep into the central tower of the Horutoto Ruins. There you will see first hand what the Star Sibyl and those summoners really did.
+7267 : The moon and the stars no longer smile upon Windurst. Now, the world shall kneel before the Yagudo!
+7268 : You can't fish here.
+7269 : You can't fish without a rod in your hands.
+7270 : You can't fish without bait on the hook.
+7271 : You can't fish at the moment.
+7272 : You didn't catch anything.
+7273 : % caught a monster!
+7274 : Your line breaks.
+7275 : Your rod breaks.
+7276 : Something caught the hook!
+7277 : You lost your catch.
+7278 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7279 : You feel there's something here.
+7280 : You feel there's something nearby.
+7281 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7282 : % caught  %!
+7283 : You dig and you dig, but find nothing.
+7284 : #/%
+7285 : Your rod breaks. Whatever caught the hook was pretty big.
+7286 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7287 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7288 : You lost your catch due to your lack of skill.
+7289 : Number fished : # Original Dice No. ## Result # (0=caught)
+7290 : You didn't catch anything.
+7291 : The paper on your % ripped.
+7292 : A tiny goldfish approaches!
+7293 : A plump, black goldfish approaches!
+7294 : A fat, juicy goldfish approaches!
+7295 : There are no goldfish to be found...
+7296 : % caught %, but cannot carry any more items. % regretfully releases it.
+7297 : The goldfish slipped off your scoop...
+7298 : ch# skill up check.
+7299 : a:#.
+7300 : Time # / Status # / #
+7301 : d:#. e:#. f:#. g:#.
+7302 : h: #. i: #. sr: #.
+7303 : j:#. k:#.
+7304 : You give up and reel in your line.
+7305 : You give up.
+7306 : % obtains # gil.
+7307 : % caught %!
+7308 : You don't know how much longer you can keep this one on the line...
+7309 : You have a good feeling about this one!
+7310 : You have a bad feeling about this one.
+7311 : You have a terrible feeling about this one...
+7312 : You don't know if you have enough skill to reel this one in.
+7313 : You're fairly sure you don't have enough skill to reel this one in.
+7314 : You're positive you don't have enough skill to reel this one in!
+7315 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7316 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7317 : l: #. m: #. n: #. CH: #.
+7318 : Something caught the hook!!!
+7319 : You feel something pulling at your line.
+7320 : Something clamps onto your line ferociously!
+7321 : Your keen angler's senses tell you that this is the pull of %!
+7322 : This strength... You get the sense that you are on the verge of an epic catch!
+7323 : The timer has started. # seconds remaining.
+7324 : #sec.#/#sec.
+7325 : 0:# 1:# 2:# 3:#
+7326 : 4:# 5:# 6:# 7:#
+7327 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7328 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7329 : #/#(#
+7330 : Version invalid error!
+7331 : Hurry before the goldfish sees you!
+7332 : % fishes up a large box!
+7334 : Fish No# / Bait No# / Hit# >>> #
+7335 : Point# >>> #
+7336 : %(#) skill#
+7337 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7338 : Im Rnd : # Pz Rnd : #
+7339 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7340 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7341 : skill : # size : # kind : # sch : #
+7342 : time : # mes : # flag : # bonus : #
+7343 : item : # hp : # pow : # swing : #
+7344 : suc : # cons : # weight : # +- : #
+7345 : speed : # +- : # exc : # client : #
+7346 : general : #
+7347 : ro:# rs:# ps:# dt:#
+7348 : ra:# ti:#
+7349 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7350 : You get the distinct sense that your moogle friend frequents this spot...
+7351 : You have a feeling that your moogle friend has been through this way...
+7352 : You suspect that the scenery around here would be to a moogle's liking...
+7353 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7354 : You have a hunch that this area would be favored by moogles...
+7355 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7356 : % catches # %!
+7357 : % obtained %!
+7358 : It appears your chocobo found this item with ease.
+7359 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7360 : FPT # DPT # DoT#
+7361 : FPT # TDPT # h#
+7362 : You cannot fish at this time.
+7363 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7364 : You discover a cache of beastman resources and receive # Imperial Standing!
+7365 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7366 : You receive # bayld!
+7367 : Your chocobo refuses to partake of the %.
+7368 : mes1
+7369 : mes2
+7370 : mes3
+7371 : mes4
+7372 : mes5
+7373 : mes6
+7374 : mes7
+7375 : mes8
+7376 : mes9
+7377 : mes10
+7378 : What do you do!? (space) EVENT (space) WARP LEFT ZONE ONCE FLAG RESET
+7379 : ms301: fs002: ZONE FLAGreset
+7380 : OK FLAGreset
+7383 : Raised user flag > %
+7384 : Changed country > %
+7385 : Lowered user flag > %
+7386 : Raised zone flag > %
+7387 : Lowered zone flag > %
+7388 : Raised local flag > %
+7389 : Lowered local flag > %
+7390 : Raised org flag > %
+7391 : Lowered org > %
+7392 : Raised time flag > %
+7393 : Lowered time flag > %
+7394 : Raised talk flag > %
+7395 : Lowered talk flag > %
+7396 : Lowered alltalk > %
+7397 : Raised counter flag > %
+7398 : Lowered counter flag > %
+7399 : Changed rank > %
+7400 : Reset rank > %
+7401 : Inserted counter-type zone flag > %
+7402 : Reset counter-type zone flag > %
+7403 : Reduced fame > %
+7404 : Increased fame > %
+7405 : Obtained scitem > %
+7406 : Lost scitem > %
+7407 : Obtained % > %
+7408 : Lost % > %
+7409 : Raised map flag > %
+7410 : Lowered map > %
+7411 : Oh!
+7412 : Why, hello again. What are you doing here?
+7413 : Oww...
+7414 : I'm resting right here. I never thought the day would come that I'd find a place I couldn't sneak into.
+7415 : Say, you didn't follow me here out of worry, did you?
+7416 : Were you worried about me? That's right. Never.
+7417 : Hah! The only reason you're here is because that Sibyl Guard Semih Lafihna ordered you to follow me, right?
+7418 : I see. The only reason you're here is because that Sibyl Guard Semih Lafihna told you to follow me, right?
+7419 : She may have been raised by the Star Sibyl, but she's just a Mithra. She has no idea how serious this is.
+7420 : You've heard the legends of the Star Sibyl, right?
+7421 : In days of old, a shining star guided us to this place. When the star returned to the heavens, the light that lit Sarutabaruta faded, and darkness fell on the land.
+7422 : But the first Star Sibyl gained the powers of the stars and moon at Full Moon Fountain. She found the stars of hope from within the darkness, and led Windurst to glory.
+7423 : She also left a historical text for future Sibyls. They found it recently... The Book of the Gods.
+7424 : And still the Star Sibyl is silentaru.
+7425 : That's why I came here... To find another witness of time. I wanted to seek out the Yagudo.
+7426 : They sure gave me a hearty reception, but the Yagudo king told me something...
+7427 : Anyway, tell Semih Lafihna that the head of the Orastery, Ajido-Marujido, is getting close, slowly but surely.
+7428 : Well, I'll see you around. Back to Windurst for me.
+7429 : You find % marked with the sign of the eye.
+7430 : The door is shut tight.
+7431 : This chest is locked. It can be opened with %.
+7432 : This chest is empty.
+7433 : Your inventory is full. You cannot carry any more items.
+7434 : You must be closer to the chest to open it.
+7435 : % opens the chest and finds %.
+7436 : The item in this chest cannot be handled by the other members of your party. % receives the %.
+7437 : % obtains a key item, %, from the chest.
+7438 : You obtain a key item, %, from the chest.
+7439 : You unlock the chest!
+7440 : % fails to open the chest.
+7441 : The chest was trapped!
+7442 : You cannot open the chest when you are in a weakened state.
+7443 : The chest was a mimic!
+7444 : You cannot open the chest while participating in the moogle event.
+7445 : The chest was but an illusion...
+7446 : The chest appears to be locked. If only you had %, perhaps you could open it...
+7447 : A mysterious flame is burning.
+7448 : You hold % over the flame... A peculiar scent covers the area.
+7449 : You hold % over the flame. But nothing happens.
+7450 : Tebhi happily accepts the % and leaves.
+7451 : The door is locked.
+7452 : If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
+7453 : I am Kaa Toru the Just.
+7454 : You be the victor of Balga Contest held in Giddeus, kyah? You be taking this % and your prize.
+7455 : This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
+7456 : Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
+7457 : ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
+7458 : Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
+7459 : You find nothing.
+7460 : Kahk-ka-ka... You filthy, dim-witted heretics! You have damned yourselves by coming here.
+7461 : Our lord, Tzee Xicu the Manifest!  Even should our bodies be crushed and broken, may our souls endure into eternity...
+7462 : You are not here as sacrifices, are you? Could you possibly be committing this affront in the face of a deity?  Very well, I will personally mete out your divine punishment, kyah!
+7463 : You have...bested me... However, I...am...a god... I will never die...never rot...never fade...never...
+7464 : Lemme see here. Looks like you've brought me # %. A deal's a deal, so here's the %.
+7465 : They're not worth a whole lot, but ya done good to collect # %. Here's % for yer trouble.
+7466 : Whatcha got there? Looks like # %. Guess that means I gotta give you this %.
+7467 : Here ya go, kid. % in exchange for ya # %.
+7468 : Well, you make an old Gob smile, you do. Not many people hand over # %. Take this % and get outta here.
+7469 : Now you're just showing off, bringing me # %. Here's your %. Now scram, kid.
+7470 : Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
+7471 : I got no interest in dealing with the likes of you. Don'tcha got a home to go to?
+7472 : %? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
+7473 : There's a story that says some things have their own soul.
+7474 : The % used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
+7475 : They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
+7476 : Now we come to the fun part. If you want a %, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
+7477 : You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
+7478 : They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up # gil.
+7479 : # gil for %, or # gil for %.
+7480 : You want one, you hand me over the money. Like, with a quickness. So how's about it?
+7481 : What's that you got there? %? You're quite the collector for one o' your kind.
+7482 : It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for #.
+7483 : I add to my collection, you get some pocket change. A win-win situation, right? So just trade that % on over, why don't ya?
+7484 : %, ya say? Ya got my jaw dropping, kid. Where did ya hear about things like that?
+7485 : Did ya know that some items have their own soul? After passing through the hands of hundreds of people, not to mention the paws of us beastmen, some items are transformed through contact with all those thoughts and feelings.
+7486 : These transformed items have the ability to focus mysterious powers. Us Goblins often come across this weird phenenom...phemomeno...stuff in our travels.
+7487 : Ya know, if ya really want %, I could sell one to ya for the right price.
+7488 : But let me tell ya, kid. Only us Gobs can tell if an item is souled. Not even other beastmen--and definitely not you people--can tell the difference between normal junk and priceless artifacts.
+7489 : Makes me laugh to see you mugs throwing away those items like they was garbage.  A souled item is worth a fortune, and ya ain't gonna get one cheap.
+7490 : # gil, and not a single gil less! Ya got a problem with that, kid?
+7491 : So if ya want one, stop dawdlin' around already and hand me over some money.
+7492 : What's that ya got there? %!? Ya got unusual tastes for a person.
+7493 : Got no clue what ya been doin' with it, but I bet ya gots no use for it anymore. What say I lighten your load in exchange for, say, # gil?
+7494 : So whaddaya waitin' for? Hand that % right over and let's make a deal.
+7495 : I got a proposition for you.  Before the Great War, a different currency was used in each of the three nations.
+7496 : But when gil became the coin of choice, all the other types of money were done away with.  Now the old forms of currency are worthless to anyone besides a collector like me.
+7497 : You've never seen them before?  Here, take a look at this.
+7498 : This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the %, I'm guessing you'll be able to get your hands on a few of these.
+7499 : The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
+7500 : One's not gonna be enough, though. You bring me # % and I'll trade you a single %.  You don't look real interested, but hold up. I'm just getting started.
+7501 : If you've got # %, I'll give you a %. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
+7502 : The % are truly valuable. I'll give you some really great stuff for the right number of those beauties. You got all that? You wanna do business with me, then you better start looking. I'll be right here when you're ready to trade.
+7503 : I got a deal for ya, kid. Did ya know that before the Great War, the three nations all had their own currencies?
+7504 : After that little fracas, everyone started using gil as the standard coin, and the other types of money just faded out of existence. Even if you was to find any nowadays, they only have value to Goblin collectors like me.
+7505 : You're looking a bit confused there, kid. Let me show ya what I'm talking about.
+7506 : This one's the least valuable of the lot. It was used as a part of the San d'Orian currency years ago. I know I told ya about the nations all having different currencies, but these San d'Orian coins are the only ones I'm interested in.
+7507 : If ya bring me these coins, I'll exchange them for something from my secret stash of treasure. Ya won't be getting anything for just one of them, so make sure ya collect a bagful, okay?
+7508 : Let me explain the deal. Bring me # %, and I'll give ya one %.  Where're ya going? Let me finish, will ya?
+7509 : Once ya got # %, ya can trade them for one %. Or, ya can decide to exchange them for something from my treasure stash. Each item's gonna cost ya a different amount, so choose carefully.
+7510 : For the right number of %, ya can choose from among the most valuable items in my hoard. 'Course, getting enough of them to trade with is another matter...
+7511 : Hmm? Was there something you wanted to ask me?
+7512 : What is it, kid? Ya got something to ask me?
+7513 : What do you want to ask about? Nothing. Hourglasses. Maps. Old currencies. Trading %.
+7514 : Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
+7515 : Old currencies? I was telling ya about how the three nations all used to have different types of money. What, you forgot already?
+7516 : I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth.  I don't give discounts, but you're welcome back anytime.
+7517 : Ya really like your junk, huh? That's what this stuff looks like to most people, and ya just spent a fortune on it. You're my kinda people, kid.
+7518 : By the way, I don't give out receipts, and I don't take back items I already sold.  I don't know what ya mean to do with the % and I don't much care, so take it and skedaddle.
+7519 : By the way, I don't give out receipts, and I don't take back items I already sold.  I don't know what ya mean to do with the % and I don't much care, so take it and skedaddle.
+7520 : Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
+7521 : So you wanna make a deal here? Should be a good one for the both o' us.
+7522 : Here's the list of stuff you can trade your % for.
+7523 : Here's the list of stuff ya can trade your % for.
+7524 : This is %. You want one, you're gonna have to bring me # %.
+7525 : This is %. Ya want one, you're gonna have to bring me # %.
+7526 : What do you want to ask about? Nothing. Hourglasses.
+7527 : Trade me some % and I might give you some of my treasure. But don't think you're gonna get anything with just one!
+7528 : Trade me some % and I might give ya some of my treasure. But don't think you're gonna get anything with just one!
+7529 : Which item will you look at? View next page. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. Nothing.
+7530 : Which item will you look at? View previous page. %: # [coin/coins]. %: # [coin/coins]. %: # [coin/coins]. Nothing.
+7531 : Which item will you look at? Nothing.
 7532 : Which item will you look at? Nothing.
-7533 : Which item will you look at? Nothing.
-7534 : Which item will you look at? View next page. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. Nothing.
-7535 : Which item will you look at? View previous page. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. Nothing.
+7533 : Which item will you look at? View next page. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. Nothing.
+7534 : Which item will you look at? View previous page. %: # [bill/bills]. %: # [bill/bills]. %: # [bill/bills]. Nothing.
+7535 : Which item will you look at? Nothing.
 7536 : Which item will you look at? Nothing.
-7537 : Which item will you look at? Nothing.
-7538 : Which item will you look at? Nothing.
+7537 : Which item will you look at? View next page. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. Nothing.
+7538 : Which item will you look at? View previous page. %: # [shell/shells]. %: # [shell/shells]. %: # [shell/shells]. Nothing.
 7539 : Which item will you look at? Nothing.
 7540 : Which item will you look at? Nothing.
 7541 : Which item will you look at? Nothing.
@@ -7462,783 +7462,786 @@
 7547 : Which item will you look at? Nothing.
 7548 : Which item will you look at? Nothing.
 7549 : Which item will you look at? Nothing.
-7550 : You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
-7551 : Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
-7552 : You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
-7553 : Hold it right there, pal! Is that % you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch.  Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
-7554 : Hrmmm. It'd take a lotta work, but I could make that power shine through again.  Okay, [adventure-boy/adventure-girl], you got something to write with?
-7555 : To reforge the %, I'm gonna need %, %, and %. Yep, that's the bare minimum.
-7556 : Bring along the % with those three items and I'll get to work for you.  I've told you what I need, the rest is up to you.
-7557 : You got me what I need? Lemme see here, %, %, and %. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
-7558 : Oh, and I got no interest in gil. My fee for this job is # %. You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
-7559 : Reforging the % is gonna cost you # %. You pay me and I start working. See you when you get back with my fee.
-7560 : You brought me my # )? Right, time to get to work. My forge is hot and ready to go.
-7561 : The Goblin way of smithing is a little different from your fancy-schmancy synthesis. I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
-7562 : You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience.  Let me get back to work, will ya? Sheesh.
-7563 : You can stop your bellyachin' now--I'm done with your %. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
-7564 : Oh yeah, one more thing: the % I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now?  Naturally, it's gonna cost you.
-7565 : The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
-7566 : The top sellers at the moment are %, %, and %. There are others I could think of, but those three bring in the most cash. Don't forget to bring the % back with you, too.
-7567 : Those three items cover the cost of materials for reforging the %, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
-7568 : Oho, you brought me what I asked for? %, %, and %. My pockets are gonna be bulging when I unload this stuff, heh heh.
-7569 : Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the % for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
-7570 : The fee, including my cut for the referral, comes out to # %. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-7571 : I don't have the skill to reforge the % you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
-7572 : The fee, including my cut for the referral, comes out to # %. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-7573 : It's tough even for us Gobs to collect %, and you've brought me # of them. Not bad for a clueless adventurer-type. Leave the % with me and the job will get done.
-7574 : You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
-7575 : This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
-7576 : And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
-7577 : This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
-7578 : You can now request Switchstix to reforge a second %.
-7579 : Hold on, [adventure-boy/adventure-girl]. I remember you... That % you've got there. Didn't I already reforge one for you?
-7580 : Don't tell me you want another... I do! No. Just forget it.
-7581 : Hmmm... Hmmm...... You know you can only carry one of those things, right?
-7582 : Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
-7583 : ===Weapon Reforging in Progress=== Still # days and # hours until completion. Weapon in the forge: %.
-7584 : Trade the % to the Hieroglyphics found in each area. The % will be transformed into %.
-7585 : From that point on, one of the areas of Dynamis will be reserved by the bearer of the %. The destination and time to be spent in Dynamis will be recorded in the help text of the %.
-7586 : By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the %'s help text.
-7587 : Using the % creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
-7588 : The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to # people.
-7589 : The % can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of % to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
-7590 : To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], Trade the % to the Hieroglyphics where you originally received it.
-7591 : Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without %, even if you trade the required %.
-7592 : In addition, only players above level 64 can travel to the Shrouded Land.
-7593 : Ensuring that you have % in your possession, seek out the Trail Markings or Hieroglyphics found in each area.
-7594 : Examine them and you will be granted entrance to the corresponding Dynamis area.
-7595 : Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
-7596 : Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
-7597 : Parties and alliances can extend their duration of stay by defeating certain enemies.
-7598 : Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without %, even if you trade the required %.
-7599 : Remember that only players level 65 or above can travel to the Shrouded Land.
-7600 : Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using % or %.
-7601 : Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the %.
-7602 : However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
-7603 : This weakened state will last for longer than the usual period experienced after being raised from KO status.
-7604 : Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different % for # [day/days] (Earth time).
-7605 : In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
-7606 : Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
-7607 : You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
-7608 : Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
-7609 : Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
-7610 : In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
-7611 : Dynamis - [Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Jeuno/Jeuno/Jeuno/Windurst/Windurst/Windurst/Dummy/Dummy/Dummy/Dummy].
-7612 : Dynamis - [Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].
-7613 : You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
-7614 : In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
-7615 : Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
-7616 : Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
-7617 : Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately # [minute/minutes] (Earth time), the time and area designation on the % will be canceled.
-7618 : When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
-7619 : Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
-7620 : Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
-7621 : I'll exchange you # ) for a %. They're worth a bunch, so don't go giving 'em away.
-7622 : Ya can also exchange a % for # %. Gonna take ya a while to find, kid. Hope you're patient.
-7623 : Alrighty, # ) in exchange for your %.
-7624 : Here's ya # ), and I get ta pocket the %.
-7625 : Hey, you're the [guy/gal] with the %, right? I got some good news for you.
-7626 : Got a letter here from my blacksmith buddy, the guy who forged your %. Wanted me to lay a proposition on you.
-7627 : For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
-7628 : They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
-7629 : Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
-7630 : Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the % you're toting around. Pretty intriguing stuff, wouldn't you say?
-7631 : My buddy mentioned in his letter that he'd be willing to trade his discovery for your %, as long as you throw % into the bargain.
-7632 : Wait a sec...%? Can't say I've ever heard of it myself. No description in the letter about it neither.
-7633 : Hrmmm. Guess if you want to swap your % for what they dug up, you better start looking for %. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
-7634 : So this is %? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
-7635 : Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be # ), please!
-7636 : Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
-7637 : Your fee this time around is # %.
-7638 : My buddies are gonna hear about this--# )! You shoulda been born a Gob! You can leave the % with me.
-7639 : You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
-7640 : Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
-7641 : Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-7642 : Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out.  Here's what you came for.
-7643 : You hear a voice from somewhere...
-7644 : The voice has gone silent...
-7645 : What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
-7646 : Whachya got there? %? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
-7647 : Doesn't matter how great a blacksmith I am, there's not much I can do with just %. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
-7648 : ... Are you searching for me?
-7649 : Are you the one who is searching for me? Then prove it through your actions...
-7650 : My body will be made from % and %. You will also need to prepare # %.
-7651 : Once these things are gathered, come to the fortress built by the avians. There is a courtyard within... Do not forget the %.
-7652 : If you do all this, I will show myself to you. I will be waiting...
-7653 : ... Do you wish to possess me?
-7654 : Are you the one who wishes to possess me? Then show me the proof of your zeal.
-7655 : You will need % for my graceful form, and % to be my flawless soul. And # ) will be my bond.
-7656 : Bring the % and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all.
-7657 : Only then will your eyes behold my beauty. Until that day...
-7658 : ... Dost thou need my power at thy side?
-7659 : Art thou the one who seeks my power? Then show me the strength of thine will.
-7660 : Seek thee out % to be my spirit, and % for my physical form. And to buy my indulgence, # %.
-7661 : Bring these baubles and the % to the holy spring in the lair of the true dragon.
-7662 : And then shalt thou behold my true form...
-7663 : ... Are you the one who has called upon me?
-7664 : Are you the one who desires my power? Do you seek the means to end the world?
-7665 : Then I will have % for my flesh, and % to unbind my spirit. And I demand of you # %.
-7666 : Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end. Do not forget the %...
-7667 : Your efforts will be rewarded with a power beyond anything you have ever possessed.
-7668 : ... You, wield me?
-7669 : You, want wield me? Me? Me hunger. You, bring. Me, sated.
-7670 : Me, body, strong axe, %. Me, heart, %. Me, value, # %.
-7671 : You, bring, me. South...? West...? Sand, much, island. Rock? Mountain?
-7672 : You, come? You, no forget bring %. You, be master, me.
-7673 : ... You wish to see me?
-7674 : You wish to see the splendid hero sung of in legend? Then prove your love to me.
-7675 : I require the weapon, %. I seek to possess %. I desire the wealth of # %.
-7676 : Gather my demands along with the % and venture upon the grand bridge, to the garden at the top of the tower.
-7677 : There I will grant you audience in all my glory.
-7678 : ... Heh heh heh, you need me now, don't you?
-7679 : Whether it be fortune or disaster, your steps unwittingly lead you to me. You have approached the forbidden border...
-7680 : Very well. You will bring a weapon, %, to serve as my material shell. And % liberated from Dynamis, as well as # %.
-7681 : Once you have all these things, thrust them into the great waterfall along with the %. You know the place I speak of?
-7682 : If you accomplish this feat, I will recognize you as my wielder.
-7683 : ... You have been looking for me? For Odin's spear, the incarnation of lightning...?
-7684 : Do not try to hide your desire. You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods...
-7685 : A wise choice. First, seek %. Second, the %, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me # %.
-7686 : Take these along with the % and seek me out in the city in the clouds.
-7687 : If you succeed in discovering my decaying remains, I will see fit to realize your desire.
-7688 : ... Am I the one you seek?
-7689 : If you do indeed wish to find me, I will ask of you an arduous task.
-7690 : As my blade I will have you bring me %. And to guide my soul to that blade, %. I also wish of you a bounty of # %.
-7691 : Bring these things to the southeastern island, to the place where the bandits dwell. An old box will be the object of your search. Do not forget to bring the %...
-7692 : If you discover my resting place, I shall willingly fly to your side.
-7693 : ... Am I the object of your search?
-7694 : Do you scour the land for my presence?
-7695 : Then gather unto yourself % for my soul, and % to be the cage to hold it. And I demand of you # %.
-7696 : You are to offer these to me, along with the %, on the peak of the mountain that looms above the forest and the city of knights.
-7697 : Then shall I willingly enter your service.
-7698 : Do you seek my strength?
-7699 : I am mightier than you could ever imagine. You seem powerful already. Do you still seek to possess that which is stronger?
-7700 : Very well. You will find me % to be my body, and % to complement my soul. And you will offer me # %.
-7701 : When you have these in your possession, take the % and venture deep into the forbidden forest. Look for the shining stone.
-7702 : I await your coming...
-7703 : ... So, you are searching for me?
-7704 : I am the key to the gate of hell. And yet you search for me? Do not try to deny it.
-7705 : If you wish to wield my forbidden power, then bring me %, a staff of uncommon craftsmanship.
-7706 : You will also require % and # ) to free me from my chains. Do not forget to bring the %...
-7707 : This task will be harder than you believe. But if you succeed in gathering these things, bring them to the island overgrown with jungle, to the place that lies closest to the infernal flames.
-7708 : Once you have accomplished this, my unearthly power will be yours.
-7709 : ... Do you quest for me?
-7710 : I knew it to be so. I was once the bow of a famous archer, but have since passed through many hands to my present masterless state.
-7711 : If you would draw me in battle, then I must have %, a great bow, to be my foundation. You will also require % and # %.
-7712 : When you have these in hand, bring them with the % to the beach of the land to the west and the south.
-7713 : I will be waiting for you.
-7714 : ... You are the one who hunts for me?
-7715 : You are aware of my reputation for destruction?
-7716 : If you still intend to own me, then I will have %, a weapon suitable to serve as my barrel. And I will have % and # ) as further recompense.
-7717 : Once you have what I require, you will find me in the southwestern nation where the children who play with fire reside. And do not forget the %...
-7718 : I will be waiting.
-7719 : ... Do you wish to play a tune with me?
-7720 : If you wish to hear my strident call, then you must collect my pieces.
-7721 : % is my bold timbre, and % will provide my body. And my music must be paid for with # %.
-7722 : When you have the parts I require, take up the % and come to the valley in the west where the wind blows its own symphony.
-7723 : Then I will break my silence for you...
-7724 : Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-7725 : Third Stage/Reforge Complete Reforge of % complete. Now you have a new toy: %
-7726 : Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
-7727 : Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your % is hiding some real potential.
-7728 : Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
-7729 : I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is # %. Better throw in # %. Oh, and don't forget # %.
-7730 : That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
-7731 : My fee for reforging your % is # ), # ), and # %.
-7732 : You pay me and I start working. See you when you get back with my fee.
-7733 : You got what I asked for? I count # ), # ), and # %. Looks like it's all here.
-7734 : Right, time to get to work. My forge is hot and ready to go.
-7735 : You can stop your bellyachin' now--I'm done with your %. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
-7736 : Oh yeah, one more thing: the % I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now?  Naturally, it's gonna cost you.
-7737 : The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
-7738 : The fee, including my cut for the referral, comes out to # %. Plus # %. Oh, and while we're at it, # %.
-7739 : It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
-7740 : The fee, including my cut for the referral, comes out to # %. Plus # %. Oh, and # %.
-7741 : It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the % with me and the job will get done.
-7742 : And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
-7743 : This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
-7744 : Got a letter here from my blacksmith buddy, the guy who forged your %. Wanted me to lay a proposition on you.
-7745 : Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
-7746 : Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the % you're toting around. Pretty intriguing stuff, wouldn't you say?
-7747 : My buddy mentioned in his letter that he'd be willing to trade his own discovery for your %, as long as you throw % into the bargain.
-7748 : Hrmmm. Guess if you want to swap your % for what they dug up, you better start looking for %. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
-7749 : Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
-7750 : I'm gonna hit you up for # ), # ), and # %.
-7751 : Your fee this time around is # ), # ), and # %.
-7752 : My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the % with me.
-7753 : You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
-7754 : Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
-7755 : Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
-7756 : Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out.  Here's what you came for.
-7757 : Whachya got there? %? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
-7758 : ...You wish me to protect you?
-7759 : You seek an impenetrable wall with which to defend yourself and your companions? I will be that shield for you.
-7760 : However... You must provide % and % for my impervious foundation.
-7761 : You will also require # ) as a sign of good faith.
-7762 : Bring these along with the % to the place by the channel where my wise servant rests his wings.
-7763 : If this is done, I will pledge to you an unshakable defense--a shield upon which the claws of fiends will break, and the finest blades will shatter...
-7764 : You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
-7765 : What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
-7766 : I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
-7767 : Do you really wanna cancel the reforging order?
-7768 : Cancel the order? Yes, I've made up my mind. Gob, no!
-7769 : Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
-7770 : Are you really, really, really sure?
-7771 : Are you really sure? Really! Not really...
-7772 : Well, alrighty then... Consider your order canceled. Null and void! Never happened!
-7773 : Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
-7774 : Your relic reforging order has been canceled.
-7775 : Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
-7776 : Us Gobs, we can get anywhere with our noses and our smarts. But yeah, I got what you're lookin' for. For the right price, that is.
-7777 : Buy a map? (Current gil: #). Not now. Dynamis - San d'Oria (#). Dynamis - Bastok (#). Dynamis - Windurst (#). Dynamis - Jeuno (#). Dynamis - Beaucedine (#). Dynamis - Xarcabard (#). Dynamis - Valkurm (#). Dynamis - Buburimu (#). Dynamis - Qufim (#). Dynamis - Tavnazia (#).
-7778 : Buy %? Deal! No deal.
-7779 : There is nothing out of the ordinary here.
-7780 : You can hear a strange voice... Items, items, la la la la la
-7781 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-7782 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-7783 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-7784 : Now, listen close...
-7785 : Oh... Well, if that's the case, I'm outta here.
-7786 : The Goblin slipped away when you were not looking...
-7787 : You can hear a strange, raspy voice...
-7788 : I travel......hear lots... Hear...stories... Can tell...if...
-7789 : .........listen......
-7790 : Oh...... ...outta here.........
-7791 : Do you want to hear a story? No, thank you. Let's hear one.
-7792 : What story would you like to be told? On second thought, maybe later. To Each His Own Right. Spharai. Picture Perfect(pt.1). Picture Perfect(pt.2). Picture Perfect(pt.3). Picture Perfect(pt.4). Picture Perfect(pt.5). To Kill Mocking Birds.
-7796 : There is nothing out of the ordinary here.
-7797 : You hear a voice from out of nowhere...
-7798 : You obtain # %!
-7799 : ... At last we meet.
-7800 : I have been freed from my prison and can soak up the sweat and blood of this world once more.
-7801 : Wait, there is something I must...
-7802 : This place is...?
-7803 : I see... You must be the new wielder for these.
-7804 : Yes, with your fighting spirit I believe you will be able to master the %.
-7805 : The % have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
-7806 : They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
-7807 : ...
-7808 : I hope you don't think this is the end.
-7809 : Your real life as a martial artist is just beginning. Time to start your training anew!
-7810 : ... Finally! We finally meet face to face!
-7811 : I have a presence in this world again! What an exhilarating feeling!
-7812 : Ah yes, there is one more thing...
-7813 : Eh? What?
-7814 : Oh. You must be this one's new owner.
-7815 : With your dagger skills, you'll make a perfect wielder for the %.
-7816 : It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
-7817 : Treat her well...
-7818 : ...
-7819 : Splendid! From this day forth, I belong to you.
-7820 : So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
-7821 : ... Thou hast found me.
-7822 : I have now thrice shown my true form in this world.
-7823 : A moment...
-7824 : ... What has happened to me?
-7825 : I see, you are the sword's new owner?
-7826 : Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding %.
-7827 : When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
-7828 : And now I, too, can rest unburdened...
-7829 : ...
-7830 : Thou art blessed this day.
-7831 : Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
-7832 : ... You have found me.
-7833 : Allow me to show my respect. You who have gained the strength of so many must be a true hero.
-7834 : But first...
-7835 : Who are you?
-7836 : This must be some sort of joke. You are the new wielder of this weapon?
-7837 : Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
-7838 : However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
-7839 : Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
-7840 : ...
-7841 : Now, my heroic master...
-7842 : For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
-7843 : ... You...me, meet.
-7844 : Me...free... Thanks to you. Me, your...
-7845 : Wait...
-7846 : What the...?
-7847 : Ah, now I see. The wheel has turned.
-7848 : Truthfully spoken, I am thankful. % is a splendid axe, but ever does it hunger.
-7849 : I have taken many lives to sate its need, and have reached the end of my strength.
-7850 : You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
-7851 : ...
-7852 : You, master, me. Good, work. Me, thank, you.
-7853 : Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
-7854 : ... Ah, you found me!
-7855 : I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
-7856 : One moment...
-7857 : ... This is...Jeuno!? Have I finally returned?
-7858 : I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
-7859 : Hmm. With your polished skills, you will make a fine master for %.
-7860 : The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
-7861 : Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use % to avenge the Hydra Corps...
-7862 : ...
-7863 : I congratulate you also...my new master.
-7864 : Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
-7865 : ... You have found me.
-7866 : My forbidden power is now yours, and I am liberated from my prison.
-7867 : You have but to gain her respect...
-7868 : Such a long dream I was having...
-7869 : It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
-7870 : And you? Do you seek the same darkness that I did... It seems you have already found your way to %.
-7871 : Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
-7872 : And think long and hard on whether or not this power should be used. Do not end up like me...
-7873 : ...
-7874 : Heh. Heh heh. Hahahahahahaha!
-7875 : Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
-7876 : ... You have unearthed me at last.
-7877 : I am free from Dynamis, free to fly through the heavens once more.
-7878 : All that remains is...
-7879 : Hello? Is it possible that I...
-7880 : But, no. I have not returned to this realm... You. You are to be my successor?
-7881 : You certainly seem to have the required skill with the lance. Enough to convince % to lend you its power, at any rate.
-7882 : Having this spear on the battlefield makes you a match for almost any opponent.
-7883 : Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
-7884 : ...
-7885 : The ceremony of inheritance is complete.
-7886 : It is time for you to go forth and experience my overwhelming strength...
-7887 : ... I have been rediscovered at last.
-7888 : Thanks to you, I have made my escape from the shrouded land.
-7889 : You must now gain the sanction of my master...
-7890 : It is a pity, indeed.
-7891 : This day has come far too soon for my liking.
-7892 : However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the %.
-7893 : Take this blade as your own. Travel far down the path of the ninja.
-7894 : I will be watching you from the shadows...
-7895 : ...
-7896 : A fine master...
-7897 : My keen edge is now yours to wield. A sharpness said to make even demons wail...
-7898 : ... This day has finally come.
-7899 : I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
-7900 : In any event...
-7901 : What is going on here?
-7902 : Ah, my successor has come.
-7903 : I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the % and returned to my home, the Great War had begun.
-7904 : When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
-7905 : You have my gratitude. Farewell, %...
-7906 : ...
-7907 : It has been a hard path to reach this point.
-7908 : But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
-7909 : ... At long last, you have arrived.
-7910 : I was not convinced you were serious about completing this trial...
-7911 : You have proven me wrong...
-7912 : I have heard of your coming.
-7913 : You are to be the new master of this hammer of war?
-7914 : Every time % is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
-7915 : However, there is little meaning in me keeping it now.  If you will wield this weapon for a just cause, I hand its power over to you.
-7916 : Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
-7917 : ...
-7918 : My might is yours to wield.
-7919 : Go forth and experience the destructive power that laid low the Earth Serpent...
-7920 : ... So, you have found me.
-7921 : I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
-7922 : And now...
-7923 : Hwaah!
-7924 : Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
-7925 : Well, it's for the best, I suppose. In my current state, % is nothing more than an ornament, its power going to waste.
-7926 : I entrust this staff to you! Take up %, %, and bind it to you in a contract of blood!
-7927 : I take my leave of you now. I only wish that I was able to stay a little longer...
-7928 : ...
-7929 : I am yours to wield.
-7930 : But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
-7931 : ... You have discovered my resting place.
-7932 : The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
-7933 : Ah, one more test of your patience...
-7934 : Where is this place?
-7935 : Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
-7936 : Your hands tell me that your skill in archery is far from ordinary. % will fit snugly into your sure grasp.
-7937 : However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
-7938 : Farewell...
-7939 : ...
-7940 : It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
-7941 : You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
-7942 : ... We finally meet.
-7943 : I am now free from the pit of Dynamis to spit fire in this world once again.
-7944 : But I must ask you to wait before taking me into your possession...
-7945 : Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
-7946 : Hm? You think you're the one who's going to take up my gun?
-7947 : You do seem to have a fair eye for marksmanship. And % would look perfect nestled in the crook of your arm...
-7948 : Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
-7949 : This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
-7950 : ...
-7951 : A weapon has no will of its own. But it was made for a purpose.
-7952 : Take me to a new battlefield, a new arena for the hunt...
-7953 : ... I am saved.
-7954 : Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
-7955 : A few more moments, if you please...
-7956 : Hello there. I am Terounalivet, a military musician of the Hydra Corps.
-7957 : You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
-7958 : To be completely truthful, I am heartbroken to be giving up the %, the most famous of instruments, even to a fellow bard.
-7959 : But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
-7960 : She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
-7961 : ...
-7962 : He was a wonderful performer.
-7963 : Let us be on our way. Our tour of the world has only just begun...
-7964 : Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
-7965 : We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
-7966 : Oh, a new adventurer! Best of luck, kupo!
-7967 : Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
-7968 : You're not wearing your yukata! Put it on and show me how it looks, kupo!
-7969 : Here's your reward for reaching the goal, kupo!
-7970 : Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
-7971 : Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
-7972 : The face in the portrait you brought me is just... Kupupupu!
-7973 : Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
-7974 : You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
-7975 : You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
-7976 : This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
-7977 : To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
-7978 : This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
-7979 : Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
-7980 : Your partner isn't ready to go. Please wait a little longer, kupo.
-7981 : Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
-7982 : You can only choose one partner a day. Come back again tomorrow, kupo!
-7983 : Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
-7984 : Please wait a little longer or find a new partner before coming back, kupo.
-7985 : Are you ready to test your courage, kupo?
-7986 : Are you ready to go? Ready, kupo! I'm too terrified, kupo!
-7987 : I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
-7988 : If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
-7989 : You can only carry one %.
-7990 : Are you participating in this petrifying pilgrimage with the person in your present party?
-7991 : Hey, you changed partners! You can't switch halfway through, kupo!
-7992 : Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
-7993 : Choose your partner wisely. Come back when you think you have a winning combo, kupo!
-7994 : Boo-hah-hah...kupo!
-7995 : Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
-7996 : Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
-7997 : Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
-7998 : Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
-7999 : This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
-8000 : Why do ghosts say boo, anyway?
-8001 : I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
-8002 : Maybe I'm doing something wrong, kupo?
-8003 : If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
-8004 : Unable to enter next area. Expansion pack not installed.
-8005 : Kyah! Kyah! Heretics being in our midst! Kill them!
-8006 : Kyah? You being the underling of Zeelozok?
-8007 : Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
-8008 : Ka-kyah!? You being Zeelozok's messenger, here to deliver % for Ruu Cogo the Larktongue?
-8009 : Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
-8010 : Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
-8011 : Hoot! But I be tiring of war and blood!
-8012 : This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
-8013 : %! %! Are you okay? Open your eyes!
-8014 : %! %! Don't give up on me! Open your eyes!
-8015 : %! Are you hurt? Look at me!
-8016 : %! %! Are you injured? Open your eyes!
-8017 : %! %! Are you okay!? Open you eyes!
-8018 : %! %! Are you okay!? Come on, open your eyes!
-8019 : %! %! Are you okay? Open your eyes!
-8020 : %! %! Are you hurt!? Open your eyes!
-8021 : %! %! Are you hurt? Look at me!
-8022 : %! %! Oh no, are you okay? Open your eyes for me!
-8023 : %! %! Are you injured? Open your eyes!
-8024 : %! %! Are you hurt? Talk to me!
-8025 : Phew, you seem okay.
-8026 : Don't worry me like that!
-8027 : You seem fine. Good.
-8028 : You appear unhurt. Excellent.
-8029 : You had me worried, %. I'm glad you're okay.
-8030 : %! How are you feeling? It's good to have you back.
-8031 : You seem okay. Whew!
-8032 : Oh, you're okay! Super! Fantastic!
-8033 : You seem to be okay. Good.
-8034 : You're okay! Yaaay!
-8035 : You appear unhurt. Excellent.
-8036 : You're okay... Don't make me worry like that again.
-8037 : When the monster attacked you, I heard your voice through the signal pearl and came running to help.
-8038 : I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!
-8039 : I heard you through the signal pearl. You seemed to be in trouble, so I came to help.
-8040 : I heard you through the signal pearl, and you seemed to be in need of aid.
-8041 : I heard your voice through the signal pearl. That's how I knew you were in trouble.
-8042 : When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could.
-8043 : I came to help as soon as I heard through the signal pearl that you were in trouble.
-8044 : I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!
-8045 : I heard you through the signal pearl and sensed danger. That is why I am here now.
-8046 : I heard through the signal pearl that you were getting attacked, and I was sooo worried!
-8047 : I heard you through the signal pearl, and you seemed to be in need of aid.
-8048 : Your voice carried through signal pearl when the monster attacked. That's how I knew to come.
-8049 : I'm glad you're okay.
-8050 : Whew, glad you aren't hurt!
-8051 : Anyway, it's good that you're not hurt.
-8052 : I am glad you are unscathed.
-8053 : I'm glad you're not hurt.
-8054 : I'm so relieved you're okay!
-8055 : I'm so glad you're okay.
-8056 : I'm sooo glad you're not hurt!
-8057 : In any case, I am glad that you are well.
-8058 : I'm so happy that you're okay!
-8059 : I am glad you are unscathed.
-8060 : I'm glad you're safe.
-8061 : Anyway, should we look for the %? It must be here somewhere...
-8062 : You came to look for the %, right? It has got to be here somewhere!
-8063 : You came here to search for the %, didn't you? It should be here, somewhere.
-8064 : I assume you came to search for the %. It should be in the vicinity.
-8065 : You came here to search for the  %, didn't you? It should be somewhere nearby.
-8066 : Now, the reason you came here, was to find the %, right? It has to be around here somewhere.
-8067 : So you came looking for the %, right? It must be here somewhere...
-8068 : Hey, you came to look for the %, right? I'm sure it's around here somewhere!
-8069 : You were looking for the %, I see. Perhaps it is somewhere around here.
-8070 : Hey, aren't you looking for the %? I bet we can find it around here somewhere!
-8071 : I assume you came to search for the %. It should be in the vicinity.
-8072 : I gather you came here to search for the %. It cannot be far away.
-8073 : H-how did you get here...?
-8074 : Wh-where did you come from...!?
-8075 : %... Why...?
-8076 : How did you get here?
-8077 : H-how did you find me...?
-8078 : How did you get here...?
-8079 : H-how did you get here...?
-8080 : Wh-wh-why are you here...!?
-8081 : %... How...?
-8082 : It's...%...!
-8083 : How did you get here?
-8084 : Wh...Why are you here...?
-8085 : You heard me through the signal pearl? So...you're here to save me...
-8086 : You could hear my shouts through the signal pearl and came to help?
-8087 : You heard me through the signal pearl? So, you're here to help.
-8088 : So...you heard me through the signal pearl and came to help.
-8089 : You heard me through the signal pearl and came to my rescue?
-8090 : You heard my voice through the signal pearl...and came to help?
-8091 : You heard me through the signal pearl and...came to save me?
-8092 : You could hear me through the signal pearl? You came to save me!?
-8093 : You heard me through the signal pearl and came to my aid?
-8094 : You heard me through the signal pearl? ...You came to save me!
-8095 : So...you heard me through the signal pearl and came to help.
-8096 : So you heard me through the signal pearl...
-8097 : Thanks. I feel stronger with you around.
-8098 : Thanks for coming. There's nothing we can't do when we are together!
-8099 : Thanks...for your help.
-8100 : Thank you. Your presence gives me strength.
-8101 : Thanks for saving me, %.
-8102 : I've never been saved like that before. It's kinda embarrassing, heheh. I owe you, %.
-8103 : Thank you so much. Around you, I feel like I can do anything.
-8104 : Thanks! We are the perfect team! Yeah!
-8105 : You have my thanks. Your presence is heartening.
-8106 : You're so nice! I feel so strong around you!
-8107 : Thank you. Your presence gives me strength.
-8108 : I was complacent. Th...thank you.
-8109 : Oh yeah! I have to get the %. Can you come with me, %?
-8110 : Oh yeah! I still have to get the %. Let's go, %!
-8111 : Ah, the %. We should search for it together.
-8112 : I have yet to get the %. Shall we journey together, %?
-8113 : I came out here to get the %. Let's look for it together, %.
-8114 : I'm here for the %. Seeing how you're already here, how about we look for it together?
-8115 : Oh yeah! I still need to get the %. Will you come with me, %?
-8116 : Oh yeah, I almost forgot! I need to get the %! Come with me, %, please!
-8117 : I still do not have the %. I would appreciate your company.
-8118 : Oh yeah! I still have to get the %! I need you with me for this, %!
-8119 : I have yet to get the %. Shall we journey together, %?
-8120 : I haven't obtained the % I came for, yet. Search with me, %.
-8121 : Pass through the door? Yes. No.
-8122 : This is the %...
-8123 : Here it is, the %...
-8124 : The %...
+7550 : Which item will you look at? Nothing.
+7551 : Which item will you look at? Nothing.
+7552 : Which item will you look at? Nothing.
+7553 : You got guts to come to this neck of the woods. I can see you ain't no ordinary adventurer, but you ain't the best yet, neither. Don't get your feathers ruffled, I just tell it like it is.
+7554 : Me, I'm a blacksmith, and a damn good one. My Goblin forgecraft can make the most worthless rusty piece of junk shine like new again. Looks like you take good care of your weapons, though.
+7555 : You got nothing for me to work on, so this conversation is over. I got better things to do than sit here and waste time trading insults with smart-alecky adventurers. Bye-bye now.
+7556 : Hold it right there, pal! Is that % you're carrying? The power hidden behind that worn appearance is making my old Gobbie ears twitch.  Trust me, I'm a blacksmith. I don't kid around when it comes to weapons.
+7557 : Hrmmm. It'd take a lotta work, but I could make that power shine through again.  Okay, [adventure-boy/adventure-girl], you got something to write with?
+7558 : To reforge the %, I'm gonna need %, %, and %. Yep, that's the bare minimum.
+7559 : Bring along the % with those three items and I'll get to work for you.  I've told you what I need, the rest is up to you.
+7560 : You got me what I need? Lemme see here, %, %, and %. Good work. Did I mention that I don't work for free? I'm gonna need a little something up front--don't trust you sneaky adventurer-types.
+7561 : Oh, and I got no interest in gil. My fee for this job is # %. You people pay each other for stuff all the time, right? Well, this ain't no different. You pay my fee, your weapon gets fixed up.
+7562 : Reforging the % is gonna cost you # %. You pay me and I start working. See you when you get back with my fee.
+7563 : You brought me my # )? Right, time to get to work. My forge is hot and ready to go.
+7564 : The Goblin way of smithing is a little different from your fancy-schmancy synthesis. I'm gonna need some time to get this job done. You kept me waiting for the materials I needed, now it's your turn to cool your heels for a while. Fair's fair, right?
+7565 : You back already? I told you this was gonna take some time. You adventurer-types have really gotta learn some patience.  Let me get back to work, will ya? Sheesh.
+7566 : You can stop your bellyachin' now--I'm done with your %. So what do you think? You ain't gonna see too many weapons of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+7567 : Oh yeah, one more thing: the % I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now?  Naturally, it's gonna cost you.
+7568 : The weapons you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few of them.
+7569 : The top sellers at the moment are %, %, and %. There are others I could think of, but those three bring in the most cash. Don't forget to bring the % back with you, too.
+7570 : Those three items cover the cost of materials for reforging the %, but I'm still gonna ask you for a separate fee for my sweat and toil. To forge, or not to forge? The answer is in your hands.
+7571 : Oho, you brought me what I asked for? %, %, and %. My pockets are gonna be bulging when I unload this stuff, heh heh.
+7572 : Now about that fee. As a craftsgoblin, it's embarrassin' to admit, but I don't think I can reforge the % for you. There's a blacksmith I know who can do the job, though. Damn expensive, but the best blacksmith I ever saw.
+7573 : The fee, including my cut for the referral, comes out to # %. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+7574 : I don't have the skill to reforge the % you gave me, so I'm gonna take it to a blacksmith friend of mine. It'll be expensive, but the work is topnotch.
+7575 : The fee, including my cut for the referral, comes out to # %. It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+7576 : It's tough even for us Gobs to collect %, and you've brought me # of them. Not bad for a clueless adventurer-type. Leave the % with me and the job will get done.
+7577 : You really are impatient, ain't you! This is gonna take a hell of a lot longer than last time--that's how amazing the outcome is gonna be. Better find something else to occupy yourself with for a while.
+7578 : This is gonna take so long, you'll forget you even asked me to do it in the first place. A really, really, really long time. Really long. But don't worry, I'm a true craftsgoblin, I won't go back on a deal. Just don't forget to come back, huh?
+7579 : And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+7580 : This reforging stuff just warms my old Gobbie heart. You find any more old weapons, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+7581 : You can now request Switchstix to reforge a second %.
+7582 : Hold on, [adventure-boy/adventure-girl]. I remember you... That % you've got there. Didn't I already reforge one for you?
+7583 : Don't tell me you want another... I do! No. Just forget it.
+7584 : Hmmm... Hmmm...... You know you can only carry one of those things, right?
+7585 : Let me get this straight. You want another, even though you know you can only carry one... And you people say us Gobbies are weird. Well, you know the routine. Bring me back the items and I'll start forging.
+7586 : ===Weapon Reforging in Progress=== Still # days and # hours until completion. Weapon in the forge: %.
+7587 : Trade the % to the Hieroglyphics found in each area. The % will be transformed into %.
+7588 : From that point on, one of the areas of Dynamis will be reserved by the bearer of the %. The destination and time to be spent in Dynamis will be recorded in the help text of the %.
+7589 : By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the %'s help text.
+7590 : Using the % creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
+7591 : The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to # people.
+7592 : The % can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of % to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
+7593 : To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], Trade the % to the Hieroglyphics where you originally received it.
+7594 : Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without %, even if you trade the required %.
+7595 : In addition, only players above level 64 can travel to the Shrouded Land.
+7596 : Ensuring that you have % in your possession, seek out the Trail Markings or Hieroglyphics found in each area.
+7597 : Examine them and you will be granted entrance to the corresponding Dynamis area.
+7598 : Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
+7599 : Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
+7600 : Parties and alliances can extend their duration of stay by defeating certain enemies.
+7601 : Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without %, even if you trade the required %.
+7602 : Remember that only players level 65 or above can travel to the Shrouded Land.
+7603 : Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using % or %.
+7604 : Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the %.
+7605 : However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
+7606 : This weakened state will last for longer than the usual period experienced after being raised from KO status.
+7607 : Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different % for # [day/days] (Earth time).
+7608 : In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
+7609 : Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
+7610 : You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+7611 : Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
+7612 : Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
+7613 : In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
+7614 : Dynamis - [Dummy/Bastok/San d'Oria/San d'Oria/San d'Oria/San d'Oria/San d'Oria/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Windurst/Windurst/Bastok/Bastok/Bastok/Bastok/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Jeuno/Jeuno/Jeuno/Windurst/Windurst/Windurst/Dummy/Dummy/Dummy/Dummy].
+7615 : Dynamis - [Dummy/Beaucedine/Beaucedine/Beaucedine/Beaucedine/Jeuno/Jeuno/Dummy/Dummy/Dummy/Dummy]. Dynamis - [Dummy/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Xarcabard/Beaucedine/Dummy/Dummy/Dummy/Dummy].
+7616 : You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+7617 : In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
+7618 : Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
+7619 : Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
+7620 : Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately # [minute/minutes] (Earth time), the time and area designation on the % will be canceled.
+7621 : When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
+7622 : Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
+7623 : Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
+7624 : I'll exchange you # ) for a %. They're worth a bunch, so don't go giving 'em away.
+7625 : Ya can also exchange a % for # %. Gonna take ya a while to find, kid. Hope you're patient.
+7626 : Alrighty, # ) in exchange for your %.
+7627 : Here's ya # ), and I get ta pocket the %.
+7628 : Hey, you're the [guy/gal] with the %, right? I got some good news for you.
+7629 : Got a letter here from my blacksmith buddy, the guy who forged your %. Wanted me to lay a proposition on you.
+7630 : For years now, him and his mates have been digging tunnels right under this place we're standin' on. Even among us Goblins, they're considered a strange crew.
+7631 : They're lookin' for a certain object that was buried here thousands of millions of years ago, or something like that. But don't worry your little head over whatever that may be.
+7632 : Anywho, after poking around deep under the earth for so long, they've come across a few strange weapons used by Gob-knows-who, Gob-knows-when.
+7633 : Now, this is the good part. The weapons those guys found happen to have the same sorta aura as the % you're toting around. Pretty intriguing stuff, wouldn't you say?
+7634 : My buddy mentioned in his letter that he'd be willing to trade his discovery for your %, as long as you throw % into the bargain.
+7635 : Wait a sec...%? Can't say I've ever heard of it myself. No description in the letter about it neither.
+7636 : Hrmmm. Guess if you want to swap your % for what they dug up, you better start looking for %. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+7637 : So this is %? Huh. I been all over the place and seen lotsa bizzaro stuff, but this is the first time I've seen something like this. You sure you're not a Gob?
+7638 : Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you. Cha-ching! That'll be # ), please!
+7639 : Collecting this sum is gonna be tough. Incredibly, unbelievably, ridiculously difficult. But I got faith in you, [adventure-boy/adventure-girl]!
+7640 : Your fee this time around is # %.
+7641 : My buddies are gonna hear about this--# )! You shoulda been born a Gob! You can leave the % with me.
+7642 : You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+7643 : Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+7644 : Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+7645 : Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient weapons. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out.  Here's what you came for.
+7646 : You hear a voice from somewhere...
+7647 : The voice has gone silent...
+7648 : What's up, [adventure-boy/adventure-girl]? You get my attention, then you don't say anything. Are you feeling okay? You're acting kinda weird. I'm a blacksmith, not a doctor, you know.
+7649 : Whachya got there? %? I told you to bring me any old weapons you find, but try to make sure they're in one piece, huh?
+7650 : Doesn't matter how great a blacksmith I am, there's not much I can do with just %. Sometimes knowing when to give up takes more guts, as my old Gobbie granddaddy used to say.
+7651 : ... Are you searching for me?
+7652 : Are you the one who is searching for me? Then prove it through your actions...
+7653 : My body will be made from % and %. You will also need to prepare # %.
+7654 : Once these things are gathered, come to the fortress built by the avians. There is a courtyard within... Do not forget the %.
+7655 : If you do all this, I will show myself to you. I will be waiting...
+7656 : ... Do you wish to possess me?
+7657 : Are you the one who wishes to possess me? Then show me the proof of your zeal.
+7658 : You will need % for my graceful form, and % to be my flawless soul. And # ) will be my bond.
+7659 : Bring the % and these tokens to the forbidden forest in the east, to the base of the great tree that towers above all.
+7660 : Only then will your eyes behold my beauty. Until that day...
+7661 : ... Dost thou need my power at thy side?
+7662 : Art thou the one who seeks my power? Then show me the strength of thine will.
+7663 : Seek thee out % to be my spirit, and % for my physical form. And to buy my indulgence, # %.
+7664 : Bring these baubles and the % to the holy spring in the lair of the true dragon.
+7665 : And then shalt thou behold my true form...
+7666 : ... Are you the one who has called upon me?
+7667 : Are you the one who desires my power? Do you seek the means to end the world?
+7668 : Then I will have % for my flesh, and % to unbind my spirit. And I demand of you # %.
+7669 : Take these offerings to the chasm of the land encased in ice, and seek out the water that lies at its end. Do not forget the %...
+7670 : Your efforts will be rewarded with a power beyond anything you have ever possessed.
+7671 : ... You, wield me?
+7672 : You, want wield me? Me? Me hunger. You, bring. Me, sated.
+7673 : Me, body, strong axe, %. Me, heart, %. Me, value, # %.
+7674 : You, bring, me. South...? West...? Sand, much, island. Rock? Mountain?
+7675 : You, come? You, no forget bring %. You, be master, me.
+7676 : ... You wish to see me?
+7677 : You wish to see the splendid hero sung of in legend? Then prove your love to me.
+7678 : I require the weapon, %. I seek to possess %. I desire the wealth of # %.
+7679 : Gather my demands along with the % and venture upon the grand bridge, to the garden at the top of the tower.
+7680 : There I will grant you audience in all my glory.
+7681 : ... Heh heh heh, you need me now, don't you?
+7682 : Whether it be fortune or disaster, your steps unwittingly lead you to me. You have approached the forbidden border...
+7683 : Very well. You will bring a weapon, %, to serve as my material shell. And % liberated from Dynamis, as well as # %.
+7684 : Once you have all these things, thrust them into the great waterfall along with the %. You know the place I speak of?
+7685 : If you accomplish this feat, I will recognize you as my wielder.
+7686 : ... You have been looking for me? For Odin's spear, the incarnation of lightning...?
+7687 : Do not try to hide your desire. You seek a force that topples armies, triumphs against sorcery, and approaches the power of the gods...
+7688 : A wise choice. First, seek %. Second, the %, a lance of unsurpassed quality, to act as my earthly manifestation. Lastly, you will bring me # %.
+7689 : Take these along with the % and seek me out in the city in the clouds.
+7690 : If you succeed in discovering my decaying remains, I will see fit to realize your desire.
+7691 : ... Am I the one you seek?
+7692 : If you do indeed wish to find me, I will ask of you an arduous task.
+7693 : As my blade I will have you bring me %. And to guide my soul to that blade, %. I also wish of you a bounty of # %.
+7694 : Bring these things to the southeastern island, to the place where the bandits dwell. An old box will be the object of your search. Do not forget to bring the %...
+7695 : If you discover my resting place, I shall willingly fly to your side.
+7696 : ... Am I the object of your search?
+7697 : Do you scour the land for my presence?
+7698 : Then gather unto yourself % for my soul, and % to be the cage to hold it. And I demand of you # %.
+7699 : You are to offer these to me, along with the %, on the peak of the mountain that looms above the forest and the city of knights.
+7700 : Then shall I willingly enter your service.
+7701 : Do you seek my strength?
+7702 : I am mightier than you could ever imagine. You seem powerful already. Do you still seek to possess that which is stronger?
+7703 : Very well. You will find me % to be my body, and % to complement my soul. And you will offer me # %.
+7704 : When you have these in your possession, take the % and venture deep into the forbidden forest. Look for the shining stone.
+7705 : I await your coming...
+7706 : ... So, you are searching for me?
+7707 : I am the key to the gate of hell. And yet you search for me? Do not try to deny it.
+7708 : If you wish to wield my forbidden power, then bring me %, a staff of uncommon craftsmanship.
+7709 : You will also require % and # ) to free me from my chains. Do not forget to bring the %...
+7710 : This task will be harder than you believe. But if you succeed in gathering these things, bring them to the island overgrown with jungle, to the place that lies closest to the infernal flames.
+7711 : Once you have accomplished this, my unearthly power will be yours.
+7712 : ... Do you quest for me?
+7713 : I knew it to be so. I was once the bow of a famous archer, but have since passed through many hands to my present masterless state.
+7714 : If you would draw me in battle, then I must have %, a great bow, to be my foundation. You will also require % and # %.
+7715 : When you have these in hand, bring them with the % to the beach of the land to the west and the south.
+7716 : I will be waiting for you.
+7717 : ... You are the one who hunts for me?
+7718 : You are aware of my reputation for destruction?
+7719 : If you still intend to own me, then I will have %, a weapon suitable to serve as my barrel. And I will have % and # ) as further recompense.
+7720 : Once you have what I require, you will find me in the southwestern nation where the children who play with fire reside. And do not forget the %...
+7721 : I will be waiting.
+7722 : ... Do you wish to play a tune with me?
+7723 : If you wish to hear my strident call, then you must collect my pieces.
+7724 : % is my bold timbre, and % will provide my body. And my music must be paid for with # %.
+7725 : When you have the parts I require, take up the % and come to the valley in the west where the wind blows its own symphony.
+7726 : Then I will break my silence for you...
+7727 : Good timing, your package has arrived. The letter mentioned something about the weapons being really similar, but I can see a few differences myself. Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+7728 : Third Stage/Reforge Complete Reforge of % complete. Now you have a new toy: %
+7729 : Did I mention I fix up armor and shields as well? You wanna impress your friends with an old relic that shines like new, you know who to ask!
+7730 : Wait up, [adventurer-boy/adventurer-girl]! My Gobbie blacksmith instincts are telling me that your % is hiding some real potential.
+7731 : Hrmmm. Hrmmm. It'll take a lotta work to put it back in shape, but this is the kinda thing I live for. Right, get your notebook ready.
+7732 : I don't work for that gil you adventurer-types love to hoard. What I'm gonna need is # %. Better throw in # %. Oh, and don't forget # %.
+7733 : That's my fee. You gotta problem with fair trade? You pay me, I fix up your stuff.
+7734 : My fee for reforging your % is # ), # ), and # %.
+7735 : You pay me and I start working. See you when you get back with my fee.
+7736 : You got what I asked for? I count # ), # ), and # %. Looks like it's all here.
+7737 : Right, time to get to work. My forge is hot and ready to go.
+7738 : You can stop your bellyachin' now--I'm done with your %. So what do you think? You ain't gonna see too many pieces of this quality, I can tell you. Be seeing you, [adventure-boy/adventure-girl].
+7739 : Oh yeah, one more thing: the % I worked on can still be improved. I can make that power shine even brighter than before. Do I have your full attention, now?  Naturally, it's gonna cost you.
+7740 : The armor and shields you people use are really popular among the beastmen these days. I could make myself a small fortune with just a few pieces.
+7741 : The fee, including my cut for the referral, comes out to # %. Plus # %. Oh, and while we're at it, # %.
+7742 : It's gonna be a fun time getting your grubby little adventurer hands on the loot, but the result will be worth it.
+7743 : The fee, including my cut for the referral, comes out to # %. Plus # %. Oh, and # %.
+7744 : It's tough even for us Gobs to get our hands on this old currency. Not bad for a clueless adventurer-type. Leave the % with me and the job will get done.
+7745 : And here you go, the finished masterpiece. Really, really, really sorry to keep you waiting so long. Really sorry. But take a look. Feel this radiating power. I bet you're glad you didn't forget to come back, huh?
+7746 : This reforging stuff just warms my old Gobbie heart. You find any more old armor or shields, be sure to bring them to me. You never know, they might have the same potential for enhancement you see here. See you around, [adventure-boy/adventure-girl].
+7747 : Got a letter here from my blacksmith buddy, the guy who forged your %. Wanted me to lay a proposition on you.
+7748 : Anywho, after poking around deep under the earth for so long, they've come across a few strange bits of armor used by Gob-knows-who, Gob-knows-when.
+7749 : Now, this is the good part. The armor and shields those guys found happen to have the same sorta aura as the % you're toting around. Pretty intriguing stuff, wouldn't you say?
+7750 : My buddy mentioned in his letter that he'd be willing to trade his own discovery for your %, as long as you throw % into the bargain.
+7751 : Hrmmm. Guess if you want to swap your % for what they dug up, you better start looking for %. Okay, I've done my bit and told you what you gotta do. It's adventure-time again.
+7752 : Righto, I'll take this stuff off your hands and we can get down to my favorite subject: extra fees. This one's really gonna cost you.
+7753 : I'm gonna hit you up for # ), # ), and # %.
+7754 : Your fee this time around is # ), # ), and # %.
+7755 : My buddies are gonna hear about this. Look at all this loot! You shoulda been born a Gob! You can leave the % with me.
+7756 : You ain't learned any patience on your travels, have you? And no, I'm not gonna tell some blabbermouth adventurer where my buddy hangs out. Look, I didn't cheat you last time, did I? Give a Gob a break and stop bothering me every five seconds!
+7757 : Oh, and you should be happy. There's no reforging to do, so this won't take nearly half as long as last time. Don't get so involved in your little adventures that you forget all about it, though.
+7758 : Good timing, your package has arrived. Definitely looks a lot like what you had in the first place... Hmmm. You're probably thinking this isn't worth the loot you had to part with, huh?
+7759 : Cheer up, [adventure-boy/adventure-girl]. And don't forget to keep bringing me those ancient pieces of armor. Who knows? They might be hiding some secret power that only a blacksmith like me can draw out.  Here's what you came for.
+7760 : Whachya got there? %? I told you to bring me any old armor or shields you find, but try to make sure they're in one piece, huh?
+7761 : ...You wish me to protect you?
+7762 : You seek an impenetrable wall with which to defend yourself and your companions? I will be that shield for you.
+7763 : However... You must provide % and % for my impervious foundation.
+7764 : You will also require # ) as a sign of good faith.
+7765 : Bring these along with the % to the place by the channel where my wise servant rests his wings.
+7766 : If this is done, I will pledge to you an unshakable defense--a shield upon which the claws of fiends will break, and the finest blades will shatter...
+7767 : You pay the fee--we got a deal. I'll be here waiting for you, trying to keep my Gobbie toes warm.
+7768 : What's that, [adventure-boy/adventure-girl]? You wanna cancel the order? Have you lost your little adventurer mind!?
+7769 : I keeps what I takes, and you loses what you gives, you get it? No refunds, ifs, ands, or buts.
+7770 : Do you really wanna cancel the reforging order?
+7771 : Cancel the order? Yes, I've made up my mind. Gob, no!
+7772 : Are you really sure? I make out like a Gob in a junkyard, and you lose everything.
+7773 : Are you really, really, really sure?
+7774 : Are you really sure? Really! Not really...
+7775 : Well, alrighty then... Consider your order canceled. Null and void! Never happened!
+7776 : Just a piece of advice for you, [adventure-boy/adventure-girl]: next time you better be Gob-darn sure you know what you want. Come on back now, y'hear?
+7777 : Your relic reforging order has been canceled.
+7778 : Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
+7779 : Us Gobs, we can get anywhere with our noses and our smarts. But yeah, I got what you're lookin' for. For the right price, that is.
+7780 : Buy a map? (Current gil: #). Not now. Dynamis - San d'Oria (#). Dynamis - Bastok (#). Dynamis - Windurst (#). Dynamis - Jeuno (#). Dynamis - Beaucedine (#). Dynamis - Xarcabard (#). Dynamis - Valkurm (#). Dynamis - Buburimu (#). Dynamis - Qufim (#). Dynamis - Tavnazia (#).
+7781 : Buy %? Deal! No deal.
+7782 : There is nothing out of the ordinary here.
+7783 : You can hear a strange voice... Items, items, la la la la la
+7784 : Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+7785 : Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+7786 : I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+7787 : Now, listen close...
+7788 : Oh... Well, if that's the case, I'm outta here.
+7789 : The Goblin slipped away when you were not looking...
+7790 : You can hear a strange, raspy voice...
+7791 : I travel......hear lots... Hear...stories... Can tell...if...
+7792 : .........listen......
+7793 : Oh...... ...outta here.........
+7794 : Do you want to hear a story? No, thank you. Let's hear one.
+7795 : What story would you like to be told? On second thought, maybe later. To Each His Own Right. Spharai. Picture Perfect(pt.1). Picture Perfect(pt.2). Picture Perfect(pt.3). Picture Perfect(pt.4). Picture Perfect(pt.5). To Kill Mocking Birds.
+7799 : There is nothing out of the ordinary here.
+7800 : You hear a voice from out of nowhere...
+7801 : You obtain # %!
+7802 : ... At last we meet.
+7803 : I have been freed from my prison and can soak up the sweat and blood of this world once more.
+7804 : Wait, there is something I must...
+7805 : This place is...?
+7806 : I see... You must be the new wielder for these.
+7807 : Yes, with your fighting spirit I believe you will be able to master the %.
+7808 : The % have long accompanied me, along both rough and gentle paths. It is not easy to give them up, but...here.
+7809 : They belong to you now. I ask that you consider my... Ah, but that is past now. I bid you farewell....
+7810 : ...
+7811 : I hope you don't think this is the end.
+7812 : Your real life as a martial artist is just beginning. Time to start your training anew!
+7813 : ... Finally! We finally meet face to face!
+7814 : I have a presence in this world again! What an exhilarating feeling!
+7815 : Ah yes, there is one more thing...
+7816 : Eh? What?
+7817 : Oh. You must be this one's new owner.
+7818 : With your dagger skills, you'll make a perfect wielder for the %.
+7819 : It is most difficult to give up a weapon that has seen me through so many tight spots, but you have earned it.
+7820 : Treat her well...
+7821 : ...
+7822 : Splendid! From this day forth, I belong to you.
+7823 : So, what kind of games shall we play? And where shall we go to play them? Who are we going to kill when we get there? It's all just too exciting...!
+7824 : ... Thou hast found me.
+7825 : I have now thrice shown my true form in this world.
+7826 : A moment...
+7827 : ... What has happened to me?
+7828 : I see, you are the sword's new owner?
+7829 : Well, this is most encouraging! A master of swordplay such as yourself should have no trouble wielding %.
+7830 : When the world lies in chaos, this blade appears before the one meant to wield it. It is yours... Restore order to Vana'diel!
+7831 : And now I, too, can rest unburdened...
+7832 : ...
+7833 : Thou art blessed this day.
+7834 : Henceforth, I shall be thy blade. For the sake of thy companions, for justice in this world, wield my power in the name of honor...
+7835 : ... You have found me.
+7836 : Allow me to show my respect. You who have gained the strength of so many must be a true hero.
+7837 : But first...
+7838 : Who are you?
+7839 : This must be some sort of joke. You are the new wielder of this weapon?
+7840 : Hmmm, perhaps I have misjudged you. With your level of skill, you may be able to handle this beastly blade, and have the will to control its awesome power.
+7841 : However, this is a magical blade. It is a sword that calls upon destruction. Its malice will gnaw away at your body and soul even as you topple enemies with its strength.
+7842 : Do not forget this truth! Keep it always in your mind. My regards go with you, stranger...
+7843 : ...
+7844 : Now, my heroic master...
+7845 : For what purpose will you wield my power? The choices before you are without limit. Will you become the ruler of this world? Or perhaps...
+7846 : ... You...me, meet.
+7847 : Me...free... Thanks to you. Me, your...
+7848 : Wait...
+7849 : What the...?
+7850 : Ah, now I see. The wheel has turned.
+7851 : Truthfully spoken, I am thankful. % is a splendid axe, but ever does it hunger.
+7852 : I have taken many lives to sate its need, and have reached the end of my strength.
+7853 : You have my gratitude. You have freed me from my nightmare, and now I can sleep with a tranquil spirit...
+7854 : ...
+7855 : You, master, me. Good, work. Me, thank, you.
+7856 : Master, me, hunger. Go, hunt? Find, prey? Me, cut, flesh. Break, bone. Drink, blood. Master, me, hunger...
+7857 : ... Ah, you found me!
+7858 : I have been freed from a world where life and death, reality and illusion are impossible to tell apart. I am truly grateful.
+7859 : One moment...
+7860 : ... This is...Jeuno!? Have I finally returned?
+7861 : I... Nobody can see me. This is merely a reflection of reality. Which means you are the one to inherit the axe.
+7862 : Hmm. With your polished skills, you will make a fine master for %.
+7863 : The one who wields this axe must also be beautiful to look upon. Apparently, I was a suitable candidate. Do you not agree?
+7864 : Congratulations. I expect you to perform great deeds from this day onwards. I also ask that someday you use % to avenge the Hydra Corps...
+7865 : ...
+7866 : I congratulate you also...my new master.
+7867 : Now hold me high and let my blade glint in the sunlight! Let your friends, as well as your enemies, feast upon my glorious beauty!
+7868 : ... You have found me.
+7869 : My forbidden power is now yours, and I am liberated from my prison.
+7870 : You have but to gain her respect...
+7871 : Such a long dream I was having...
+7872 : It was a dream held captive by a shrouded world. No. I must accept that it was no dream.
+7873 : And you? Do you seek the same darkness that I did... It seems you have already found your way to %.
+7874 : Very well, I will pass it on to you. But do not forget how much blood your companions spilled in your search for its unholy strength.
+7875 : And think long and hard on whether or not this power should be used. Do not end up like me...
+7876 : ...
+7877 : Heh. Heh heh. Hahahahahahaha!
+7878 : Well, my new master, is it not time to begin the journey for ever greater power? There are enemies yet to fell, and blood yet to spill...
+7879 : ... You have unearthed me at last.
+7880 : I am free from Dynamis, free to fly through the heavens once more.
+7881 : All that remains is...
+7882 : Hello? Is it possible that I...
+7883 : But, no. I have not returned to this realm... You. You are to be my successor?
+7884 : You certainly seem to have the required skill with the lance. Enough to convince % to lend you its power, at any rate.
+7885 : Having this spear on the battlefield makes you a match for almost any opponent.
+7886 : Think well on what this means, and on how a weapon like this should be used. You have my admiration, adventurer. You have done well...
+7887 : ...
+7888 : The ceremony of inheritance is complete.
+7889 : It is time for you to go forth and experience my overwhelming strength...
+7890 : ... I have been rediscovered at last.
+7891 : Thanks to you, I have made my escape from the shrouded land.
+7892 : You must now gain the sanction of my master...
+7893 : It is a pity, indeed.
+7894 : This day has come far too soon for my liking.
+7895 : However, you are a master of the ninja trade. I concede that you will make a fitting wielder of the %.
+7896 : Take this blade as your own. Travel far down the path of the ninja.
+7897 : I will be watching you from the shadows...
+7898 : ...
+7899 : A fine master...
+7900 : My keen edge is now yours to wield. A sharpness said to make even demons wail...
+7901 : ... This day has finally come.
+7902 : I am to be released to this world for the first time in an age. Is this reason to celebrate, or despair...?
+7903 : In any event...
+7904 : What is going on here?
+7905 : Ah, my successor has come.
+7906 : I sought to master the way of the samurai, and traveled to the Far East for training. By the time I had gained the % and returned to my home, the Great War had begun.
+7907 : When I think on it, my life has been a long road of trials. But to see the arrival of my successor makes me feel that all has not been in vain.
+7908 : You have my gratitude. Farewell, %...
+7909 : ...
+7910 : It has been a hard path to reach this point.
+7911 : But your journey in the way of the samurai has just begun. You have yet to attain perfection. Let us continue your training...
+7912 : ... At long last, you have arrived.
+7913 : I was not convinced you were serious about completing this trial...
+7914 : You have proven me wrong...
+7915 : I have heard of your coming.
+7916 : You are to be the new master of this hammer of war?
+7917 : Every time % is reborn it gains a new wielder, who ultimately must pass it on to a successor. I have swung this hammer for more than eight hundred years. I never wished to part with it.
+7918 : However, there is little meaning in me keeping it now.  If you will wield this weapon for a just cause, I hand its power over to you.
+7919 : Now, take the hammer and go! Just be careful with how you handle it. Do not let its might crush you as well...
+7920 : ...
+7921 : My might is yours to wield.
+7922 : Go forth and experience the destructive power that laid low the Earth Serpent...
+7923 : ... So, you have found me.
+7924 : I must give you my thanks. I have been freed from the hell of Dynamis and can regain my true power once again.
+7925 : And now...
+7926 : Hwaah!
+7927 : Just when I thought I had finally returned to this world, I find you standing here, ready to snatch my precious staff away.
+7928 : Well, it's for the best, I suppose. In my current state, % is nothing more than an ornament, its power going to waste.
+7929 : I entrust this staff to you! Take up %, %, and bind it to you in a contract of blood!
+7930 : I take my leave of you now. I only wish that I was able to stay a little longer...
+7931 : ...
+7932 : I am yours to wield.
+7933 : But you are not yet my master. By watching your actions from this time onwards, I will decide if you are worthy of the title...
+7934 : ... You have discovered my resting place.
+7935 : The prison of souls has let loose its shackles, and I am free to loose arrows in this world once more. My thanks.
+7936 : Ah, one more test of your patience...
+7937 : Where is this place?
+7938 : Of course. How could I forget. I am Ghebben. I was entrusted with this bow by a warrior of the Far East.
+7939 : Your hands tell me that your skill in archery is far from ordinary. % will fit snugly into your sure grasp.
+7940 : However, this bow belongs to Sir Nasu, the warrior of whom I spoke. You must remember that you are merely its keeper for a time.
+7941 : Farewell...
+7942 : ...
+7943 : It is an honor to be owned by a just master. Sir Ghebben was a truly splendid archer.
+7944 : You are now the one to draw me in battle. I will be at your side on any road you choose to travel, along with the destructive power of my arrows.
+7945 : ... We finally meet.
+7946 : I am now free from the pit of Dynamis to spit fire in this world once again.
+7947 : But I must ask you to wait before taking me into your possession...
+7948 : Why'd you have to go and wake me up? I was having the most relaxing sleep. Oh, this place looks familiar...
+7949 : Hm? You think you're the one who's going to take up my gun?
+7950 : You do seem to have a fair eye for marksmanship. And % would look perfect nestled in the crook of your arm...
+7951 : Well, I have no more use for this weapon, so I guess you can have it. But there is one thing I want you to remember.
+7952 : This gun is a fearsome weapon that unleashes a blast upon your enemies many thousands of times greater in strength than the tiny effort it takes you to pull the trigger. Needless to say, be careful who you aim it at...
+7953 : ...
+7954 : A weapon has no will of its own. But it was made for a purpose.
+7955 : Take me to a new battlefield, a new arena for the hunt...
+7956 : ... I am saved.
+7957 : Silenced for too long in the prison of Dynamis, I can once again let my brazen call echo through this land!
+7958 : A few more moments, if you please...
+7959 : Hello there. I am Terounalivet, a military musician of the Hydra Corps.
+7960 : You've never heard of me? Before joining the army I was quite the famous bard, mobbed by fans in every town I passed through.
+7961 : To be completely truthful, I am heartbroken to be giving up the %, the most famous of instruments, even to a fellow bard.
+7962 : But an instrument only shows its true worth when being played. This horn should be delighted to be passed on to such a talent as yourself.
+7963 : She has a capricious soul, but do treat her well. And do not forget that even without a raging battle, you can still play a tune for the simple enjoyment of those around you...
+7964 : ...
+7965 : He was a wonderful performer.
+7966 : Let us be on our way. Our tour of the world has only just begun...
+7967 : Are you ready for a spine-chilling, stomach-churning test of your mettle, kupo!?
+7968 : We've set up a secret marker somewhere in the bowels of a dreadful dungeon. Your goal is to reach that marker alive, kupo!
+7969 : Oh, a new adventurer! Best of luck, kupo!
+7970 : Are you helping out the new adventurers? Best of luck in your endeavors, kupo!
+7971 : You're not wearing your yukata! Put it on and show me how it looks, kupo!
+7972 : Here's your reward for reaching the goal, kupo!
+7973 : Wear the yukata the next time you come to see me! I can't wait to see how you look, kupo!
+7974 : Partner up with lots of different adventurers and bring back all kinds of trophies to prove your courage! When you've brought enough, I'll give you something really special, kupo!
+7975 : The face in the portrait you brought me is just... Kupupupu!
+7976 : Incredible, kupo! You must have nerves of darksteel! Here, you've earned this, kupo!
+7977 : You took another dive into the dreaded dungeon, kupo? Well, you deserve a little something for your preternatural perseverance, kupo.
+7978 : You haven't earned my really special present yet! Only truly dauntless dungeon-delvers get that, kupo!
+7979 : This isn't enough to prove you reached the goal as a dungeon-delving duo. You have to bring me the item your partner received to show that you were both successful, kupo!
+7980 : To go on this fright-filled face-off with fear, you need a partner who can prove you reached the goal. Come back when you have a buddy in bravery, kupo!
+7981 : This adventure into adversity is only available to two-person parties. Split up into pairs and talk to me again, kupo!
+7982 : Please come back with a different partner. It'll be no fun to scare you if your reactions are too similar, kupo!
+7983 : Your partner isn't ready to go. Please wait a little longer, kupo.
+7984 : Your partner must talk to me as well. I'll be waiting for you whenever you're ready, kupo.
+7985 : You can only choose one partner a day. Come back again tomorrow, kupo!
+7986 : Hold up there! It looks like your candidate for courageous companionship has already got a partner! You can't choose that person at the moment, kupo!
+7987 : Please wait a little longer or find a new partner before coming back, kupo.
+7988 : Are you ready to test your courage, kupo?
+7989 : Are you ready to go? Ready, kupo! I'm too terrified, kupo!
+7990 : I'll be checking to see if you reached the goal. You can use this magical scroll to make a speedy return to town, kupo.
+7991 : If you both succeed, I'll have a prize waiting for you! Now, off you go, kupo!
+7992 : You can only carry one %.
+7993 : Are you participating in this petrifying pilgrimage with the person in your present party?
+7994 : Hey, you changed partners! You can't switch halfway through, kupo!
+7995 : Wait, the number of people in your party has changed! You have to be in a two-person party, kupo!
+7996 : Choose your partner wisely. Come back when you think you have a winning combo, kupo!
+7997 : Boo-hah-hah...kupo!
+7998 : Huh? Why aren't you jumping out of your skin in absolute terror? I would've died of fright, kupo!
+7999 : Here, take this as a testament to your courage. Exchange it for the item your partner received so you can prove that you both reached the goal safely, kupo!
+8000 : Return with the evidence of your success to the moogle in town. Handing over your partner's item will prove that you were both able to reach me, kupo!
+8001 : Oh, and here's a picture of how your partner's face looked when I popped out of nowhere to scare you. You should hand this in at the same time, kupo! Kupupupu...
+8002 : This place is crawling with nasties. You should probably head back to town so you can testify to your partner's bravery.
+8003 : Why do ghosts say boo, anyway?
+8004 : I heard that going to a dark, scary dungeon is the best way to test your courage. This place definitely qualifies, kupo!
+8005 : Maybe I'm doing something wrong, kupo?
+8006 : If it gets out that I haven't scared the wits out of a single person yet, I'm going to get into trouble, kupo...
+8007 : Unable to enter next area. Expansion pack not installed.
+8008 : Kyah! Kyah! Heretics being in our midst! Kill them!
+8009 : Kyah? You being the underling of Zeelozok?
+8010 : Ka-kyah! Why would Moblins be keeping smoothskins as pets, hoot!?
+8011 : Ka-kyah!? You being Zeelozok's messenger, here to deliver % for Ruu Cogo the Larktongue?
+8012 : Ka-kyah! Ruu Cogo the Larktongue being done here! Ruu Cogo the Larktongue being no more!
+8013 : Ka-kyah! Smoothskin being done here, also! Smoothskin be dying soon, too!
+8014 : Hoot! But I be tiring of war and blood!
+8015 : This time I be letting you go. Be flying home, smoothskin! Ka-kyah!
+8016 : %! %! Are you okay? Open your eyes!
+8017 : %! %! Don't give up on me! Open your eyes!
+8018 : %! Are you hurt? Look at me!
+8019 : %! %! Are you injured? Open your eyes!
+8020 : %! %! Are you okay!? Open you eyes!
+8021 : %! %! Are you okay!? Come on, open your eyes!
+8022 : %! %! Are you okay? Open your eyes!
+8023 : %! %! Are you hurt!? Open your eyes!
+8024 : %! %! Are you hurt? Look at me!
+8025 : %! %! Oh no, are you okay? Open your eyes for me!
+8026 : %! %! Are you injured? Open your eyes!
+8027 : %! %! Are you hurt? Talk to me!
+8028 : Phew, you seem okay.
+8029 : Don't worry me like that!
+8030 : You seem fine. Good.
+8031 : You appear unhurt. Excellent.
+8032 : You had me worried, %. I'm glad you're okay.
+8033 : %! How are you feeling? It's good to have you back.
+8034 : You seem okay. Whew!
+8035 : Oh, you're okay! Super! Fantastic!
+8036 : You seem to be okay. Good.
+8037 : You're okay! Yaaay!
+8038 : You appear unhurt. Excellent.
+8039 : You're okay... Don't make me worry like that again.
+8040 : When the monster attacked you, I heard your voice through the signal pearl and came running to help.
+8041 : I heard you getting attacked by a monster through the signal pearl and got here as fast as I could!
+8042 : I heard you through the signal pearl. You seemed to be in trouble, so I came to help.
+8043 : I heard you through the signal pearl, and you seemed to be in need of aid.
+8044 : I heard your voice through the signal pearl. That's how I knew you were in trouble.
+8045 : When the monster attacked you, I heard your voice through the signal pearl and came here as fast as I could.
+8046 : I came to help as soon as I heard through the signal pearl that you were in trouble.
+8047 : I heard you getting attacked through the signal pearl! So I had to run over here to make sure you're okay!
+8048 : I heard you through the signal pearl and sensed danger. That is why I am here now.
+8049 : I heard through the signal pearl that you were getting attacked, and I was sooo worried!
+8050 : I heard you through the signal pearl, and you seemed to be in need of aid.
+8051 : Your voice carried through signal pearl when the monster attacked. That's how I knew to come.
+8052 : I'm glad you're okay.
+8053 : Whew, glad you aren't hurt!
+8054 : Anyway, it's good that you're not hurt.
+8055 : I am glad you are unscathed.
+8056 : I'm glad you're not hurt.
+8057 : I'm so relieved you're okay!
+8058 : I'm so glad you're okay.
+8059 : I'm sooo glad you're not hurt!
+8060 : In any case, I am glad that you are well.
+8061 : I'm so happy that you're okay!
+8062 : I am glad you are unscathed.
+8063 : I'm glad you're safe.
+8064 : Anyway, should we look for the %? It must be here somewhere...
+8065 : You came to look for the %, right? It has got to be here somewhere!
+8066 : You came here to search for the %, didn't you? It should be here, somewhere.
+8067 : I assume you came to search for the %. It should be in the vicinity.
+8068 : You came here to search for the  %, didn't you? It should be somewhere nearby.
+8069 : Now, the reason you came here, was to find the %, right? It has to be around here somewhere.
+8070 : So you came looking for the %, right? It must be here somewhere...
+8071 : Hey, you came to look for the %, right? I'm sure it's around here somewhere!
+8072 : You were looking for the %, I see. Perhaps it is somewhere around here.
+8073 : Hey, aren't you looking for the %? I bet we can find it around here somewhere!
+8074 : I assume you came to search for the %. It should be in the vicinity.
+8075 : I gather you came here to search for the %. It cannot be far away.
+8076 : H-how did you get here...?
+8077 : Wh-where did you come from...!?
+8078 : %... Why...?
+8079 : How did you get here?
+8080 : H-how did you find me...?
+8081 : How did you get here...?
+8082 : H-how did you get here...?
+8083 : Wh-wh-why are you here...!?
+8084 : %... How...?
+8085 : It's...%...!
+8086 : How did you get here?
+8087 : Wh...Why are you here...?
+8088 : You heard me through the signal pearl? So...you're here to save me...
+8089 : You could hear my shouts through the signal pearl and came to help?
+8090 : You heard me through the signal pearl? So, you're here to help.
+8091 : So...you heard me through the signal pearl and came to help.
+8092 : You heard me through the signal pearl and came to my rescue?
+8093 : You heard my voice through the signal pearl...and came to help?
+8094 : You heard me through the signal pearl and...came to save me?
+8095 : You could hear me through the signal pearl? You came to save me!?
+8096 : You heard me through the signal pearl and came to my aid?
+8097 : You heard me through the signal pearl? ...You came to save me!
+8098 : So...you heard me through the signal pearl and came to help.
+8099 : So you heard me through the signal pearl...
+8100 : Thanks. I feel stronger with you around.
+8101 : Thanks for coming. There's nothing we can't do when we are together!
+8102 : Thanks...for your help.
+8103 : Thank you. Your presence gives me strength.
+8104 : Thanks for saving me, %.
+8105 : I've never been saved like that before. It's kinda embarrassing, heheh. I owe you, %.
+8106 : Thank you so much. Around you, I feel like I can do anything.
+8107 : Thanks! We are the perfect team! Yeah!
+8108 : You have my thanks. Your presence is heartening.
+8109 : You're so nice! I feel so strong around you!
+8110 : Thank you. Your presence gives me strength.
+8111 : I was complacent. Th...thank you.
+8112 : Oh yeah! I have to get the %. Can you come with me, %?
+8113 : Oh yeah! I still have to get the %. Let's go, %!
+8114 : Ah, the %. We should search for it together.
+8115 : I have yet to get the %. Shall we journey together, %?
+8116 : I came out here to get the %. Let's look for it together, %.
+8117 : I'm here for the %. Seeing how you're already here, how about we look for it together?
+8118 : Oh yeah! I still need to get the %. Will you come with me, %?
+8119 : Oh yeah, I almost forgot! I need to get the %! Come with me, %, please!
+8120 : I still do not have the %. I would appreciate your company.
+8121 : Oh yeah! I still have to get the %! I need you with me for this, %!
+8122 : I have yet to get the %. Shall we journey together, %?
+8123 : I haven't obtained the % I came for, yet. Search with me, %.
+8124 : Pass through the door? Yes. No.
 8125 : This is the %...
-8126 : This is the %...
-8127 : So this is the %...
+8126 : Here it is, the %...
+8127 : The %...
 8128 : This is the %...
-8129 : This is it! The %!
-8130 : The %...
-8131 : Ohhh! The %!
-8132 : This is the %...
+8129 : This is the %...
+8130 : So this is the %...
+8131 : This is the %...
+8132 : This is it! The %!
 8133 : The %...
-8134 : Oh yeah, I hate to say it, but...Diederik found the original painting after all.
-8135 : Oh yeah, I have bad news to tell you! Diederik found the original painting!
-8136 : By the way, I have bad news. Diederik found the original painting.
-8137 : Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
-8138 : By the way, I have some bad news. Diederik...he found the original painting.
-8139 : I have to tell you something. It's a bit of a bummer for us, but Diederik found the original painting.
-8140 : Oh yeah. I hate to say this, but Diederik found the original painting.
-8141 : Ohhh yeah, I hate to tell you this, but, um...Diederik found the original painting!
-8142 : Unfortunately, I must let you know that Diederik has found the original painting.
-8143 : Oh yeah! I have really bad news! Diederik found the original painting!
-8144 : Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
-8145 : There's something you should know. Diederik was able to locate the original painting.
-8146 : I wonder if Angelica has already started on the new painting.
-8147 : Angelica might have already started on the new painting, though!
-8148 : Angelica might have already started on the new painting.
-8149 : However, Angelica may have already begun work on the new painting.
-8150 : I wonder if Angelica has already started painting the new portrait.
-8151 : Angelica may have already begun work on the new painting. Talk about bad timing...
-8152 : Angelica might have already started on the new painting, though.
-8153 : Maybe Angelica is already working on that new painting, though!
-8154 : However, Angelica may already be working on the new painting.
-8155 : Maybe poor Angie's already started working on the new painting, though!
-8156 : However, Angelica may have already begun work on the new painting.
-8157 : It's likely Angelica has already begun work on the new painting. That would be unfortunately timing.
-8158 : She must be waiting for us. I'll go with you so we can apologize to her. Let's go, %!
-8159 : Well, she's waiting! Let's go apologize to her, %!
-8160 : She is waiting for us. Let's go apologize.
-8161 : I am sure she awaits us. Let us go apologize to her, %.
-8162 : We better apologize to her, as soon as possible. Let's go, %!
-8163 : Either way, we shouldn't keep her waiting. Let's go apologize, %.
-8164 : I'll go with you to apologize to her. She must be waiting for us. Let's go, %!
-8165 : I bet she's waiting for us! Let's go apologize to her, %!
-8166 : We should go apologize to Angelica. Let's go, %.
-8167 : She's probably waiting for us! Come on, let's go tell Angelica we're sorry!
-8168 : I am sure she awaits us. Let us go apologize to her, %.
-8169 : I suggest we both go and apologize to her. Let's hurry, now.
-8170 : What's with the down face?
-8171 : What's with that look!?
-8172 : Is something wrong?
-8173 : Is something the matter? You look like you have something to say.
-8174 : What's wrong, %? Is there something on your mind?
-8175 : Is there something wrong, %? You can tell me, you know.
-8176 : What's wrong? Do you have something you want to tell me?
-8177 : What's wrong? Is something stuck to my face, or what?
-8178 : Something seems to be bothering you. What is the matter?
-8179 : What's wrong? You keep scrunching your face up!
-8180 : Is something the matter? You look like you have something to say.
-8181 : What is it you're biting your tongue about, %? Go on, tell me.
-8182 : What!? Diederik found the original painting?
-8183 : Diederik found the original painting!?
-8184 : Diederik found the original painting, you say!?
-8185 : Diederik found the original painting, you say?
-8186 : Really!? Diederik found the original painting?
-8187 : No joke? Diederik located the original painting?
-8188 : What!? Diederik found the original painting?
-8189 : What!? Diederik found the original painting!?
-8190 : Diederik found the original painting, you say?
-8191 : Wha...!? Diederik found the original painting!?
-8192 : Diederik found the original painting, you say?
-8193 : What? You say Diederik found the original painting?
-8194 : We don't need Angelica to make another painting, then.
-8195 : You mean all our work was for nothing!?
-8196 : Well, that cancels the need for a redo, doesn't it?
-8197 : Well then, we won't be needing a redo.
-8198 : Then we don't need to have a new one painted anymore.
-8199 : If that's the case, there's no point getting a new one made up.
-8200 : Then we don't need Angelica to make a new one.
-8201 : Then we won't need Angelica to redo the painting after all!
-8202 : Well then, we won't be needing a redo, will we?
-8203 : But then, that means that we don't need Angelica to make a new painting!
-8204 : Well then, we won't be needing a redo.
-8205 : Then we have no longer have a reason to have a new portrait painted.
-8206 : I'll have to apologize to her. Can you come with me, %?
-8207 : Well, since we don't need the painting anymore, I have to apologize to Angelica! %, I want you to come with me!
-8208 : We should go apologize to Angelica.
-8209 : We must apologize to Angelica. Will you accompany me, %?
-8210 : I have to go apologize and explain things to Angelica. Can you come with me, %?
-8211 : I'm going to go and apologize and explain the situation to Angelica. %, I'd appreciate it if you could come along, too.
-8212 : We should go apologize to her. Will you come with me, %?
-8213 : We should go apologize!
-8214 : Will you come with me to apologize to Angelica, %?
-8215 : We should go tell her we're sorry! Let's go together, %!
-8216 : We must apologize to Angelica. Will you accompany me, %?
-8217 : I will go offer my apologies and explain these developments to Angelica. %, come with me.
-8218 : Exit through the door? Yes. No.
-8219 : Finally, it's over... So that was what attacked you...
-8220 : It's about time! That monster got what it deserved for attacking you!
-8221 : Well, that's the end of your attacker.
-8222 : We defeated the monster. Its days of attacking adventurers are no more.
-8223 : I'm glad it's all over. So that's the monster that attacked you...
-8224 : Phew, we managed to defeat it. This monster won't bother you ever again.
-8225 : Finally...we did it. So...that was what attacked you.
-8226 : We did it! The monster that attacked you is history!
-8227 : So much for your attacker. It won't be bothering you again.
-8228 : Hey, we defeated the monster! So that was what attacked you!
-8229 : We defeated the monster. Its days of attacking adventurers are no more.
-8230 : The deed is done. So this is the creature that attacked you...
-8231 : Finally, it's over... That was the monster that attacked me.
-8232 : Alright! That monster got what it deserved for attacking me!
-8233 : I suppose that's the end of my attacker.
-8234 : So, we defeated the monster. Its days of attacking adventurers are no more.
-8235 : Boy, I'm glad that's over. This is the thing that attacked me!
-8236 : Phew, we managed to defeat it. What goes around, comes around!
-8237 : Finally...we did it. That was the monster that attacked me.
-8238 : We did it! The monster that attacked me is history!
-8239 : So much for the monster. It won't be bothering adventurers again.
-8240 : Oh, we defeated the monster! That was the one that attacked me!
-8241 : So, we defeated the monster. Its days of attacking adventurers are no more.
-8242 : The deed is done. Vana'diel has one less monster to contend with.
-8243 : Let's search for the %.
-8244 : Let's go search for the %!
-8245 : We should search for the %.
-8246 : Let us search for the %.
-8247 : Let's search for the %.
-8248 : Let's get on with searching for the %.
-8249 : Let's search for the %.
-8250 : Let's search for the %!
-8251 : We should search for the % now.
-8252 : Oh yeah! Let's search for the % now!
-8253 : Let us search for the %.
-8254 : Let us search for the %.
-8255 : You can't open the door right now.
-8256 : The cyclopean crystal is emitting a radiant glow.
-8257 : You successfully hew # [shard/shards] from the crystal!
-8258 : The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
-8259 : The crystal is glowing brighter than before...
-8260 : Where will you go? (Kinetic Units: #) Nowhere, thanks. I'd rather read an explanation. Ru'Lude Gardens. (# unit[/s]) Selbina. (# unit[/s]) Mhaura. (# unit[/s]) Rabao. (# unit[/s]) Norg. (# unit[/s]) West Ronfaure. (# unit[/s]) North Gustaberg. (# unit[/s]) West Sarutabaruta. (# unit[/s]) La Theine Plateau. (# unit[/s]) Konschtat Highlands. (# unit[/s]) Tahrongi Canyon. (# unit[/s]) Jugner Forest. (# unit[/s]) Pashhow Marshlands. (# unit[/s]) Meriphataud Mountains. (# unit[/s]) Attohwa Chasm. (# unit[/s]) Uleguerand Range. (# unit[/s]) Davoi. (# unit[/s]) Beadeaux. (# unit[/s]) Castle Oztroja. (# unit[/s]) Quicksand Caves. (# unit[/s]) Sea Serpent Grotto. (# unit[/s]) Temple of Uggalepih. (# unit[/s]) The Boyahda Tree. (# unit[/s]) Oldton Movalpolos. (# unit[/s]) Riverne - Site #B01. (# unit[/s]) Castle Zvahl Keep. (# unit[/s]) Decline destination confirmation. Accept destination confirmation.
-8261 : Record this fount? Yes. No.
-8262 : A palpable force wells up slowly from beneath the surface...
-8263 : This geomagnetic fount has already been recorded.
-8264 : You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
-8265 : Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the % has restored them to normal!
-8266 : Your % has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
-8267 : Your % has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
-8268 : Your % has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
-8269 : ou may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
-8270 : ou may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
-8271 : ou may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
-8272 : The going was rather tough, but we did pull it off!
-8273 : The very definition of teamwork.
-8274 : Phew, any closer and I'd be pulling-wulling Yagudo beaks outta my behind!
-8275 : And you still might if you don't keep your guard up. Currriosity may have killed the cat, but it's abstraction that annihilates adventurers.
-8276 : You have to admit, though, it's hard to occupy your mind with anything else when this treasure-weasure is staring you right in the face!
-8277 : Is that... Yes, it's %!
-8278 : <Gasp>!
-8279 : Alright, I want this prrrocess to be as fair as the fur on my flank. Anyone who wants in, cast your lot!
-8280 : I sincerely hope you are blessed with the highest bid, Nantoto.
-8281 : Fhelm Jobeizat cheers Nantoto on!
-8282 : lbrik-Mulbrok's lot for the %: # points.
-8283 : olandienne's lot for the %: # points.
-8284 : uberasson's lot for the %: # points.
-8285 : hundering Chariot's lot for the %: # points.
-8286 : And thus our hero appears on the scene, undoubtedly with a heroic wager in tow!
-8287 : sakoth's lot for the %: # points.
-8288 : rvok's lot for the %: # points.
-8289 : erva Libarello's lot for the %: # points.
-8290 : helm Jobeizat's lot for the %: # points.
-8291 : antoto's lot for the %: # points.
-8292 : uberasson obtains %.
-8293 : How serendipitous! After countless months of inquest, I am finally united with the % of my dreams!
-8294 : Congratulations. You deserve it.
-8295 : You must be so happy, Duberasson.
-8296 : Fhelm Jobeizat comforts Nantoto.
-8297 : Ack, we've been ambush-wambushed!
-8298 : I thought I told you not to disrrregard your duties!
-8299 : % learns %!
-8301 : You are assaulted by an uncanny sensation.
-8302 : The arcane energies begin to course within your veins.
-8303 : You feel a mystical warmth welling up inside you!
-8304 : The heat seems to have drained from your %.
-8305 : Something's not quite right. Head to %, where Arciela awaits you.
-8306 : A strange force fills your soul.
-8307 : You begin to glow with an inner warmth!
-8308 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-8309 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-8310 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
-8311 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-8312 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
-8313 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-8314 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-8315 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
-8316 : It will cost # gil to teleport to %. (# gil on hand)
-8317 : All mog tablets have currently been found, so you may teleport to % at no charge.
-8318 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
-8319 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
-8320 : You do not have enough tabs.
-8321 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
-8322 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
-8323 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
-8324 : Accept the reward? Yes, please. No, thanks.
-8325 : You may change the way you select areas listed in Teleportation Assistance.
-8326 : Any changes to make? Keep course. Select by region. Select by content.
-8327 : Area selection will now be made by [region/content].
-8328 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
-8329 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
-8330 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
-8331 : % has been [added to your list of favorites/removed from your list of favorites].
-8332 : Your list of favorites is full. You must remove an existing entry to add new ones.
-8333 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
+8134 : Ohhh! The %!
+8135 : This is the %...
+8136 : The %...
+8137 : Oh yeah, I hate to say it, but...Diederik found the original painting after all.
+8138 : Oh yeah, I have bad news to tell you! Diederik found the original painting!
+8139 : By the way, I have bad news. Diederik found the original painting.
+8140 : Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
+8141 : By the way, I have some bad news. Diederik...he found the original painting.
+8142 : I have to tell you something. It's a bit of a bummer for us, but Diederik found the original painting.
+8143 : Oh yeah. I hate to say this, but Diederik found the original painting.
+8144 : Ohhh yeah, I hate to tell you this, but, um...Diederik found the original painting!
+8145 : Unfortunately, I must let you know that Diederik has found the original painting.
+8146 : Oh yeah! I have really bad news! Diederik found the original painting!
+8147 : Unfortunately, I must bear ill news. It appears that Diederik found the original painting.
+8148 : There's something you should know. Diederik was able to locate the original painting.
+8149 : I wonder if Angelica has already started on the new painting.
+8150 : Angelica might have already started on the new painting, though!
+8151 : Angelica might have already started on the new painting.
+8152 : However, Angelica may have already begun work on the new painting.
+8153 : I wonder if Angelica has already started painting the new portrait.
+8154 : Angelica may have already begun work on the new painting. Talk about bad timing...
+8155 : Angelica might have already started on the new painting, though.
+8156 : Maybe Angelica is already working on that new painting, though!
+8157 : However, Angelica may already be working on the new painting.
+8158 : Maybe poor Angie's already started working on the new painting, though!
+8159 : However, Angelica may have already begun work on the new painting.
+8160 : It's likely Angelica has already begun work on the new painting. That would be unfortunately timing.
+8161 : She must be waiting for us. I'll go with you so we can apologize to her. Let's go, %!
+8162 : Well, she's waiting! Let's go apologize to her, %!
+8163 : She is waiting for us. Let's go apologize.
+8164 : I am sure she awaits us. Let us go apologize to her, %.
+8165 : We better apologize to her, as soon as possible. Let's go, %!
+8166 : Either way, we shouldn't keep her waiting. Let's go apologize, %.
+8167 : I'll go with you to apologize to her. She must be waiting for us. Let's go, %!
+8168 : I bet she's waiting for us! Let's go apologize to her, %!
+8169 : We should go apologize to Angelica. Let's go, %.
+8170 : She's probably waiting for us! Come on, let's go tell Angelica we're sorry!
+8171 : I am sure she awaits us. Let us go apologize to her, %.
+8172 : I suggest we both go and apologize to her. Let's hurry, now.
+8173 : What's with the down face?
+8174 : What's with that look!?
+8175 : Is something wrong?
+8176 : Is something the matter? You look like you have something to say.
+8177 : What's wrong, %? Is there something on your mind?
+8178 : Is there something wrong, %? You can tell me, you know.
+8179 : What's wrong? Do you have something you want to tell me?
+8180 : What's wrong? Is something stuck to my face, or what?
+8181 : Something seems to be bothering you. What is the matter?
+8182 : What's wrong? You keep scrunching your face up!
+8183 : Is something the matter? You look like you have something to say.
+8184 : What is it you're biting your tongue about, %? Go on, tell me.
+8185 : What!? Diederik found the original painting?
+8186 : Diederik found the original painting!?
+8187 : Diederik found the original painting, you say!?
+8188 : Diederik found the original painting, you say?
+8189 : Really!? Diederik found the original painting?
+8190 : No joke? Diederik located the original painting?
+8191 : What!? Diederik found the original painting?
+8192 : What!? Diederik found the original painting!?
+8193 : Diederik found the original painting, you say?
+8194 : Wha...!? Diederik found the original painting!?
+8195 : Diederik found the original painting, you say?
+8196 : What? You say Diederik found the original painting?
+8197 : We don't need Angelica to make another painting, then.
+8198 : You mean all our work was for nothing!?
+8199 : Well, that cancels the need for a redo, doesn't it?
+8200 : Well then, we won't be needing a redo.
+8201 : Then we don't need to have a new one painted anymore.
+8202 : If that's the case, there's no point getting a new one made up.
+8203 : Then we don't need Angelica to make a new one.
+8204 : Then we won't need Angelica to redo the painting after all!
+8205 : Well then, we won't be needing a redo, will we?
+8206 : But then, that means that we don't need Angelica to make a new painting!
+8207 : Well then, we won't be needing a redo.
+8208 : Then we have no longer have a reason to have a new portrait painted.
+8209 : I'll have to apologize to her. Can you come with me, %?
+8210 : Well, since we don't need the painting anymore, I have to apologize to Angelica! %, I want you to come with me!
+8211 : We should go apologize to Angelica.
+8212 : We must apologize to Angelica. Will you accompany me, %?
+8213 : I have to go apologize and explain things to Angelica. Can you come with me, %?
+8214 : I'm going to go and apologize and explain the situation to Angelica. %, I'd appreciate it if you could come along, too.
+8215 : We should go apologize to her. Will you come with me, %?
+8216 : We should go apologize!
+8217 : Will you come with me to apologize to Angelica, %?
+8218 : We should go tell her we're sorry! Let's go together, %!
+8219 : We must apologize to Angelica. Will you accompany me, %?
+8220 : I will go offer my apologies and explain these developments to Angelica. %, come with me.
+8221 : Exit through the door? Yes. No.
+8222 : Finally, it's over... So that was what attacked you...
+8223 : It's about time! That monster got what it deserved for attacking you!
+8224 : Well, that's the end of your attacker.
+8225 : We defeated the monster. Its days of attacking adventurers are no more.
+8226 : I'm glad it's all over. So that's the monster that attacked you...
+8227 : Phew, we managed to defeat it. This monster won't bother you ever again.
+8228 : Finally...we did it. So...that was what attacked you.
+8229 : We did it! The monster that attacked you is history!
+8230 : So much for your attacker. It won't be bothering you again.
+8231 : Hey, we defeated the monster! So that was what attacked you!
+8232 : We defeated the monster. Its days of attacking adventurers are no more.
+8233 : The deed is done. So this is the creature that attacked you...
+8234 : Finally, it's over... That was the monster that attacked me.
+8235 : Alright! That monster got what it deserved for attacking me!
+8236 : I suppose that's the end of my attacker.
+8237 : So, we defeated the monster. Its days of attacking adventurers are no more.
+8238 : Boy, I'm glad that's over. This is the thing that attacked me!
+8239 : Phew, we managed to defeat it. What goes around, comes around!
+8240 : Finally...we did it. That was the monster that attacked me.
+8241 : We did it! The monster that attacked me is history!
+8242 : So much for the monster. It won't be bothering adventurers again.
+8243 : Oh, we defeated the monster! That was the one that attacked me!
+8244 : So, we defeated the monster. Its days of attacking adventurers are no more.
+8245 : The deed is done. Vana'diel has one less monster to contend with.
+8246 : Let's search for the %.
+8247 : Let's go search for the %!
+8248 : We should search for the %.
+8249 : Let us search for the %.
+8250 : Let's search for the %.
+8251 : Let's get on with searching for the %.
+8252 : Let's search for the %.
+8253 : Let's search for the %!
+8254 : We should search for the % now.
+8255 : Oh yeah! Let's search for the % now!
+8256 : Let us search for the %.
+8257 : Let us search for the %.
+8258 : You can't open the door right now.
+8259 : The cyclopean crystal is emitting a radiant glow.
+8260 : You successfully hew # [shard/shards] from the crystal!
+8261 : The crystal is badly damaged. Any more attempts at shard retrieval may shatter it.
+8262 : The crystal is glowing brighter than before...
+8263 : Where will you go? (Kinetic Units: #) Nowhere, thanks. I'd rather read an explanation. Ru'Lude Gardens. (# unit[/s]) Selbina. (# unit[/s]) Mhaura. (# unit[/s]) Rabao. (# unit[/s]) Norg. (# unit[/s]) West Ronfaure. (# unit[/s]) North Gustaberg. (# unit[/s]) West Sarutabaruta. (# unit[/s]) La Theine Plateau. (# unit[/s]) Konschtat Highlands. (# unit[/s]) Tahrongi Canyon. (# unit[/s]) Jugner Forest. (# unit[/s]) Pashhow Marshlands. (# unit[/s]) Meriphataud Mountains. (# unit[/s]) Attohwa Chasm. (# unit[/s]) Uleguerand Range. (# unit[/s]) Davoi. (# unit[/s]) Beadeaux. (# unit[/s]) Castle Oztroja. (# unit[/s]) Quicksand Caves. (# unit[/s]) Sea Serpent Grotto. (# unit[/s]) Temple of Uggalepih. (# unit[/s]) The Boyahda Tree. (# unit[/s]) Oldton Movalpolos. (# unit[/s]) Riverne - Site #B01. (# unit[/s]) Castle Zvahl Keep. (# unit[/s]) Decline destination confirmation. Accept destination confirmation.
+8264 : Record this fount? Yes. No.
+8265 : A palpable force wells up slowly from beneath the surface...
+8266 : This geomagnetic fount has already been recorded.
+8267 : You have successfully recorded the phenomenon. Now it is time to report your findings to Anastase.
+8268 : Your records surrounding the current geomagnetic phenomenon had been fading, but your use of the % has restored them to normal!
+8269 : Your % has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+8270 : Your % has been attuned to a geomagnetic fount[ in West Ronfaure/ in North Gustaberg/ in West Sarutabaruta/ in La Theine Plateau/ in the Konschtat Highlands/ in Tahrongi Canyon/ in Jugner Forest/ in the Pashhow Marshlands/ in the Meriphataud Mountains/ in Attohwa Chasm/ in Uleguerand Range]!
+8271 : Your % has been attuned to a geomagnetic fount[ in Davoi/ in Beadeaux/ in Castle Oztroja/ in the Quicksand Caves/ in Sea Serpent Grotto/ in the Temple of Uggalepih/ in the Boyahda Tree/ in Oldton Movalpolos/ in Riverne - Site #B01/ in Castle Zvahl Keep]!
+8272 : ou may now travel to [Selbina/Mhaura/Rabao/Norg] via waypoints!
+8273 : ou may now travel to [West Ronfaure/North Gustaberg/West Sarutabaruta/La Theine Plateau/the Konschtat Highlands/Tahrongi Canyon/Jugner Forest/the Pashhow Marshlands/the Meriphataud Mountains/Attohwa Chasm/Uleguerand Range] via waypoints!
+8274 : ou may now travel to [Davoi/Beadeaux/Castle Oztroja/the Quicksand Caves/Sea Serpent Grotto/the Temple of Uggalepih/the Boyahda Tree/Oldton Movalpolos/Riverne - Site #B01/Castle Zvahl Keep] via waypoints!
+8275 : The going was rather tough, but we did pull it off!
+8276 : The very definition of teamwork.
+8277 : Phew, any closer and I'd be pulling-wulling Yagudo beaks outta my behind!
+8278 : And you still might if you don't keep your guard up. Currriosity may have killed the cat, but it's abstraction that annihilates adventurers.
+8279 : You have to admit, though, it's hard to occupy your mind with anything else when this treasure-weasure is staring you right in the face!
+8280 : Is that... Yes, it's %!
+8281 : <Gasp>!
+8282 : Alright, I want this prrrocess to be as fair as the fur on my flank. Anyone who wants in, cast your lot!
+8283 : I sincerely hope you are blessed with the highest bid, Nantoto.
+8284 : Fhelm Jobeizat cheers Nantoto on!
+8285 : lbrik-Mulbrok's lot for the %: # points.
+8286 : olandienne's lot for the %: # points.
+8287 : uberasson's lot for the %: # points.
+8288 : hundering Chariot's lot for the %: # points.
+8289 : And thus our hero appears on the scene, undoubtedly with a heroic wager in tow!
+8290 : sakoth's lot for the %: # points.
+8291 : rvok's lot for the %: # points.
+8292 : erva Libarello's lot for the %: # points.
+8293 : helm Jobeizat's lot for the %: # points.
+8294 : antoto's lot for the %: # points.
+8295 : uberasson obtains %.
+8296 : How serendipitous! After countless months of inquest, I am finally united with the % of my dreams!
+8297 : Congratulations. You deserve it.
+8298 : You must be so happy, Duberasson.
+8299 : Fhelm Jobeizat comforts Nantoto.
+8300 : Ack, we've been ambush-wambushed!
+8301 : I thought I told you not to disrrregard your duties!
+8302 : % learns %!
+8304 : You are assaulted by an uncanny sensation.
+8305 : The arcane energies begin to course within your veins.
+8306 : You feel a mystical warmth welling up inside you!
+8307 : The heat seems to have drained from your %.
+8308 : Something's not quite right. Head to %, where Arciela awaits you.
+8309 : A strange force fills your soul.
+8310 : You begin to glow with an inner warmth!
+8311 : It appears that you have arrived at a new survival guide provided by the Adventurers' Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+8312 : Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+8313 : It appears that you have arrived at a new survival guide provided by the Servicemen's Mutual Aid Network. Common sense dictates that you should now be able to teleport here from similar tomes throughout the world.
+8314 : Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+8315 : What chapter will you read? None. Teleportation Assistance. Field Support. Other mysteries.
+8316 : The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+8317 : No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+8318 : Where will you travel? Nowhere. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. %. Previous page. Next page.
+8319 : It will cost # gil to teleport to %. (# gil on hand)
+8320 : All mog tablets have currently been found, so you may teleport to % at no charge.
+8321 : Travel to %? [Add to favorites/Delete from favorites]. Up and away! I'm down and out.
+8322 : ## Travel to %? [Add to favorites/Delete from favorites]. Travel using # gil. (# gil) Travel using # tab[/s]. (# total) Not just yet.
+8323 : You do not have enough tabs.
+8324 : The records indicate you have fought valiantly for Vana'diel for # hour[/s].
+8325 : At the bottom of the page is a reminder. It perfunctorily states that you may receive % once you have logged a total of # hours.
+8326 : As per the custom noted within, you are eligible to receive % for the # hour[/s] of fighting you've accrued.
+8327 : Accept the reward? Yes, please. No, thanks.
+8328 : You may change the way you select areas listed in Teleportation Assistance.
+8329 : Any changes to make? Keep course. Select by region. Select by content.
+8330 : Area selection will now be made by [region/content].
+8331 : Nowhere for now. Select from amongst favorites. Original release areas. Rise of the Zilart areas. Chains of Promathia areas. Treasures of Aht Urhgan areas. Wings of the Goddess areas. . . . . . . Seekers of Adoulin areas.
+8332 : Travel to which region? On second thought, none. Select from amongst favorites. [San d'Oria/Movalpolos]. [Bastok/Tavnazian Arch]. [Windurst/Lumoria]. [Jeuno/Mamool Ja Savage]. [Tavnazia/Halvung]. [West. Aht Urhgan/Arrapago Is]. [Adoulin Isles/Ruins of Alzadaal]. [Ronfaure/Ronfaure Front]. [Zulkheim/Norvallen Front]. [Norvallen/Gustaberg Front]. [Gustaberg/Derfland Front]. [Derfland/Sarutabaruta Front]. [Sarutabaruta/Aragoneu Front]. [Kolshushu/Fauregandi Front]. [Aragoneu/Valdeaunia Front]. [Fauregandi/East. Ulbuka]. [Valdeaunia/Ra'Kaznar]. [Qufim/]. [Li'Telor/]. [Kuzotz/]. [Vollbow/]. [Elshimo Low/]. [Elshimo Up/]. [Tu'Lia/]. Previous page. Next page.
+8333 : Travel to where? Nowhere. %. %. %. %. %. %. %. %. %. [Add location to favorites/Remove location from favorites].
+8334 : % has been [added to your list of favorites/removed from your list of favorites].
+8335 : Your list of favorites is full. You must remove an existing entry to add new ones.
+8336 : Remove which entry? None of these. %. %. %. %. %. %. %. %. %.

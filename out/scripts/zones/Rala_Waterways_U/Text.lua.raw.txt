@@ -7048,436 +7048,439 @@
 7055 : You are unable to accept the compensatory %. Free up some space in your inventory and try again.
 7056 : Please claim your item before maintenance for the October 2022 version update begins.
 7057 : You receive # deeds for a total of #!
-7058 : You can't fish here.
-7059 : You can't fish without a rod in your hands.
-7060 : You can't fish without bait on the hook.
-7061 : You can't fish at the moment.
-7062 : You didn't catch anything.
-7063 : % caught a monster!
-7064 : Your line breaks.
-7065 : Your rod breaks.
-7066 : Something caught the hook!
-7067 : You lost your catch.
-7068 : % caught %, but cannot carry any more items. % regretfully releases the %.
-7069 : You feel there's something here.
-7070 : You feel there's something nearby.
-7071 : You dig up %, but your inventory is full. You regretfully throw the % away.
-7072 : % caught  %!
-7073 : You dig and you dig, but find nothing.
-7074 : #/%
-7075 : Your rod breaks. Whatever caught the hook was pretty big.
-7076 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
-7077 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
-7078 : You lost your catch due to your lack of skill.
-7079 : Number fished : # Original Dice No. ## Result # (0=caught)
-7080 : You didn't catch anything.
-7081 : The paper on your % ripped.
-7082 : A tiny goldfish approaches!
-7083 : A plump, black goldfish approaches!
-7084 : A fat, juicy goldfish approaches!
-7085 : There are no goldfish to be found...
-7086 : % caught %, but cannot carry any more items. % regretfully releases it.
-7087 : The goldfish slipped off your scoop...
-7088 : ch# skill up check.
-7089 : a:#.
-7090 : Time # / Status # / #
-7091 : d:#. e:#. f:#. g:#.
-7092 : h: #. i: #. sr: #.
-7093 : j:#. k:#.
-7094 : You give up and reel in your line.
-7095 : You give up.
-7096 : % obtains # gil.
-7097 : % caught %!
-7098 : You don't know how much longer you can keep this one on the line...
-7099 : You have a good feeling about this one!
-7100 : You have a bad feeling about this one.
-7101 : You have a terrible feeling about this one...
-7102 : You don't know if you have enough skill to reel this one in.
-7103 : You're fairly sure you don't have enough skill to reel this one in.
-7104 : You're positive you don't have enough skill to reel this one in!
-7105 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
-7106 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
-7107 : l: #. m: #. n: #. CH: #.
-7108 : Something caught the hook!!!
-7109 : You feel something pulling at your line.
-7110 : Something clamps onto your line ferociously!
-7111 : Your keen angler's senses tell you that this is the pull of %!
-7112 : This strength... You get the sense that you are on the verge of an epic catch!
-7113 : The timer has started. # seconds remaining.
-7114 : #sec.#/#sec.
-7115 : 0:# 1:# 2:# 3:#
-7116 : 4:# 5:# 6:# 7:#
-7117 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
-7118 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
-7119 : #/#(#
-7120 : Version invalid error!
-7121 : Hurry before the goldfish sees you!
-7122 : % fishes up a large box!
-7124 : Fish No# / Bait No# / Hit# >>> #
-7125 : Point# >>> #
-7126 : %(#) skill#
-7127 : Im Min : # Im Max : # Pz Min : # Pz Max : #
-7128 : Im Rnd : # Pz Rnd : #
-7129 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
-7130 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
-7131 : skill : # size : # kind : # sch : #
-7132 : time : # mes : # flag : # bonus : #
-7133 : item : # hp : # pow : # swing : #
-7134 : suc : # cons : # weight : # +- : #
-7135 : speed : # +- : # exc : # client : #
-7136 : general : #
-7137 : ro:# rs:# ps:# dt:#
-7138 : ra:# ti:#
-7139 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
-7140 : You get the distinct sense that your moogle friend frequents this spot...
-7141 : You have a feeling that your moogle friend has been through this way...
-7142 : You suspect that the scenery around here would be to a moogle's liking...
-7143 : You have a vague feeling that a moogle would enjoy traversing this terrain...
-7144 : You have a hunch that this area would be favored by moogles...
-7145 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
-7146 : % catches # %!
-7147 : % obtained %!
-7148 : It appears your chocobo found this item with ease.
-7149 : Your chocobo appears to have gained valuable knowledge from this discovery.
-7150 : FPT # DPT # DoT#
-7151 : FPT # TDPT # h#
-7152 : You cannot fish at this time.
-7153 : You discover a cache of beastman resources and receive # conquest point[/s]!
-7154 : You discover a cache of beastman resources and receive # Imperial Standing!
-7155 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
-7156 : You receive # bayld!
-7157 : Your chocobo refuses to partake of the %.
-7158 : Tallying conquest results...
-7159 : Conquest results tallied.
-7160 : This region is currently under San d'Orian control.
-7161 : This region is currently under Bastokan control.
-7162 : This region is currently under Windurstian control.
-7163 : This region is currently under beastman control. You cannot obtain crystals in this region.
-7164 : This region is currently neutral.
-7165 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-7166 : All three nations are tied for first place.
-7167 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7168 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7169 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-7170 : All three nations are tied for first place.
-7171 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-7173 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-7174 : All three nations are tied for first place.
-7175 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7177 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-7178 : All three nations are tied for first place.
-7179 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-7180 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-7181 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-7182 : Global balance of power: All three nations are tied for first place.
-7183 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-7185 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-7186 : All three nations are tied for first place.
-7187 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-7188 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-7189 : Conquest update: This region is currently neutral.
-7190 : Conquest update: This region is currently under San d'Orian control.
-7191 : Conquest update: This region is currently under Bastokan control.
-7192 : Conquest update: This region is currently under Windurstian control.
-7193 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-7194 : All three nations are at a deadlock.
-7195 : The beastmen are on the rise.
-7196 : Regional influence: San d'Oria - Dominant
-7197 : Regional influence: San d'Oria - Major
-7198 : Regional influence: San d'Oria - Minor
-7199 : Regional influence: San d'Oria - Minimal
-7200 : Bastok - Dominant
-7201 : Bastok - Major
-7202 : Bastok - Minor
-7203 : Bastok - Minimal
-7204 : Windurst - Dominant
-7205 : Windurst - Major
-7206 : Windurst - Minor
-7207 : Windurst - Minimal
-7208 : Bastok and Windurst have formed an alliance.
-7209 : San d'Oria and Windurst have formed an alliance.
-7210 : San d'Oria and Bastok have formed an alliance.
-7211 : Bastok and Windurst are currently allies.
-7212 : San d'Oria and Windurst are currently allies.
-7213 : San d'Oria and Bastok are currently allies.
-7214 : # #
-7215 : # % #
-7216 : ITEM_ID:# :#
-7217 : :# :#
-7218 : [//]:[////] :#:#
-7219 : The beastmen are gaining power.
-7220 : San d'Oria's regional control is now 10% closer to the first place country's!
-7221 : Bastok's regional control is now 10% closer to the first place country's!
-7222 : Windurst's regional control are now 10% closer to the first place country's!
-7223 : San d'Oria's region points have increased!
-7224 : Bastok's region points have increased!
-7225 : Windurst's region points have increased!
-7226 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-7227 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-7228 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-7229 : A San d'Orian Expeditionary Force has been dispatched to this area.
-7230 : A Bastokan Expeditionary Force has been dispatched to this area.
-7231 : A Windurstian Expeditionary Force has been dispatched to this area.
-7232 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-7233 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-7234 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-7235 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-7236 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-7237 : There was a curse on the beastmen's banner!
-7238 : The curse of the beastmen's banner has been lifted!
-7239 : There is a beastmen's banner.
-7315 : # #
-7316 : # #
-7319 : Leave the Watergarden Coliseum? Yes. No.
-7320 : I'll prove it, and then some!
-7321 : Urk... Ygnas...I'm...so sorry...
-7322 : This isn't the time...for fighting!
-7323 : You received the temporary item %!
-7324 : You have # [minute/minutes] (Earth time) to complete the battle.
-7325 : our time has expired for this battle. Now exiting...
-7326 : ou have # [minute/minutes] (Earth time) to complete the battle.
-7327 : ou have only # [second/seconds] (Earth time) remaining.
-7328 : ll party members have fallen in battle. Exiting in # [minute/minutes].
-7329 : our time in the battle has been reset to # [minute/minutes].
-7330 : ou have lost the skirmish and will now return to Vana'diel.
-7331 : A sudden clamor causes your heart to skip a beat...
-7332 : Leave the area? Yes. No.
-7333 : The bygone geomancer's aura of humility seals away all your secondary training!
-7334 : N-no...I cannot... August, I...
-7335 : Your % emits an ominous light and you forget all your secondary training!
-7336 : The Zurk has thrown caution to the wind and care to the fiery pits of the netherworld! Prepare for a duel of epic-wepic proportions!
-7337 : Revenge isn't best served cold--but with hotaru steel!
-7338 : When the Zurk's in trouble-wouble, he's not slow. It's Thaumaturgic Twine, and away he goes!
-7339 : The Zurk is the danger-wanger.
-7340 : Oh, the agony of defeataru.
-7341 : rimary objective: Vanquish # notorious monsters.
-7342 : econdary objective: Vanquish all notorious monsters.
-7343 : rimary objective: Vanquish # enemies.
-7344 : econdary objective: Vanquish all enemies.
-7345 : our objective is #% complete.
-7346 : ou have accomplished your secondary objective.
-7347 : Draw upon the power of your % to materialize a treasure casket.
-7348 : ou now have a new objective.
-7349 : You will reap the following spoils for accomplishing your primary objective:
-7350 : You will reap the following spoils for accomplishing your secondary objective:
-7351 : You will obtain the following spoils:
-7352 : -%
-7353 : -% -%
-7354 : -% -% -%
-7355 : -% -% -% -%
-7356 : -% -% -% -%
-7357 : What shall you do? Nothing. Have benefits bestowed upon you. Check active benefits.
-7358 : Which benefit? None. Bayld+. Obsidian Fragments+. Attack+. Defense+. Magic Attack+. Magic Defense+. Map Obtainment. HP & MP Recovery+. TP3000+. HP+. MP+. Movement Speed+. Fenestral Boons.
-7359 : Which benefit? None. Bayld+. Obsidian Fragments+. Attack+. Defense+. Magic Attack+. Magic Defense+. Map Obtainment. HP & MP Recovery+. TP3000+. HP+. MP+. Movement Speed+. Defensive Measures.
-7360 : Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? Yes. No.
-7361 : An indescribable energy envelops you in an empowering blanket of light!
-7362 : You are currently blessed with the following powers... [/] Attack+ [/] Defense+ [/] Magic Attack+
-7363 : [/] Magic Defense+
-7364 : [/] Magic Defense+ [/] HP+ [/] MP+
-7365 : [/] Magic Defense+ [/] HP+ [/] MP+ [/] Movement Speed+
-7366 : Head: #, Body: #, Leg: #.
-7367 : # of # [enemies vanquished/notorious monsters vanquished/fenestral fragments collected].
-7368 : You obtained # obsidian fragment[/s]! You now possess # fragment[/s] of # maximum.
-7369 : reater fortune awaits! Treasure Coffers are now rank [////].
-7370 : Which will you obtain? Nothing. %. %. %. %. %. %. %. %. %. %. All the spoils!
-7371 : Obtain this item?
-7372 : Obtain the %? Yes. No.
-7373 : rimary objective: Defend the Cantonment for # minute[/s].
-7374 : econdary objective: Defend the Cantonment for # minute[/s].
-7375 : he [Cantonment/Stockade] has been destroyed!
-7376 : # of an indeterminate requisite number of [enemies/notorious monsters] slain.
-7377 : Which benefit? None. Go back. Stockade Cons. 1. Stockade Cons. 2. Cantonment Rest. Stockade Const. 3. Stockade Const. 4. Decreased Defending Time.
-7378 : The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased.
-7379 : Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? Yes. No.
-7380 : A Stockade has been erected!
-7381 : The Cantonment has been fully restored!
-7382 : he [Cantonment/Stockade] is under attack!
-7383 : rimary objective: Collect # fenestral fragment[/s].
-7384 : econdary objective: Collect # fenestral fragment[/s].
-7385 : Which benefit? None. Go back. Fragments+ (Weak). Fragments+ (Medium). Fragments+ (Strong). Fragments+ (Very Strong). Fragments+ (Colossal).
-7386 : An inexplicable force possesses the recipient that allows them to obtain fenestral fragments.
-7387 : Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? Yes. No.
-7388 : You obtained # fenestral fragment[/s]!
-7389 : You lost # fenestral fragment[/s].
-7390 : rimary objective: Vanquish # mistmaw[/s].
-7391 : o make mistmaws appear, vanquish # Stormy Autochthon[/s].
-7392 : o make mistmaws appear, vanquish # windrender[/s].
-7393 : o make mistmaws appear, seal # Noetic Ascension[/s].
-7394 : Warning! A mistmaw has appeared!
-7395 : Warning! Multiple mistmaws have appeared!
-7396 : rimary objective: Vanquish Balamor's Adumbration.
-7397 : o make mistmaws appear, examine a specific Noetic Ascension.
-7398 : his is not the Noetic Ascension you're looking for.
-7399 : [Stormy autochthons vanquished/Windrenders vanquished/Noetic Ascensions sealed]: #/#.
-7400 : tear in the fabric of space-time has sent you spiraling elsewhere!
-7401 : esting that rare quarry has increased the number of fiends vanquished by a considerable amount!
-7402 : The ethereal membrane sealing away all light has vanished! You feel the presence of fiends deep within!
-7403 : The abominations are no longer as susceptible.
-7404 : The distant sound of glass accompanies the dissipation of the fog dampening extradimensional forces!
-7405 : The monsters' strength has returned.
-7406 : A bestial howl pierces the void, and the enervating dust settles to the ground!
-7407 : The abominations are no longer as vulnerable to the ethereal machinations.
-7408 : A wooden mechanism shudders into place in the distance, quelling the runes that amplify the monsters' potential!
-7409 : A swirling tempest blasts through the area, wrenching the fiends' blades from their fingers!
-7410 : Your adversaries are no longer as fearful of unknown beasts.
-7411 : Your foes are no longer besieged by poisonous barbs.
-7412 : The monsters' supply of energy has been cut off!
-7413 : The abominations' resonance is no longer hampered.
-7414 : The eyes that watched over you unceasingly have closed!
-7415 : The fiends are no longer as suppressed by unknown beasts.
-7416 : [/] Accuracy+ [/] Magic Accuracy+
-7417 : Living Cairn has been made manifest!
-7418 : There is no response.
-7419 : ou have detected a ripple in space-time. An alteration in your destination coordinates is imminent.
-7420 : Teleport to the next location? Proceed. Not yet.
-7421 : Teleport to which area? None. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
-7422 : WP:#
-7423 : # # # #
-7424 : Bwehehehe! The stage is set, and the audience in their seats--now let's see if you remember your lines!
-7425 : Break a leg!
-7426 : Hehehe! Time for a callback!
-7427 : Bwehehe! What will the critics think of this?
-7428 : Can you feel it? The heat of the spotlight bearing down upon your neck?
-7429 : Bwehehehehe! Let's send some fun crashing down from the mezzanine!
-7430 : Bwehe! I had pegged you for two-bit hacks, but I'm impressed with your moxie!
-7431 : The curtain...calls...
-7432 : Bwehehe! All the world's a stage, and all the men and women merely players--but you will remain forever as infants mewling and puking in Altana's arms!
-7433 : ......
-7434 : Nothing happens...
-7435 : You have successfully conquered all areas of this skirmish.
-7436 : rimary objective: Destroy the Stronghold.
-7437 : he Marchland has been destroyed!
-7438 : he Stronghold has been destroyed!
-7439 : he Marchland is under attack!
-7440 : What shall you do? Nothing for now. Have benefits bestowed upon you. Receive Puissance. Check active benefits.
-7441 : What shall you do? (Current Lv.: #) Nothing for now. Call forth a Valiant. Amend the Ars Monstrum. Convert to Puissance. Acquire a map. Bolster pets. Read an explanation.
-7442 : Read up on which topic? None of these. Objectives. Puissance. Valiant. Valiant Shijin. Amending the Ars Monstrum. Acquiring maps. Bolstering pets.
-7443 : Fulfillment of the primary objective, vanquishing the enemy stronghold, is impeded by the Malicious: enemies who threaten intruders at every turn.
-7444 : The Malicious and their stronghold boast supernatural defenses, so the Valiant--friendly reinforcements who can be called forth to battle--are critical in thwarting them.
-7445 : The objective will be deemed a failure should the foes advance upon and destroy your marchland.
-7446 : In short, the Valiant can halt the approach of the Malicious, protecting the marchlands.
-7447 : As the name implies, Puissance is a type of energy gained from Noetic Ascensions and besting elemental fiends known as Escalents.
-7448 : The Valiant are the physical forms of Puissance made manifest.
-7449 : The Valiant will automatically assault the enemies' stronghold and engage in combat with the Malicious.
-7450 : Up to # of the same Valiant may be summoned at a given time.
-7451 : Increasing the Ars Monstrum's level will enable you to summon additional varieties of the Valiant.
-7452 : Each Valiant is suited to fighting different Malicious foes, as each has bonuses and penalties against a certain type.
-7453 : Valiant Shijin may also be summoned with Puissance in the same way as ordinary Valiant.
-7454 : Which Shijin is summoned depends on the type of eudaemon part used to construct the simulacrum.
-7455 : Only one Valiant Shijin may be called forth, but its effects will be felt on all creatures within the alluvion skirmish.
-7456 : Players may use motes of Puissance to amend the Ars Monstrum, thereby increasing its level.
-7457 : An amended Ars Monstrum will enable you to summon additional varieties of the Valiant, as well as increase their level.
-7458 : The Ars Monstrum's maximum level is #, but advancing to the next section will reset it to #.
-7459 : Summon which Valiant? (# Puissance) None for now. An Entozoon: # Puissance (# left). A Crab: # Puissance (# left). A Colibri: # Puissance (# left). A Coeurl: # Puissance (# left). A Mandragora: # Puissance (# left). A Scorpion: # Puissance (# left). An Adamantoise: # Puissance (# left). A Tome: # Puissance (# left). An Ajattara: # Puissance (# left). A Shijin: # Puissance (# left).
-7460 : Summon this creature? (# left) Yes. Not right now.
-7461 : Amend the Ars Monstrum? (# Pui.) Yes. (# Puissance) No.
-7462 : Are you sure? (Current level: #) Yes. No.
-7463 : You have amended the Ars Monstrum to level #!
-7464 : You receive # mote[/s] of Puissance for a total of #!
-7465 : The Valiant Byakko's howl of inspiration has raised the physical aptitude of all the Valiant!
-7466 : The Valiant Suzaku's mystical tempest has raised the magical aptitude of all the Valiant!
-7467 : The Valiant Seiryu's breath of life has raised the attunement to healing of all the Valiant!
-7468 : The Valiant Kirin's growl has roused all the Valiant!
-7469 : The Valiant Genbu's war stomp has raised the resistances of all the Valiant!
-7470 : You summon [a valiant entozoon/a valiant crab/a valiant colibri/a valiant coeurl/a valiant mandragora/a valiant scorpion/a valiant adamantoise/a valiant tome/a valiant ajattara/the valiant Byakko/the valiant Suzaku/the valiant Seiryu/the valiant Kirin/the valiant Genbu]!
-7471 : You do not have enough motes of Puissance.
-7472 : However, Valiant alone are incapable of dealing the final blow to the enemy stronghold, so it falls to the pioneer and his compatriots to bring the axe down.
-7473 : Proceeding to the next layer of the skirmish will leave you with the default value of # motes of Puissance.
-7474 : Note that up to # obsidian fragment[/s] may be converted into motes of Puissance once per floor.
-7475 : Specifically, # obsidian fragment[/s] may be converted into # mote[/s] of Puissance.
-7476 : You currently possess # obsidian fragment[/s]. How many would you like to convert?
-7477 : You will receive # mote[/s] of Puissance. Continue with the exchange. I need time to think.
-7478 : Acquire a map? (# motes of Puissance) Yes, please. (# motes required) No, thank you.
-7479 : A map of the current skirmish is available for a nominal cost in the form of motes of Puissance.
-7480 : Note that the map will be destroyed upon advancing to the next layer.
-7481 : Enhance your allies? (# motes of Puissance) Of course. (# motes required) Not at the moment.
-7482 : Your pets are now more resilient!
-7483 : Certain eudaemon parts enable the bolstering of your pets' resistance in exchange for a small donation of motes of Puissance.
-7484 : The air in this subterranean-wanean slaughterhouse hangs heavy...much as your head will when the Zurk's through with you! Oh, how his blade will feasty-weast upon the blood of the fallen this eve!
-7485 : H-hello darkness, my old companion-wanion...the Zurk's come to weep with you again.
-7486 : Sorry to keep you waiting. I thought you might want a moment alone with your pride before I strip it from you.
-7487 : Sorry to keep you w... Aha. Back for another beating, I see. Too bad for you that no one in this age can defeat me.
-7488 : Let's dispense with the niceties. My sword needs to sing!
-7489 : How do you like me now?
-7490 : So, apparently you do know a bit about the runic arts. Who'd have thought?
-7491 : That one's going to sting in the morning!
-7492 : Urk... Good shot, but I won't go down that easily!
-7493 : Enough! Enough, I say! I submit. You've proven beyond doubt that you're the stronger swordsman.
-7494 : How's that crow taste? Raw and simple, just like your fighting style?
-7495 : ...So that's how it's gonna be. Well, no more holding back!
-7496 : I don't think I've ever fought against someone as strong as you. I can't even pretend that it was close...you splattered my dignity across the whole Coliseum.
-7497 : What a match. You were great out there.
-7498 : Sorry, I forgot to introduce myself. I'm Sverdhried's great-great-great-great-great-...
-7499 : I don't know how many greats it is, but I'm his granddaughter. The name's Braga.
-7500 : We put budding rune fencers through this trial to see whether they have the potential to carry on the tradition my grandfather began generations ago.
-7501 : As Sverdhried's descendant, it's my duty to pass judgment upon those who undertake the trial. So it has been since the days of old.
-7502 : Well, now that you've passed, enjoy the new powers you've gained from this experience.
-7503 : I hope that sparring session was as fun for you as it was for me. I haven't fought that hard in years. Don't think it'll be so easy the next time, though!
-7504 : Come and play with me, Arciela...for ever and ever and ever.
-7505 : Talk about falling action, my blood's raining down left and right!
-7506 : Me, defeated? Surely you must be jesting.
-7507 : Awww, you got one too many boo-boos? Let me play the smallest violin in Vana'diel for you. Bwahahaha!
-7508 : It's going to take more than that to keep me down!
-7509 : It won't be easy... But with you by my side...I know we can do it!
-7510 : I'm sorry... I've failed all of Adoulin...
-7511 : Who will protect this city if not us?
-7512 : Shall we get things started?
-7513 : Ulbuka has no hope if you cannot stop me!
-7514 : Yes...I can feel the blood course through me!
-7515 : Can you resist this?
-7516 : Haha...hahaha! You have bested me...this day...
-7517 : You'll have to do better than that.
-7518 : Tuffle-Buffle's tummy emits a cacophonous boom!
-7519 : Time to put some more meataru in the grinder!
-7520 : All I wantarued...were some fries...
-7521 : If only I could have seen-ween...Vicious Vorahal...
-7522 : By my honor, I, Arciela V. Adoulin, stand ready!
-7523 : En garde!
-7524 : Take that!
-7525 : How about this?
-7526 : I...I failed.
-7527 : !!!
-7528 : ...
-7529 : ...!?
-7530 : (Let us begin...)
-7531 : (You're mine!)
-7532 : (Urrrghhh... I see you are no mere common prey...)
-7533 : Whatever devilry is at play here, do not expect any mercy from me!
-7534 : Let me show you the true face of terror!
-7535 : Repent!
-7536 : Why...Altana...?
-7537 : Ha! Nice party ya've got here. Now let's make the best of it!
-7538 : Hehehe, hope ya don't mind if I cancel your plans. Now come at me!
-7539 : Graaaaaaaaah!
-7540 : Urk, I'm getting a bit old for this...
-7541 : <I bear nooo ill will, but if I must fight, I shall.>
-7542 : <May the blessings of the foreeests flow through us!>
-7543 : <Withdraw...and slumber. We shaaall carry on...>
-7544 : <Most...impressiiive...>
-7545 : I had hoped for a more genial meeting, but one cannot always choose the cards one must play.
-7546 : This frame of mine will not bear affront without resistance. En garde!
-7547 : Do you not tire of this charade? Allow me to put an end to it right here.
-7548 : Ha, it would seem I am no longer any match for you...
-7549 : Where am I...who, who are you? N...never mind, prepare yourselves!
-7550 : O Darkness Unending, find in me your faithful vessel!
-7551 : O Light of Deliverance, find in me your faithful vessel!
-7552 : By the Order of the Ancient Pact, find in me your hallowed union!
-7553 : How...how did I do? Was I...was I strong......?
-7554 : O Matriarch Naakual, show us the callous fury of your savage scourge!
-7555 : O Firebrand Naakual, from your blazing throne, rain down in searing conflagration!
-7556 : O Riptide Naakual, as a honed scythe reaps the corn, cleave down all before you!
-7557 : O Booming Naakual, like thunder's ardent quarrel, smite to ashes those who would raise arms against you!
-7558 : O Ligneous Naakual, whose ancient arbors form the hallowed halls of god and beast alike, banish those who would desecrate your sacred groves!
-7559 : O Flashfrost Naakual, let your chill wind blight your foes in all its alabaster splendor!
-7560 : I sssense some fine sport is at hand. Come, mortal, let me have a tassste of your power!
-7561 : Kuwahahahaha! Most diverting indeed! Now show me your full ssstrength!
-7562 : Sssoon you will learn why mortals know me as the Scourge of the Land! Tremble, you poor, wretched fools!
-7563 : Magnificent... Your ssstrength is...beyond me.
-7564 : What is this ether? The air is thick with potent magic. Not a parallel world, but a hand-spun reality...? Whoever the cunning artist, I shall thank him for this long-awaited homecoming.
-7565 : Ah...to cross blades once again in the jubilee of battle! I shall never forget this feeling.
-7566 : Come! Show me your finest form!
-7567 : Is this the end, then? If but for a fleeting span, to taste life again so sweetly... Farewell, noble heroes of the new age......and thank you.
-7568 : POP=1-#:2-#:3-#
+7058 : Vana'bout Records of Eminence objectives have been updated.
+7059 : Vana'bout No. # has commenced!
+7060 : Vana'bout No. # has concluded.
+7061 : You can't fish here.
+7062 : You can't fish without a rod in your hands.
+7063 : You can't fish without bait on the hook.
+7064 : You can't fish at the moment.
+7065 : You didn't catch anything.
+7066 : % caught a monster!
+7067 : Your line breaks.
+7068 : Your rod breaks.
+7069 : Something caught the hook!
+7070 : You lost your catch.
+7071 : % caught %, but cannot carry any more items. % regretfully releases the %.
+7072 : You feel there's something here.
+7073 : You feel there's something nearby.
+7074 : You dig up %, but your inventory is full. You regretfully throw the % away.
+7075 : % caught  %!
+7076 : You dig and you dig, but find nothing.
+7077 : #/%
+7078 : Your rod breaks. Whatever caught the hook was pretty big.
+7079 : Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+7080 : You lost your catch. Whatever caught the hook was too small to catch with this rod.
+7081 : You lost your catch due to your lack of skill.
+7082 : Number fished : # Original Dice No. ## Result # (0=caught)
+7083 : You didn't catch anything.
+7084 : The paper on your % ripped.
+7085 : A tiny goldfish approaches!
+7086 : A plump, black goldfish approaches!
+7087 : A fat, juicy goldfish approaches!
+7088 : There are no goldfish to be found...
+7089 : % caught %, but cannot carry any more items. % regretfully releases it.
+7090 : The goldfish slipped off your scoop...
+7091 : ch# skill up check.
+7092 : a:#.
+7093 : Time # / Status # / #
+7094 : d:#. e:#. f:#. g:#.
+7095 : h: #. i: #. sr: #.
+7096 : j:#. k:#.
+7097 : You give up and reel in your line.
+7098 : You give up.
+7099 : % obtains # gil.
+7100 : % caught %!
+7101 : You don't know how much longer you can keep this one on the line...
+7102 : You have a good feeling about this one!
+7103 : You have a bad feeling about this one.
+7104 : You have a terrible feeling about this one...
+7105 : You don't know if you have enough skill to reel this one in.
+7106 : You're fairly sure you don't have enough skill to reel this one in.
+7107 : You're positive you don't have enough skill to reel this one in!
+7108 : Select Fish Type: Saltwater. Freshwater. Item. Flag. Treasure Chest. Monster.
+7109 : Select one %#. %#. %#. %#. %#. %#. %#. %#. Next.
+7110 : l: #. m: #. n: #. CH: #.
+7111 : Something caught the hook!!!
+7112 : You feel something pulling at your line.
+7113 : Something clamps onto your line ferociously!
+7114 : Your keen angler's senses tell you that this is the pull of %!
+7115 : This strength... You get the sense that you are on the verge of an epic catch!
+7116 : The timer has started. # seconds remaining.
+7117 : #sec.#/#sec.
+7118 : 0:# 1:# 2:# 3:#
+7119 : 4:# 5:# 6:# 7:#
+7120 : Select. Set. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF]. %: [ON/OFF].
+7121 : You lost your catch. Whatever caught the hook was too large to catch with this rod.
+7122 : #/#(#
+7123 : Version invalid error!
+7124 : Hurry before the goldfish sees you!
+7125 : % fishes up a large box!
+7127 : Fish No# / Bait No# / Hit# >>> #
+7128 : Point# >>> #
+7129 : %(#) skill#
+7130 : Im Min : # Im Max : # Pz Min : # Pz Max : #
+7131 : Im Rnd : # Pz Rnd : #
+7132 : CLI_NUM0:# CLI_NUM1:# CLI_NUM2:# CLI_NUM3:#
+7133 : CLI_NUM4:# CLI_NUM5:# CLI_NUM6:# CLI_NUM7:#
+7134 : skill : # size : # kind : # sch : #
+7135 : time : # mes : # flag : # bonus : #
+7136 : item : # hp : # pow : # swing : #
+7137 : suc : # cons : # weight : # +- : #
+7138 : speed : # +- : # exc : # client : #
+7139 : general : #
+7140 : ro:# rs:# ps:# dt:#
+7141 : ra:# ti:#
+7142 : You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+7143 : You get the distinct sense that your moogle friend frequents this spot...
+7144 : You have a feeling that your moogle friend has been through this way...
+7145 : You suspect that the scenery around here would be to a moogle's liking...
+7146 : You have a vague feeling that a moogle would enjoy traversing this terrain...
+7147 : You have a hunch that this area would be favored by moogles...
+7148 : Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+7149 : % catches # %!
+7150 : % obtained %!
+7151 : It appears your chocobo found this item with ease.
+7152 : Your chocobo appears to have gained valuable knowledge from this discovery.
+7153 : FPT # DPT # DoT#
+7154 : FPT # TDPT # h#
+7155 : You cannot fish at this time.
+7156 : You discover a cache of beastman resources and receive # conquest point[/s]!
+7157 : You discover a cache of beastman resources and receive # Imperial Standing!
+7158 : You discover a cache of beastman confederate resources and receive # allied note[/s]!
+7159 : You receive # bayld!
+7160 : Your chocobo refuses to partake of the %.
+7161 : Tallying conquest results...
+7162 : Conquest results tallied.
+7163 : This region is currently under San d'Orian control.
+7164 : This region is currently under Bastokan control.
+7165 : This region is currently under Windurstian control.
+7166 : This region is currently under beastman control. You cannot obtain crystals in this region.
+7167 : This region is currently neutral.
+7168 : Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+7169 : All three nations are tied for first place.
+7170 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7171 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7172 : Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+7173 : All three nations are tied for first place.
+7174 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7175 : Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+7176 : Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+7177 : All three nations are tied for first place.
+7178 : Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+7179 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7180 : Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+7181 : All three nations are tied for first place.
+7182 : Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+7183 : Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+7184 : Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+7185 : Global balance of power: All three nations are tied for first place.
+7186 : Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+7187 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+7188 : Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+7189 : All three nations are tied for first place.
+7190 : Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+7191 : Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+7192 : Conquest update: This region is currently neutral.
+7193 : Conquest update: This region is currently under San d'Orian control.
+7194 : Conquest update: This region is currently under Bastokan control.
+7195 : Conquest update: This region is currently under Windurstian control.
+7196 : Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+7197 : All three nations are at a deadlock.
+7198 : The beastmen are on the rise.
+7199 : Regional influence: San d'Oria - Dominant
+7200 : Regional influence: San d'Oria - Major
+7201 : Regional influence: San d'Oria - Minor
+7202 : Regional influence: San d'Oria - Minimal
+7203 : Bastok - Dominant
+7204 : Bastok - Major
+7205 : Bastok - Minor
+7206 : Bastok - Minimal
+7207 : Windurst - Dominant
+7208 : Windurst - Major
+7209 : Windurst - Minor
+7210 : Windurst - Minimal
+7211 : Bastok and Windurst have formed an alliance.
+7212 : San d'Oria and Windurst have formed an alliance.
+7213 : San d'Oria and Bastok have formed an alliance.
+7214 : Bastok and Windurst are currently allies.
+7215 : San d'Oria and Windurst are currently allies.
+7216 : San d'Oria and Bastok are currently allies.
+7217 : # #
+7218 : # % #
+7219 : ITEM_ID:# :#
+7220 : :# :#
+7221 : [//]:[////] :#:#
+7222 : The beastmen are gaining power.
+7223 : San d'Oria's regional control is now 10% closer to the first place country's!
+7224 : Bastok's regional control is now 10% closer to the first place country's!
+7225 : Windurst's regional control are now 10% closer to the first place country's!
+7226 : San d'Oria's region points have increased!
+7227 : Bastok's region points have increased!
+7228 : Windurst's region points have increased!
+7229 : San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+7230 : Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+7231 : Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+7232 : A San d'Orian Expeditionary Force has been dispatched to this area.
+7233 : A Bastokan Expeditionary Force has been dispatched to this area.
+7234 : A Windurstian Expeditionary Force has been dispatched to this area.
+7235 : E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+7236 : E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+7237 : E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+7238 : E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+7239 : E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+7240 : There was a curse on the beastmen's banner!
+7241 : The curse of the beastmen's banner has been lifted!
+7242 : There is a beastmen's banner.
+7318 : # #
+7319 : # #
+7322 : Leave the Watergarden Coliseum? Yes. No.
+7323 : I'll prove it, and then some!
+7324 : Urk... Ygnas...I'm...so sorry...
+7325 : This isn't the time...for fighting!
+7326 : You received the temporary item %!
+7327 : You have # [minute/minutes] (Earth time) to complete the battle.
+7328 : our time has expired for this battle. Now exiting...
+7329 : ou have # [minute/minutes] (Earth time) to complete the battle.
+7330 : ou have only # [second/seconds] (Earth time) remaining.
+7331 : ll party members have fallen in battle. Exiting in # [minute/minutes].
+7332 : our time in the battle has been reset to # [minute/minutes].
+7333 : ou have lost the skirmish and will now return to Vana'diel.
+7334 : A sudden clamor causes your heart to skip a beat...
+7335 : Leave the area? Yes. No.
+7336 : The bygone geomancer's aura of humility seals away all your secondary training!
+7337 : N-no...I cannot... August, I...
+7338 : Your % emits an ominous light and you forget all your secondary training!
+7339 : The Zurk has thrown caution to the wind and care to the fiery pits of the netherworld! Prepare for a duel of epic-wepic proportions!
+7340 : Revenge isn't best served cold--but with hotaru steel!
+7341 : When the Zurk's in trouble-wouble, he's not slow. It's Thaumaturgic Twine, and away he goes!
+7342 : The Zurk is the danger-wanger.
+7343 : Oh, the agony of defeataru.
+7344 : rimary objective: Vanquish # notorious monsters.
+7345 : econdary objective: Vanquish all notorious monsters.
+7346 : rimary objective: Vanquish # enemies.
+7347 : econdary objective: Vanquish all enemies.
+7348 : our objective is #% complete.
+7349 : ou have accomplished your secondary objective.
+7350 : Draw upon the power of your % to materialize a treasure casket.
+7351 : ou now have a new objective.
+7352 : You will reap the following spoils for accomplishing your primary objective:
+7353 : You will reap the following spoils for accomplishing your secondary objective:
+7354 : You will obtain the following spoils:
+7355 : -%
+7356 : -% -%
+7357 : -% -% -%
+7358 : -% -% -% -%
+7359 : -% -% -% -%
+7360 : What shall you do? Nothing. Have benefits bestowed upon you. Check active benefits.
+7361 : Which benefit? None. Bayld+. Obsidian Fragments+. Attack+. Defense+. Magic Attack+. Magic Defense+. Map Obtainment. HP & MP Recovery+. TP3000+. HP+. MP+. Movement Speed+. Fenestral Boons.
+7362 : Which benefit? None. Bayld+. Obsidian Fragments+. Attack+. Defense+. Magic Attack+. Magic Defense+. Map Obtainment. HP & MP Recovery+. TP3000+. HP+. MP+. Movement Speed+. Defensive Measures.
+7363 : Receive the effect of [Bayld+/Obsidian Fragments+/Attack+/Defense+/Magic Attack+/Magic Defense+/Map Obtainment/HP & MP Recovery+/TP3000+/HP+/MP+/Movement Speed+]? Yes. No.
+7364 : An indescribable energy envelops you in an empowering blanket of light!
+7365 : You are currently blessed with the following powers... [/] Attack+ [/] Defense+ [/] Magic Attack+
+7366 : [/] Magic Defense+
+7367 : [/] Magic Defense+ [/] HP+ [/] MP+
+7368 : [/] Magic Defense+ [/] HP+ [/] MP+ [/] Movement Speed+
+7369 : Head: #, Body: #, Leg: #.
+7370 : # of # [enemies vanquished/notorious monsters vanquished/fenestral fragments collected].
+7371 : You obtained # obsidian fragment[/s]! You now possess # fragment[/s] of # maximum.
+7372 : reater fortune awaits! Treasure Coffers are now rank [////].
+7373 : Which will you obtain? Nothing. %. %. %. %. %. %. %. %. %. %. All the spoils!
+7374 : Obtain this item?
+7375 : Obtain the %? Yes. No.
+7376 : rimary objective: Defend the Cantonment for # minute[/s].
+7377 : econdary objective: Defend the Cantonment for # minute[/s].
+7378 : he [Cantonment/Stockade] has been destroyed!
+7379 : # of an indeterminate requisite number of [enemies/notorious monsters] slain.
+7380 : Which benefit? None. Go back. Stockade Cons. 1. Stockade Cons. 2. Cantonment Rest. Stockade Const. 3. Stockade Const. 4. Decreased Defending Time.
+7381 : The amount of time you have to meet your goals, the interval between which foes spawn, and the time it takes them to arrive at cantonments will all be decreased.
+7382 : Receive the effect of [Stockade Cons. 1/Stockade Cons. 2/Cantonment Rest./Stockade Cons. 3/Stockade Cons. 4/Dec. Def. Time]? Yes. No.
+7383 : A Stockade has been erected!
+7384 : The Cantonment has been fully restored!
+7385 : he [Cantonment/Stockade] is under attack!
+7386 : rimary objective: Collect # fenestral fragment[/s].
+7387 : econdary objective: Collect # fenestral fragment[/s].
+7388 : Which benefit? None. Go back. Fragments+ (Weak). Fragments+ (Medium). Fragments+ (Strong). Fragments+ (Very Strong). Fragments+ (Colossal).
+7389 : An inexplicable force possesses the recipient that allows them to obtain fenestral fragments.
+7390 : Receive the effect of [Fragments+ (Weak)/Fragments+ (Medium)/Fragments+ (Strong)/Frag.+ (Very Strong)/Frag.+ (Colossal)]? Yes. No.
+7391 : You obtained # fenestral fragment[/s]!
+7392 : You lost # fenestral fragment[/s].
+7393 : rimary objective: Vanquish # mistmaw[/s].
+7394 : o make mistmaws appear, vanquish # Stormy Autochthon[/s].
+7395 : o make mistmaws appear, vanquish # windrender[/s].
+7396 : o make mistmaws appear, seal # Noetic Ascension[/s].
+7397 : Warning! A mistmaw has appeared!
+7398 : Warning! Multiple mistmaws have appeared!
+7399 : rimary objective: Vanquish Balamor's Adumbration.
+7400 : o make mistmaws appear, examine a specific Noetic Ascension.
+7401 : his is not the Noetic Ascension you're looking for.
+7402 : [Stormy autochthons vanquished/Windrenders vanquished/Noetic Ascensions sealed]: #/#.
+7403 : tear in the fabric of space-time has sent you spiraling elsewhere!
+7404 : esting that rare quarry has increased the number of fiends vanquished by a considerable amount!
+7405 : The ethereal membrane sealing away all light has vanished! You feel the presence of fiends deep within!
+7406 : The abominations are no longer as susceptible.
+7407 : The distant sound of glass accompanies the dissipation of the fog dampening extradimensional forces!
+7408 : The monsters' strength has returned.
+7409 : A bestial howl pierces the void, and the enervating dust settles to the ground!
+7410 : The abominations are no longer as vulnerable to the ethereal machinations.
+7411 : A wooden mechanism shudders into place in the distance, quelling the runes that amplify the monsters' potential!
+7412 : A swirling tempest blasts through the area, wrenching the fiends' blades from their fingers!
+7413 : Your adversaries are no longer as fearful of unknown beasts.
+7414 : Your foes are no longer besieged by poisonous barbs.
+7415 : The monsters' supply of energy has been cut off!
+7416 : The abominations' resonance is no longer hampered.
+7417 : The eyes that watched over you unceasingly have closed!
+7418 : The fiends are no longer as suppressed by unknown beasts.
+7419 : [/] Accuracy+ [/] Magic Accuracy+
+7420 : Living Cairn has been made manifest!
+7421 : There is no response.
+7422 : ou have detected a ripple in space-time. An alteration in your destination coordinates is imminent.
+7423 : Teleport to the next location? Proceed. Not yet.
+7424 : Teleport to which area? None. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+7425 : WP:#
+7426 : # # # #
+7427 : Bwehehehe! The stage is set, and the audience in their seats--now let's see if you remember your lines!
+7428 : Break a leg!
+7429 : Hehehe! Time for a callback!
+7430 : Bwehehe! What will the critics think of this?
+7431 : Can you feel it? The heat of the spotlight bearing down upon your neck?
+7432 : Bwehehehehe! Let's send some fun crashing down from the mezzanine!
+7433 : Bwehe! I had pegged you for two-bit hacks, but I'm impressed with your moxie!
+7434 : The curtain...calls...
+7435 : Bwehehe! All the world's a stage, and all the men and women merely players--but you will remain forever as infants mewling and puking in Altana's arms!
+7436 : ......
+7437 : Nothing happens...
+7438 : You have successfully conquered all areas of this skirmish.
+7439 : rimary objective: Destroy the Stronghold.
+7440 : he Marchland has been destroyed!
+7441 : he Stronghold has been destroyed!
+7442 : he Marchland is under attack!
+7443 : What shall you do? Nothing for now. Have benefits bestowed upon you. Receive Puissance. Check active benefits.
+7444 : What shall you do? (Current Lv.: #) Nothing for now. Call forth a Valiant. Amend the Ars Monstrum. Convert to Puissance. Acquire a map. Bolster pets. Read an explanation.
+7445 : Read up on which topic? None of these. Objectives. Puissance. Valiant. Valiant Shijin. Amending the Ars Monstrum. Acquiring maps. Bolstering pets.
+7446 : Fulfillment of the primary objective, vanquishing the enemy stronghold, is impeded by the Malicious: enemies who threaten intruders at every turn.
+7447 : The Malicious and their stronghold boast supernatural defenses, so the Valiant--friendly reinforcements who can be called forth to battle--are critical in thwarting them.
+7448 : The objective will be deemed a failure should the foes advance upon and destroy your marchland.
+7449 : In short, the Valiant can halt the approach of the Malicious, protecting the marchlands.
+7450 : As the name implies, Puissance is a type of energy gained from Noetic Ascensions and besting elemental fiends known as Escalents.
+7451 : The Valiant are the physical forms of Puissance made manifest.
+7452 : The Valiant will automatically assault the enemies' stronghold and engage in combat with the Malicious.
+7453 : Up to # of the same Valiant may be summoned at a given time.
+7454 : Increasing the Ars Monstrum's level will enable you to summon additional varieties of the Valiant.
+7455 : Each Valiant is suited to fighting different Malicious foes, as each has bonuses and penalties against a certain type.
+7456 : Valiant Shijin may also be summoned with Puissance in the same way as ordinary Valiant.
+7457 : Which Shijin is summoned depends on the type of eudaemon part used to construct the simulacrum.
+7458 : Only one Valiant Shijin may be called forth, but its effects will be felt on all creatures within the alluvion skirmish.
+7459 : Players may use motes of Puissance to amend the Ars Monstrum, thereby increasing its level.
+7460 : An amended Ars Monstrum will enable you to summon additional varieties of the Valiant, as well as increase their level.
+7461 : The Ars Monstrum's maximum level is #, but advancing to the next section will reset it to #.
+7462 : Summon which Valiant? (# Puissance) None for now. An Entozoon: # Puissance (# left). A Crab: # Puissance (# left). A Colibri: # Puissance (# left). A Coeurl: # Puissance (# left). A Mandragora: # Puissance (# left). A Scorpion: # Puissance (# left). An Adamantoise: # Puissance (# left). A Tome: # Puissance (# left). An Ajattara: # Puissance (# left). A Shijin: # Puissance (# left).
+7463 : Summon this creature? (# left) Yes. Not right now.
+7464 : Amend the Ars Monstrum? (# Pui.) Yes. (# Puissance) No.
+7465 : Are you sure? (Current level: #) Yes. No.
+7466 : You have amended the Ars Monstrum to level #!
+7467 : You receive # mote[/s] of Puissance for a total of #!
+7468 : The Valiant Byakko's howl of inspiration has raised the physical aptitude of all the Valiant!
+7469 : The Valiant Suzaku's mystical tempest has raised the magical aptitude of all the Valiant!
+7470 : The Valiant Seiryu's breath of life has raised the attunement to healing of all the Valiant!
+7471 : The Valiant Kirin's growl has roused all the Valiant!
+7472 : The Valiant Genbu's war stomp has raised the resistances of all the Valiant!
+7473 : You summon [a valiant entozoon/a valiant crab/a valiant colibri/a valiant coeurl/a valiant mandragora/a valiant scorpion/a valiant adamantoise/a valiant tome/a valiant ajattara/the valiant Byakko/the valiant Suzaku/the valiant Seiryu/the valiant Kirin/the valiant Genbu]!
+7474 : You do not have enough motes of Puissance.
+7475 : However, Valiant alone are incapable of dealing the final blow to the enemy stronghold, so it falls to the pioneer and his compatriots to bring the axe down.
+7476 : Proceeding to the next layer of the skirmish will leave you with the default value of # motes of Puissance.
+7477 : Note that up to # obsidian fragment[/s] may be converted into motes of Puissance once per floor.
+7478 : Specifically, # obsidian fragment[/s] may be converted into # mote[/s] of Puissance.
+7479 : You currently possess # obsidian fragment[/s]. How many would you like to convert?
+7480 : You will receive # mote[/s] of Puissance. Continue with the exchange. I need time to think.
+7481 : Acquire a map? (# motes of Puissance) Yes, please. (# motes required) No, thank you.
+7482 : A map of the current skirmish is available for a nominal cost in the form of motes of Puissance.
+7483 : Note that the map will be destroyed upon advancing to the next layer.
+7484 : Enhance your allies? (# motes of Puissance) Of course. (# motes required) Not at the moment.
+7485 : Your pets are now more resilient!
+7486 : Certain eudaemon parts enable the bolstering of your pets' resistance in exchange for a small donation of motes of Puissance.
+7487 : The air in this subterranean-wanean slaughterhouse hangs heavy...much as your head will when the Zurk's through with you! Oh, how his blade will feasty-weast upon the blood of the fallen this eve!
+7488 : H-hello darkness, my old companion-wanion...the Zurk's come to weep with you again.
+7489 : Sorry to keep you waiting. I thought you might want a moment alone with your pride before I strip it from you.
+7490 : Sorry to keep you w... Aha. Back for another beating, I see. Too bad for you that no one in this age can defeat me.
+7491 : Let's dispense with the niceties. My sword needs to sing!
+7492 : How do you like me now?
+7493 : So, apparently you do know a bit about the runic arts. Who'd have thought?
+7494 : That one's going to sting in the morning!
+7495 : Urk... Good shot, but I won't go down that easily!
+7496 : Enough! Enough, I say! I submit. You've proven beyond doubt that you're the stronger swordsman.
+7497 : How's that crow taste? Raw and simple, just like your fighting style?
+7498 : ...So that's how it's gonna be. Well, no more holding back!
+7499 : I don't think I've ever fought against someone as strong as you. I can't even pretend that it was close...you splattered my dignity across the whole Coliseum.
+7500 : What a match. You were great out there.
+7501 : Sorry, I forgot to introduce myself. I'm Sverdhried's great-great-great-great-great-...
+7502 : I don't know how many greats it is, but I'm his granddaughter. The name's Braga.
+7503 : We put budding rune fencers through this trial to see whether they have the potential to carry on the tradition my grandfather began generations ago.
+7504 : As Sverdhried's descendant, it's my duty to pass judgment upon those who undertake the trial. So it has been since the days of old.
+7505 : Well, now that you've passed, enjoy the new powers you've gained from this experience.
+7506 : I hope that sparring session was as fun for you as it was for me. I haven't fought that hard in years. Don't think it'll be so easy the next time, though!
+7507 : Come and play with me, Arciela...for ever and ever and ever.
+7508 : Talk about falling action, my blood's raining down left and right!
+7509 : Me, defeated? Surely you must be jesting.
+7510 : Awww, you got one too many boo-boos? Let me play the smallest violin in Vana'diel for you. Bwahahaha!
+7511 : It's going to take more than that to keep me down!
+7512 : It won't be easy... But with you by my side...I know we can do it!
+7513 : I'm sorry... I've failed all of Adoulin...
+7514 : Who will protect this city if not us?
+7515 : Shall we get things started?
+7516 : Ulbuka has no hope if you cannot stop me!
+7517 : Yes...I can feel the blood course through me!
+7518 : Can you resist this?
+7519 : Haha...hahaha! You have bested me...this day...
+7520 : You'll have to do better than that.
+7521 : Tuffle-Buffle's tummy emits a cacophonous boom!
+7522 : Time to put some more meataru in the grinder!
+7523 : All I wantarued...were some fries...
+7524 : If only I could have seen-ween...Vicious Vorahal...
+7525 : By my honor, I, Arciela V. Adoulin, stand ready!
+7526 : En garde!
+7527 : Take that!
+7528 : How about this?
+7529 : I...I failed.
+7530 : !!!
+7531 : ...
+7532 : ...!?
+7533 : (Let us begin...)
+7534 : (You're mine!)
+7535 : (Urrrghhh... I see you are no mere common prey...)
+7536 : Whatever devilry is at play here, do not expect any mercy from me!
+7537 : Let me show you the true face of terror!
+7538 : Repent!
+7539 : Why...Altana...?
+7540 : Ha! Nice party ya've got here. Now let's make the best of it!
+7541 : Hehehe, hope ya don't mind if I cancel your plans. Now come at me!
+7542 : Graaaaaaaaah!
+7543 : Urk, I'm getting a bit old for this...
+7544 : <I bear nooo ill will, but if I must fight, I shall.>
+7545 : <May the blessings of the foreeests flow through us!>
+7546 : <Withdraw...and slumber. We shaaall carry on...>
+7547 : <Most...impressiiive...>
+7548 : I had hoped for a more genial meeting, but one cannot always choose the cards one must play.
+7549 : This frame of mine will not bear affront without resistance. En garde!
+7550 : Do you not tire of this charade? Allow me to put an end to it right here.
+7551 : Ha, it would seem I am no longer any match for you...
+7552 : Where am I...who, who are you? N...never mind, prepare yourselves!
+7553 : O Darkness Unending, find in me your faithful vessel!
+7554 : O Light of Deliverance, find in me your faithful vessel!
+7555 : By the Order of the Ancient Pact, find in me your hallowed union!
+7556 : How...how did I do? Was I...was I strong......?
+7557 : O Matriarch Naakual, show us the callous fury of your savage scourge!
+7558 : O Firebrand Naakual, from your blazing throne, rain down in searing conflagration!
+7559 : O Riptide Naakual, as a honed scythe reaps the corn, cleave down all before you!
+7560 : O Booming Naakual, like thunder's ardent quarrel, smite to ashes those who would raise arms against you!
+7561 : O Ligneous Naakual, whose ancient arbors form the hallowed halls of god and beast alike, banish those who would desecrate your sacred groves!
+7562 : O Flashfrost Naakual, let your chill wind blight your foes in all its alabaster splendor!
+7563 : I sssense some fine sport is at hand. Come, mortal, let me have a tassste of your power!
+7564 : Kuwahahahaha! Most diverting indeed! Now show me your full ssstrength!
+7565 : Sssoon you will learn why mortals know me as the Scourge of the Land! Tremble, you poor, wretched fools!
+7566 : Magnificent... Your ssstrength is...beyond me.
+7567 : What is this ether? The air is thick with potent magic. Not a parallel world, but a hand-spun reality...? Whoever the cunning artist, I shall thank him for this long-awaited homecoming.
+7568 : Ah...to cross blades once again in the jubilee of battle! I shall never forget this feeling.
+7569 : Come! Show me your finest form!
+7570 : Is this the end, then? If but for a fleeting span, to taste life again so sweetly... Farewell, noble heroes of the new age......and thank you.
+7571 : POP=1-#:2-#:3-#
