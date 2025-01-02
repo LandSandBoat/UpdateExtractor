@@ -63,6 +63,7 @@ from items import *
 from zone_texts import *
 from entity_ids import *
 from misc import *
+from auto_translate import *
 
 ############################
 # Config
@@ -89,6 +90,9 @@ if not os.path.exists("out/conf/default"):
 
 if not os.path.exists("out/scripts"):
     os.makedirs("out/scripts")
+
+if not os.path.exists("out/scripts/enum"):
+    os.makedirs("out/scripts/enum")
 
 if not os.path.exists("out/scripts/globals"):
     os.makedirs("out/scripts/globals")
@@ -119,5 +123,6 @@ items()
 zone_texts()
 #entity_ids()
 #misc()
+#auto_translate()
 
 print("Done")
