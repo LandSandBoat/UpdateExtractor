@@ -8,7 +8,7 @@ from utils import *
 # Titles
 ############################
 def titles():
-    print("Generating out/scripts/globals/titles.lua")
+    print("Generating out/scripts/enum/title.lua")
     titles = {}
     titles_xml = xmltodict.parse(ET.tostring(
         ET.parse("res/titles.xml").getroot(), encoding="unicode"))
@@ -35,10 +35,10 @@ def titles():
         #file.write(f"{title_str} = {index_str}, -- {utf8_comment}\n")
     out_string += "}\n"
 
-    with open("out/scripts/globals/titles.lua", "w") as file:
+    with open("out/scripts/enum/title.lua", "w") as file:
         file.write(out_string)
 
-    server_filename = SERVER_DIR + "/scripts/globals/titles.lua"
+    server_filename = SERVER_DIR + "/scripts/enum/title.lua"
     with open(server_filename, 'r+') as server_file:
         raw_server_data = server_file.read()
         # Write to original files (only the text{...} table)
