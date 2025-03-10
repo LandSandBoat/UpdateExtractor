@@ -235,7 +235,7 @@ def zone_texts():
                     if server_line_index != None:
                         # Use the original server strings for output
                         line = server_data[server_line_index]
-                        original_line_parts = line.split("=")
+                        original_line_parts = line.split("=", 1)
                         enum_text = original_line_parts[0].strip()
                         original_comment = original_line_parts[1].split("-- ", 1)[1]
 
